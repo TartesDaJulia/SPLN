@@ -3,6 +3,10 @@ from pprint import pprint
 from bs4 import BeautifulSoup
 from arepl_dump import dump
 import re
+from difflib import get_close_matches
+import codecs
+import unidecode
+
 
 '''
 First get URL and make a request to that URL,
@@ -37,21 +41,49 @@ def getMainWord (soup):
 def getMeanings(soup):
     text = ''
     meanings = []
+    # For each element div with class main-content found, find an element with id='significado' and add it to text
     for element in soup.find_all('div', class_='main-content'):
         text+= str(element.find(id='significado'))
-
+    # split the text to get a list well divided
     text=text.split('<br/> <br/>')
-
+    #for each line in text append the split result to meanings
     for line in text:
         meanings.append(line.split('<br/>'))
-
+    #for each meaning get the correct text
     for index,meaning in enumerate(meanings):
         for jndex,indexes in enumerate(meaning):
             meanings[index][jndex] = BeautifulSoup(meanings[index][jndex],"html.parser").text
+            if 'Do latim:' in meanings[index][jndex]:
+                del meanings[index][jndex]
+            
+    #copy the arrays 
+    wordType = meanings.copy()
+    #for each meaning check if string has number and place it on wordType.
+    # also remove the number and delete empty meanings
+    for i in range(len(meanings)):
+        for j in range(len(meanings[i])):
+            if hasNumber(meanings[i][j]):
+                wordType[i] = meanings[i][0]
+            meanings[i][j] = re.sub(r'([0-9])\.\s','',meanings[i][j])
+            if not meanings[i][j]:
+                del meanings[i][j]
+    #delete meanings copied to wordType
+    for i in range(len(wordType)):
+        del meanings[i][0]
 
-    return meanings
+    meanings = [ele for ele in meanings if ele != []] 
+    wordType = [ele for ele in wordType if ele != []]
 
-###     Getting relations to word.
+    for i,word in enumerate(wordType):
+        if 'v.' in word:
+            wordType[i] = 'verbo'
+
+    return meanings,wordType
+
+def hasNumber(string):
+    return any(char.isdigit() for char in string)
+
+###   Getting relations to word.
 
 def getRelations(soup):
     synonyms = []
@@ -62,24 +94,20 @@ def getRelations(soup):
         if 'Antónimo' in str(relation.h2):
             antonyms=relation.p.text.split(',')
 
+    for index,word in enumerate(synonyms):
+        if ' ' in word:
+            synonyms[index]=word[1:]
+        synonyms[index] = unidecode.unidecode(synonyms[index])
+
+    for index,word in enumerate(antonyms):
+        if ' ' in word:
+            antonyms[index]=word[1:]   
+        antonyms[index] = unidecode.unidecode(antonyms[index])    
+
     return synonyms,antonyms
 
-def getAllWords(url):
-    words = []
-    starter = 'a'
-    allSoup = getSoup(url)
-    allSoup.find_all('div',id='ligacoes')
 
-    #ry:
-    #while(True):
-    if(allSoup.find_all('div',class_='next')):
-        allSoup = allSoup.find_all('div',class_='next')
-        for elements in allSoup:
-            print(elements.a['href'])
-    #except:
-    #    print('END OF WORDS')
-
-def getWord(word):
+def getWord(word,wordlist):
     try:
         allSoup = getSoup('https://lexico.pt/' + word)
     
@@ -88,12 +116,30 @@ def getWord(word):
         if(allSoup.find_all('div',class_='next')):
                 allSoup = allSoup.find_all('div',class_='next')
                 for elements in allSoup:
-                    wordFound=elements.a['href']
+                    wordFound=elements.a['href'][1:-1]
         print('Got Word: '+ wordFound + '. From word: ' + word)
-        getWord(wordFound)
-        return wordFound
+        wordlist.append(wordFound)
+        getWord(wordFound,wordlist)
+        return wordFound,wordlist
     except:
         print('END OF WORDS')
+        return ''
+
+def replaceWordTypes(wordTypes):
+    types =['adjetivo','adverbio','artigo','conjuncao','interjeicao','preposicao','pronome','substantivo','verbo','nome' ]
+    matches = []
+
+    for type in wordTypes:
+        try: matches.append(get_close_matches(type,types,1,0.4)[0])
+        except :
+            print('no matches found')
+            
+
+    for index,match in enumerate(matches):
+        if 'nome' in match:
+            matches[index] = 'substantivo'
+
+    return matches
 
 '''
 Now we need to setup the ontology,
@@ -181,30 +227,19 @@ def setupStandardIndividuals(file):
     #################################################################'''
     file.write(seperator)
 
-    standardIndividuals = '''\n
-    :Adjetivo rdf:type owl:NamedIndividual ,
-                       :Type .\n
-    :Adverbio rdf:type owl:NamedIndividual ,
-                       :Type .\n
-    :Artigo rdf:type owl:NamedIndividual ,
-                     :Type .\n
-    :Conjucao rdf:type owl:NamedIndividual ,
-                       :Type .\n
-    :Interjeicao rdf:type owl:NamedIndividual ,
-                          :Type .\n
-    :Numeral rdf:type owl:NamedIndividual ,
-                      :Type .\n
-    :Preposicao rdf:type owl:NamedIndividual ,
-                         :Type .\n
-    :Pronome rdf:type owl:NamedIndividual ,
-                      :Type .\n
-    :Substantivo rdf:type owl:NamedIndividual ,
-                          :Type .\n
-    :Verbo rdf:type owl:NamedIndividual ,
+    standardIndividuals = '''\n:adjetivo rdf:type owl:NamedIndividual ,
+                       :Type .\n:adverbio rdf:type owl:NamedIndividual ,
+                       :Type .\n:artigo rdf:type owl:NamedIndividual ,
+                     :Type .\n:conjucao rdf:type owl:NamedIndividual ,
+                       :Type .\n:interjeicao rdf:type owl:NamedIndividual ,
+                          :Type .\n:preposicao rdf:type owl:NamedIndividual ,
+                         :Type .\n:pronome rdf:type owl:NamedIndividual ,
+                      :Type .\n:substantivo rdf:type owl:NamedIndividual ,
+                          :Type .\n:verbo rdf:type owl:NamedIndividual ,
                 :Type .'''
     file.write(standardIndividuals)
 
-def handleOntology(name,mainword,meanings,synonyms,antonyms):
+def handleOntology(name,meanings,synonyms,antonyms):
     file = open('Dicionario.ttl','w+')
 
     setupPrefixes(file,name)
@@ -217,29 +252,74 @@ def handleOntology(name,mainword,meanings,synonyms,antonyms):
 
     file.close()
 
+def createIndividual(mainWord,types,meanings,synonyms,antonyms,ontologyName):
+    file = codecs.open('Dicionario.ttl','a+','utf-8')
+
+    header = '\n\n:' + mainWord +' rdf:type owl:NamedIndividual ,\n\t\t\t:Word ;'
+
+    type = ''
+    for i in range(len(types)):
+        type += '\n\t\t:temTipo :' + types[i] +';'
+
+    meaning = ''
+    for i in range(len(types)):
+        for j in range(len(meanings[i])):
+            meaning +='\n\t\t:Significado \''+meanings[i][j]+'\' ;'
+
+    antonym = ''
+    for ant in antonyms :
+        antonym += '\n\t\t:eAntonimo :' + ant +';'
+
+    synonym = ''
+    for syn in synonyms :
+        antonym += '\n\t\t:eAntonimo :' + syn +';'
+
+    file.write(header)
+    file.write(type)
+    file.write(meaning)
+    file.write(antonym)
+    file.write(synonym)
+    file.write('.')
+    file.close
+
+
+
 ### main
 ##queryWord = 'ufa'
-url = SearchWordUrl('a')
+url = SearchWordUrl('zurrar')
 
 soup = getSoup(url)
 
 allSoup= getSoup(url)
 allSoup = allSoup.find(id='ligacoes')
 
-getWord('zulu')
+wordList = []
+getWord('zoom',wordList)
+
+
 
 
 mainword = getMainWord(soup)
 
-meanings = getMeanings(soup)
+meanings,wordType = getMeanings(soup)
+
+wordType = replaceWordTypes(wordType)
 
 synonyms,antonyms = getRelations(soup)
 
-allWords = getAllWords(url)
-
+#createIndividual(mainword,wordType,meanings,synonyms,antonyms,'Dicionario')
 ontologyName = 'Dicionario'
 
-handleOntology(ontologyName,mainword,meanings,synonyms,antonyms)
+#handleOntology(ontologyName,mainword,meanings,synonyms,antonyms)
+
+for word in wordList:
+    url = SearchWordUrl(word)
+    soup = getSoup(url)
+    mainWord = getMainWord(soup)
+    meanings,wordType = getMeanings(soup)
+    wordType = replaceWordTypes(wordType)
+    synonyms,antonyms = getRelations(soup)
+    createIndividual(mainWord,wordType,meanings,synonyms,antonyms,ontologyName)
 
 
 ## stop these variables from showing on AREPL
@@ -254,4 +334,6 @@ arepl_filter = ['element',
                 ,'text',
                 'thing',
                 'soup',
-                'line']
+                'line',
+                'allSoup',
+                ]

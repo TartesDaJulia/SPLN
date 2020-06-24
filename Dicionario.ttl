@@ -51,33 +51,21 @@
 #################################################################
     #    Individuals
     #################################################################
-
-    :Adjetivo rdf:type owl:NamedIndividual ,
+:adjetivo rdf:type owl:NamedIndividual ,
                        :Type .
-
-    :Adverbio rdf:type owl:NamedIndividual ,
+:adverbio rdf:type owl:NamedIndividual ,
                        :Type .
-
-    :Artigo rdf:type owl:NamedIndividual ,
+:artigo rdf:type owl:NamedIndividual ,
                      :Type .
-
-    :Conjucao rdf:type owl:NamedIndividual ,
+:conjucao rdf:type owl:NamedIndividual ,
                        :Type .
-
-    :Interjeicao rdf:type owl:NamedIndividual ,
+:interjeicao rdf:type owl:NamedIndividual ,
                           :Type .
-
-    :Numeral rdf:type owl:NamedIndividual ,
-                      :Type .
-
-    :Preposicao rdf:type owl:NamedIndividual ,
+:preposicao rdf:type owl:NamedIndividual ,
                          :Type .
-
-    :Pronome rdf:type owl:NamedIndividual ,
+:pronome rdf:type owl:NamedIndividual ,
                       :Type .
-
-    :Substantivo rdf:type owl:NamedIndividual ,
+:substantivo rdf:type owl:NamedIndividual ,
                           :Type .
-
-    :Verbo rdf:type owl:NamedIndividual ,
+:verbo rdf:type owl:NamedIndividual ,
                 :Type .
