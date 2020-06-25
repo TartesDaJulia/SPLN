@@ -14,16 +14,15 @@
 
     :Type rdf:type owl:Class ;
       owl:equivalentClass [ rdf:type owl:Class ;
-                            owl:oneOf ( :Adjetivo
-                                        :Adverbio
-                                        :Artigo
-                                        :Conjucao
-                                        :Interjeicao
-                                        :Numeral
-                                        :Preposicao
-                                        :Pronome
-                                        :Substantivo
-                                        :Verbo
+                            owl:oneOf ( :adjetivo
+                                        :adverbio
+                                        :artigo
+                                        :conjucao
+                                        :interjeicao
+                                        :preposicao
+                                        :pronome
+                                        :substantivo
+                                        :verbo
                                       )
                           ] .
 
@@ -47,6 +46,10 @@
 ###  http://www.tartesdajulia.com/ontologies/2020/5/untitled-ontology-58#eAntonimo
     :eAntonimo rdf:type owl:ObjectProperty ,
                     owl:SymmetricProperty .
+
+:temTipo rdf:type owl:ObjectProperty ;
+         rdfs:domain :Word ;
+         rdfs:range :Type .
 
 #################################################################
     #    Individuals

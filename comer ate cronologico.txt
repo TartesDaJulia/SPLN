@@ -1,0 +1,3984 @@
+
+:comercial rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' relativo a comércio: relações comerciais' ;
+		:eAntonimo :mercantil;.
+
+:comerciante rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa que compra e vende mercadorias' ;
+		:eAntonimo :negociante;.
+
+:comerciável rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que é possível comerciar ou negociar.' ;
+		:Significado ' (Etm. comerciar + ável)' ;
+		:eAntonimo :incomerciavel;
+		:eAntonimo :inegociavel;
+		:eAntonimo :compravel;
+		:eAntonimo :negociavel;.
+
+:comércio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' actividade de compra e venda de produtos' ;
+		:Significado ' conjuntos de estabelecimentos comerciais: o comércio de Lisboa' ;
+		:eAntonimo :negocio;
+		:eAntonimo :transaccao;.
+
+:comestíveis rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' géneros alimentares' ;.
+
+:comestível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que se pode comer: produtos comestíveis' ;.
+
+:cometa rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' corpo celeste luminoso' ;.
+
+:cometer rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' executar, praticar: cometer um crime' ;.
+
+:comezinho rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo que é facilmente comestível ou comível;' ;
+		:Significado ' (Figurado) Que é simples de compreender; que é corriqueiro, singelo ou vulgar;' ;
+		:Significado ' (Figurado) Que é modesto, humilde ou despretensioso.' ;
+		:Significado ' (Etm. comer + z + inho)' ;
+		:eAntonimo :comestivel;
+		:eAntonimo :comivel;
+		:eAntonimo :corriqueiro;
+		:eAntonimo :simples;
+		:eAntonimo :trivial;
+		:eAntonimo :vulgar;
+		:eAntonimo :vulgar;.
+
+:comichão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' sensação desagradável na pele que dá vontade de
+coçar: ter comichão nas costas' ;
+		:eAntonimo :coceira;
+		:eAntonimo :pruido;
+		:eAntonimo :sarna;.
+
+:comichar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Ação de provocar comichão em;' ;
+		:Significado ' Experienciar a sensação de comichão.' ;
+		:Significado ' (Etm. Der. Regress. de: comichão)' ;
+		:eAntonimo :cocar;
+		:eAntonimo :pruir;
+		:eAntonimo :prurir;
+		:eAntonimo :titilar;.
+
+:comício rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' reunião pública de cidadãos: um comício contra a guerra' ;.
+
+:cómico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que faz rir: um filme cómico' ;
+		:Significado ' actor cómico: O cómico morreu ontem.' ;
+		:Significado ' aquilo que faz rir: o cómico e o trágico' ;
+		:eAntonimo :engracado;.
+
+:comida rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' aquilo que se come: comida chinesa' ;
+		:eAntonimo :alimento;
+		:eAntonimo :iguaria;
+		:eAntonimo :mana;
+		:eAntonimo :manjar;.
+
+:comigo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' com a minha pessoa: Eles falaram comigo.; Eles estão comigo.' ;.
+
+:comilão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que come muito' ;
+		:Significado ' aquele que come muito' ;
+		:eAntonimo :glutao;
+		:eAntonimo :guloso;
+		:eAntonimo :lambao;.
+
+:cominar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Intimidar com punição ou pena;' ;
+		:Significado ' Indicar ou decretar (a pena);' ;
+		:Significado ' Infligir ou estabelecer pena a.' ;
+		:Significado ' (Etm. do latim: commināre)' ;
+		:eAntonimo :decretar;
+		:eAntonimo :determinar;
+		:eAntonimo :impor;
+		:eAntonimo :infligir;
+		:eAntonimo :prescrever;.
+
+:cominutivo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que foi reduzido a pedaços; esfacelado ou despedaçado.' ;
+		:Significado ' (Etm. comunuir + tivo)' ;.
+
+:comiseração rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Denominação atribuída ao sentimento de piedade ou compaixão pelos problemas dos outros; lástima ou dó.' ;
+		:Significado ' (Etm. do latim: commiseratiōne)' ;
+		:eAntonimo :aversao;
+		:eAntonimo :barbaridade;
+		:eAntonimo :birra;
+		:eAntonimo :brutalidade;
+		:eAntonimo :desumanidade;
+		:eAntonimo :malevolencia;
+		:eAntonimo :malquerenca;
+		:eAntonimo :compaixao;
+		:eAntonimo :do;
+		:eAntonimo :lastima;
+		:eAntonimo :maviosidade;
+		:eAntonimo :meiguice;
+		:eAntonimo :miseracao;
+		:eAntonimo :pena;
+		:eAntonimo :piedade;
+		:eAntonimo :ternura;.
+
+:comissão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' grupo de pessoas encarregadas de tratar de um
+assunto: comissão para os direitos humanos' ;
+		:Significado ' percentagem cobrada sobre negócios ou
+serviços: O banco cobra uma comissão de 5%.' ;
+		:eAntonimo :percentagem;.
+
+:comissário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' chefe da polícia: comissário da polícia' ;
+		:Significado ' pessoa encarregada de organizar um evento: o comissário da exposição' ;.
+
+:comissionar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Conceder comissão a; ' ;
+		:Significado ' Responsabilizar ou incumbir temporariamente de uma tarefa.' ;
+		:Significado ' (Etm. do francês: commissionner)' ;
+		:eAntonimo :demitir;
+		:eAntonimo :desencarregar;
+		:eAntonimo :desincumbir;
+		:eAntonimo :desobrigar;
+		:eAntonimo :desonerar;
+		:eAntonimo :destituir;
+		:eAntonimo :dispensar;
+		:eAntonimo :eximir;
+		:eAntonimo :exonerar;
+		:eAntonimo :isentar;
+		:eAntonimo :livrar;
+		:eAntonimo :prescindir;
+		:eAntonimo :cometer;
+		:eAntonimo :confiar;
+		:eAntonimo :delegar;
+		:eAntonimo :designar;
+		:eAntonimo :encarregar;
+		:eAntonimo :entregar;
+		:eAntonimo :expedir;
+		:eAntonimo :incumbir;
+		:eAntonimo :nomear;.
+
+:comitente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação do que concede comissão ou oferece encargo;' ;
+		:Significado ' Do mesmo significado de constituinte.' ;
+		:Significado ' (Etm. do latim: committente)' ;
+		:eAntonimo :constituinte;.
+
+:comitiva rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' conjunto de pessoas que acompanha alguém: a comitiva do Presidente da República' ;
+		:eAntonimo :acompanhamento;
+		:eAntonimo :seguimento;
+		:eAntonimo :sequito;.
+
+:como rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' quanto, a que ponto: Como ela é bonita!; Como o tempo passa depressa!; A como são as laranjas?' ;
+		:Significado ' de maneira: agir como se nada fosse' ;
+		:Significado ' de que maneira: Como está?; Como se chama?' ;
+		:eAntonimo :porque;.
+
+:comoção rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Emoção intensa, choque ou perturbação: a comoção deixou-a sem saber o que dizer;' ;
+		:Significado ' Sensação de carinho ou enternecimento: ao ver o neto sentiu uma enorme comoção;' ;
+		:Significado ' Tumulto, insurreição ou rebelião: comoção na assembleia;' ;
+		:Significado ' Confusão ou debandada: quando a polícia chegou, instalou-se a comoção no local;' ;
+		:Significado ' Tristeza, pena ou consternação.' ;
+		:Significado ' (Etm. do latim: commotiōne)' ;
+		:eAntonimo :alegria;
+		:eAntonimo :apaziguamento;
+		:eAntonimo :assossego;
+		:eAntonimo :calma;
+		:eAntonimo :insensibilidade;
+		:eAntonimo :serenidade;
+		:eAntonimo :tranquilidade;
+		:eAntonimo :abalo;
+		:eAntonimo :emocao;
+		:eAntonimo :surpresa;
+		:eAntonimo :susto;.
+
+:cómoda rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' móvel com gavetas para guardar roupa: guardar as camisolas na cómoda' ;.
+
+:comodidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica daquilo que é cómodo;' ;
+		:Significado ' Designação de uma peça ou um produto cómodo;' ;
+		:Significado ' Aconchego ou conforto;' ;
+		:Significado ' Designação atribuída a oportunidade;' ;
+		:Significado ' (Plural) Recursos ou facilidades que fazem com que a vida seja aprazível.' ;
+		:Significado ' (Etm. do latim: commoditāte)' ;
+		:eAntonimo :desconchego;
+		:eAntonimo :desconforto;
+		:eAntonimo :incomodo;
+		:eAntonimo :mal-estar;
+		:eAntonimo :molestia;
+		:eAntonimo :molesto;
+		:eAntonimo :percalco;
+		:eAntonimo :aconchego;
+		:eAntonimo :bem-estar;
+		:eAntonimo :conforto;.
+
+:cómodo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' confortável: uma cadeira cómoda' ;
+		:eAntonimo :calmo;
+		:eAntonimo :descansado;
+		:eAntonimo :despreocupado;
+		:eAntonimo :imperturbado;
+		:eAntonimo :sossegado;
+		:eAntonimo :tranquilo;.
+
+:cômoro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Saliência ou elevação, de pequenas dimensões, situada num terreno; outeiro ou cabeço;' ;
+		:Significado ' Do mesmo significado de canteiro;' ;
+		:Significado ' (Regionalismo) Designação de parede de apoio de solo em socalco.' ;
+		:Significado ' (Etm. do latim: cumŭlu)' ;
+		:eAntonimo :colina;
+		:eAntonimo :monte;
+		:eAntonimo :monticulo;
+		:eAntonimo :morro;
+		:eAntonimo :outeiro;.
+
+:comovente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' emocionante: uma história comovente' ;.
+
+:comover rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' emocionar: As imagens do acidente comoveram o público.' ;
+		:eAntonimo :emocionar;
+		:eAntonimo :enternecer;
+		:eAntonimo :impressionar;.
+
+:comover-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' ficar comovido: comover-se até às lágrimas' ;.
+
+:comovido rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' emocionado' ;
+		:eAntonimo :inseguro;.
+
+:compacto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que tem os elementos muito comprimidos: Um dicionário compacto.' ;
+		:eAntonimo :denso;.
+
+:compadecer rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' sentir compaixão por: compadecer-se com o destino dos pobres' ;.
+
+:compadecido rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se de quem é capaz de sentir ou empatizar com o sofrimento de outro;' ;
+		:Significado ' Que é compassivo ou exorável.' ;
+		:Significado ' (Etm. Part. Pass. de: compadecer)' ;
+		:eAntonimo :inexoravel;
+		:eAntonimo :truculento;
+		:eAntonimo :apiedado;
+		:eAntonimo :compassivo;
+		:eAntonimo :condoido;
+		:eAntonimo :exoravel;
+		:eAntonimo :sentimental;.
+
+:compadre rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação do padrinho de um recém-nascido, em relação aos pais ou à madrinha do mesmo;' ;
+		:Significado ' Denominação atribuída ao pai de um bebé em relação ao padrinho e à madrinha do mesmo;' ;
+		:Significado ' Designação de amigo cúmplice ou parceiro; companheiro;' ;
+		:Significado ' Personagem central ou protagonista de teatro revista, também conhecido pelo francês compère.' ;
+		:eAntonimo :amigo;
+		:eAntonimo :colega;
+		:eAntonimo :companheiro;.
+
+:compaginar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Ação de colocar ou inserir em página (referente a composição a granel);' ;
+		:Significado ' (Figurado) Unir ou juntar de modo íntimo;' ;
+		:Significado ' Constituir-se de níveis ou camadas envolventes.' ;
+		:Significado ' (Etm. do latim: compagināre)' ;.
+
+:compaixão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' sentimento de piedade' ;
+		:eAntonimo :comiseracao;
+		:eAntonimo :condolencia;
+		:eAntonimo :do;
+		:eAntonimo :dor;
+		:eAntonimo :maviosidade;
+		:eAntonimo :meiguice;
+		:eAntonimo :miseracao;
+		:eAntonimo :pesar;
+		:eAntonimo :piedade;
+		:eAntonimo :ternura;.
+
+:companheira rdf:type owl:NamedIndividual ,
+			:Word ;.
+
+:companheiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' camarada, colega: companheiros de viagem' ;
+		:Significado ' pessoa com quem se vive maritalmente: Ela é a companheira dele há vinte anos.' ;
+		:eAntonimo :amigo;
+		:eAntonimo :camarada;
+		:eAntonimo :colega;.
+
+:companhia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de acompanhar;' ;
+		:Significado ' Designação daquilo que acompanha algo ou alguma pessoa;' ;
+		:Significado ' Séquito ou comitiva;' ;
+		:Significado ' Convívio, intimidade ou trato;' ;
+		:Significado ' Parceria ou associação constituída por acionistas; empresa ou firma;' ;
+		:Significado ' Conjunto de pessoas que convivem entre si ou se juntam com uma finalidade partilhada ou um objetivo concreto;' ;
+		:Significado ' Designação da equipe artística de um teatro;' ;
+		:Significado ' (Militar) Denominação atribuída a uma subdvisão de um batalhão, normalmente dirigida por um capitão.' ;
+		:Significado ' (Etm. companha + ia)' ;
+		:eAntonimo :isolamento;
+		:eAntonimo :agremiacao;
+		:eAntonimo :associacao;
+		:eAntonimo :circulo;
+		:eAntonimo :comitiva;
+		:eAntonimo :convivencia;
+		:eAntonimo :convivio;
+		:eAntonimo :empresa;
+		:eAntonimo :firma;
+		:eAntonimo :intimidade;.
+
+:comparação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ato ou efeito de comparar, de procurar semelhanças e diferenças entre objetos, pessoas ou situações; confronto; cotejo' ;
+		:Significado '  (Gramática) paralelo estabelecido entre dois termos de um enunciado que possuem sentidos diferentes' ;
+		:eAntonimo :confrontacao;
+		:eAntonimo :confronto;
+		:eAntonimo :cotejo;
+		:eAntonimo :verificacao;.
+
+:comparado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem é confrontado ou relacionado;' ;
+		:Significado ' Que é parecido ou análogo; que é equivalente, idêntico ou semelhante.' ;
+		:Significado ' (Etm. do latim: comparātu)' ;
+		:eAntonimo :confrontado;
+		:eAntonimo :cotejado;
+		:eAntonimo :equiparado;
+		:eAntonimo :relacionado;.
+
+:comparar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' confrontar coisas' ;
+		:eAntonimo :confrontar;.
+
+:comparativamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De modo comparativo; em comparação (com)' ;
+		:eAntonimo :relativamente;.
+
+:comparativo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Que estabelece uma comparação; que serve para comparar' ;
+		:Significado ' (Gramática) que envolve comparação: oração subordinada comparativa' ;
+		:Significado ' Grau de comparação de adjetivos e advérbios' ;
+		:Significado ' Forma que exprime esse grau' ;.
+
+:comparável rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem pode ser comparado; análogo; parecido; semelhante' ;
+		:eAntonimo :excecional;
+		:eAntonimo :impar;
+		:eAntonimo :incomparavel;
+		:eAntonimo :incotejavel;
+		:eAntonimo :inimitavel;
+		:eAntonimo :insubstituivel;
+		:eAntonimo :irrivalizavel;
+		:eAntonimo :singular;
+		:eAntonimo :unico;
+		:eAntonimo :analogo;
+		:eAntonimo :igual;
+		:eAntonimo :parecido;
+		:eAntonimo :semelhante;.
+
+:comparavelmente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De modo comparável; em comparação com; analogamente' ;
+		:eAntonimo :incomparavelmente;
+		:eAntonimo :analogamente;.
+
+:comparecer rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' apresentar-se pessoalmente: comparecer perante o juiz' ;
+		:eAntonimo :aparecer;
+		:eAntonimo :chegar;.
+
+:comparência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação de comparecer; comparecimento ou presença;' ;
+		:Significado ' Designação de presença ou comparecimento em sítio combinado.' ;
+		:Significado ' (Etm. do latim: comparentĭa)' ;
+		:eAntonimo :ausencia;
+		:eAntonimo :carencia;
+		:eAntonimo :irregularidade;
+		:eAntonimo :lacuna;
+		:eAntonimo :lapso;
+		:eAntonimo :necessidade;
+		:eAntonimo :nequice;
+		:eAntonimo :omissao;
+		:eAntonimo :presenca;.
+
+:comparsa rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Sujeito que acompanha a conduta ou o comportamento de outra pessoa sem se pronunciar;' ;
+		:Significado ' (Figurado) Indivíduo conivente com determinada ação; cúmplice, parceiro ou associado; camarada, companheiro ou amigo;' ;
+		:Significado ' Pessoa que participa de modo desimportante ou irrelevante em qualquer ação, ato ou comportamento;' ;
+		:Significado ' Indivíduo que, numa peça de teatro, não possui qualquer fala ou representa um papel insignificante; figurante.' ;
+		:Significado ' (Etm. do italiano: comparsa)' ;
+		:eAntonimo :amigo;
+		:eAntonimo :camarada;
+		:eAntonimo :companheiro;
+		:eAntonimo :figurante;
+		:eAntonimo :parceiro;
+		:eAntonimo :socio;.
+
+:compartilhar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' partilhar algo com alguém' ;
+		:eAntonimo :aquinhoar;
+		:eAntonimo :compartir;
+		:eAntonimo :partilhar;
+		:eAntonimo :quinhoar;.
+
+:compartimento rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' divisão de uma casa, móvel ou outro espaço: uma mala com muitos compartimentos; uma casa com muitos compartimentos' ;
+		:eAntonimo :divisao;.
+
+:compartir rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ação de separar em compartimentos distintos;' ;
+		:Significado ' Distribuir por outras pessoas e pelo próprio; compartilhar ou repartir.' ;
+		:Significado ' (Etm. do latim: compartīre)' ;
+		:eAntonimo :aglomerar;
+		:eAntonimo :agregar;
+		:eAntonimo :agrupar;
+		:eAntonimo :coadunar;
+		:eAntonimo :colecionar;
+		:eAntonimo :coligir;
+		:eAntonimo :enredar;
+		:eAntonimo :grupar;
+		:eAntonimo :guardar;
+		:eAntonimo :juntar;
+		:eAntonimo :ligar;
+		:eAntonimo :montar;
+		:eAntonimo :prender;
+		:eAntonimo :reunir;
+		:eAntonimo :somar;
+		:eAntonimo :unir;
+		:eAntonimo :aquinhoar;
+		:eAntonimo :associar;
+		:eAntonimo :compartilhar;
+		:eAntonimo :partilhar;
+		:eAntonimo :quinhoar;.
+
+:compassar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Mensurar ou verificar a compasso;' ;
+		:Significado ' Estimar ou avaliar;' ;
+		:Significado ' Ritmar ou ajustar o passo;' ;
+		:Significado ' Fazer com que fique lerdo ou lento;' ;
+		:Significado ' Controlar-se.' ;
+		:Significado ' (Etm. compasso + ar)' ;
+		:eAntonimo :descompassar;
+		:eAntonimo :cadenciar;
+		:eAntonimo :controlar;
+		:eAntonimo :espacar;
+		:eAntonimo :espacejar;
+		:eAntonimo :intervalar;
+		:eAntonimo :mensurar;
+		:eAntonimo :moderar;
+		:eAntonimo :ritmar;.
+
+:compassivamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira compassiva; de modo apiedado, compadecido ou sentimental; de forma piedosa.' ;
+		:Significado ' (Etm. compassiva + mente)' ;
+		:eAntonimo :despiedosamente;
+		:eAntonimo :duramente;
+		:eAntonimo :incompassivamente;
+		:eAntonimo :rigidamente;
+		:eAntonimo :rigorosamente;
+		:eAntonimo :severamente;
+		:eAntonimo :terrivelmente;
+		:eAntonimo :violentamente;
+		:eAntonimo :compadecidamente;
+		:eAntonimo :piedosamente;
+		:eAntonimo :sentimentalmente;.
+
+:compassivo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem possui ou manifesta compaixão; que empatiza com os sofrimentos dos outros;' ;
+		:Significado ' Particularidade de quem se compadece; que é compadecido ou benévolo.' ;
+		:Significado ' (Etm. do latim: compassivu)' ;
+		:eAntonimo :barbaro;
+		:eAntonimo :desalmado;
+		:eAntonimo :descompassivo;
+		:eAntonimo :incompassivo;
+		:eAntonimo :malvado;
+		:eAntonimo :mau;
+		:eAntonimo :perverso;
+		:eAntonimo :terrivel;
+		:eAntonimo :apiedado;
+		:eAntonimo :compadecido;
+		:eAntonimo :enternecido;
+		:eAntonimo :exoravel;
+		:eAntonimo :piedoso;
+		:eAntonimo :sensivel;
+		:eAntonimo :sentimental;.
+
+:compasso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' instrumento com o qual se traçam
+circunferências: traçar um círculo com compasso' ;
+		:Significado ' divisão do tempo em música: um compasso binário' ;
+		:eAntonimo :cadencia;
+		:eAntonimo :regularidade;
+		:eAntonimo :ritmo;.
+
+:compatibilidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' qualidade do que se pode juntar' ;.
+
+:compatível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' o que pode funcionar com outra coisa: materiais compatíveis; feitios compatíveis' ;
+		:eAntonimo :comportavel;
+		:eAntonimo :conciliavel;
+		:eAntonimo :harmonizavel;
+		:eAntonimo :pativel;.
+
+:compativelmente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira compatível; de modo adaptável, coadunável, comportável ou compossível.' ;
+		:Significado ' (Etm. compatível + mente)' ;
+		:eAntonimo :adaptavelmente;
+		:eAntonimo :coadunavelmente;
+		:eAntonimo :comportavelmente;
+		:eAntonimo :compossivelmente;.
+
+:compatrício rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação da pessoa que, em relação a outra, é natural da mesma região ou país; denominação de compatriota, concidadão, conterrâneo ou patrício.' ;
+		:Significado ' (Etm. com + patrício)' ;
+		:eAntonimo :advena;
+		:eAntonimo :adventicio;
+		:eAntonimo :alienigena;
+		:eAntonimo :estrangeiro;
+		:eAntonimo :estranho;
+		:eAntonimo :exotico;
+		:eAntonimo :forasteiro;
+		:eAntonimo :compatriota;
+		:eAntonimo :concidadao;
+		:eAntonimo :conterraneo;
+		:eAntonimo :patricio;.
+
+:compatriota rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' n.m. e n.f. ' ;
+		:Significado ' Diz-se de ou designa a pessoa que é natural da mesma região ou país (em relação a outra); denominação de concidadão, compatrício, conterrâneo ou patrício.' ;
+		:Significado ' (Etm. do latim: compatriōta)' ;
+		:eAntonimo :advena;
+		:eAntonimo :adventicio;
+		:eAntonimo :alienigena;
+		:eAntonimo :estrangeiro;
+		:eAntonimo :estranho;
+		:eAntonimo :exotico;
+		:eAntonimo :forasteiro;
+		:eAntonimo :compatricio;
+		:eAntonimo :concidadao;
+		:eAntonimo :conterraneo;
+		:eAntonimo :patricio;.
+
+:compelir rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Forçar a realizar algo; ação de obrigar ou constranger;' ;
+		:Significado ' Impor, impelir ou empurrar.' ;
+		:Significado ' (Etm. do latim: compellĕre)' ;
+		:eAntonimo :atrair;
+		:eAntonimo :desobrigar;
+		:eAntonimo :destituir;
+		:eAntonimo :liberar;
+		:eAntonimo :livrar;
+		:eAntonimo :puxar;
+		:eAntonimo :arrastar;
+		:eAntonimo :constranger;
+		:eAntonimo :empurrar;
+		:eAntonimo :forcar;
+		:eAntonimo :impelir;
+		:eAntonimo :impor;
+		:eAntonimo :obrigar;.
+
+:compendiar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Converter em compêndio;' ;
+		:Significado ' Ação de unir numa substância única;' ;
+		:Significado ' Resumir ou encurtar;' ;
+		:Significado ' Condensar, epilogar ou compilar.' ;
+		:Significado ' (Etm. do latim: compendiāre)' ;
+		:eAntonimo :alargar;
+		:eAntonimo :aumentar;
+		:eAntonimo :desagregar;
+		:eAntonimo :dispersar;
+		:eAntonimo :separar;
+		:eAntonimo :abreviar;
+		:eAntonimo :condensar;
+		:eAntonimo :encurtar;
+		:eAntonimo :epilogar;
+		:eAntonimo :recapitular;
+		:eAntonimo :reduzir;
+		:eAntonimo :resumir;
+		:eAntonimo :sintetizar;
+		:eAntonimo :sumariar;.
+
+:compêndio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de resumo, resenha ou sinopse;' ;
+		:Significado ' Denominação de índice ou sumário;' ;
+		:Significado ' Designação atribuída a um livro de texto usado em contexto escolar.' ;
+		:Significado ' (Etm. do latim: compendĭu)' ;
+		:eAntonimo :epitome;
+		:eAntonimo :resumo;
+		:eAntonimo :sinopse;
+		:eAntonimo :sintese;
+		:eAntonimo :sumario;
+		:eAntonimo :sumula;.
+
+:compendíolo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação atribuída a um compêndio pequeno.' ;
+		:Significado ' (Etm. de: compêndio)' ;.
+
+:compendioso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que foi limitado ou restringido àquilo que era fundamental ou imprescindível; que é sucinto ou sinóptico;' ;
+		:Significado ' Diz-se do que possui estrutura ou formato de compêndio.' ;
+		:Significado ' (Etm. do latim: compendiōsu)' ;
+		:eAntonimo :prolixo;
+		:eAntonimo :resumido;
+		:eAntonimo :sucinto;.
+
+:compenetração rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de compenetrar;' ;
+		:Significado ' Asseveração, confiança ou segurança profunda.' ;
+		:Significado ' (Etm. compenetrar + ção)' ;
+		:eAntonimo :desconcentracao;
+		:eAntonimo :hesitacao;
+		:eAntonimo :indecisao;
+		:eAntonimo :indeterminacao;
+		:eAntonimo :irresolucao;
+		:eAntonimo :perplexidade;
+		:eAntonimo :titubeacao;
+		:eAntonimo :concentracao;
+		:eAntonimo :decisao;.
+
+:compensação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' recompensa, benefício' ;
+		:eAntonimo :indemnizacao;.
+
+:compensar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Equilibrar uma situação através de ações positivas de modo a neutralizar os resultados de (algum ato negativo); balançar, nivelar ou contrapesar;' ;
+		:Significado ' Estabelecer ou definir uma recompensação ou um agrado que possa neutralizar ou anular alguma coisa difícil ou custosa que tenha ocorrido;' ;
+		:Significado ' Restituir ou ressarcir alguém; remendar o dano ou o mal efetuado a (outro indivíduo); indemnizar;' ;
+		:Significado ' Produzir ou trazer benefícios; retribuir ou gratificar; valer a pena;' ;
+		:Significado ' Nivelar-se, contrapesar-se ou equilibrar-se.' ;
+		:Significado ' (Etm. do latim: compensāre)' ;
+		:eAntonimo :abater;
+		:eAntonimo :deduzir;
+		:eAntonimo :descompensar;
+		:eAntonimo :descontar;
+		:eAntonimo :desequilibrar;
+		:eAntonimo :extrair;
+		:eAntonimo :subtrair;
+		:eAntonimo :equilibrar;
+		:eAntonimo :gratificar;
+		:eAntonimo :igualar;
+		:eAntonimo :indemnizar;
+		:eAntonimo :recompensar;
+		:eAntonimo :ressarcir;.
+
+:compensável rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo que é possível (ou deve) ser compensado.' ;
+		:Significado ' (Etm. do latim: compensabĭle)' ;.
+
+:competência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' conhecimento e capacidade em determinada área: ter competência para ensinar' ;
+		:Significado ' atribuição: Isso não faz parte das minhas competências.' ;
+		:eAntonimo :conhecimento;
+		:eAntonimo :cultura;
+		:eAntonimo :jurisdicao;.
+
+:competente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que tem a capacidade para fazer algo: um médico competente' ;.
+
+:competição rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' luta por um mesmo lugar, concorrência: estar em competição com alguém' ;
+		:Significado ' prova desportiva: uma competição desportiva' ;.
+
+:competir rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Concorrer ou disputar (algo) com outra pessoa; participar numa competição; batalhar por algo ou alguém contra um rival; contender, litigar ou rivalizar;' ;
+		:Significado ' Fazer parte de uma disputa ou de uma partida desportiva;' ;
+		:Significado ' Ser parte das atribuições ou responsabilidades de; ser da alçada ou jurisdição de; ' ;
+		:Significado ' Cumprir, impender ou caber a;' ;
+		:Significado ' Ter a intenção de substituir em valor ou em aptidão.' ;
+		:Significado ' (Etm. do latim: competĕre)' ;
+		:eAntonimo :brigar;
+		:eAntonimo :contender;
+		:eAntonimo :disputar;
+		:eAntonimo :litigar;
+		:eAntonimo :litigar;
+		:eAntonimo :pleitear;
+		:eAntonimo :renhir;
+		:eAntonimo :rivalizar;.
+
+:competitivo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' relativo a competição: preços competitivos' ;.
+
+:compilação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de compilar;' ;
+		:Significado ' Concentração ou reunião de textos acerca de um tema em específico; coleção, repertório ou acervo;' ;
+		:Significado ' (Informática) Designação atribuída à operação informática executada por um compilador.' ;
+		:Significado ' (Etm. do latim: compilatiōne)' ;
+		:eAntonimo :acervo;
+		:eAntonimo :colecao;
+		:eAntonimo :coletanea;
+		:eAntonimo :repertorio;.
+
+:compilar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ação de reunir ou coligir;' ;
+		:Significado ' Ato de juntar textos, registos, impressos ou leis acerca de um determinado tema;' ;
+		:Significado ' (Informática) Efetuar a tradução de linguagem de programação para linguagem máquina, de forma a permitir a compreensão ou perceção por parte do computador.' ;
+		:Significado ' (Etm. do latim: compilāre)' ;
+		:eAntonimo :apartar;
+		:eAntonimo :decompor;
+		:eAntonimo :desintegrar;
+		:eAntonimo :despedir;
+		:eAntonimo :dissipar;
+		:eAntonimo :dissolver;
+		:eAntonimo :coligir;
+		:eAntonimo :copilar;
+		:eAntonimo :respigar;
+		:eAntonimo :reunir;
+		:eAntonimo :selecionar;.
+
+:cômpito rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Local de encontro de diferentes trilhas; entroncamento ou cruzamento.' ;
+		:Significado ' (Etm. do latim: compĭtu)' ;
+		:eAntonimo :encruzilhada;.
+
+:cômpito rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Regionalismo) Designação de grandeza específica que serve para avaliar outras, também conhecida por medida.' ;
+		:Significado ' (Etm. de: cômputo)' ;.
+
+:complacência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Inclinação para concordar frequentemente com outra pessoa com a intenção de satisfazer a mesma ou de ser agradável; gentileza, indulgência ou condescendência: tratava a mãe com complacência;' ;
+		:Significado ' Comportamento ou postura alicerçada nessa inclinação; agrado, satisfação ou contentamento: as complacências da filha eram o ponto alto do seu dia;' ;
+		:Significado ' Postura ou ação que tem por base a condescendência ou uma determinada sujeição abusiva;' ;
+		:Significado ' (Fisiologia) Aquilo que assinala a habilidade de distensão de determinadas estruturas elásticas do corpo, como é o caso dos vasos sanguíneos, do coração, entre outras.' ;
+		:Significado ' (Etm. do latim: complacentia; do francês: complaisance)' ;
+		:eAntonimo :dureza;
+		:eAntonimo :ironia;
+		:eAntonimo :malevolencia;
+		:eAntonimo :mordacidade;
+		:eAntonimo :rigidez;
+		:eAntonimo :sofrimento;
+		:eAntonimo :teimosia;
+		:eAntonimo :benevolencia;
+		:eAntonimo :compreensao;
+		:eAntonimo :condescendencia;
+		:eAntonimo :contentamento;
+		:eAntonimo :flexibilidade;
+		:eAntonimo :tolerancia;.
+
+:complacente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se de quem possui ou revela complacência; condescendente; compreensivo: um gesto complacente' ;
+		:Significado ' Que é prestativo, que gosta de ajudar; amável; diligente: um amigo complacente' ;
+		:Significado ' (Sentido figurado) brando; benigno: um clima complacente' ;
+		:Significado ' (Sentido negativo) que mostra condescendência ou excessiva tolerância em relação a algo ou alguém: um sistema político complacente com a corrupção' ;
+		:eAntonimo :desalmado;
+		:eAntonimo :descortes;
+		:eAntonimo :desumano;
+		:eAntonimo :grosso;
+		:eAntonimo :implacavel;
+		:eAntonimo :inabalavel;
+		:eAntonimo :indelicado;
+		:eAntonimo :inferior;
+		:eAntonimo :inflexivel;
+		:eAntonimo :intransigente;
+		:eAntonimo :malcriado;
+		:eAntonimo :ranzinza;
+		:eAntonimo :rigido;
+		:eAntonimo :rispido;
+		:eAntonimo :selvagem;
+		:eAntonimo :vulgar;
+		:eAntonimo :vulgar;
+		:eAntonimo :acomodadico;
+		:eAntonimo :amavel;
+		:eAntonimo :benevolente;
+		:eAntonimo :benevolo;
+		:eAntonimo :comprazente;
+		:eAntonimo :compreensivo;
+		:eAntonimo :condescendente;
+		:eAntonimo :cortes;
+		:eAntonimo :diligente;
+		:eAntonimo :ductil;
+		:eAntonimo :gentil;
+		:eAntonimo :indulgente;
+		:eAntonimo :obsequioso;
+		:eAntonimo :prestativo;
+		:eAntonimo :tolerante;
+		:eAntonimo :transigente;.
+
+:complacentemente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira complacente; de forma compreensiva, tolerante ou flexível; de modo amável, prestativo ou cortês.' ;
+		:Significado ' (Etm. complacente + mente)' ;
+		:eAntonimo :implacavelmente;
+		:eAntonimo :incomplacentemente;
+		:eAntonimo :inflexivelmente;
+		:eAntonimo :rigidamente;
+		:eAntonimo :amavelmente;
+		:eAntonimo :compreensivamente;
+		:eAntonimo :flexivelmente;
+		:eAntonimo :prestativamente;
+		:eAntonimo :tolerantemente;.
+
+:complanar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Ação de colocar ao nível de;' ;
+		:Significado ' Ato de igualar ou nivelar;' ;
+		:Significado ' Fazer com que fique plano ou liso; alisar;' ;
+		:Significado ' Igualar-se;' ;
+		:Significado ' Estirar-se ou alongar-se por uma área lisa que coexiste com outras superfícies no mesmo plano.' ;
+		:Significado ' (Etm. do latim: complanāre)' ;
+		:eAntonimo :alisar;
+		:eAntonimo :igualar;
+		:eAntonimo :nivelar;
+		:eAntonimo :rasar;
+		:eAntonimo :rasourar;.
+
+:compleição rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Constituição do corpo de alguém; organização física de um indivíduo;' ;
+		:Significado ' Tendência comportamental; inclinação moral ou temperamento; humor ou disposição de espírito particular do indivíduo.' ;
+		:Significado ' (Etm. do latim: complexiōne)' ;
+		:eAntonimo :caracter;
+		:eAntonimo :constituicao;
+		:eAntonimo :feitio;
+		:eAntonimo :fisico;
+		:eAntonimo :genio;
+		:eAntonimo :indole;
+		:eAntonimo :jaez;
+		:eAntonimo :presenca;
+		:eAntonimo :temperamento;.
+
+:complementar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :verbo;
+		:Significado ' Diz-se do que completa: Análises complementares;' ;
+		:Significado ' Que acrescenta, junta ou adiciona alguma coisa; ' ;
+		:Significado ' Que é ou pode ser utilizado como complemento; que é acessório, secundário ou adicional;' ;
+		:Significado ' Que diz respeito a complemento;' ;
+		:Significado ' (Matemática) Referente ao ângulo que, juntamente com outro ângulo, totaliza 90º.' ;
+		:Significado ' Ação de completar.' ;
+		:Significado ' (Etm. complemento + ar)' ;
+		:eAntonimo :dispensar;
+		:eAntonimo :retirar;
+		:eAntonimo :subtrair;
+		:eAntonimo :suprimir;
+		:eAntonimo :tirar;
+		:eAntonimo :acessorio;
+		:eAntonimo :acrescentar;
+		:eAntonimo :adicional;
+		:eAntonimo :adicionar;
+		:eAntonimo :complementario;
+		:eAntonimo :concluir;
+		:eAntonimo :finalizar;
+		:eAntonimo :inteirar;
+		:eAntonimo :totalizar;.
+
+:complemento rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação de completar ou complementar;' ;
+		:Significado ' Diz-se daquilo ou daquele que completa ou complementa; que é suplemento ou acréscimo;' ;
+		:Significado ' Designação de remate, retoque ou conclusão;' ;
+		:Significado ' (Gramática) Função sintática atribuída ao vocábulo ou expressão que, numa oração, complementa o sentido de outra;' ;
+		:Significado ' (Geometria) Referente a um ângulo que, em conjunto com outro, completa 90 graus; designado por ângulo complementar;' ;
+		:Significado ' (Medicina) Denominação atribuída a um sistema imunitário composto por grupos de proteínas sintetizadas, localizadas em diversas células e/ou órgãos.' ;
+		:eAntonimo :berco;
+		:eAntonimo :causa;
+		:eAntonimo :doutrina;
+		:eAntonimo :exordio;
+		:eAntonimo :inicio;
+		:eAntonimo :introducao;
+		:eAntonimo :origem;
+		:eAntonimo :pleonasmo;
+		:eAntonimo :preambulo;
+		:eAntonimo :redundancia;
+		:eAntonimo :acabamento;
+		:eAntonimo :adenda;
+		:eAntonimo :apendice;
+		:eAntonimo :conclusao;
+		:eAntonimo :implemento;
+		:eAntonimo :remate;
+		:eAntonimo :secao;
+		:eAntonimo :suplemento;.
+
+:completamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira completa; por inteiro ou totalmente; de forma literal ou total; de modo drástico.' ;
+		:Significado ' (Etm. completa + mente)' ;
+		:eAntonimo :drasticamente;
+		:eAntonimo :literalmente;
+		:eAntonimo :totalmente;.
+
+:completar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' concluir, terminar: completar uma obra' ;
+		:Significado ' atingir um número: Ele completa hoje vinte anos.' ;
+		:eAntonimo :acabar;
+		:eAntonimo :concluir;
+		:eAntonimo :finalizar;
+		:eAntonimo :findar;
+		:eAntonimo :perfazer;
+		:eAntonimo :rematar;
+		:eAntonimo :terminar;
+		:eAntonimo :ultimar;.
+
+:completo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' ao qual não falta nada: A colecção está completa.' ;
+		:Significado ' cheio: O hotel está completo.' ;
+		:eAntonimo :acabado;
+		:eAntonimo :atestado;
+		:eAntonimo :cheio;
+		:eAntonimo :farto;
+		:eAntonimo :feito;
+		:eAntonimo :repleto;.
+
+:completude rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica ou condição daquilo que é completo.' ;
+		:Significado ' (Etm. completo + ude)' ;
+		:eAntonimo :plenitude;.
+
+:complexidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' qualidade do que é complicado: a complexidade de uma situação' ;
+		:eAntonimo :complicacao;
+		:eAntonimo :dificuldade;.
+
+:complexo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se do que possui ou engloba grande quantidade de elementos que, embora distintos, se encontram relacionados entre si: uma situação complexa' ;
+		:Significado ' Que abarca, contém ou envolve numerosas questões, matérias ou coisas: ' ;
+		:Significado ' Característica ou particularidade do que é intricado, difícil ou confuso; complicado, de entendimento difícil: um enredo complexo, uma personalidade complexa' ;
+		:Significado ' Que pode ser avaliado ou observado de várias perspetivas; que é multifacetado: um tema complexo' ;
+		:Significado ' (Anatomia) diz-se do músculo par situado na área cervical na cabeça' ;
+		:Significado ' (Linguística) relativo ao vocábulo composto ou gerado por composição ou por derivação' ;
+		:Significado ' Aglomerado de coisas ou situações, que se encontram ligadas entre si: um complexo habitacional' ;
+		:Significado ' Estrutura formada por componentes articulados ou concatenados que operam como um todo: complexo vitamínico' ;
+		:Significado ' Designação de problema, perturbação ou inquietação (de cariz psicológico): complexo de Édipo' ;
+		:Significado ' 1Composto químico em que é possível verificar a constituição de ligações de coordenação entre moléculas ou iões com átomos ou iões de metal' ;
+		:Significado ' 1(Psicologia) conjunto de pensamentos, sentimentos ou ímpetos interligados, normalmente de natureza inconsciente e com origem na infância, que representam parte constituinte da personalidade de uma pessoa, determinando, por vezes, a sua forma de agir: complexo de inferioridade/superioridade' ;
+		:eAntonimo :basico;
+		:eAntonimo :claro;
+		:eAntonimo :compreensivel;
+		:eAntonimo :descomplicado;
+		:eAntonimo :desintrincado;
+		:eAntonimo :facil;
+		:eAntonimo :incomplexo;
+		:eAntonimo :natural;
+		:eAntonimo :abstruso;
+		:eAntonimo :agregacao;
+		:eAntonimo :agrupamento;
+		:eAntonimo :complicado;
+		:eAntonimo :confuso;
+		:eAntonimo :conjunto;
+		:eAntonimo :dificil;
+		:eAntonimo :dificuldade;
+		:eAntonimo :inquietacao;
+		:eAntonimo :mesclado;
+		:eAntonimo :misto;
+		:eAntonimo :mistura;
+		:eAntonimo :multifacetado;
+		:eAntonimo :multiplice;
+		:eAntonimo :obscuro;
+		:eAntonimo :perturbacao;.
+
+:complicação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' dificuldade, problema: ter complicações no trabalho' ;
+		:Significado ' agravamento de problemas de saúde: ter complicações depois da operação' ;
+		:eAntonimo :complexidade;
+		:eAntonimo :dificuldade;.
+
+:complicadamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira complicada; de forma confusa, difícil ou incompreensível; ' ;
+		:Significado ' De modo complexo ou composto.' ;
+		:Significado ' (Etm. complicada + mente)' ;
+		:eAntonimo :facilmente;
+		:eAntonimo :dificilmente;
+		:eAntonimo :incompreensivelmente;.
+
+:complicar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' tornar difícil: complicar a vida a alguém' ;.
+
+:complicar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' tornar-se confuso, mais difícil: a situação complicou-se' ;
+		:Significado ' agravar-se: O estado de saúde dela complicou-se.' ;.
+
+:componente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se daquilo que constitui ou participa da constituição de algo; ' ;
+		:Significado ' Designação atribuída àquilo que constitui ou participa da constituição de algo; formante;' ;
+		:Significado ' (Química) Denominação da variável química independente que pertence a um sistema;' ;
+		:Significado ' (Eletricidade) Instrumento ou elemento que faz parte de um circuito eletrónico.' ;
+		:Significado ' (Etm. do latim: componente)' ;
+		:eAntonimo :constituinte;
+		:eAntonimo :elemento;
+		:eAntonimo :formante;
+		:eAntonimo :ingrediente;
+		:eAntonimo :item;.
+
+:componível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo que é possível compor.' ;
+		:Significado ' (Etm. do latim: componibĭle)' ;
+		:eAntonimo :decomponivel;
+		:eAntonimo :desagregavel;
+		:eAntonimo :destacavel;
+		:eAntonimo :desunivel;
+		:eAntonimo :dissociavel;
+		:eAntonimo :fragmentavel;
+		:eAntonimo :separavel;
+		:eAntonimo :associavel;.
+
+:compor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' escrever música: compor uma sinfonia' ;
+		:Significado ' produzir: compor uma obra de arte' ;
+		:Significado ' arranjar: compor o vestido' ;
+		:eAntonimo :conceber;
+		:eAntonimo :criar;
+		:eAntonimo :imaginar;
+		:eAntonimo :inventar;.
+
+:compor-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' ser formado por: A casa dela compõe-se de dois quartos e
+cozinha.' ;
+		:Significado ' arranjar-se: A situação compôs-se.' ;.
+
+:comporta rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Denominação atribuída a uma porta movível que bloqueia ou solta a água pertencente a uma barragem ou canal; ' ;
+		:Significado ' Designação de pequena porta de lagar de vinho;' ;
+		:Significado ' Denominação atribuída a uma porta deslizante existente na parte detrás das viaturas rurais.' ;
+		:Significado ' (Etm. Der. Regress. de: comportar)' ;
+		:eAntonimo :acude;
+		:eAntonimo :dique;
+		:eAntonimo :eclusa;
+		:eAntonimo :represa;.
+
+:comportamento rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' forma de agir: um comportamento infantil' ;
+		:eAntonimo :actuacao;
+		:eAntonimo :conduta;
+		:eAntonimo :procedimento;.
+
+:comportar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' conter em si: A situação comporta riscos.' ;
+		:eAntonimo :admitir;
+		:eAntonimo :consentir;
+		:eAntonimo :permitir;.
+
+:comportar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' actuar de certa maneira: comportar-se bem
+/mal' ;.
+
+:comportável rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que é possível ser comportado;' ;
+		:Significado ' Que é suportável,  aceitável ou razoável;' ;
+		:Significado ' Comportável, conciliável ou harmonizável.' ;
+		:Significado ' (Etm. comportar + vel)' ;
+		:eAntonimo :incabivel;
+		:eAntonimo :incombinavel;
+		:eAntonimo :inconciliavel;
+		:eAntonimo :incongruente;
+		:eAntonimo :insuportavel;
+		:eAntonimo :intoleravel;
+		:eAntonimo :compativel;.
+
+:composição rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' o que constitui ou forma algo: a composição do sangue; a composição da orquestra' ;
+		:eAntonimo :constituicao;
+		:eAntonimo :elaboracao;
+		:eAntonimo :formacao;.
+
+:compositor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa que cria músicas' ;.
+
+:compossível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que tem a possibilidade de coexistir com outro; conciliável ou coadunável.' ;
+		:Significado ' (Etm. com + possível)' ;
+		:eAntonimo :adaptavel;
+		:eAntonimo :coadunavel;
+		:eAntonimo :compativel;
+		:eAntonimo :comportavel;
+		:eAntonimo :conciliavel;
+		:eAntonimo :harmonizavel;
+		:eAntonimo :pativel;.
+
+:composto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' formado por vários elementos: uma família composta por várias pessoas' ;
+		:Significado ' arrumado: um vestuário composto' ;
+		:Significado ' substância formada por vários elementos: um composto químico' ;.
+
+:compostura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de reparo, arrumação ou conserto;' ;
+		:Significado ' Discrição, recato ou porte;' ;
+		:Significado ' Forma de vestir; indumentária ou vestes;' ;
+		:Significado ' Formação ou constituição;' ;
+		:Significado ' Mescla, misto ou mistura.' ;
+		:Significado ' (Etm. do latim: compositūra)' ;
+		:eAntonimo :descompostura;
+		:eAntonimo :descortesia;
+		:eAntonimo :estrago;
+		:eAntonimo :incivilidade;
+		:eAntonimo :inconveniencia;
+		:eAntonimo :indecencia;
+		:eAntonimo :indecoro;
+		:eAntonimo :arranjo;
+		:eAntonimo :arrumacao;
+		:eAntonimo :comedimento;
+		:eAntonimo :decencia;
+		:eAntonimo :dignidade;
+		:eAntonimo :disposicao;
+		:eAntonimo :linha;.
+
+:compota rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' doce feito com fruta cozida: compota de marmelo' ;.
+
+:compra rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' aquilo que se adquire com dinheiro: a compra de um automóvel' ;
+		:eAntonimo :aquisicao;
+		:eAntonimo :obtencao;.
+
+:comprador rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa que compra' ;.
+
+:comprar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' adquirir com dinheiro: comprar pão' ;
+		:eAntonimo :adquirir;.
+
+:comprável rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo que é possível comprar; que é comerciável.' ;
+		:Significado ' (Etm. comprar + vel)' ;
+		:eAntonimo :incomerciavel;
+		:eAntonimo :insubornavel;
+		:eAntonimo :comerciavel;
+		:eAntonimo :negociavel;.
+
+:comprazente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Do mesmo significado de complacente.' ;
+		:Significado ' (Etm. de origem obscura)' ;
+		:eAntonimo :desumano;
+		:eAntonimo :duro;
+		:eAntonimo :implacavel;
+		:eAntonimo :inabalavel;
+		:eAntonimo :incomplacente;
+		:eAntonimo :inexoravel;
+		:eAntonimo :complacente;.
+
+:comprazer rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Ficar-se aprazível;' ;
+		:Significado ' Aprazer alguém; fazer o que alguém quer; ação de condescender, contemporizar ou transigir;' ;
+		:Significado ' Satisfazer-se ou felicitar-se; agradar-se ou aprazer-se.' ;
+		:Significado ' (Etm. do latim: complacēre)' ;
+		:eAntonimo :abdicar;
+		:eAntonimo :confundir;
+		:eAntonimo :contrariar;
+		:eAntonimo :declinar;
+		:eAntonimo :desaceitar;
+		:eAntonimo :desagradar;
+		:eAntonimo :desaprovar;
+		:eAntonimo :negar;
+		:eAntonimo :renegar;
+		:eAntonimo :renunciar;
+		:eAntonimo :agradar;
+		:eAntonimo :condescender;
+		:eAntonimo :contemporizar;
+		:eAntonimo :prazer;
+		:eAntonimo :transigir;.
+
+:compreender rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Ação de incluir, envolver conter ou englobar;' ;
+		:Significado ' Percecionar algo ou atingir, com inteligência, o significado; depreender ou alcançar; do mesmo significado de entender ou perceber;' ;
+		:Significado ' Perceber os atos ou os comportamentos de alguma pessoa; empatizar ou partilhar;' ;
+		:Significado ' Estar englobado ou embarcado.' ;
+		:eAntonimo :desentender;
+		:eAntonimo :excetuar;
+		:eAntonimo :limitar;
+		:eAntonimo :marcar;
+		:eAntonimo :reservar;
+		:eAntonimo :restringir;
+		:eAntonimo :alcancar;
+		:eAntonimo :atingir;
+		:eAntonimo :depreender;
+		:eAntonimo :entender;
+		:eAntonimo :perceber;
+		:eAntonimo :percecionar;
+		:eAntonimo :saber;.
+
+:compreendido rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que está ou foi entendido ou percebido;' ;
+		:Significado ' Incorporado, englobado ou incluído;' ;
+		:Significado ' Envolvido ou implicado;' ;
+		:Significado ' Empenhado ou comprometido.' ;
+		:Significado ' (Etm. Part. Pass. de: compreender)' ;
+		:eAntonimo :desassimilado;
+		:eAntonimo :descomprometido;
+		:eAntonimo :desentendido;
+		:eAntonimo :desimplicado;
+		:eAntonimo :excluido;
+		:eAntonimo :incompreendido;
+		:eAntonimo :entendido;
+		:eAntonimo :percebido;.
+
+:compreensão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de compreender' ;
+		:Significado ' Capacidade ou habilidade de entender ou perceber o significado de algo; entendimento; perceção' ;
+		:Significado ' Vontade de compreender as emoções, os sentimentos ou os atos de alguém; complacência; tolerância' ;
+		:Significado ' Capacidade de conter dentro de si; abrangência; abarcamento' ;
+		:Significado ' (Filosofia) grupo ou reunião de caracteres partilhados por todos os sujeitos constituintes de determinada classe' ;
+		:Significado ' (Gramática) denominação atribuída à significação de um vocábulo (opondo-se à extensão do mesmo).' ;
+		:eAntonimo :confusao;
+		:eAntonimo :desconhecimento;
+		:eAntonimo :desentendimento;
+		:eAntonimo :incompreensao;
+		:eAntonimo :intransigencia;
+		:eAntonimo :malevolencia;
+		:eAntonimo :abrangencia;
+		:eAntonimo :absorcao;
+		:eAntonimo :apreensao;
+		:eAntonimo :assimilacao;
+		:eAntonimo :benevolencia;
+		:eAntonimo :clareza;
+		:eAntonimo :complacencia;
+		:eAntonimo :condescendencia;
+		:eAntonimo :entendimento;
+		:eAntonimo :percecao;.
+
+:compreensibilidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica daquilo que é compreensível.' ;
+		:Significado ' (Etm. do latim: comprehensibilitate)' ;
+		:eAntonimo :incompreensibilidade;
+		:eAntonimo :ininteligibilidade;
+		:eAntonimo :clareza;.
+
+:compreensiva rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Informal) Do mesmo significado de compreensão;' ;
+		:Significado ' Capacidade de compreender ou entender.' ;
+		:Significado ' (Etm. de: compreensivo)' ;.
+
+:compreensivamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira compreensiva; de modo flexível.' ;
+		:Significado ' (Etm. compreensiva + mente)' ;
+		:eAntonimo :flexivelmente;.
+
+:compreensível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que pode ser compreendido ou se pode compreender; que é percetível;' ;
+		:Significado ' Que é aceitável ou razoável.' ;
+		:Significado ' (Etm. do latim: comprehensibĭle)' ;
+		:eAntonimo :anormal;
+		:eAntonimo :complicado;
+		:eAntonimo :confuso;
+		:eAntonimo :enredoso;
+		:eAntonimo :estranho;
+		:eAntonimo :inaudivel;
+		:eAntonimo :incompreensivel;
+		:eAntonimo :ininteligivel;
+		:eAntonimo :intricado;
+		:eAntonimo :intrincado;
+		:eAntonimo :singular;
+		:eAntonimo :claro;
+		:eAntonimo :distinto;
+		:eAntonimo :inteligivel;
+		:eAntonimo :perceptivel;
+		:eAntonimo :plano;
+		:eAntonimo :razoavel;.
+
+:compreensivo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que tem indulgência: ser compreensivo para com os erros dos outros' ;.
+
+:compressa rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Medicina) Pedaço de gaze ou de pano que tem a possibilidade de ser mergulhado em água ou num fármaco, e se usa para fazer curativos ou durante operações cirúrgicas; ' ;
+		:Significado ' (Medicina) Designação de pedaço de pano ou gaze que se encontra dobrado e embebido em água, que é colocado em determinada área do corpo com o objetivo de aliviar determinada dor;' ;
+		:Significado ' Denominação daquilo que exerce pressão.' ;
+		:Significado ' (Etm. do latim: compressa)' ;.
+
+:compressível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Do mesmo significado de comprimível.' ;
+		:Significado ' (Etm. do latim: compressu + vel)' ;
+		:eAntonimo :comprimivel;.
+
+:compridão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Também denominado comprimento.' ;
+		:Significado ' (Etm. comprido + ão)' ;
+		:eAntonimo :compridez;
+		:eAntonimo :comprimento;
+		:eAntonimo :dimensao;
+		:eAntonimo :distancia;
+		:eAntonimo :duracao;
+		:eAntonimo :estatura;
+		:eAntonimo :extensao;
+		:eAntonimo :longitude;
+		:eAntonimo :longueza;
+		:eAntonimo :longuidao;
+		:eAntonimo :longura;
+		:eAntonimo :lonjura;
+		:eAntonimo :tempo;.
+
+:compridez rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Do mesmo significado de comprimento.' ;
+		:Significado ' (Etm. comprido + ez)' ;
+		:eAntonimo :amplidao;
+		:eAntonimo :comprimento;
+		:eAntonimo :longitude;.
+
+:comprido rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' extenso, longo: cabelos compridos' ;
+		:eAntonimo :extenso;
+		:eAntonimo :longo;.
+
+:comprimento rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Extensão que vai de uma extremidade até à outra, na horizontal' ;
+		:Significado ' Dimensão do espaço ocupadopor algo; tamanho; extensão' ;
+		:Significado ' Intervalo entre dois pontos; longitude; distância' ;
+		:Significado ' (Física) grandeza de base que manifesta a longitude completada entre duas extremidades, que possui como unidade de medida o metro' ;
+		:eAntonimo :compridao;
+		:eAntonimo :compridez;
+		:eAntonimo :dimensao;
+		:eAntonimo :distancia;
+		:eAntonimo :duracao;
+		:eAntonimo :estatura;
+		:eAntonimo :extensao;
+		:eAntonimo :longitude;
+		:eAntonimo :longueza;
+		:eAntonimo :longuidao;
+		:eAntonimo :longura;
+		:eAntonimo :lonjura;
+		:eAntonimo :tempo;.
+
+:comprimido rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' sujeito a pressão, apertado' ;
+		:Significado ' medicamento em forma de pastilha: tomar um comprimido para a gripe' ;.
+
+:comprimir rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' exercer ou sofrer pressão: comprimir uma veia' ;
+		:Significado ' compactar: comprimir os ficheiros' ;
+		:eAntonimo :estancar;
+		:eAntonimo :obstringir;
+		:eAntonimo :reduzir;.
+
+:comprimível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo que é possível comprimir.' ;
+		:Significado ' (Etm. comprimir + vel)' ;.
+
+:comprometer rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' pôr em risco: comprometer o sucesso de uma operação' ;.
+
+:comprometer-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' assumir a responsabilidade: comprometer-se a fazer algo' ;.
+
+:compromisso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' obrigação: um compromisso de honra' ;
+		:Significado ' acordo: estabelecer um compromisso entre as partes' ;.
+
+:comproprietário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' n.m.' ;
+		:Significado ' Referente ao indivíduo que, juntamente com um outro, desfruta de uma propriedade.' ;
+		:Significado ' (Etm. com + proprietário)' ;.
+
+:comprovar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' provar, confirmar: um documento que comprova os factos' ;
+		:eAntonimo :fundamentar;
+		:eAntonimo :justificar;
+		:eAntonimo :provar;.
+
+:compulsar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Estudar, folhear, percorrer ou observar documentos, cópias, certidões, papéis, notas, textos, entre outros;' ;
+		:Significado ' (Pouco Usual) Forçar (algo ou alguém) por meio da coação; obrigar ou compelir.' ;
+		:Significado ' (Etm. do latim: compulsãre)' ;
+		:eAntonimo :demitir;
+		:eAntonimo :destituir;
+		:eAntonimo :exonerar;
+		:eAntonimo :liberar;
+		:eAntonimo :prescindir;
+		:eAntonimo :confrontar;
+		:eAntonimo :cotejar;
+		:eAntonimo :examinar;
+		:eAntonimo :folhear;
+		:eAntonimo :manusear;.
+
+:compulsivo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Referente àquilo ou àquele que compele; que está fadado ou destinado a compelir: este comportamento está a revelar-se compulsivo;' ;
+		:Significado ' (Psicologia) Que faz com que haja repetição de uma ação, sem que a pessoa que a repete o decida fazer voluntariamente: ele apresenta um tique compulsivo que não é possível modificar.' ;
+		:Significado ' (Etm. do latim: compulsīvu)' ;
+		:eAntonimo :desocupado;
+		:eAntonimo :dispensado;
+		:eAntonimo :isento;
+		:eAntonimo :liberto;
+		:eAntonimo :natural;
+		:eAntonimo :voluntario;
+		:eAntonimo :coativo;
+		:eAntonimo :coercitivo;
+		:eAntonimo :coercivo;
+		:eAntonimo :constrangente;
+		:eAntonimo :forcado;
+		:eAntonimo :forcador;
+		:eAntonimo :impositor;
+		:eAntonimo :neurotico;
+		:eAntonimo :obrigante;
+		:eAntonimo :obsessivo;
+		:eAntonimo :obstinado;.
+
+:compulsório rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se de algo ou alguém que compele, obriga ou força a; que é forçoso, necessário ou obrigatório.' ;
+		:Significado ' (Etm. do latim: compulsorĭu)' ;
+		:eAntonimo :forcoso;
+		:eAntonimo :imprescindivel;
+		:eAntonimo :necessario;
+		:eAntonimo :obrigatorio;.
+
+:compungir rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Provocar ou originar compunção a;' ;
+		:Significado ' Pungir ou magoar;' ;
+		:Significado ' Comover, sensibilizar ou enternecer;' ;
+		:Significado ' Ter compunção ou arrepender-se;' ;
+		:Significado ' Comover-se, apiedar-se ou condoer-se.' ;
+		:Significado ' (Etm. do latim: compungĕre)' ;
+		:eAntonimo :ajudar;
+		:eAntonimo :apaziguar;
+		:eAntonimo :aquietar;
+		:eAntonimo :descarregar;
+		:eAntonimo :dissipar;
+		:eAntonimo :empedrar;
+		:eAntonimo :endurecer;
+		:eAntonimo :enrijar;
+		:eAntonimo :obdurar;
+		:eAntonimo :socorrer;
+		:eAntonimo :afligir;
+		:eAntonimo :comover;
+		:eAntonimo :enternecer;
+		:eAntonimo :magoar;
+		:eAntonimo :pungir;
+		:eAntonimo :sensibilizar;.
+
+:computador rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' aparelho electrónico que processa dados' ;.
+
+:cômputo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Avaliação ou estimativa; operação ou cálculo.' ;
+		:eAntonimo :avaliacao;
+		:eAntonimo :calculo;
+		:eAntonimo :conta;
+		:eAntonimo :estimativa;
+		:eAntonimo :operacao;.
+
+:comum rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' partilhado por várias pessoas: um interesse comum; uma característica comum' ;
+		:Significado ' corrente, vulgar: um nome comum' ;
+		:eAntonimo :banal;
+		:eAntonimo :corriqueiro;
+		:eAntonimo :generalidade;
+		:eAntonimo :geral;
+		:eAntonimo :ordinario;
+		:eAntonimo :trivial;
+		:eAntonimo :vulgar;.
+
+:comummente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira comum; corriqueiramente ou vulgarmente.' ;
+		:Significado ' (Etm. comum + mente)' ;
+		:eAntonimo :excecionalmente;
+		:eAntonimo :imparmente;
+		:eAntonimo :incomummente;
+		:eAntonimo :raramente;
+		:eAntonimo :singularmente;
+		:eAntonimo :unicamente;
+		:eAntonimo :correntemente;
+		:eAntonimo :corriqueiramente;
+		:eAntonimo :frequentemente;
+		:eAntonimo :habitualmente;
+		:eAntonimo :quotidianamente;
+		:eAntonimo :regularmente;
+		:eAntonimo :vulgarmente;.
+
+:comunal rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se da comuna ou do que que se refere a esta;' ;
+		:Significado ' Designação do indivíduo que reside numa comuna.' ;
+		:Significado ' (Etm. do francês: communal)' ;.
+
+:comungar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' (Religião) Ação de proporcionar ou ser o recetor da comunhão eucarística;' ;
+		:Significado ' Concordar ou aceitar; estar em comum acordo com outra pessoa; possuir as mesmas convicções, pensamentos ou juízos;' ;
+		:Significado ' (Religão) Ação de receber ou aceitar em comunhão;' ;
+		:Significado ' Ato de dividir, compartir ou partilhar de.' ;
+		:Significado ' (Etm. do latim: communicāre)' ;
+		:eAntonimo :compartilhar;
+		:eAntonimo :compartir;
+		:eAntonimo :partilhar;.
+
+:comunhão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de comungar;' ;
+		:Significado ' (Religião) Denominação atribuída à consagração da Eucaristia;' ;
+		:Significado ' (Religião) Designação da ação de receber o juramento da Eucaristia;' ;
+		:Significado ' (Direito) Posse partilhada dos bens entre os cônjuges;' ;
+		:Significado ' (Figurado) Uniformidade ou harmonia no que diz respeito a ideias, pensamentos, crenças, entre outras;' ;
+		:Significado ' (Figurado) União, concórdia ou harmonia.' ;
+		:Significado ' (Etm. do latim: communiōne)' ;
+		:eAntonimo :antagonismo;
+		:eAntonimo :choque;
+		:eAntonimo :confronto;
+		:eAntonimo :desacordo;
+		:eAntonimo :desarmonia;
+		:eAntonimo :oposicao;
+		:eAntonimo :comunidade;
+		:eAntonimo :concordia;
+		:eAntonimo :confraria;
+		:eAntonimo :congregacao;
+		:eAntonimo :irmandade;
+		:eAntonimo :sociedade;
+		:eAntonimo :uniao;.
+
+:comunicação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acto de comunicar, de se relacionar' ;
+		:Significado ' mensagem, informação: fazer uma comunicação' ;
+		:Significado ' ligação entre vários pontos: falta de comunicação entre os departamentos' ;
+		:eAntonimo :informacao;
+		:eAntonimo :noticia;.
+
+:comunicado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' informação oficial: um comunicado do Presidente' ;
+		:eAntonimo :enviado;.
+
+:comunicar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Ação de dar a conhecer, divulgar ou informar; expor, noticiar ou veicular: comunicar a informação relevante aos encarregados de educação;' ;
+		:Significado ' Colocar-se em contacto ou relação com outrem; principiar comunicação com: comunicar com uma amiga;' ;
+		:Significado ' Atribuir passagem ou possuir conexão entre dois ou mais locais; interligar ou dar para: o pátio comunica com a cozinha da casa;' ;
+		:Significado ' Ato de transmitir ou contar alguma informação ou dado novo a alguém;' ;
+		:Significado ' Ficar ou estar em comunicação ou contacto com; ' ;
+		:Significado ' Divulgar-se, espalhar-se ou transmitir-se.' ;
+		:Significado ' (Etm. do latim: communicāre)' ;
+		:eAntonimo :desinformar;
+		:eAntonimo :silenciar;
+		:eAntonimo :advertir;
+		:eAntonimo :avisar;
+		:eAntonimo :conversar;
+		:eAntonimo :discursar;
+		:eAntonimo :enviar;
+		:eAntonimo :expedir;
+		:eAntonimo :exprimir;
+		:eAntonimo :falar;
+		:eAntonimo :informar;
+		:eAntonimo :inteirar;
+		:eAntonimo :intimar;
+		:eAntonimo :legar;
+		:eAntonimo :notificar;
+		:eAntonimo :orar;
+		:eAntonimo :remeter;
+		:eAntonimo :transmitir;.
+
+:comunicativo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que se relaciona com facilidade: uma pessoa comunicativa' ;.
+
+:comunidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Conjunto de indivíduos que vivem juntos numa determinada região, partilhando o mesmo governo assim como a própria cultura e história; do mesmo significado de sociedade: Nós vivemos em comunidade;' ;
+		:Significado ' Local onde essas pessoas habitam;' ;
+		:Significado ' Conjunto de indivíduos com interesses em comum: comunidade dos países de Língua Portuguesa; agremiação, partido ou grupo;' ;
+		:Significado ' (Biologia) Grupo de animais que vivem no mesmo meio; conjunto de seres vivos que vivem num habitat ou ambiente partilhado, constituindo relações de interação entre si: comunidade de coelhos; comunidade de abelhas;' ;
+		:Significado ' Característica do que é comum;' ;
+		:Significado ' População; designação da totalidade composta por todos os habitantes de uma nação;' ;
+		:Significado ' Pátria, nação ou Estado;' ;
+		:Significado ' Denominação atribuída a ordem religiosa ou confraria.' ;
+		:Significado ' (Etm. do latim: communitāte)' ;
+		:eAntonimo :comunhao;
+		:eAntonimo :confraria;
+		:eAntonimo :congregacao;
+		:eAntonimo :irmandade;
+		:eAntonimo :nacao;
+		:eAntonimo :populacao;
+		:eAntonimo :povo;
+		:eAntonimo :sociedade;.
+
+:comunismo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' doutrina política' ;
+		:eAntonimo :bolchevismo;.
+
+:comunista rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' relativo ao comunismo: partido comunista' ;
+		:Significado ' pessoa partidária do comunismo' ;
+		:eAntonimo :bolchevique;.
+
+:comunitário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que diz respeito ou se refere a comunidade;' ;
+		:Significado ' Que diz respeito ou se refere à União Europeia (antiga Comunidade Europeia).' ;
+		:Significado ' (Etm. do latim: communitas + ário ; do francês: communautaire)' ;
+		:eAntonimo :coletivo;
+		:eAntonimo :comum;
+		:eAntonimo :publico;
+		:eAntonimo :social;.
+
+:comutar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ação de realizar comutação em;' ;
+		:Significado ' Ato de cambiar, substituir ou reciprocar;' ;
+		:Significado ' Suprir ou sobrevir;' ;
+		:Significado ' (Direito) Ação de suavizar ou aligeirar uma punição.' ;
+		:Significado ' (Etm. do latim: commutāre)' ;
+		:eAntonimo :acrescentar;
+		:eAntonimo :acrescer;
+		:eAntonimo :agravar;
+		:eAntonimo :alongar;
+		:eAntonimo :ampliar;
+		:eAntonimo :amplificar;
+		:eAntonimo :apelar;
+		:eAntonimo :avultar;
+		:eAntonimo :crescer;
+		:eAntonimo :desenvolver;
+		:eAntonimo :dilatar;
+		:eAntonimo :estender;
+		:eAntonimo :exacerbar;
+		:eAntonimo :expandir;
+		:eAntonimo :medrar;
+		:eAntonimo :cambiar;
+		:eAntonimo :converter;
+		:eAntonimo :mudar;
+		:eAntonimo :mutuar;
+		:eAntonimo :permutar;
+		:eAntonimo :reciprocar;
+		:eAntonimo :substituir;
+		:eAntonimo :trocar;.
+
+:comutativo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que comuta;' ;
+		:Significado ' Diz-se do que é possível trocar, converter ou permutar;' ;
+		:Significado ' (Matemática) Diz-se da operação cujo produto não está sujeito à sequência dos fatores.' ;
+		:Significado ' (Etm. do latim: commutatīvu)' ;.
+
+:concatenação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de concatenar;' ;
+		:Significado ' Conexão, ligação ou sequência;' ;
+		:Significado ' Coerência, congruência ou correlação.' ;
+		:Significado ' (Etm. do latim: concatenatiōne)' ;
+		:eAntonimo :desagregacao;
+		:eAntonimo :desanexacao;
+		:eAntonimo :desconexao;
+		:eAntonimo :desintegracao;
+		:eAntonimo :desmembracao;
+		:eAntonimo :desmembramento;
+		:eAntonimo :desuniao;
+		:eAntonimo :fragmentacao;
+		:eAntonimo :secessao;
+		:eAntonimo :separacao;
+		:eAntonimo :conexao;
+		:eAntonimo :encadeamento;
+		:eAntonimo :integracao;
+		:eAntonimo :logica;
+		:eAntonimo :nexo;
+		:eAntonimo :uniao;.
+
+:concatenar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Ato de relacionar ou encadear ideias ou conceitos;' ;
+		:Significado ' Ação de prender com cadeira;' ;
+		:Significado ' Articular-se ou encadear-se.' ;
+		:Significado ' (Etm. do latim: concatenāre)' ;
+		:eAntonimo :associar;
+		:eAntonimo :construir;
+		:eAntonimo :coordenar;
+		:eAntonimo :encadear;
+		:eAntonimo :engranzar;
+		:eAntonimo :ligar;
+		:eAntonimo :relacionar;.
+
+:concausa rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Causa que existe em simultâneo com outra causa para produzir determinada ação.' ;
+		:Significado ' (Etm. con + causa)' ;.
+
+:concavidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Formato ou organização daquilo que é côncavo;' ;
+		:Significado ' Buraco, profundidade ou depressão de um campo ou terreno.' ;
+		:Significado ' (Etm. do latim: concavitāte)' ;
+		:eAntonimo :abaulamento;
+		:eAntonimo :arqueamento;
+		:eAntonimo :convexidade;
+		:eAntonimo :curvatura;
+		:eAntonimo :distincao;
+		:eAntonimo :excrescencia;
+		:eAntonimo :protuberancia;
+		:eAntonimo :realce;
+		:eAntonimo :relevo;
+		:eAntonimo :salteada;
+		:eAntonimo :buraco;
+		:eAntonimo :cavidade;
+		:eAntonimo :concavo;
+		:eAntonimo :cova;
+		:eAntonimo :depressao;
+		:eAntonimo :furna;
+		:eAntonimo :profundidade;.
+
+:côncavo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se do que possui uma superfície curva e cavada ou reentrante;' ;
+		:Significado ' Que é cavo, oco ou escavado;' ;
+		:Significado ' Designação de cavidade ou concavidade;' ;
+		:Significado ' Aparência ou formato côncavo.' ;
+		:Significado ' (Etm. do latim: concăvu)' ;
+		:eAntonimo :concavidade;.
+
+:conceber rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Procriar, fecundar ou gerar; dar vida a (novo ser);' ;
+		:Significado ' Constituir um pensamento ou uma opinião; criar, idealizar ou projetar;' ;
+		:Significado ' Inventar ou engendrar através da meditação ou consideração; produzir ou elaborar;' ;
+		:Significado ' (Figurado) Entender ou percecionar;' ;
+		:Significado ' Ficar de bebé - engravidar.' ;
+		:Significado ' (Etm. do latim: concipĕre)' ;
+		:eAntonimo :desmerecer;
+		:eAntonimo :extraviar;
+		:eAntonimo :impedir;
+		:eAntonimo :incapacitar;
+		:eAntonimo :inutilizar;
+		:eAntonimo :compor;
+		:eAntonimo :criar;
+		:eAntonimo :gerar;
+		:eAntonimo :idealizar;
+		:eAntonimo :imaginar;
+		:eAntonimo :inventar;
+		:eAntonimo :procriar;
+		:eAntonimo :projetar;.
+
+:concebível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que pode ser concebido;' ;
+		:Significado ' Que é imaginável ou aceitável.' ;
+		:Significado ' (Etm. conceber + vel)' ;
+		:eAntonimo :impensavel;
+		:eAntonimo :impossivel;
+		:eAntonimo :incogitavel;
+		:eAntonimo :inconcebivel;
+		:eAntonimo :inconceptivel;
+		:eAntonimo :incrivel;
+		:eAntonimo :inimaginavel;
+		:eAntonimo :aceitavel;
+		:eAntonimo :imaginavel;.
+
+:conceção rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Biologia) Designação da fecundação do óvulo através do espermatozóide; fecundação ou procriação;' ;
+		:Significado ' Compreensão, perceção ou entendimento; habilidade ou capacidade de entendimento;' ;
+		:Significado ' Forma de constituir, avaliar ou analisar alguma coisa ou alguém; conceito ou opinião;' ;
+		:Significado ' Invenção de uma proposta, de um projeto ou de uma estratégia inédita; criação ou produção.' ;
+		:Significado ' (Etm. do latim: conceptiōne)' ;
+		:eAntonimo :desconhecimento;
+		:eAntonimo :desentendimento;
+		:eAntonimo :discordia;
+		:eAntonimo :ignorancia;
+		:eAntonimo :incompreensao;
+		:eAntonimo :compreensao;
+		:eAntonimo :conceito;
+		:eAntonimo :construcao;
+		:eAntonimo :criacao;
+		:eAntonimo :elaboracao;
+		:eAntonimo :entendimento;
+		:eAntonimo :geracao;
+		:eAntonimo :imaginacao;
+		:eAntonimo :invencao;
+		:eAntonimo :opiniao;
+		:eAntonimo :pensamento;
+		:eAntonimo :percepcao;
+		:eAntonimo :procriacao;
+		:eAntonimo :proposta;
+		:eAntonimo :visao;.
+
+:concedente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' adj.' ;
+		:Significado ' Diz-se de ou designa o indivíduo que concede.' ;
+		:Significado ' (Etm. do latim: concedente)' ;.
+
+:conceder rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Efetuar a concessão de;' ;
+		:Significado ' Oferecer, dar ou presentear;' ;
+		:Significado ' Autorizar ou consentir;' ;
+		:Significado ' (Figurado) Referente à ação de admitir por hipótese;' ;
+		:Significado ' Condescender, aceder ou ceder.' ;
+		:Significado ' (Etm. do latim clássico: concedĕre; do latim vulgar: concedēre)' ;
+		:eAntonimo :abdicar;
+		:eAntonimo :declinar;
+		:eAntonimo :desaceitar;
+		:eAntonimo :desacordar;
+		:eAntonimo :negar;
+		:eAntonimo :recusar;
+		:eAntonimo :rejeitar;
+		:eAntonimo :renunciar;
+		:eAntonimo :brindar;
+		:eAntonimo :ceder;
+		:eAntonimo :dadivar;
+		:eAntonimo :dar;
+		:eAntonimo :doar;
+		:eAntonimo :facultar;
+		:eAntonimo :obsequiar;
+		:eAntonimo :oferecer;
+		:eAntonimo :ofertar;
+		:eAntonimo :outorgar;
+		:eAntonimo :presentear;.
+
+:concedível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que é possível ou que se deve conceder.' ;
+		:Significado ' (Etm. do latim: concedibĭle)' ;
+		:eAntonimo :inconcedivel;
+		:eAntonimo :concessivel;.
+
+:conceito rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Filosofia) Ideia mental, abstrata e generalizada de um objeto; conceção abstrata e geral; ' ;
+		:Significado ' Entendimento que um indivíduo possui de um vocábulo, que pode implicar um aglomerado de características e atributos de um objeto ou de um conjunto de objetos; conceção, definição, ideia ou noção;' ;
+		:Significado ' Apreciação, convicção, entendimento ou juízo que uma pessoa faz de algo;' ;
+		:Significado ' Perspetiva, ponto de vista ou opinião de alguém;' ;
+		:Significado ' Fama ou reputação que um indivíduo possui no grupo social em que se enquadra; crédito ou imagem;' ;
+		:Significado ' Expressão ou dito que transmite um princípio moral; adágio, máxima ou ditado;' ;
+		:Significado ' Expressão resumida; síntese ou essência de algo;' ;
+		:Significado ' Intenção ou enlace moral de uma fábula ou de um conto; ensinamento, moralidade ou conclusão.' ;
+		:Significado ' (Etm. do latim: conceptu)' ;
+		:eAntonimo :abstracao;
+		:eAntonimo :adagio;
+		:eAntonimo :adagio;
+		:eAntonimo :caracterizacao;
+		:eAntonimo :compreensao;
+		:eAntonimo :concecao;
+		:eAntonimo :conclusao;
+		:eAntonimo :conviccao;
+		:eAntonimo :credito;
+		:eAntonimo :ditado;
+		:eAntonimo :dito;
+		:eAntonimo :ensinamento;
+		:eAntonimo :entendimento;
+		:eAntonimo :essencia;
+		:eAntonimo :fama;
+		:eAntonimo :ideia;
+		:eAntonimo :juizo;
+		:eAntonimo :julgamento;
+		:eAntonimo :moral;
+		:eAntonimo :nocao;
+		:eAntonimo :opiniao;
+		:eAntonimo :reputacao;
+		:eAntonimo :resumo;.
+
+:conceituado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que tem boa reputação: um escritor conceituado' ;.
+
+:conceituar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ação de elaborar conceito de algo ou alguém; analisar ou apreciar; ' ;
+		:Significado ' Conceber ou desenvolver opinião de;' ;
+		:Significado ' Cooperar para a fama positiva ou boa.' ;
+		:Significado ' (Etm. conceito + ar)' ;
+		:eAntonimo :ajuizar;
+		:eAntonimo :apreciar;
+		:eAntonimo :avaliar;
+		:eAntonimo :classificar;
+		:eAntonimo :considerar;
+		:eAntonimo :definir;
+		:eAntonimo :descrever;
+		:eAntonimo :explicar;
+		:eAntonimo :qualificar;.
+
+:concelho rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Divisão administrativa do território, que é parte de um distrito e que é administrada por uma câmara municipal e por entidades autárquicas; município' ;
+		:Significado ' Conjunto das pessoas que habitam essa parte do território e dos órgãos administrativos que ali atuam; municipalidade' ;.
+
+:concentração rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acção de reunir num centro ou ponto: concentração urbana; concentração de pessoas na praça' ;
+		:Significado ' dirigir a atenção para algo: concentração na leitura' ;
+		:eAntonimo :acumulacao;
+		:eAntonimo :aglomeracao;
+		:eAntonimo :centralizacao;
+		:eAntonimo :convergencia;.
+
+:concentradamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira concentrada; de modo reunido, aglomerado, centralizado ou condensado;' ;
+		:Significado ' De forma atenta, compenetrada ou dedicada;' ;
+		:Significado ' De maneira pensativa, absorta ou abstraída;' ;
+		:Significado ' De modo denso ou espesso;' ;
+		:Significado ' De forma resumida, sintética ou sucinta.' ;
+		:Significado ' (Etm. concentrada + mente)' ;
+		:eAntonimo :descuidadamente;
+		:eAntonimo :difundidamente;
+		:eAntonimo :disseminadamente;
+		:eAntonimo :espalhadamente;
+		:eAntonimo :absortamente;
+		:eAntonimo :atentamente;
+		:eAntonimo :centralizadamente;
+		:eAntonimo :densamente;
+		:eAntonimo :pensativamente;
+		:eAntonimo :resumidamente;
+		:eAntonimo :reunidamente;
+		:eAntonimo :sinteticamente;.
+
+:concentrar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' reunir num centro ou local: concentrar os capitais' ;
+		:Significado ' intensificar: concentrar os esforços' ;
+		:eAntonimo :centralizar;
+		:eAntonimo :convergir;.
+
+:concentrar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' reunir-se: Os manifestantes concentraram-se na praça.' ;
+		:Significado ' dirigir a atenção para uma coisa: concentrar-se no estudo' ;.
+
+:concepção rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Biologia) Designação da fecundação do óvulo através do espermatozóide; fecundação ou procriação;' ;
+		:Significado ' Compreensão, perceção ou entendimento; habilidade ou capacidade de entendimento;' ;
+		:Significado ' Forma de constituir, avaliar ou analisar alguma coisa ou alguém; conceito ou opinião;' ;
+		:Significado ' Invenção de uma proposta, de um projeto ou de uma estratégia inédita; criação ou produção.' ;
+		:Significado ' (Etm. do latim: conceptiōne)' ;
+		:eAntonimo :desconhecimento;
+		:eAntonimo :desentendimento;
+		:eAntonimo :incompreensao;
+		:eAntonimo :concecao;
+		:eAntonimo :conceito;
+		:eAntonimo :nocao;.
+
+:conceptual rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Respeitante à conceção;' ;
+		:Significado ' (Belas-Artes) Que dá especial relevo ao conceito ou ao pensamento que está por detrás da obra em questão.' ;
+		:Significado ' (Etm. do latim: conceptuāle)' ;.
+
+:concernente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que é respeitante ou relativo a; que é referente ou atinente a; que está relacionado ou é alusivo a.' ;
+		:Significado ' (Etm. concernir + ente)' ;
+		:eAntonimo :alusivo;
+		:eAntonimo :atinente;
+		:eAntonimo :pertencente;
+		:eAntonimo :pertinente;
+		:eAntonimo :proprio;
+		:eAntonimo :referente;
+		:eAntonimo :relacionado;
+		:eAntonimo :relativo;
+		:eAntonimo :respeitante;
+		:eAntonimo :tocante;.
+
+:concertação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de concertar;' ;
+		:Significado ' Designação de entendimento, acordo ou conciliação.' ;
+		:eAntonimo :desacerto;
+		:eAntonimo :desacordo;
+		:eAntonimo :desarmonizacao;
+		:eAntonimo :discordancia;
+		:eAntonimo :acordo;
+		:eAntonimo :conciliacao;.
+
+:concertar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Ação de ajeitar, compor ou arranjar;' ;
+		:Significado ' Ato de pactuar ou combinar;' ;
+		:Significado ' Ação de conciliar ou pacificar;' ;
+		:Significado ' Ato de ornamentar ou adornar;' ;
+		:Significado ' Ação de equiparar ou assemelhar;' ;
+		:Significado ' Averiguar ou certificar;' ;
+		:Significado ' Ato de aprovar, anuir ou concordar;' ;
+		:Significado ' Pacificar-se;' ;
+		:Significado ' Combinar-se;' ;
+		:Significado ' Pacificar-se;' ;
+		:Significado ' 1Constituir concerto;' ;
+		:Significado ' 1Ajustar-se;' ;
+		:Significado ' 1Conciliar-se.' ;
+		:Significado ' (Etm. do latim: concertāre)' ;
+		:eAntonimo :danificar;
+		:eAntonimo :desarmonizar;
+		:eAntonimo :desarranjar;
+		:eAntonimo :desconciliar;
+		:eAntonimo :estragar;
+		:eAntonimo :indispor;
+		:eAntonimo :acertar;
+		:eAntonimo :ajustar;
+		:eAntonimo :combinar;
+		:eAntonimo :convencionar;
+		:eAntonimo :pactuar;.
+
+:concerto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de concertar;' ;
+		:Significado ' Exibição, espetáculo ou apresentação musical;' ;
+		:Significado ' (Música) Combinação ou harmonia de vozes ou instrumentos musicais;' ;
+		:Significado ' (Música) Realização ou execução de múltiplos fragmentos ou trechos musicais;' ;
+		:Significado ' Acordo, pacto ou trato; combinação ou ajuste entre indivíduos ou partes interessadas;' ;
+		:Significado ' Designação de arranjo, arrumação ou composição;' ;
+		:Significado ' Denominação de consonância ou harmonia;' ;
+		:Significado ' Cântico ou trinado finado das aves.' ;
+		:Significado ' (Etm. do italiano: concerto)' ;
+		:eAntonimo :desacordo;
+		:eAntonimo :desajuste;
+		:eAntonimo :desavenca;
+		:eAntonimo :desentendimento;
+		:eAntonimo :acerto;
+		:eAntonimo :acordo;
+		:eAntonimo :ajuste;
+		:eAntonimo :arranjo;
+		:eAntonimo :arrumacao;
+		:eAntonimo :audicao;
+		:eAntonimo :composicao;
+		:eAntonimo :recital;.
+
+:concessão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ato de conceder autorização a alguém para realizar algo: concessão de um prazo' ;
+		:Significado ' Cedência de algo seu ou de sua autoria para outra pessoa usufruir ou utilizar: concessão de crédito ' ;
+		:Significado ' Autorização por parte do Estado a uma empresa ou entidade particular do direitode execução de uma obra ou de exploração de um serviço ou de uma infraestrutura, passando essa exploração a ser responsabilidade da concessionária para a qual é cedida: concessão rodoviária' ;
+		:Significado ' Aquilo que é concedido ou reconhecido na sequência de uma disputa ou debate: concessão de equivalências' ;
+		:Significado ' Em gramática, é o facto subordinado e de sentido oposto ao da ação principal de uma oração (subordinante), mas que não impede que a ação ocorra: não vai chover, embora pareça que sim' ;
+		:eAntonimo :desacordo;
+		:eAntonimo :impedimento;
+		:eAntonimo :negacao;
+		:eAntonimo :proibicao;
+		:eAntonimo :recusa;
+		:eAntonimo :adjudicacao;
+		:eAntonimo :ajuda;
+		:eAntonimo :concordancia;
+		:eAntonimo :condescendencia;
+		:eAntonimo :doacao;
+		:eAntonimo :licenca;.
+
+:concessionário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' representante exclusivo de uma marca: o concessionário de uma marca' ;.
+
+:concessível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Do mesmo significado de concedível.' ;
+		:Significado ' (Etm. do latim: concessu + vel)' ;
+		:eAntonimo :inconcedivel;
+		:eAntonimo :concedivel;.
+
+:concessivo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que diz respeito a concessão; ' ;
+		:Significado ' Que engloba ou encerra concessão; do mesmo significado de concessório;' ;
+		:Significado ' (Gramática) Referente à conjunção subordinativa ou oração subordinada que manifesta ou expressa refutação ou uma retenção.' ;
+		:Significado ' (Etm. do latim: concessīvu)' ;
+		:eAntonimo :concessorio;.
+
+:concetual rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Respeitante à conceção;' ;
+		:Significado ' (Belas-Artes) Que dá especial relevo ao conceito ou ao pensamento que está por detrás da obra em questão.' ;
+		:Significado ' (Etm. do latim: conceptuāle)' ;.
+
+:concha rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' revestimento dos moluscos: uma concha de mexilhão' ;
+		:Significado ' grande colher para servir sopa: servir a sopa com uma concha' ;
+		:eAntonimo :valva;.
+
+:concidadão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação da pessoa que, em relação a outra, é natural da mesma região ou país; denominação de compatriota, compatrício, conterrâneo ou patrício.' ;
+		:Significado ' (Etm. con + cidadão)' ;
+		:eAntonimo :advena;
+		:eAntonimo :adventicio;
+		:eAntonimo :alienigena;
+		:eAntonimo :estrangeiro;
+		:eAntonimo :estranho;
+		:eAntonimo :exotico;
+		:eAntonimo :forasteiro;
+		:eAntonimo :compatricio;
+		:eAntonimo :compatriota;
+		:eAntonimo :conterraneo;
+		:eAntonimo :patricio;.
+
+:conciliação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de conciliar ou conciliar-se;' ;
+		:Significado ' Conformidade ou concórdia;' ;
+		:Significado ' Concordância de diferentes partes ou indivíduos com visões e opiniões divergentes;' ;
+		:Significado ' Solução de uma discórdia relacionada com interesses no local de trabalho, geralmente obtida através da intervenção de uma terceira parte imparcial, que assume um papel de moderação e ajuda os envolvidos a encontrar território e interesses comuns.' ;
+		:Significado ' (Etm. do latim: conciliatiōne)' ;
+		:eAntonimo :desajuste;
+		:eAntonimo :desavenca;
+		:eAntonimo :desconcordia;
+		:eAntonimo :desconversacao;
+		:eAntonimo :desentendimento;
+		:eAntonimo :discussao;
+		:eAntonimo :divergencia;
+		:eAntonimo :renhimento;
+		:eAntonimo :acordo;
+		:eAntonimo :concordancia;
+		:eAntonimo :concordia;
+		:eAntonimo :conformidade;
+		:eAntonimo :consonancia;
+		:eAntonimo :entendimento;
+		:eAntonimo :harmonia;
+		:eAntonimo :reconciliacao;.
+
+:conciliador rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se de ou designa quem concilia;' ;
+		:Significado ' Apaziguador ou pacificador.' ;
+		:Significado ' (Etm. do latim: conciliatōre)' ;
+		:eAntonimo :conflituoso;
+		:eAntonimo :desarmonizador;
+		:eAntonimo :desconcertador;
+		:eAntonimo :desinquietador;
+		:eAntonimo :litigioso;
+		:eAntonimo :ostentivo;
+		:eAntonimo :processivo;
+		:eAntonimo :ajuizado;
+		:eAntonimo :comum;
+		:eAntonimo :judicioso;
+		:eAntonimo :moderado;
+		:eAntonimo :ordeiro;
+		:eAntonimo :sensato;.
+
+:conciliar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Fazer com que fiquem de acordo; harmonizar ou adaptar: a mãe conciliou os interesses dos irmãos de forma a manter a paz;' ;
+		:Significado ' Ajustar, combinar, compatibilizar ou concordar: conciliou o seu horário laboral com o horário do colégio dos filhos;' ;
+		:Significado ' Atrair, cativar ou captar: a sua boa disposição consegue conciliar a pessoa mais casmurra;' ;
+		:Significado ' Ato de se harmonizar;' ;
+		:Significado ' Ajustar-se ou concordar-se com;' ;
+		:Significado ' Acalmar-se, tranquilizar-se ou pacificar-se: depois de dizer a verdade, conseguiu conciliar-se.' ;
+		:Significado ' (Etm. do latim: conciliāre)' ;
+		:eAntonimo :competir;
+		:eAntonimo :desavir;
+		:eAntonimo :emular;
+		:eAntonimo :incompatibilizar;
+		:eAntonimo :rivalizar;
+		:eAntonimo :adaptar;
+		:eAntonimo :adequar;
+		:eAntonimo :ajustar;
+		:eAntonimo :apropriar;
+		:eAntonimo :harmonizar;.
+
+:conciliar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Respeitante a concílio;' ;
+		:Significado ' Diz-se do que ou de quem pertence a um concílio.' ;
+		:Significado ' (Etm. concílio + ar)' ;.
+
+:conciliável rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo que é possível conciliar.' ;
+		:Significado ' (Etm. do latim: conciliabĭle)' ;
+		:eAntonimo :contraditorio;
+		:eAntonimo :contrario;
+		:eAntonimo :inadaptavel;
+		:eAntonimo :incoadunavel;
+		:eAntonimo :incombinavel;
+		:eAntonimo :incompativel;
+		:eAntonimo :inconciliavel;
+		:eAntonimo :inconcordavel;
+		:eAntonimo :incongruente;
+		:eAntonimo :compativel;
+		:eAntonimo :harmonizavel;
+		:eAntonimo :pativel;.
+
+:concisamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira concisa; de modo resumido, sintético ou sucinto; de forma abreviada, breve ou curta.' ;
+		:Significado ' (Etm. concisa + mente)' ;
+		:eAntonimo :abreviadamente;
+		:eAntonimo :brevemente;
+		:eAntonimo :resumidamente;
+		:eAntonimo :sinteticamente;
+		:eAntonimo :sucintamente;.
+
+:concisão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' brevidade: a concisão de um discurso' ;.
+
+:conciso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que possui concisão;' ;
+		:Significado ' Manifestado ou comunicado através de um número reduzido de vocábulos; resumido;' ;
+		:Significado ' Exato ou preciso;' ;
+		:Significado ' Curto ou breve;' ;
+		:Significado ' Abreviado ou sucinto.' ;
+		:Significado ' (Etm. do latim: concīsu)' ;
+		:eAntonimo :longo;
+		:eAntonimo :pleonastico;
+		:eAntonimo :prolixo;
+		:eAntonimo :prolongado;
+		:eAntonimo :redundante;
+		:eAntonimo :curto;
+		:eAntonimo :laconico;
+		:eAntonimo :sintetico;
+		:eAntonimo :sucinto;.
+
+:concitar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ato de incentivar à confusão ou ao motim; amotinar ou inquietar;' ;
+		:Significado ' Desafiar ou impelir;' ;
+		:Significado ' Incentivar ou acicatar;' ;
+		:Significado ' Sensibilizar ou sacudir;' ;
+		:Significado ' Importunar ou incomodar.' ;
+		:Significado ' (Etm. do latim: concitāre)' ;
+		:eAntonimo :acalmar;
+		:eAntonimo :apaziguar;
+		:eAntonimo :aquietar;
+		:eAntonimo :desmoralizar;
+		:eAntonimo :pacificar;
+		:eAntonimo :prostrar;
+		:eAntonimo :quebrantar;
+		:eAntonimo :sossegar;
+		:eAntonimo :compelir;
+		:eAntonimo :estimular;
+		:eAntonimo :incitar;
+		:eAntonimo :instigar;
+		:eAntonimo :provocar;.
+
+:conclamar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Clamar, bradar, gritar em simultâneo;' ;
+		:Significado ' Gritar, contestar através de brados, de maneira a criar tumulto;' ;
+		:Significado ' Contestar ou relutar em voz alta;' ;
+		:Significado ' Chamar aos brados, em voz alta;' ;
+		:Significado ' Fazer uma invocação ou convocar de maneira persistente;' ;
+		:Significado ' Dar brados, vozear.' ;
+		:Significado ' (Etm. do latim: conclamare)' ;
+		:eAntonimo :calar;
+		:eAntonimo :embatucar;
+		:eAntonimo :emudecer;
+		:eAntonimo :silenciar;
+		:eAntonimo :berrar;
+		:eAntonimo :bradar;
+		:eAntonimo :chamar;
+		:eAntonimo :clamar;
+		:eAntonimo :convocar;
+		:eAntonimo :gritar;
+		:eAntonimo :invocar;
+		:eAntonimo :ulular;
+		:eAntonimo :vociferar;
+		:eAntonimo :vozear;.
+
+:concludente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem conclui ou termina;' ;
+		:Significado ' Que é absoluto, incontestável ou taxativo;' ;
+		:Significado ' Persuasivo ou convincente;' ;
+		:Significado ' Que é deliberativo ou resolutivo;' ;
+		:Significado ' Que é consequente ou procedente.' ;
+		:Significado ' (Etm. do latim: concludente)' ;
+		:eAntonimo :hesitante;
+		:eAntonimo :inconcludente;
+		:eAntonimo :indecisivo;
+		:eAntonimo :indeciso;
+		:eAntonimo :indeterminado;
+		:eAntonimo :irresoluto;
+		:eAntonimo :categorico;
+		:eAntonimo :conclusivo;
+		:eAntonimo :incontestavel;
+		:eAntonimo :terminante;.
+
+:concluente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Do mesmo significado de concludente.' ;
+		:Significado ' (Etm. do latim: concludente)' ;.
+
+:concluído rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que já se concluiu ou acabou;' ;
+		:Significado ' Diz-se do que se depreendeu, inferiu ou deduziu.' ;
+		:Significado ' (Etm. Part. Pass. de: concluir)' ;
+		:eAntonimo :deduzido;
+		:eAntonimo :terminado;.
+
+:concluinte rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Do mesmo significado de concludente.' ;
+		:Significado ' (Etm. de: concluinte)' ;
+		:eAntonimo :concludente;
+		:eAntonimo :concluente;.
+
+:concluir rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' terminar: concluir uma obra' ;
+		:Significado ' deduzir: Pelo que dizes, concluo que não gostaste do
+filme.' ;
+		:eAntonimo :acabar;
+		:eAntonimo :completar;
+		:eAntonimo :finalizar;
+		:eAntonimo :findar;
+		:eAntonimo :perfazer;
+		:eAntonimo :rematar;
+		:eAntonimo :terminar;
+		:eAntonimo :ultimar;.
+
+:conclusão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ato, efeito ou processo de fazer algo chegar ao seu fim; finalização' ;
+		:Significado ' Ideia ou posição final a que se chega depois da análise de factos observados ou discutidos; ilação' ;
+		:Significado ' Ensinamento que se retira de um texto ou de um facto; moral' ;
+		:Significado ' Parte final de uma obra literária ou de uma peça musical; desfecho' ;
+		:Significado ' Em Lógica, proposição de um silogismo cuja verdade ou falsidade depende do carácter verdadeiro ou falso das premissas anteriores' ;
+		:eAntonimo :acabamento;
+		:eAntonimo :aperfeicoamento;
+		:eAntonimo :desenlace;
+		:eAntonimo :desfecho;
+		:eAntonimo :epilogo;
+		:eAntonimo :peroracao;
+		:eAntonimo :retoque;.
+
+:conclusivo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que engloba ou inclui uma conclusão;' ;
+		:Significado ' Que tem a utilidade ou o propósito de concluir;' ;
+		:Significado ' (Gramática) Referente à conjunção coordenativa ou oração coordenada que manifesta ou apresenta uma conclusão;' ;
+		:Significado ' (Gramática) Referente ao elemento verbal que assinala um ato acabado, finalizado ou integral.' ;
+		:Significado ' (Etm. do latim: conclusīvu)' ;
+		:eAntonimo :anteprimeiro;
+		:eAntonimo :inaugural;
+		:eAntonimo :incipiente;
+		:eAntonimo :inconclusivo;
+		:eAntonimo :inicial;
+		:eAntonimo :iniciativo;
+		:eAntonimo :introdutorio;
+		:eAntonimo :preambular;
+		:eAntonimo :preliminar;
+		:eAntonimo :preparatorio;
+		:eAntonimo :primeiro;
+		:eAntonimo :principiante;
+		:eAntonimo :propedeutico;
+		:eAntonimo :concludente;
+		:eAntonimo :convincente;
+		:eAntonimo :decisivo;
+		:eAntonimo :final;
+		:eAntonimo :ilativo;.
+
+:concluso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que já foi terminado, concluído ou resolvido;' ;
+		:Significado ' (Direito) Referente ao processo que foi a despacho ou a deliberação judicial.' ;
+		:Significado ' (Etm. do latim: conclūsu)' ;
+		:eAntonimo :aberto;
+		:eAntonimo :comecado;
+		:eAntonimo :encetado;
+		:eAntonimo :incoado;
+		:eAntonimo :iniciado;
+		:eAntonimo :principiado;
+		:eAntonimo :acabado;
+		:eAntonimo :assentado;
+		:eAntonimo :concluido;
+		:eAntonimo :determinado;
+		:eAntonimo :encerramento;
+		:eAntonimo :findo;
+		:eAntonimo :resolvido;
+		:eAntonimo :ultimado;.
+
+:concomitância rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de coincidência ou simultaneidade; existência ou ocorrência de duas ou mais coisas ao mesmo tempo.' ;
+		:eAntonimo :incoexistencia;
+		:eAntonimo :coincidencia;
+		:eAntonimo :simultaneidade;
+		:eAntonimo :sincronia;
+		:eAntonimo :sincronismo;.
+
+:concomitantemente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira concomitante, simultânea;' ;
+		:Significado ' Em que há simultaneidade;' ;
+		:Significado ' De modo anexo ou secundário; anexamente.' ;
+		:Significado ' (Etm. concomitante + mente)' ;
+		:eAntonimo :abandonadamente;
+		:eAntonimo :basilarmente;
+		:eAntonimo :desacompanhadamente;
+		:eAntonimo :desamparadamente;
+		:eAntonimo :forcosamente;
+		:eAntonimo :giratoriamente;
+		:eAntonimo :importantemente;
+		:eAntonimo :imprescindivelmente;
+		:eAntonimo :indispensavelmente;
+		:eAntonimo :isentamente;
+		:eAntonimo :isoladamente;
+		:eAntonimo :necessariamente;
+		:eAntonimo :obrigatoriamente;
+		:eAntonimo :primariamente;
+		:eAntonimo :primitivamente;
+		:eAntonimo :primordialmente;
+		:eAntonimo :principalmente;
+		:eAntonimo :substancialmente;
+		:eAntonimo :superiormente;
+		:eAntonimo :unicamente;
+		:eAntonimo :vitalmente;
+		:eAntonimo :coincidentemente;
+		:eAntonimo :conjuntamente;
+		:eAntonimo :simultaneamente;
+		:eAntonimo :sincronicamente;
+		:eAntonimo :sincronicamente;.
+
+:concordância rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acordo: dar a sua concordância a algo' ;
+		:eAntonimo :acordo;
+		:eAntonimo :anuencia;
+		:eAntonimo :assentimento;
+		:eAntonimo :autorizacao;
+		:eAntonimo :conciliacao;
+		:eAntonimo :concordia;
+		:eAntonimo :conformidade;
+		:eAntonimo :consentimento;
+		:eAntonimo :consonancia;
+		:eAntonimo :entendimento;
+		:eAntonimo :harmonia;
+		:eAntonimo :permissao;
+		:eAntonimo :reconciliacao;.
+
+:concordante rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem concorda;' ;
+		:Significado ' Que é equilibrado ou harmonioso;' ;
+		:Significado ' Que é congruente ou coerente;' ;
+		:Significado ' Que é simultâneo ou concomitante.' ;
+		:Significado ' (Etm. do latim: concordante)' ;
+		:eAntonimo :adverso;
+		:eAntonimo :contraditorio;
+		:eAntonimo :diferente;
+		:eAntonimo :discrepante;
+		:eAntonimo :diverso;
+		:eAntonimo :inverso;
+		:eAntonimo :oponente;
+		:eAntonimo :concorde;
+		:eAntonimo :conforme;
+		:eAntonimo :consoante;
+		:eAntonimo :harmonioso;.
+
+:concordar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Congraçar, harmonizar ou conciliar;' ;
+		:Significado ' Acordar, combinar ou pactuar;' ;
+		:Significado ' Colocar em acordo, conformidade ou entendimento com;' ;
+		:Significado ' Coincidir ou compatibilizar;' ;
+		:Significado ' Definir ou determinar a concordância em termos gramaticais;' ;
+		:Significado ' Estar de acordo ou aceitar;' ;
+		:Significado ' Concordar ou condizer;' ;
+		:Significado ' Apresentar concórdia ou uniformidade com;' ;
+		:Significado ' (Música) Realizar acorde.' ;
+		:Significado ' (Etm. do latim: concordāre)' ;
+		:eAntonimo :advir;
+		:eAntonimo :contender;
+		:eAntonimo :desacordar;
+		:eAntonimo :desamistar;
+		:eAntonimo :discrepar;
+		:eAntonimo :incompatibilizar;
+		:eAntonimo :objetar;
+		:eAntonimo :aceitar;
+		:eAntonimo :admitir;
+		:eAntonimo :apoiar;
+		:eAntonimo :aprovar;
+		:eAntonimo :assinar;
+		:eAntonimo :estribar;
+		:eAntonimo :subscrever;.
+
+:concordata rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Religião) Acordo ou compromisso realizado entre a Santa Sé e uma nação católica acerca das ligações (nesse país) entre a Igreja e o governo;' ;
+		:Significado ' (Direito) Ajuste ou entendimento realizado entre a pessoa economicamente arruinada e os respetivos credores.' ;
+		:Significado ' (Etm. do latim: concordāta)' ;
+		:eAntonimo :acordo;
+		:eAntonimo :ajuste;
+		:eAntonimo :entendimento;
+		:eAntonimo :trato;.
+
+:concorde rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquele ou daquilo que se encontra de acordo com; concordante ou congruente;' ;
+		:Significado ' Que é cônsono, harmonioso ou equilibrado.' ;
+		:Significado ' (Etm. do latim: concorde)' ;
+		:eAntonimo :desarmonico;
+		:eAntonimo :desconforme;
+		:eAntonimo :desproporcionado;
+		:eAntonimo :discordante;
+		:eAntonimo :enrixado;
+		:eAntonimo :incompatibilizado;
+		:eAntonimo :indisposto;
+		:eAntonimo :zangado;
+		:eAntonimo :acordante;
+		:eAntonimo :acorde;
+		:eAntonimo :afinado;
+		:eAntonimo :ajustado;
+		:eAntonimo :assente;
+		:eAntonimo :avindo;
+		:eAntonimo :coincidente;
+		:eAntonimo :concordante;
+		:eAntonimo :conforme;
+		:eAntonimo :congruente;
+		:eAntonimo :consonante;
+		:eAntonimo :consono;
+		:eAntonimo :harmonioso;.
+
+:concórdia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' paz e harmonia: a concórdia entre as nações' ;
+		:eAntonimo :acordo;
+		:eAntonimo :conciliacao;
+		:eAntonimo :concordancia;
+		:eAntonimo :conformidade;
+		:eAntonimo :consonancia;
+		:eAntonimo :entendimento;
+		:eAntonimo :harmonia;
+		:eAntonimo :reconciliacao;.
+
+:concorrência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' luta de interesses: concorrência desleal' ;
+		:Significado ' competição entre empresas: concorrência económica' ;
+		:Significado ' reunião de pessoas num local: O concerto teve pouca concorrência.' ;
+		:eAntonimo :afluencia;.
+
+:concorrente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' rival: empresas concorrentes' ;
+		:Significado ' pessoa que participa numa competição: os concorrentes de um concurso' ;.
+
+:concorrer rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' participar numa competição: concorrer na competição desportiva' ;
+		:Significado ' candidatar-se a: concorrer a um emprego' ;.
+
+:concreção rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ato ou ação de fazer com que fique concreto;' ;
+		:Significado ' Ato de estabilizar, solidar ou solidificar;' ;
+		:Significado ' Designação de condensação;' ;
+		:Significado ' Elemento originário da acumulação de sólidos existentes num líquido;' ;
+		:Significado ' Denominação atribuída a uma ossificação fora do normal;' ;
+		:Significado ' (Medicina) Do mesmo significado de cálculo;' ;
+		:Significado ' Referente a uma agregação sólida em tecidos vivos.' ;
+		:Significado ' (Etm. do latim: concretiōne)' ;
+		:eAntonimo :inconsistencia;
+		:eAntonimo :liquidificacao;
+		:eAntonimo :moleza;
+		:eAntonimo :condensacao;
+		:eAntonimo :solidificacao;.
+
+:concretização rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de concretizar ou de se concretizar;' ;
+		:Significado ' Objetivação ou corporificação; materialização ou realização.' ;
+		:Significado ' (Etm. concretizar + ção)' ;
+		:eAntonimo :abstracao;
+		:eAntonimo :alheamento;
+		:eAntonimo :desatencao;
+		:eAntonimo :devaneio;
+		:eAntonimo :materializacao;.
+
+:concretizar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' realizar: concretizar os seus desejos' ;.
+
+:concreto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que é real: uma imagem concreta' ;.
+
+:concupiscência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ânsia ou vontade desmedida de satisfazer os seus desejos sexuais;' ;
+		:Significado ' Tendência para se entregar a prazeres terrestres e mundanos, particularmente aos sensuais;' ;
+		:Significado ' Ganância ou ambição por bens materiais;' ;
+		:Significado ' Inveja ou cobiça.' ;
+		:Significado ' (Etm. do latim: concupiscentĭa)' ;
+		:eAntonimo :candura;
+		:eAntonimo :castidade;
+		:eAntonimo :inocencia;
+		:eAntonimo :pudor;
+		:eAntonimo :pureza;
+		:eAntonimo :virgindade;
+		:eAntonimo :ambicao;
+		:eAntonimo :ganancia;
+		:eAntonimo :lascivia;
+		:eAntonimo :luxuria;.
+
+:concupiscente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem possui concupiscência;' ;
+		:Significado ' Que é sedutor ou lascivo.' ;
+		:Significado ' (Etm. do latim: concupiscente)' ;
+		:eAntonimo :direito;
+		:eAntonimo :grandioso;
+		:eAntonimo :honesto;
+		:eAntonimo :honrado;
+		:eAntonimo :imaculado;
+		:eAntonimo :imponente;
+		:eAntonimo :integro;
+		:eAntonimo :pudibundo;
+		:eAntonimo :pudico;
+		:eAntonimo :recatado;
+		:eAntonimo :uniforme;
+		:eAntonimo :carnal;
+		:eAntonimo :devasso;
+		:eAntonimo :erotico;
+		:eAntonimo :lascivo;
+		:eAntonimo :libertino;
+		:eAntonimo :lubrico;
+		:eAntonimo :salaz;
+		:eAntonimo :sensual;
+		:eAntonimo :voluptuoso;.
+
+:concupiscível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo que pode originar, despertar ou causar concupiscência ou lascívia.' ;
+		:Significado ' (Etm. do latim: concupiscibilis)' ;.
+
+:concurso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' competição entre pessoas: um concurso de beleza; um concurso de televisão' ;
+		:eAntonimo :certame;
+		:eAntonimo :torneio;.
+
+:condão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica especial ou misteriosa; poder sobrenatural;' ;
+		:Significado ' Dom ou dádiva;' ;
+		:Significado ' Virtude;' ;
+		:Significado ' Privilégio ou regalia.' ;
+		:Significado ' (Etm. forma regressiva de condoar, do latim: condonāre)' ;
+		:eAntonimo :capacidade;
+		:eAntonimo :dom;
+		:eAntonimo :faculdade;
+		:eAntonimo :poder;
+		:eAntonimo :virtude;.
+
+:conde rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Título de nobreza ou denominação meramente de destaque ou elevação, situada abaixo de marquês e acima de visconde;' ;
+		:Significado ' (História) Autoridade ou senhor de um condado durante a Idade Média;' ;
+		:Significado ' Designação, num baralho de cartas, da carta também conhecida por valete;' ;
+		:Significado ' (Botânica) Variante de pera, normalmente de grandes dimensões e muito sumarenta.' ;
+		:Significado ' (Etm. do latim: comĭte)' ;
+		:eAntonimo :valete;.
+
+:condecoração rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' medalha: receber uma condecoração' ;
+		:eAntonimo :divisa;
+		:eAntonimo :medalha;.
+
+:condecorar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' dar medalha a: condecorar alguém pelos seus méritos' ;.
+
+:condenação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' decisão do tribunal de punir um réu: condenação à prisão perpétua' ;
+		:Significado ' crítica dura: uma condenação da corrupção' ;
+		:eAntonimo :pena;.
+
+:condenado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' que foi declarado culpado e castigado: um condenado à prisão perpétua' ;
+		:eAntonimo :reprobo;.
+
+:condenar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' declarar culpado e punir: condenar alguém a prisão perpétua' ;
+		:Significado ' censurar: condenar os vícios' ;
+		:eAntonimo :acoimar;
+		:eAntonimo :apenar;
+		:eAntonimo :autuar;
+		:eAntonimo :coimar;
+		:eAntonimo :desaprovar;
+		:eAntonimo :improbar;
+		:eAntonimo :multar;
+		:eAntonimo :penalizar;
+		:eAntonimo :reprovar;
+		:eAntonimo :sentenciar;.
+
+:condenável rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que é digno de ser condenado;' ;
+		:Significado ' Que é censurável ou repreensível;' ;
+		:Significado ' Que é imperdoável ou execrável.' ;
+		:Significado ' (Etm. do latim: condemnabĭle)' ;
+		:eAntonimo :impoluto;
+		:eAntonimo :incensuravel;
+		:eAntonimo :justificavel;
+		:eAntonimo :morigero;
+		:eAntonimo :perdoavel;
+		:eAntonimo :remissivel;
+		:eAntonimo :abusivo;
+		:eAntonimo :censuravel;
+		:eAntonimo :criticavel;
+		:eAntonimo :imperdoavel;
+		:eAntonimo :repreensivel;.
+
+:condenavelmente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira condenável; de modo aborrecido, abusivo ou censurável; de forma criticável, execrável, imperdoável ou odiosa.' ;
+		:Significado ' (Etm. condenável + mente)' ;
+		:eAntonimo :aborrecidamente;
+		:eAntonimo :abusivamente;
+		:eAntonimo :censuravelmente;
+		:eAntonimo :criticavelmente;
+		:eAntonimo :imperdoavelmente;.
+
+:condensar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' resumir: condensar o discurso em três frases' ;
+		:eAntonimo :abreviar;
+		:eAntonimo :compendiar;
+		:eAntonimo :encurtar;
+		:eAntonimo :epilogar;
+		:eAntonimo :recapitular;
+		:eAntonimo :reduzir;
+		:eAntonimo :resumir;
+		:eAntonimo :sintetizar;
+		:eAntonimo :sumariar;.
+
+:condensar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' passar ao estado líquido' ;.
+
+:condescendência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ato ou efeito de condescender; transigência' ;
+		:Significado ' Qualidade de quem é condescendente; benevolência; tolerância' ;
+		:Significado ' Superioridade ou arrogância em relação a alguma coisa ou a alguém; paternalismo' ;
+		:eAntonimo :inclemencia;
+		:eAntonimo :inflexibilidade;
+		:eAntonimo :intolerancia;
+		:eAntonimo :intransigencia;
+		:eAntonimo :anuencia;
+		:eAntonimo :benevolencia;
+		:eAntonimo :complacencia;
+		:eAntonimo :paternalismo;
+		:eAntonimo :tolerancia;
+		:eAntonimo :transigencia;.
+
+:condescendente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que revela condescendência' ;
+		:Significado ' Em que há abertura para ceder às vontades ou às opiniões dos outros, ainda que estas não representem os próprios princípios' ;
+		:Significado ' Que possui flexibilidade ou tolerância; que não é autoritário' ;
+		:Significado ' (Sentido pejorativo) que abdica dos bons princípios ou de outros valores quando faz a apreciação ou julgamento de algo ou de alguém' ;
+		:Significado ' (Sentido pejorativo) diz-se de quem demonstra uma certa superioridade, arrogância ou desdém perante outrem ou alguma coisa' ;
+		:eAntonimo :aspero;
+		:eAntonimo :desacordante;
+		:eAntonimo :desarmonico;
+		:eAntonimo :diferente;
+		:eAntonimo :discordante;
+		:eAntonimo :discrepante;
+		:eAntonimo :divergente;
+		:eAntonimo :exigente;
+		:eAntonimo :instransigente;
+		:eAntonimo :oposto;
+		:eAntonimo :acomodadico;
+		:eAntonimo :complacente;
+		:eAntonimo :ductil;
+		:eAntonimo :transigente;.
+
+:condescendentemente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira condescendente; de forma bondosa, complacente, dúctil ou indulgente;' ;
+		:Significado ' De modo paternalista ou arrogante.' ;
+		:Significado ' (Etm. condescendente + mente)' ;
+		:eAntonimo :desacordantemente;
+		:eAntonimo :desarmonicamente;
+		:eAntonimo :discordantemente;
+		:eAntonimo :discrepantemente;
+		:eAntonimo :divergentemente;
+		:eAntonimo :arrogantemente;
+		:eAntonimo :bondosamente;
+		:eAntonimo :complacentemente;
+		:eAntonimo :indulgentemente;
+		:eAntonimo :paternalistamente;.
+
+:condescender rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação de concordar em fazer a vontade ou cumprir a vontade de alguém, ainda que com alguma hesitação; permitir; transigir; ceder' ;
+		:Significado ' Ato de ceder ao desejo de alguém de forma voluntária; comprazer' ;
+		:Significado ' Demonstrar uma postura paternalista, de superioridade em relação a outra pessoa' ;
+		:eAntonimo :desacordar;
+		:eAntonimo :desafinar;
+		:eAntonimo :desaprovar;
+		:eAntonimo :desarmonizar;
+		:eAntonimo :desconsentir;
+		:eAntonimo :desestimar;
+		:eAntonimo :desmentir;
+		:eAntonimo :discordar;
+		:eAntonimo :discrepar;
+		:eAntonimo :dissentir;
+		:eAntonimo :divergir;
+		:eAntonimo :recusar;
+		:eAntonimo :refutar;
+		:eAntonimo :rejeitar;
+		:eAntonimo :renuir;
+		:eAntonimo :ceder;
+		:eAntonimo :comprazer;
+		:eAntonimo :concordar;
+		:eAntonimo :contemporizar;
+		:eAntonimo :permitir;
+		:eAntonimo :transigir;.
+
+:condição rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' Circunstância ou estado em que uma pessoa se encontra: condições psicológicas afetadas;' ;
+		:Significado ' Requisito, premissa ou exigência; cláusula ou facto obrigatório, que não é possível dispensar: as condições de venda estão incluídas no folheto; só farei isso na condição de me dares uma prenda;' ;
+		:Significado ' Designação de classe ou posição social; nível, categoria ou esfera social: condição económico-social elevada;' ;
+		:Significado ' Feitio, índole ou maneira de ser de alguém;' ;
+		:Significado ' Chance, oportunidade ou possibilidade;' ;
+		:Significado ' Denominação de circunstâncias de que se encontram dependentes indivíduos ou coisas.' ;
+		:Significado ' (Etm. do latim)' ;
+		:eAntonimo :circunstancia;
+		:eAntonimo :estado;
+		:eAntonimo :exigencia;
+		:eAntonimo :quesito;
+		:eAntonimo :requisito;
+		:eAntonimo :situacao;.
+
+:condicente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que se encontra em conformidade ou de acordo com; que condiz ou é condizente.' ;
+		:Significado ' (Etm. do latim: condicente)' ;
+		:eAntonimo :condizente;.
+
+:condicional rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' dependente de condição: liberdade condicional' ;
+		:Significado ' modo verbal' ;.
+
+:condicionar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' pôr condições: condicionar a entrada no baile a maiores de 18
+anos' ;
+		:Significado ' determinar, influenciar: O clima condiciona as pessoas.' ;.
+
+:condimentar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' temperar a comida: condimentar a carne' ;
+		:eAntonimo :adubar;
+		:eAntonimo :temperar;.
+
+:condimento rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' substância que realça o sabor dos alimentos: A pimenta é um condimento.' ;
+		:eAntonimo :adubo;
+		:eAntonimo :especiaria;
+		:eAntonimo :tempero;.
+
+:condiscípulo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' colega de estudos: os condiscípulos do liceu' ;.
+
+:condizente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que condiz com; concordante ou combinado;' ;
+		:Significado ' Proporcional, harmónico ou consonante;' ;
+		:Significado ' Que é apropriado ou adequado.' ;
+		:Significado ' (Etm. condizer + ente)' ;
+		:eAntonimo :antinomico;
+		:eAntonimo :contrario;
+		:eAntonimo :desarmonico;
+		:eAntonimo :desproporcionado;
+		:eAntonimo :inverso;
+		:eAntonimo :oposto;
+		:eAntonimo :adequado;
+		:eAntonimo :ajustado;
+		:eAntonimo :apropriado;
+		:eAntonimo :combinado;
+		:eAntonimo :concordante;
+		:eAntonimo :condicente;
+		:eAntonimo :consentaneo;
+		:eAntonimo :conveniente;
+		:eAntonimo :harmonico;
+		:eAntonimo :proprio;.
+
+:condizer rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' ficar bem com: uns sapatos a condizer com o vestido' ;.
+
+:condoer-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' ter compaixão por: condoer-se dos pobres' ;.
+
+:condolência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' expressão de tristeza pela morte de alguém' ;
+		:eAntonimo :compaixao;
+		:eAntonimo :dor;
+		:eAntonimo :pesar;.
+
+:condomínio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' propriedade colectiva de um prédio: taxas de condomínio' ;.
+
+:condómino rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Do mesmo significado de coproprietário;' ;
+		:Significado ' Senhoria ou proprietário de edificação horizontal;' ;
+		:Significado ' Designação de cada um dos donos de uma (ou mais) fração de uma propriedade horizontal, normalmente correspondente a um apartamento.' ;
+		:Significado ' (Etm. do latim: condomĭnu)' ;
+		:eAntonimo :coproprietario;.
+
+:condor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' ave de rapina' ;.
+
+:condução rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' direcção de algo: ser responsável pela condução dos negócios' ;
+		:Significado ' acto de guiar um veículo: a condução do autocarro' ;
+		:eAntonimo :meio;
+		:eAntonimo :transporte;.
+
+:conducente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se de quem ou do que conduz a;' ;
+		:Significado ' Diz-se do que ou de quem tende ou apresenta tendência para.' ;
+		:Significado ' (Etm. do latim: conducente)' ;
+		:eAntonimo :tendente;.
+
+:conduta rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' comportamento: uma conduta correcta' ;
+		:Significado ' tubo: a conduta dos esgotos' ;
+		:eAntonimo :actuacao;
+		:eAntonimo :comportamento;
+		:eAntonimo :procedimento;.
+
+:conduto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Denominação de canudo ou tubo de condução;' ;
+		:Significado ' Canal, conduta ou via;' ;
+		:Significado ' Acesso ou meio;' ;
+		:Significado ' (Popular) Referente a qualquer tipo de alimento que se come habitualmente com pão;' ;
+		:Significado ' (Popular) Quantia monetária de baixo valor que é entregue aos empregados da lavoura para que estes comprem esse alimento;' ;
+		:Significado ' (Regionalismo) Designação de prato que é servido após a sopa.' ;
+		:Significado ' (Etm. do latim: conductu)' ;
+		:eAntonimo :acesso;
+		:eAntonimo :canal;
+		:eAntonimo :cano;
+		:eAntonimo :conduta;
+		:eAntonimo :entrada;
+		:eAntonimo :meato;
+		:eAntonimo :meio;
+		:eAntonimo :via;.
+
+:condutor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' pessoa que conduz um veículo: o condutor do camião' ;
+		:Significado ' que permite a passagem da corrente eléctrica: o cobre é um bom condutor' ;.
+
+:conduzir rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Guiar ou dirigir um veículo: conduzir um automóvel;' ;
+		:Significado ' Levar algo ou alguém a algum lado ou a certo local; escoltar, acompanhar ou encaminhar: conduzir a paciente até ao consultório;' ;
+		:Significado ' Ser o condutor ou transportador de algo ou alguém; transportar, trazer ou carregar;' ;
+		:Significado ' Controlar, gerir ou comandar alguma coisa: é ele que conduz esta empresa;' ;
+		:Significado ' Carrear animais;' ;
+		:Significado ' Transmitir, propagar ou passar um comunicado, uma informação, entre outras coisas; ' ;
+		:Significado ' (Figurado) Nortear, encaminhar ou orientar algo ou alguém;' ;
+		:Significado ' Ir dar ou ir ter a algum local;' ;
+		:Significado ' Estar habilitado, ter a faculdade de ou encontrar-se a guiar ou dirigir um veículo;' ;
+		:Significado ' 1Comportar-se; agir-se ou proceder.' ;
+		:Significado ' (Etm. do latim: conducĕre)' ;
+		:eAntonimo :carrear;
+		:eAntonimo :comandar;
+		:eAntonimo :gerir;
+		:eAntonimo :guiar;
+		:eAntonimo :levar;
+		:eAntonimo :nortear;
+		:eAntonimo :orientar;
+		:eAntonimo :transportar;
+		:eAntonimo :trazer;.
+
+:cone rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' sólido geométrico' ;.
+
+:conectadamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira conectada; de forma relacionada ou ligada.' ;
+		:Significado ' (Etm. conectada + mente)' ;
+		:eAntonimo :apartadamente;
+		:eAntonimo :separadamente;
+		:eAntonimo :relacionadamente;
+		:eAntonimo :vinculadamente;.
+
+:conectado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo que se conectou ou ligou; que foi unido; que está relacionado.' ;
+		:Significado ' (Etm. Part. Pass. de: conectar)' ;
+		:eAntonimo :ligado;
+		:eAntonimo :relacionado;
+		:eAntonimo :unido;.
+
+:conectar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' (Eletricidade) Iniciar ou criar conexão ou ligação entre (quaisquer constituintes de um circuito);' ;
+		:Significado ' (Informática) Iniciar ou criar conexão ou ligação entre (computadores ou sistemas informáticos);' ;
+		:Significado ' Ligar, relacionar, associar ou unir.' ;
+		:Significado ' (Etm do latim clássico: conectĕre; do latim vulgar: conectāre)' ;
+		:eAntonimo :desconectar;
+		:eAntonimo :desligar;
+		:eAntonimo :desunir;
+		:eAntonimo :acoplar;
+		:eAntonimo :agregar;
+		:eAntonimo :ajuntar;
+		:eAntonimo :associar;
+		:eAntonimo :interligar;
+		:eAntonimo :juntar;
+		:eAntonimo :ligar;
+		:eAntonimo :prender;
+		:eAntonimo :unir;.
+
+:cónego rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Religião) Denominação atribuída a clérigo pertencente a um cabido;' ;
+		:Significado ' Padre que faz parte da direção de determinada igreja (normalmente uma catedral);' ;
+		:Significado ' (Figurado) Designação de indivíduo que vive com muitos bens e pouco trabalha.' ;
+		:Significado ' (Etm. do grego: kanonikós; do latim: canonĭcu)' ;.
+
+:conexão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Condição dos elementos que se encontram pegados ou conectados;' ;
+		:Significado ' Designação de coerência ou lógica;' ;
+		:Significado ' Afinidade ou semelhança;' ;
+		:Significado ' Vínculo, união ou ligação entre indivíduos ou instituições;' ;
+		:Significado ' (Etm. do latim: conexiōne)' ;
+		:eAntonimo :desarticulacao;
+		:eAntonimo :desconexao;
+		:eAntonimo :desligadura;
+		:eAntonimo :desligamento;
+		:eAntonimo :desuniao;
+		:eAntonimo :independencia;
+		:eAntonimo :acoplamento;
+		:eAntonimo :amarracao;
+		:eAntonimo :contacto;
+		:eAntonimo :juncao;
+		:eAntonimo :liga;
+		:eAntonimo :ligacao;
+		:eAntonimo :nexo;
+		:eAntonimo :uniao;
+		:eAntonimo :vinculo;.
+
+:conexivamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira conexa; de modo unido, ligado ou lógico.' ;
+		:Significado ' (Etm. conexiva + mente)' ;
+		:eAntonimo :apartadamente;
+		:eAntonimo :ilogicamente;
+		:eAntonimo :separadamente;
+		:eAntonimo :juntamente;
+		:eAntonimo :logicamente;
+		:eAntonimo :unidamente;.
+
+:conexo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que possui conexão ou ligação;' ;
+		:Significado ' Que tem ou apresenta lógica ou nexo;' ;
+		:Significado ' Que está ligado ou relacionado;' ;
+		:Significado ' Que se encontra subordinado ou dependente;' ;
+		:Significado ' (Botânica) Designação atribuída às folhas (de algumas plantas) possuidoras de pecíolos opostos que se encontram ligados na base. ' ;
+		:Significado ' (Etm. do latim: conexu)' ;
+		:eAntonimo :antilogico;
+		:eAntonimo :fragmentario;
+		:eAntonimo :heterogeneo;
+		:eAntonimo :incoerente;
+		:eAntonimo :inconsequente;
+		:eAntonimo :irracional;
+		:eAntonimo :surdo;
+		:eAntonimo :variavel;
+		:eAntonimo :afim;
+		:eAntonimo :ligado;
+		:eAntonimo :relacionado;
+		:eAntonimo :relativo;.
+
+:confabulação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de confabular;' ;
+		:Significado ' Designação de troca de pensamentos ou opiniões;' ;
+		:Significado ' Diálogo acerca de temas misteriosos ou suspeitos.' ;
+		:Significado ' (Etm. do latim: confabulatiōne)' ;.
+
+:confabular rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ação de dialogar de modo relaxado ou tranquilo; trocar pensamentos, conceitos ou pontos de vista;' ;
+		:Significado ' Dialogar acerca de temas sigilosos ou enigmáticos; conjurar ou tramar;' ;
+		:Significado ' Narrar histórias fantásticas ou imaginárias como se as mesmas fossem reais; devanear, imaginar ou idealizar.' ;
+		:Significado ' (Etm. do latim: confabulāri)' ;
+		:eAntonimo :conjurar;
+		:eAntonimo :conspirar;
+		:eAntonimo :conversar;
+		:eAntonimo :falar;
+		:eAntonimo :tramar;.
+
+:confecção rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acto de fabricar: a confecção de um bolo' ;
+		:Significado ' indústria de vestuário: a indústria da confecção' ;.
+
+:confeccionar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ação de elaborar ou preparar;' ;
+		:Significado ' Ato de manipular ou preparar medicação;' ;
+		:Significado ' Fabricar peça de costura ou roupa; produzir em série (roupa);' ;
+		:Significado ' Arranjar, compor ou providenciar.' ;
+		:Significado ' (Etm. do latim: confectiōne + ar)' ;.
+
+:confecionar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ação de elaborar ou preparar;' ;
+		:Significado ' Ato de manipular ou preparar medicação;' ;
+		:Significado ' Fabricar peça de costura ou roupa; produzir em série (roupa);' ;
+		:Significado ' Arranjar, compor ou providenciar.' ;
+		:Significado ' (Etm. do latim: confectiōne + ar)' ;
+		:eAntonimo :descompor;
+		:eAntonimo :desfazer;
+		:eAntonimo :desorganizar;
+		:eAntonimo :confeitar;
+		:eAntonimo :fabricar;
+		:eAntonimo :fazer;
+		:eAntonimo :manipular;
+		:eAntonimo :manufaturar;
+		:eAntonimo :organizar;
+		:eAntonimo :preparar;.
+
+:confederação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de confederar;' ;
+		:Significado ' Agrupamento ou união de Estados que permite que cada um dos seus elementos mantenha os seus direitos estatais, com a exceção de certos direitos cuja delegação pertence a um órgão comum a todos;' ;
+		:Significado ' Aliança, associação ou coligação.' ;
+		:Significado ' (Etm. do latim: confderatiōne)' ;
+		:eAntonimo :alianca;
+		:eAntonimo :associacao;
+		:eAntonimo :coligacao;
+		:eAntonimo :federacao;.
+
+:confederado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que se ligou ou uniu em confederação; unido; ligado' ;
+		:eAntonimo :aliado;
+		:eAntonimo :ligado;
+		:eAntonimo :unidos;.
+
+:confederar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Ligar ou juntar em confederação;' ;
+		:Significado ' Associar-se ou aliar-se, normalmente com objetivos políticos.' ;
+		:Significado ' (Etm. do latim: confderāre)' ;
+		:eAntonimo :aliar;
+		:eAntonimo :associar;
+		:eAntonimo :coligar;
+		:eAntonimo :juntar;
+		:eAntonimo :ligar;
+		:eAntonimo :unir;.
+
+:confeitar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ação de cobrir (um bolo, ou bolinhos, ou outro) com açúcar;' ;
+		:Significado ' (Figurado) Adocicar ou atenuar; amenizar ou acalmar;' ;
+		:Significado ' (Figurado) Acobertar ou disfarçar.' ;
+		:Significado ' (Etm. do latim: confectāre)' ;
+		:eAntonimo :adocar;
+		:eAntonimo :cobrir;
+		:eAntonimo :disfarcar;
+		:eAntonimo :suavizar;.
+
+:confeitaria rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pastelaria: comprar bolos na confeitaria' ;.
+
+:conferência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' exposição oral sobre um tema: uma conferência sobre arte' ;
+		:Significado ' conversa entre várias pessoas' ;
+		:eAntonimo :comparacao;
+		:eAntonimo :confrontacao;
+		:eAntonimo :verificacao;.
+
+:conferencista rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa que faz conferências' ;.
+
+:conferir rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' verificar, controlar: conferir as contas' ;
+		:eAntonimo :certificar;
+		:eAntonimo :confirmar;
+		:eAntonimo :reconhecer;
+		:eAntonimo :verificar;.
+
+:confessar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Afirmar ou alegar em confissão; ' ;
+		:Significado ' Expor ou revelar algo; admitir algo;' ;
+		:Significado ' Ato de escutar a confissão de outra pessoa;' ;
+		:Significado ' Afirmar ou proferir os seus pecados em confissão;' ;
+		:Significado ' Manifestar ou proferir;' ;
+		:Significado ' Reconhecer, revelar ou expor.' ;
+		:Significado ' (Etm. do latim: confessāre)' ;
+		:eAntonimo :desconfessar;
+		:eAntonimo :dissimular;
+		:eAntonimo :encobrir;
+		:eAntonimo :ocultar;
+		:eAntonimo :omitir;
+		:eAntonimo :renegar;
+		:eAntonimo :suprimir;
+		:eAntonimo :adotar;
+		:eAntonimo :declarar;
+		:eAntonimo :manifestar;
+		:eAntonimo :reconhecer;
+		:eAntonimo :revelar;
+		:eAntonimo :seguir;.
+
+:confessar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' contar os seus pecados ao padre: confessar-se ao padre' ;.
+
+:confiança rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' crença na honestidade de alguém: ter confiança em alguém' ;
+		:Significado ' segurança em si próprio' ;
+		:Significado ' esperança: ter confiança no futuro' ;
+		:eAntonimo :credito;.
+
+:confiante rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem confia ou acredita;' ;
+		:Significado ' Que é positivo ou esperançoso.' ;
+		:Significado ' (Etm. confiar + ante)' ;
+		:eAntonimo :crente;
+		:eAntonimo :esperancado;
+		:eAntonimo :esperancoso;
+		:eAntonimo :optimista;
+		:eAntonimo :positivo;.
+
+:confiar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' acreditar: confiar em alguém' ;
+		:Significado ' contar, revelar: confiar um segredo a alguém' ;
+		:Significado ' entregar, dar: confiar um pacote a alguém; confiar um trabalho a alguém' ;
+		:eAntonimo :acreditar;
+		:eAntonimo :crer;
+		:eAntonimo :encarregar;
+		:eAntonimo :incumbir;
+		:eAntonimo :responsabilizar;.
+
+:confidência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' segredo: fazer confidências a uma amiga' ;.
+
+:confidencial rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' secreto: informações confidenciais' ;
+		:eAntonimo :secreto;.
+
+:confidente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa a quem se contam segredos: Ela é a minha amiga e confidente.' ;.
+
+:configuração rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Estrutura ou formato exterior de um elemento; fisionomia ou semblante; figura ou aspeto;' ;
+		:Significado ' (Informática) Maneira ou modo como o sistema é organizado, estruturado e estabelecido, levando em consideração (muitas vezes) requerimentos específicos.' ;
+		:Significado ' (Etm. do latim: configuratiōne)' ;
+		:eAntonimo :deformacao;
+		:eAntonimo :deturpacao;
+		:eAntonimo :mudanca;
+		:eAntonimo :mutacao;
+		:eAntonimo :transformacao;
+		:eAntonimo :aparencia;
+		:eAntonimo :aspecto;
+		:eAntonimo :conformacao;
+		:eAntonimo :feicao;
+		:eAntonimo :feitio;
+		:eAntonimo :forma;
+		:eAntonimo :formato;.
+
+:configurar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Atribuir formato a; ação de reproduzir a configuração de; conceber ou imaginar;' ;
+		:Significado ' Estabelecer escolhas específicas para determinadas carências ou necessidades;' ;
+		:Significado ' Designar ou descrever;' ;
+		:Significado ' (Informática) Ação de programar certo sistema (ou componente de sistema) para desempenhar uma tarefa de uma forma específica.' ;
+		:Significado ' (Etm. do latim: configurāre)' ;
+		:eAntonimo :abatatar;
+		:eAntonimo :adulterar;
+		:eAntonimo :alterar;
+		:eAntonimo :amassar;
+		:eAntonimo :amolgar;
+		:eAntonimo :deformar;
+		:eAntonimo :desfear;
+		:eAntonimo :desformar;
+		:eAntonimo :deturpar;
+		:eAntonimo :estragar;
+		:eAntonimo :ajustar;
+		:eAntonimo :caracterizar;
+		:eAntonimo :conceber;
+		:eAntonimo :conformar;
+		:eAntonimo :desenhar;
+		:eAntonimo :designar;
+		:eAntonimo :esculpir;
+		:eAntonimo :imaginar;
+		:eAntonimo :pensar;.
+
+:confinar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Possuir fronteiras comuns ou partilhas com; ser confinante, circunvizinho ou limítrofe;' ;
+		:Significado ' Avizinhar(-se), beirar(-se) ou aproximar(-se) de; ' ;
+		:Significado ' Balizar, abranger ou circunscrever;' ;
+		:Significado ' Delimitar, reduzir ou limitar.' ;
+		:Significado ' (Etm. do latim: confīne + ar)' ;
+		:eAntonimo :alastrar;
+		:eAntonimo :circunfundir;
+		:eAntonimo :desbalizar;
+		:eAntonimo :distanciar;
+		:eAntonimo :expandir;
+		:eAntonimo :aprisionar;
+		:eAntonimo :avizinhar;
+		:eAntonimo :beirar;
+		:eAntonimo :circunscrever;
+		:eAntonimo :delimitar;
+		:eAntonimo :demarcar;
+		:eAntonimo :encarcerar;
+		:eAntonimo :encerrar;
+		:eAntonimo :enclausurar;.
+
+:confirmação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' afirmação da verdade de algo: esperar a confirmação do voo' ;
+		:eAntonimo :aceitacao;
+		:eAntonimo :aprovacao;
+		:eAntonimo :corroboracao;
+		:eAntonimo :legalizacao;
+		:eAntonimo :ratificacao;
+		:eAntonimo :roboracao;
+		:eAntonimo :validacao;.
+
+:confirmar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' comprovar a verdade de algo: telefonar a confirmar a hora de partida; confirmar uma notícia' ;
+		:eAntonimo :aprovar;
+		:eAntonimo :assegurar;
+		:eAntonimo :asseverar;
+		:eAntonimo :autenticar;
+		:eAntonimo :certificar;
+		:eAntonimo :conferir;
+		:eAntonimo :legalizar;
+		:eAntonimo :ratificar;
+		:eAntonimo :reconhecer;
+		:eAntonimo :sancionar;
+		:eAntonimo :testificar;
+		:eAntonimo :validar;
+		:eAntonimo :verificar;.
+
+:confiscar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' tirar algo a alguém por ordem do tribunal: confiscar os bens de alguém' ;
+		:eAntonimo :arrestar;
+		:eAntonimo :embargar;.
+
+:confissão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' declaração de falta ou culpa: a confissão de um crime' ;
+		:Significado ' reconhecimento dos pecados: a confissão dos pecados' ;.
+
+:conflagração rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou ato de conflagrar;' ;
+		:Significado ' Designação atribuída a incêndio que apresenta tendência para se difundir ou alastrar;' ;
+		:Significado ' (Figurado) Enorme catástrofe política; insurreição ou rebelião;' ;
+		:Significado ' (Figurado) Denominação atribuída a uma guerra difusa;' ;
+		:Significado ' (Figurado) Intensidade ou vigor de uma paixão, de um sentimento ou de uma emoção.' ;
+		:Significado ' (Etm. do latim: conflagratiōne)' ;
+		:eAntonimo :agitacao;
+		:eAntonimo :exaltacao;
+		:eAntonimo :excitacao;
+		:eAntonimo :insurreicao;
+		:eAntonimo :rebeliao;.
+
+:conflito rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' luta entre elementos contrários: um conflito de gerações' ;
+		:Significado ' guerra: um conflito armado' ;
+		:eAntonimo :agitacao;
+		:eAntonimo :alvoroco;
+		:eAntonimo :desordem;
+		:eAntonimo :motim;
+		:eAntonimo :perturbacao;
+		:eAntonimo :revolta;
+		:eAntonimo :tumulto;
+		:eAntonimo :zaragata;.
+
+:conflituoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que entra em conflito' ;.
+
+:confluência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' característica daquilo que se direciona para o mesmo local; particularidade do que é confluente;' ;
+		:Significado ' Designação atribuída ao ponto de união ou encontro de duas correntes;' ;
+		:Significado ' (Medicina) Erupção cutânea localizada.' ;
+		:Significado ' (Etm. do latim: confluentĭa)' ;
+		:eAntonimo :desarmonia;
+		:eAntonimo :desuniao;
+		:eAntonimo :discordancia;
+		:eAntonimo :discordia;
+		:eAntonimo :discrepancia;
+		:eAntonimo :dissonancia;
+		:eAntonimo :divisao;
+		:eAntonimo :inconsonancia;
+		:eAntonimo :separacao;
+		:eAntonimo :afluencia;
+		:eAntonimo :concentracao;
+		:eAntonimo :concorrencia;
+		:eAntonimo :convergencia;.
+
+:confluir rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Descer, fluir ou correr para o mesmo local; ' ;
+		:Significado ' Afluir, concorrer ou convergir.' ;
+		:Significado ' (Etm. do latim: confluĕre)' ;
+		:eAntonimo :afluir;
+		:eAntonimo :concorrer;
+		:eAntonimo :convergir;.
+
+:conformação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de conceder ou obter um determinado formato ou configuração;' ;
+		:Significado ' Designação da estruturação geral dos diversos componentes de um sistema ou de um corpo; do mesmo significado de configuração ou estrutura;' ;
+		:Significado ' (Figurado) Ação de se conformar ou de aceitar determinada circunstância ou situação; resignação.' ;
+		:Significado ' (Etm. do latim: conformatiōne)' ;
+		:eAntonimo :capricho;
+		:eAntonimo :desobediencia;
+		:eAntonimo :empenho;
+		:eAntonimo :teimosia;
+		:eAntonimo :tenacidade;
+		:eAntonimo :configuracao;
+		:eAntonimo :estrutura;
+		:eAntonimo :feitio;
+		:eAntonimo :forma;
+		:eAntonimo :resignacao;.
+
+:conformado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se de quem se conformou ou resignou;' ;
+		:Significado ' Que possui certo formato, configuração ou estrutura;' ;
+		:Significado ' Diz-se de quem aceitou algo com submissão ou sofrimento.' ;
+		:Significado ' (Etm. do latim: conformātu)' ;
+		:eAntonimo :inconformado;
+		:eAntonimo :resignado;.
+
+:conformar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' aceitar algo, resignar-se: conformar-se com a sua sorte' ;
+		:eAntonimo :resignar;.
+
+:conforme rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :preposicao;
+		:Significado ' que tem forma igual: uma imagem conforme a realidade' ;
+		:Significado ' segundo, de acordo com: conforme as circunstâncias' ;
+		:eAntonimo :afim;
+		:eAntonimo :analogo;
+		:eAntonimo :congenere;
+		:eAntonimo :identico;
+		:eAntonimo :igual;
+		:eAntonimo :semelhante;.
+
+:conformemente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira conforme; semelhantemente ou equivalentemente; ' ;
+		:Significado ' De modo correto, acertado, conveniente ou apropriado;' ;
+		:Significado ' De forma coincidente, compatível ou correspondente;' ;
+		:Significado ' De acordo com; em concordância ou conformidade com.' ;
+		:Significado ' (Etm. conforme + mente)' ;
+		:eAntonimo :acertadamente;
+		:eAntonimo :concordantemente;
+		:eAntonimo :equivalentemente;
+		:eAntonimo :identicamente;
+		:eAntonimo :semelhantemente;.
