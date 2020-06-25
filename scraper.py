@@ -38,6 +38,55 @@ def getMainWord (soup):
 
 ###     Getting meaning(s) of word and treating strings...
 
+def getMeaningsDEBUG(soup):
+    text = ''
+    meanings = []
+    # For each element div with class main-content found, find an element with id='significado' and add it to text
+    for element in soup.find_all('div', class_='main-content'):
+        text+= str(element.find(id='significado'))
+    # split the text to get a list well divided
+    text=text.split('<br/> <br/>')
+    #for each line in text append the split result to meanings
+    for line in text:
+        meanings.append(line.split('<br/>'))
+    #for each meaning get the correct text
+    for index,meaning in enumerate(meanings):
+        for jndex,indexes in enumerate(meaning):
+            meanings[index][jndex] = BeautifulSoup(meanings[index][jndex],"html.parser").text
+            #If it finds etymology, ignore the rest
+            #if 'Do latim:' in meanings[index][jndex]:
+            #    del meanings[index][jndex]
+            
+    #erase etymology garbage
+    etymology = 0 
+    for i in range(len(meanings)):
+        for j in range(len(meanings[i])):
+            if 'Etimologia' in meanings[i][j]:
+                etymology = 1
+            if etymology == 1:
+                break
+        if etymology == 1:
+            break
+            
+    if etymology == 1:
+        meanings = meanings[0:i]
+    
+    #copy the arrays 
+    wordType = meanings.copy()
+    #for each meaning check if string has number and place it on wordType.
+    # also remove the number and delete empty meanings
+    hadNumbers = 0
+    for i in range(len(meanings)):
+        for j in range(len(meanings[i])):
+            if hasNumber(meanings[i][j]):
+                wordType[i] = meanings[i][0]
+                print(wordType[i])
+                hadNumbers=1
+            meanings[i][j] = re.sub(r'([0-9])\.\s','',meanings[i][j])
+
+    print(wordType)
+    return meanings,wordType
+
 def getMeanings(soup):
     text = ''
     meanings = []
@@ -53,23 +102,46 @@ def getMeanings(soup):
     for index,meaning in enumerate(meanings):
         for jndex,indexes in enumerate(meaning):
             meanings[index][jndex] = BeautifulSoup(meanings[index][jndex],"html.parser").text
-            if 'Do latim:' in meanings[index][jndex]:
-                del meanings[index][jndex]
+            #if 'Do latim:' in meanings[index][jndex]:
+            #    del meanings[index][jndex]
+    
+    #erase etymology garbage
+    etymology = 0 
+    for i in range(len(meanings)):
+        for j in range(len(meanings[i])):
+            if 'Etimologia' in meanings[i][j]:
+                etymology = 1
+            if etymology == 1:
+                break
+        if etymology == 1:
+            break
             
+    if etymology == 1:
+        meanings = meanings[0:i]
+    
     #copy the arrays 
     wordType = meanings.copy()
     #for each meaning check if string has number and place it on wordType.
     # also remove the number and delete empty meanings
+    hadNumbers = 0
     for i in range(len(meanings)):
         for j in range(len(meanings[i])):
             if hasNumber(meanings[i][j]):
+                hadNumbers=1
                 wordType[i] = meanings[i][0]
             meanings[i][j] = re.sub(r'([0-9])\.\s','',meanings[i][j])
             if not meanings[i][j]:
                 del meanings[i][j]
+
+   #print(wordType)
     #delete meanings copied to wordType
-    for i in range(len(wordType)):
-        del meanings[i][0]
+    
+    try:
+        if(hadNumbers):
+            for i in range(len(wordType)):
+                del meanings[i][0]
+    except Exception as e:
+        print(e)
 
     meanings = [ele for ele in meanings if ele != []] 
     wordType = [ele for ele in wordType if ele != []]
@@ -121,15 +193,16 @@ def getWords(wordlist):
     exit = 0
     while exit == 0:
         try:
-            allSoup = getSoup('https://lexico.pt/' + wordlist[iterations])
+            allSoup = getSoup('https://lexico.pt/' + wordlist[iterations]+ '/')
             allSoup.find_all('div',id='ligacoes')
 
             if(allSoup.find_all('div',class_='next')):
-                    allSoup = allSoup.find_all('div',class_='next')
-                    for elements in allSoup:
-                        wordFound=elements.a['href'][1:-1]
-            print('Got Word: '+ wordFound + '. From word: ' + wordlist[iterations])
-            wordlist.append(wordFound)
+                allSoup = allSoup.find_all('div',class_='next')
+                for elements in allSoup:
+                    wordFound=elements.a['href'][1:-1]
+                print('Got Word: '+ wordFound + '. From word: ' + wordlist[iterations]+ '. In '+str(iterations+1) + ' iterations')
+                wordlist.append(wordFound)
+                saveWord(wordFound)
             iterations += 1
         except Exception as e: 
             print(e)
@@ -137,17 +210,22 @@ def getWords(wordlist):
             print('From '+wordList[0]+' to '+wordList[len(wordList)-1])
             exit = 1
     
-    return wordList
+    
 
 def replaceWordTypes(wordTypes,word):
     types =['adjetivo','adverbio','artigo','conjuncao','interjeicao','preposicao','pronome','substantivo','verbo','nome' ]
     matches = []
 
-    for type in wordTypes:
-        try: matches.append(get_close_matches(type,types,1,0.4)[0])
-        except :
-            print('no matches found for word: '+word)
+    found = False
+    cutoff = 0.4
             
+    while found==False:
+        for type in wordTypes:
+            try: 
+                matches.append(get_close_matches(type,types,1,cutoff)[0])
+                found = True
+            except :
+                cutoff=cutoff - 0.1
 
     for index,match in enumerate(matches):
         if 'nome' in match:
@@ -303,19 +381,26 @@ def createIndividual(mainWord,types,meanings,synonyms,antonyms,ontologyName):
     file.write('.')
     file.close
 
-
+def saveWord(word):
+    url = SearchWordUrl(word)
+    soup = getSoup(url)
+    mainWord = getMainWord(soup)
+    meanings,wordType = getMeanings(soup)
+    wordType = replaceWordTypes(wordType,mainWord)
+    synonyms,antonyms = getRelations(soup)
+    createIndividual(mainWord,wordType,meanings,synonyms,antonyms,'Dicionario')
 
 ### main
 ##queryWord = 'ufa'
-url = SearchWordUrl('zelote')
+url = SearchWordUrl('mais')
 
 soup = getSoup(url)
 
 allSoup= getSoup(url)
 allSoup = allSoup.find(id='ligacoes')
 
-wordList = ['comer']
-getWords(wordList)
+wordList = ['mais']
+#getWords(wordList)
 
 
 
@@ -323,6 +408,7 @@ getWords(wordList)
 mainword = getMainWord(soup)
 
 meanings,wordType = getMeanings(soup)
+#meanings,wordType = getMeanings(soup)
 
 wordType = replaceWordTypes(wordType,mainword)
 
@@ -331,20 +417,20 @@ synonyms,antonyms = getRelations(soup)
 #createIndividual(mainword,wordType,meanings,synonyms,antonyms,'Dicionario')
 ontologyName = 'Dicionario'
 
-handleOntology(ontologyName)
-for word in wordList:
-    url = SearchWordUrl(word)
-    soup = getSoup(url)
-    mainWord = getMainWord(soup)
-    meanings,wordType = getMeanings(soup)
-    wordType = replaceWordTypes(wordType,mainWord)
-    synonyms,antonyms = getRelations(soup)
-    createIndividual(mainWord,wordType,meanings,synonyms,antonyms,ontologyName)
+#handleOntology(ontologyName)
+#for word in wordList:
+#    url = SearchWordUrl(word)
+#    soup = getSoup(url)
+#    mainWord = getMainWord(soup)
+#    meanings,wordType = getMeanings(soup)
+#    wordType = replaceWordTypes(wordType,mainWord)
+#    synonyms,antonyms = getRelations(soup)
+#    createIndividual(mainWord,wordType,meanings,synonyms,antonyms,ontologyName)
 
 
 
-## stop these variables from showing on AREPL
-#arepl_filter = ['element',
+#stop these variables from showing on AREPL
+#repl_filter = ['element',
 #                'BeautifulSoup',
 #                'index',
 #                'indexes',
