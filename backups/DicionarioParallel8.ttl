@@ -1,0 +1,4069 @@
+
+
+:á-bê-cê rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Referente ao livro que contém o alfabeto e primeiras lições de alfabetização;' ;
+		:Significado ' O mesmo que abecedário ou alfabeto;' ;
+		:Significado ' Conceitos essenciais e básicos de alguma disciplina, área científica ou área artística.' ;
+		:Significado ' (Etm. de: a b c)' ;.
+
+:à-vontade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' naturalidade: ter à-vontade nas relações' ;.
+
+:legado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Referente ao património que é deixado, em testamento, a alguém que não é herdeiro legítimo e legal; herança ou espólio;' ;
+		:Significado ' Designação daquilo que as gerações anteriores deixaram ou transmitiram às gerações que se seguiram a elas;' ;
+		:Significado ' Denominação de dádiva, oferenda ou benesse.' ;
+		:Significado ' (Etm. do latim: legātu; Part. Pass. substantivado de: legāre)' ;
+		:eAntonimo :dadiva;
+		:eAntonimo :espolio;
+		:eAntonimo :heranca;
+		:eAntonimo :patrimonio;.
+
+:legal rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que está de acordo com a lei: uma venda legal' ;
+		:eAntonimo :legitimo;
+		:eAntonimo :licito;
+		:eAntonimo :litico;.
+
+:legalidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' carácter do que é legal: respeitar a legalidade' ;
+		:eAntonimo :legitimidade;
+		:eAntonimo :validade;.
+
+:legalização rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acto de tornar legal: a legalização do aborto' ;
+		:eAntonimo :aceitacao;
+		:eAntonimo :aprovacao;
+		:eAntonimo :confirmacao;
+		:eAntonimo :corroboracao;
+		:eAntonimo :ratificacao;
+		:eAntonimo :roboracao;
+		:eAntonimo :validacao;.
+
+:legalizar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' tornar legal: legalizar uma aquisição' ;
+		:eAntonimo :aprovar;
+		:eAntonimo :autenticar;
+		:eAntonimo :confirmar;
+		:eAntonimo :ratificar;
+		:eAntonimo :sancionar;
+		:eAntonimo :validar;.
+
+:legalizar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' tornar-se legal: Os imigrantes legalizaram-se.' ;.
+
+:legar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' deixar como herança: Ele legou todos os bens ao Estado.' ;
+		:eAntonimo :comunicar;
+		:eAntonimo :enviar;
+		:eAntonimo :expedir;
+		:eAntonimo :remeter;
+		:eAntonimo :transmitir;.
+
+:legatário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Denominação atribuída à pessoa que é a beneficiária de um legado; que recebe o legado ou é o herdeiro testamental.' ;
+		:Significado ' (Etm. do latim: legatarĭu)' ;
+		:eAntonimo :herdeiro;
+		:eAntonimo :sucessor;.
+
+:legenda rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' texto que é projectado debaixo da imagem do filme: um filme americano com legendas em português' ;.
+
+:legião rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' divisão do exército: a Legião estrangeira' ;.
+
+:legiferar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Elaborar ou criar leis; do mesmo significado de legislar; decretar ou estatuir.' ;
+		:Significado ' (Etm. legífero + ar)' ;
+		:eAntonimo :legislar;.
+
+:legislação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' conjunto das leis' ;.
+
+:legislar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' elaborar leis: legislar sobre alguma matéria' ;
+		:eAntonimo :decretar;
+		:eAntonimo :estatuir;
+		:eAntonimo :preceituar;.
+
+:legítima rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Parte das posses que aquele que faz testamento não pode conceder ou doar a quem desejar, pois são juridicamente destinadas aos herdeiros legais (em linha reta);' ;
+		:Significado ' Separação ou reparte das salinas.' ;
+		:Significado ' (Etm. de: legítimo)' ;.
+
+:legitimar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' tornar legítimo' ;.
+
+:legitimidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica do que ou de quem é legítimo;' ;
+		:Significado ' O mesmo que legalidade; designação do que ou de quem é autêntico;' ;
+		:Significado ' Denominação de autenticidade ou veracidade;' ;
+		:Significado ' Designação do direito de sucessão por motivos de hereditariedade;' ;
+		:Significado ' Relativo àquilo ou àquele que apresenta conformidade com a razão; que tem direito, por justiça.' ;
+		:Significado ' (Etm. legítimo + dade)' ;
+		:eAntonimo :ilegalidade;
+		:eAntonimo :ilegitimidade;
+		:eAntonimo :ilicitude;
+		:eAntonimo :autenticidade;
+		:eAntonimo :legalidade;
+		:eAntonimo :validade;.
+
+:legítimo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' legal: um filho legítimo' ;
+		:Significado ' justo, correcto: suspeitas legítimas' ;
+		:eAntonimo :legal;
+		:eAntonimo :licito;
+		:eAntonimo :litico;.
+
+:legível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que se pode ler: uma letra legível' ;.
+
+:lego rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Referente a cada uma das peças de plástico de diferentes dimensões, que têm como finalidade o encaixe entre si de forma a originarem construções de objetos variados;' ;
+		:Significado ' Denominação atribuída ao jogo que é composto por um grupo dessas peças.' ;
+		:Significado ' (Etm. do inglês: Lego®)' ;.
+
+:legume rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' planta comestível: uma sopa de legumes' ;
+		:eAntonimo :agraco;
+		:eAntonimo :hortalica;
+		:eAntonimo :verdura;.
+
+:lei rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' conjunto de regras a respeitar: cumprir a lei' ;
+		:eAntonimo :determinacao;
+		:eAntonimo :formalidade;
+		:eAntonimo :mandamento;
+		:eAntonimo :norma;
+		:eAntonimo :preceito;
+		:eAntonimo :regra;.
+
+:leigamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira leiga; de forma ignorante; de modo desconhecedor.' ;
+		:Significado ' (Etm. leiga + mente)' ;
+		:eAntonimo :cultamente;
+		:eAntonimo :ignorantemente;.
+
+:leigo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' (Figurado) Pessoa que não possui conhecimentos específicos de determinado assunto; indivíduo que desconhece a matéria em questão, que é ignorante no que lhe diz respeito; ' ;
+		:Significado ' Pessoa que não pertence ao clérigo ou a qualquer religião; indivíduo que não possui ordens sacras; laico ou secular;' ;
+		:Significado ' Diz-se da pessoa que não pertence ao clérigo ou a qualquer religião; que é laico;' ;
+		:Significado ' Referente ao indivíduo que não possui conhecimentos específicos de determinado assunto; que desconhece a matéria em questão; que é ignorante em relação a algo.' ;
+		:Significado ' (Etm. do grego: laikós; do latim: laĭcu)' ;
+		:eAntonimo :calejado;
+		:eAntonimo :douto;
+		:eAntonimo :entendedor;
+		:eAntonimo :entendido;
+		:eAntonimo :erudito;
+		:eAntonimo :instruido;
+		:eAntonimo :versado;
+		:eAntonimo :amador;
+		:eAntonimo :aprendiz;
+		:eAntonimo :desconhecedor;
+		:eAntonimo :ignorante;
+		:eAntonimo :laico;
+		:eAntonimo :secular;.
+
+:leilão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' venda pública a quem dá mais: um leilão de antiguidades' ;.
+
+:leiloar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' vender em leilão' ;.
+
+:leitão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' porco muito novo' ;
+		:eAntonimo :bacoro;.
+
+:leitaria rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' estabelecimento onde se vende leite e seus derivados: comprar queijo na leitaria' ;
+		:Significado ' café onde se vendem produtos de leite: sentar-se na leitaria' ;.
+
+:leite rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' líquido branco produzido pelos mamíferos: leite materno; leite de vaca; leite gordo /meio gordo /magro' ;.
+
+:leito rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' cama: dormir no leito' ;
+		:Significado ' parte da terra onde corre um rio: o leito do rio' ;
+		:eAntonimo :alveo;
+		:eAntonimo :cama;.
+
+:leitor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' pessoa que lê: um leitor de romances' ;
+		:Significado ' professor que ensina a sua língua em universidade estrangeira: um leitor de português no estrangeiro' ;
+		:Significado ' aparelho que reproduz sons, imagens: um leitor decassetes/CD/DVD' ;
+		:eAntonimo :ledor;.
+
+:leitura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acto de ler' ;.
+
+:lema rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' norma de procedimento: Ser sincero é o seu lema na vida.' ;
+		:eAntonimo :divisa;
+		:eAntonimo :mote;.
+
+:lembrança rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' recordação: as lembranças do passado' ;
+		:Significado ' pequeno presente: oferecer uma lembrança a alguém' ;
+		:eAntonimo :memorandum;
+		:eAntonimo :memorial;
+		:eAntonimo :presente;
+		:eAntonimo :recordacao;.
+
+:lembrar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' recordar: lembrar os tempos passados' ;
+		:Significado ' assemelhar-se a, parecer-se com: Ela lembra a mãe.' ;
+		:Significado ' sugerir: lembrar a alguém para fazer algo' ;
+		:eAntonimo :evocar;
+		:eAntonimo :recordar;.
+
+:lembrar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' recordar-se: lembrar-se de alguém' ;.
+
+:lembrete rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de uma anotação usada para auxiliar a memória;' ;
+		:Significado ' (Popular) Censura, repreensão ou leve punição. ' ;
+		:Significado ' (Etm. lembrar + ete)' ;
+		:eAntonimo :anotacao;
+		:eAntonimo :apontamento;.
+
+:leme rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' aparelho com que se dirigem barcos, aviões: o leme do barco/avião' ;.
+
+:lenço rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pedaço de tecido para se assoar: limpar a cara com o lenço' ;
+		:Significado ' pano que se põe na cabeça ou no pescoço: usar um lenço na cabeça' ;.
+
+:lençol rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' peça grande de tecido que cobre o colchão: os lençóis da cama' ;.
+
+:lenda rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' História ou tradição oral ou escrita que apresenta várias ocorrências ou coisas improváveis, questionáveis ou fantásticas; legenda; ' ;
+		:Significado ' (Por Ext.) Narrativa de essência fantástica ou incrível na qual se verifica uma adulteração de factos históricos pela imaginação geral ou popular; mito;' ;
+		:Significado ' (Por Ext.) Designação atribuída à vida de um santo;' ;
+		:Significado ' Pessoa conhecida publicamente por muita gente, respeitada pelas suas façanhas, pelo seu talento ou pela sua performance em determinada esfera ou área;' ;
+		:Significado ' (Figurado) Saga ou história; forma de agir;' ;
+		:Significado ' Conto ou fábula;' ;
+		:Significado ' Invenção ou mentira.' ;
+		:Significado ' (Etm. do latim: legenda)' ;
+		:eAntonimo :honestidade;
+		:eAntonimo :realidade;
+		:eAntonimo :verdade;
+		:eAntonimo :conto;
+		:eAntonimo :fabula;
+		:eAntonimo :invencao;
+		:eAntonimo :legenda;
+		:eAntonimo :mentira;
+		:eAntonimo :mito;
+		:eAntonimo :narrativa;
+		:eAntonimo :tradicao;.
+
+:lendário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que diz respeito a lenda; ' ;
+		:Significado ' Que possui ou apresenta essência de lenda; diz-se daquilo que é fruto da imaginação, que não é real; fantástico, fabuloso, mítico ou legendário;' ;
+		:Significado ' Diz-se de algo ou alguém extremamente conhecido e respeitado; que é conhecido ou famoso.' ;
+		:Significado ' (Etm. lenda + ário)' ;
+		:eAntonimo :celebre;
+		:eAntonimo :conhecido;
+		:eAntonimo :fabuloso;
+		:eAntonimo :famoso;
+		:eAntonimo :fantastico;
+		:eAntonimo :historico;
+		:eAntonimo :imaginario;
+		:eAntonimo :mitico;.
+
+:lengalenga rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' narrativa comprida e repetitiva' ;
+		:eAntonimo :aranzel;.
+
+:lenha rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' madeira utilizada como combustível: lenha para aquecimento' ;.
+
+:lenhador rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' aquele que apanha e corta a lenha' ;.
+
+:lenitivo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' (Farmácia) Substância possuidora de propriedades que atenuam dores ou que apresentam características laxativas;' ;
+		:Significado ' (Farmácia) Referente a esse fármaco;' ;
+		:Significado ' (Por Ext.) Diz-e daquilo que abranda, ameniza ou acalma; oásis ou alívio;' ;
+		:Significado ' (Figurado) Diz-se de quem ou do que provoca alívio ou acalma; calmante ou bálsamo.' ;
+		:Significado ' (Etm. leni + tivo)' ;
+		:eAntonimo :agravante;
+		:eAntonimo :exasperador;
+		:eAntonimo :insuportavel;
+		:eAntonimo :balsamo;
+		:eAntonimo :calmante;
+		:eAntonimo :consolacao;
+		:eAntonimo :consolo;
+		:eAntonimo :lenimento;
+		:eAntonimo :refrigerio;.
+
+:lenocínio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de uma ação criminosa e ilegal que consiste na fomentação e simplificação da corrupção e da prostituição de outra pessoa.' ;
+		:Significado ' (Etm. do latim: lenocinĭu)' ;.
+
+:lentamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' devagar: andar lentamente' ;
+		:eAntonimo :devagar;.
+
+:lente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pedaço de vidro ou outro material que ajuda a ver
+melhor: lentes graduadas' ;.
+
+:lenteza rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Do mesmo significado de lentidão.' ;
+		:Significado ' (Etm. do latim: lentitĭa)' ;
+		:eAntonimo :apice;
+		:eAntonimo :celeridade;
+		:eAntonimo :ligeireza;
+		:eAntonimo :pressa;
+		:eAntonimo :prontidao;
+		:eAntonimo :rapidez;.
+
+:lentidão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica de lento; ausência de fugacidade; vagareza, morosidade ou lerdeza;' ;
+		:Significado ' Designação atribuída a uma humidade ligeira.' ;
+		:Significado ' (Etm. do latim: lentitudĭne)' ;
+		:eAntonimo :aceleracao;
+		:eAntonimo :fugacidade;
+		:eAntonimo :ligeireza;
+		:eAntonimo :velocidade;
+		:eAntonimo :demora;
+		:eAntonimo :indolencia;
+		:eAntonimo :pachorra;
+		:eAntonimo :preguica;
+		:eAntonimo :vagareza;.
+
+:lento rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que não é rápido' ;
+		:eAntonimo :brando;
+		:eAntonimo :frouxo;
+		:eAntonimo :vagaroso;.
+
+:leopardo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' carnívoro amarelado com manchas negras' ;.
+
+:lepidez rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica de lépido; alacridade ou jubilidade; contentamento.' ;
+		:Significado ' (Etm. lépido + ez)' ;
+		:eAntonimo :melancolia;
+		:eAntonimo :contentamento;
+		:eAntonimo :jovialidade;.
+
+:lepra rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Medicina) Doença ou patologia de pele infeciosa e contagiosa, crónica, causada por um bacilo, que pode ser transmitida através do contacto direto; é caracterizada por lesões, manchas e feridas que surgem na pele;' ;
+		:Significado ' (Figurado) Aquilo que é prejudicial ou danoso e que se espalha ou propaga: o preconceito é a lepra da sociedade moderna;' ;
+		:Significado ' (Botânica) Doença que surge nos vegetais, causada ou originada por fungos.' ;
+		:Significado ' (Etm. do grego: lépra; do latim: lepra)' ;
+		:eAntonimo :elefantiase;
+		:eAntonimo :morfeia;.
+
+:leproso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' Indivíduo que é acometido pela lepra;' ;
+		:Significado ' (Figurado) Indivíduo deteriorado, pervertido ou estragado;' ;
+		:Significado ' Diz-se do sujeito que sofre de lepra; do mesmo significado de morfeico ou lazarento;' ;
+		:Significado ' (Figurado) Diz-se de quem é corrupto ou deteriorado.' ;
+		:Significado ' (Etm. do latim: leprōsu)' ;
+		:eAntonimo :lazarento;
+		:eAntonimo :lazaro;
+		:eAntonimo :morfeico;
+		:eAntonimo :morfetico;.
+
+:leque rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' abano para se refrescar' ;
+		:eAntonimo :abano;
+		:eAntonimo :ventana;
+		:eAntonimo :ventarola;.
+
+:ler rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' identificar e compreender o que está
+escrito: ler o jornal' ;
+		:Significado ' adivinhar: ler o pensamento de alguém' ;
+		:Significado ' conhecer as letras do alfabeto e juntá-las em
+palavras: saber ler' ;
+		:eAntonimo :articular;
+		:eAntonimo :declamar;
+		:eAntonimo :proferir;
+		:eAntonimo :pronunciar;
+		:eAntonimo :recitar;.
+
+:lerdaço rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem é muito lerdo ou lento; que é inepto, néscio ou palerma.' ;
+		:Significado ' (Etm. lerdo + aço)' ;
+		:eAntonimo :burro;
+		:eAntonimo :estulto;
+		:eAntonimo :estupido;
+		:eAntonimo :idiota;
+		:eAntonimo :ignorante;
+		:eAntonimo :imbecil;
+		:eAntonimo :inepto;
+		:eAntonimo :nescio;
+		:eAntonimo :palerma;
+		:eAntonimo :parvo;
+		:eAntonimo :pateta;
+		:eAntonimo :tolo;.
+
+:lerdeza rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Do mesmo significado de lerdice.' ;
+		:Significado ' (Etm. lerdo + ice)' ;
+		:eAntonimo :lerdice;
+		:eAntonimo :vagar;.
+
+:lerdice rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica daquilo ou daquele que é lerdo.' ;
+		:Significado ' (Etm. lerdo + ice)' ;
+		:eAntonimo :lentidao;
+		:eAntonimo :lerdeza;
+		:eAntonimo :vagar;.
+
+:lerdo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que é lento ou pouco ativo nos movimentos que efetua; que é lento, vagaroso ou moroso; pachorrento;' ;
+		:Significado ' Diz-se de quem tem um raciocínio ou uma forma de pensar vagarosa; que não é perspicaz; que é imbecil, parvo ou estúpido;' ;
+		:Significado ' Que é bruto, boçal ou grosseiro.' ;
+		:Significado ' (Etm. do castelhano: lerdo)' ;
+		:eAntonimo :agil;
+		:eAntonimo :ativo;
+		:eAntonimo :desembaracado;
+		:eAntonimo :despachado;
+		:eAntonimo :diligente;
+		:eAntonimo :espevitado;
+		:eAntonimo :inteligente;
+		:eAntonimo :pronto;
+		:eAntonimo :bocal;
+		:eAntonimo :bruto;
+		:eAntonimo :estupido;
+		:eAntonimo :grosseiro;
+		:eAntonimo :lento;
+		:eAntonimo :moroso;
+		:eAntonimo :pesado;
+		:eAntonimo :samonga;
+		:eAntonimo :vagaroso;.
+
+:lesão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' ferimento: O jogador sofreu uma lesão no joelho.' ;
+		:eAntonimo :chaga;
+		:eAntonimo :ferida;
+		:eAntonimo :ferimento;.
+
+:lesar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' prejudicar: lesar uma companhia; lesar os interesses de alguém' ;
+		:eAntonimo :burlar;
+		:eAntonimo :enganar;
+		:eAntonimo :esbulhar;
+		:eAntonimo :espoliar;
+		:eAntonimo :falsificar;
+		:eAntonimo :fraudar;
+		:eAntonimo :usurpar;.
+
+:lésbica rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' mulher homossexual' ;.
+
+:lesivo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que provoca lesão ou agravo; diz-se do que é pernicioso, nocivo ou perigoso.' ;
+		:Significado ' (Etm. do latim: laesu + ivo)' ;
+		:eAntonimo :benefico;
+		:eAntonimo :benevolo;
+		:eAntonimo :misericordioso;
+		:eAntonimo :saudavel;
+		:eAntonimo :danoso;
+		:eAntonimo :fatal;
+		:eAntonimo :grave;
+		:eAntonimo :malefico;
+		:eAntonimo :maligno;
+		:eAntonimo :mau;
+		:eAntonimo :nefasto;
+		:eAntonimo :nocente;
+		:eAntonimo :nocivo;
+		:eAntonimo :peconhento;
+		:eAntonimo :perigoso;
+		:eAntonimo :pernicioso;
+		:eAntonimo :prejudicial;
+		:eAntonimo :toxico;.
+
+:lesma rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' molusco que gosta da humidade: os corninhos da lesma' ;
+		:Significado ' pessoa muito lenta: lento como uma lesma' ;
+		:eAntonimo :espiral;.
+
+:leste rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' ponto cardeal à direita de quem está virado para
+norte: Europa de Leste' ;
+		:eAntonimo :este;
+		:eAntonimo :levante;
+		:eAntonimo :nascente;
+		:eAntonimo :oriente;.
+
+:letargia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :determinante;
+		:Significado '  (Medicina) estado de inconsciência em que uma pessoa parece estar num sono profundo, que pode prolongar-se durante algum tempo e do qual pode ser despertada, mas a que volta logo a seguir' ;
+		:Significado ' (Sentido figurado) dificuldade extrema ou incapacidade de reagir a algo ou de exprimir emoções; apatia; inércia' ;
+		:eAntonimo :animo;
+		:eAntonimo :energia;
+		:eAntonimo :vigor;
+		:eAntonimo :apatia;
+		:eAntonimo :desanimo;
+		:eAntonimo :desinteresse;
+		:eAntonimo :entorpecimento;
+		:eAntonimo :inercia;
+		:eAntonimo :letargo;
+		:eAntonimo :prostracao;.
+
+:letárgico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que diz respeito à letargia; próprio de letargia' ;
+		:Significado ' Que sofre de letargia; dormente; apático' ;
+		:Significado ' Que revela falta de ânimo ou de energia; desanimado; esmorecido' ;
+		:eAntonimo :apaixonado;
+		:eAntonimo :ardente;
+		:eAntonimo :inflamado;
+		:eAntonimo :vivo;
+		:eAntonimo :apatico;
+		:eAntonimo :desanimado;
+		:eAntonimo :desinteressado;
+		:eAntonimo :dormente;
+		:eAntonimo :esmorecido;
+		:eAntonimo :indiferente;
+		:eAntonimo :preguicoso;
+		:eAntonimo :vagaroso;.
+
+:letargo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :vazio;
+		:Significado ' O mesmo que: letargia' ;
+		:eAntonimo :apatia;
+		:eAntonimo :indiferenca;
+		:eAntonimo :inercia;
+		:eAntonimo :letargia;.
+
+:letra rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' carácter do alfabeto: O "a" é a primeira letra do alfabeto.' ;
+		:Significado ' maneira como se escreve: Ela tem uma letra bonita.' ;
+		:Significado ' palavras que constituem o texto de uma canção: a letra da canção' ;
+		:Significado ' título de crédito: pagar as letras do carro' ;
+		:eAntonimo :caligrafia;
+		:eAntonimo :escrita;.
+
+:letradamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira letrada; de modo culto, douto ou doutrinado; de forma erudita, ilustrada, instruída ou literata.' ;
+		:Significado ' (Etm. letrada + mente)' ;
+		:eAntonimo :analfabetamente;
+		:eAntonimo :ignorantemente;
+		:eAntonimo :iletradamente;
+		:eAntonimo :incultamente;
+		:eAntonimo :indoutamente;
+		:eAntonimo :inexperientemente;
+		:eAntonimo :leigamente;
+		:eAntonimo :cultamente;
+		:eAntonimo :educadamente;
+		:eAntonimo :eruditamente;
+		:eAntonimo :formadamente;
+		:eAntonimo :instruidamente;
+		:eAntonimo :literatamente;
+		:eAntonimo :luminarmente;
+		:eAntonimo :pontificadamente;
+		:eAntonimo :sabiamente;.
+
+:letrado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que tem instrução, é culto' ;
+		:Significado ' pessoa culta' ;
+		:eAntonimo :culto;
+		:eAntonimo :douto;
+		:eAntonimo :erudito;
+		:eAntonimo :ilustrado;
+		:eAntonimo :literato;
+		:eAntonimo :luminar;
+		:eAntonimo :sabio;.
+
+:letreiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' tabuleta com informações: um letreiro anunciando a venda do terreno' ;
+		:Significado ' indicação ou símbolo de estabelecimento
+comercial: letreiro luminoso' ;
+		:eAntonimo :distico;
+		:eAntonimo :etiqueta;
+		:eAntonimo :inscricao;
+		:eAntonimo :rotulo;.
+
+:levadura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :vazio;
+		:Significado ' n.f.' ;
+		:Significado ' (Bioquímica) Ver: levedura.' ;.
+
+:levantar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' erguer: levantar a mão; levantar um peso; levantar algo que caiu' ;
+		:Significado ' colocar, suscitar: levantar dúvidas sobre algo' ;
+		:eAntonimo :elevar;
+		:eAntonimo :erguer;
+		:eAntonimo :soerguer;
+		:eAntonimo :solevantar;
+		:eAntonimo :solevar;.
+
+:levantar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pôr-se de pé, erguer-se: levantar-se da cadeira' ;
+		:Significado ' acordar, sair da cama: Ele levanta-se todos os dias às 8h da manhã.' ;.
+
+:levante rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Do mesmo significado de este;' ;
+		:Significado ' Rebelião, insurreição ou motim;' ;
+		:Significado ' Área ou local situado na Ásia que é banhado pelo mar Mediterrâneo;' ;
+		:Significado ' Ação ou resultado de levantar.' ;
+		:eAntonimo :este;
+		:eAntonimo :leste;
+		:eAntonimo :nascente;
+		:eAntonimo :oriente;.
+
+:levar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' transportar consigo: levar o guarda-chuva' ;
+		:Significado ' conduzir alguém a algum lugar: levar alguém a uma festa; levar alguém a passear' ;
+		:Significado ' usar vestido: levar um fato de saia e casaco' ;
+		:Significado ' ter capacidade para, comportar: O carro leva quatro pessoas.' ;
+		:Significado ' cobrar: Ele levou cinco euros pelo transporte.' ;.
+
+:leve rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que tem pouco peso: uma mala leve' ;
+		:Significado ' sem gravidade: um ferimento leve' ;
+		:Significado ' fraco, pequeno: uma refeição leve' ;
+		:eAntonimo :ligeiro;.
+
+:levedar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Fazer com que fique lêvedo; fazer com que fermente;' ;
+		:Significado ' Fermentar (respeitante à massa usada para confecionar pão);' ;
+		:Significado ' (Figurado) Incrementar-se ou desenvolver-se.' ;
+		:Significado ' (Etm. lêvedo + ar)' ;
+		:eAntonimo :fermentar;.
+
+:levedura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' fermento' ;
+		:eAntonimo :fermento;.
+
+:leveza rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' qualidade do que é leve' ;.
+
+:leviana rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :vazio;
+		:Significado ' adj.f.' ;
+		:Significado ' Singular de: leviano.' ;
+		:Significado ' (Etm. do latim: levianĭmu)' ;.
+
+:levianamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira leviana; de forma desajuizada, desatenta ou descuidada; de maneira  imprudente, impulsiva ou incauta;' ;
+		:Significado ' De modo variável, volátil, inconstante ou volúvel.' ;
+		:Significado ' (Etm. leviana + mente)' ;
+		:eAntonimo :cuidadamente;
+		:eAntonimo :prudentemente;
+		:eAntonimo :seriamente;
+		:eAntonimo :desajuizadamente;
+		:eAntonimo :descuidadamente;
+		:eAntonimo :impulsivamente;
+		:eAntonimo :inconstantemente;
+		:eAntonimo :volatilmente;.
+
+:leviandade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Peculiaridade ou característica do que ou de quem é leviano; escassez ou ausência de seriedade;' ;
+		:Significado ' Maneira de atuar ou discurso leviano; ausência ou escassez de sensatez; irreflexão ou imprudência; precipitação ou irresponsabilidade.' ;
+		:Significado ' (Etm. de leviano: levian + dade)' ;
+		:eAntonimo :consciencia;
+		:eAntonimo :prudencia;
+		:eAntonimo :responsabilidade;
+		:eAntonimo :sensatez;
+		:eAntonimo :tino;
+		:eAntonimo :futilidade;
+		:eAntonimo :insensatez;
+		:eAntonimo :irreflexao;
+		:eAntonimo :irresponsabilidade;.
+
+:leviano rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se da pessoa que apresenta uma conduta irresponsável; que age sem pensar; que é insensato ou imprudente;' ;
+		:Significado ' Diz-se da pessoa que é precipitada, impaciente, abrupta ou impulsiva; que tece julgamentos de modo leve, sem ponderar ou refletir;' ;
+		:Significado ' Diz-se do indivíduo inconstante ou inconsistente; volátil, aéreo, instável ou volúvel; que muda de ideias ou sentimentos com facilidade; que não é sério;' ;
+		:Significado ' Que denota ou manifesta leviandade; que assinala leviandade;' ;
+		:Significado ' Pessoa que se comporta de maneira leviano, que adota uma postura leviana;' ;
+		:Significado ' Aquilo que não é pesado; carga leve;' ;
+		:Significado ' Aquilo ou aquele que exige escasso esforço, dedicação ou empenho.' ;
+		:Significado ' (Etm. do latim: levianus)' ;
+		:eAntonimo :atilado;
+		:eAntonimo :cauteloso;
+		:eAntonimo :circunspecto;
+		:eAntonimo :comedido;
+		:eAntonimo :continuo;
+		:eAntonimo :estavel;
+		:eAntonimo :judicioso;
+		:eAntonimo :moderado;
+		:eAntonimo :prudente;
+		:eAntonimo :aereo;
+		:eAntonimo :imprudente;
+		:eAntonimo :impulsivo;
+		:eAntonimo :incauto;
+		:eAntonimo :inconsiderado;
+		:eAntonimo :insensato;
+		:eAntonimo :irresponsavel;
+		:eAntonimo :precipitado;
+		:eAntonimo :variavel;
+		:eAntonimo :volatil;
+		:eAntonimo :voluvel;.
+
+:lexical rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que diz respeito ao léxico, às palavras de uma língua; relativo ao vocabulário; vocabular' ;
+		:eAntonimo :vocabular;.
+
+:lexicalizar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' (Linguística) Ficar ou ficar-se unidade lexical autónoma dentro do léxico de determinado idioma.' ;
+		:Significado ' (Etm. lexical + izar)' ;.
+
+:léxico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Linguística) conjunto infinito e aberto formado por todos os vocábulos e unidades lexicais com significado que existem num idioma: o dicionário regista o léxico atual do português' ;
+		:Significado ' Conjunto de de vocábulos ou palavras usadas por um conjunto de pessoas ou por um autor em particular; vocabulário: o léxico usado pelos jornalistas, o léxico de Camões' ;
+		:Significado ' Glossário composto por palavras ou expressões próprias de uma área do conhecimento específica ou especializada: publicou um léxico de biologia' ;
+		:eAntonimo :dicionario;
+		:eAntonimo :lexical;
+		:eAntonimo :vocabulario;.
+
+:lexicografia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :determinante;
+		:Significado ' Ciência ou estudo da elaboração, revisão e redação de dicionários, glossários, tesauros e vocabulários' ;
+		:Significado '  Trabalho ou função realizada pelo lexicógrafo ao elaborar dicionários' ;
+		:Significado ' Área da linguística que se dedica à análise empírica dos mecanismos usados pelo lexicógrafo para construir dicionários, bem como os seus métodos de seleção do vocabulário, dos significados, das classificações a ser usadas, bem como a própria utilização e avaliação do dicionário enquanto obra de consulta' ;.
+
+:lexicográfico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Relativo à lexicografia ou à elaboração de dicionários: fazer um levantamento lexicográfico,  trabalho lexicográfico' ;.
+
+:lexicógrafo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Pessoa que se dedica profissionalmente à lexicografia ou a fazer dicionários; dicionarista' ;
+		:eAntonimo :dicionarista;.
+
+:lexicologia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :determinante;
+		:Significado ' Estudo das unidades lexicais de uma língua (o seu significado, constituição, variações flexionais, etc.) e das relações que se estabelecem entre elas' ;.
+
+:lexicológico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Relativo a lexicologia ou a lexicólogo' ;.
+
+:lexicólogo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Pessoa que é especialista em lexicologia' ;.
+
+:lhama rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de tecido de fio de ouro ou de fio de prata; denominação de tecido de fios com o aspeto de ouro ou prata.' ;
+		:Significado ' (Etm. do latim: flamma; do castelhano: llama)' ;.
+
+:lhaneza rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica ou peculiaridade do que ou de quem é ilhano; ' ;
+		:Significado ' Que apresenta afabilidade; ' ;
+		:Significado ' Que manifesta sinceridade.' ;
+		:Significado ' (Etm. ilhan(o) + eza)' ;
+		:eAntonimo :desonestidade;
+		:eAntonimo :falsidade;
+		:eAntonimo :malicia;
+		:eAntonimo :abertura;
+		:eAntonimo :amabilidade;
+		:eAntonimo :franqueza;
+		:eAntonimo :simplicidade;
+		:eAntonimo :sinceridade;.
+
+:lhano rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que é honesto ou cândido;' ;
+		:Significado ' Agradável ou aprazível; atencioso;' ;
+		:Significado ' Simples, despretensioso ou humilde.' ;
+		:Significado ' (Etm. do castelhano: llano)' ;
+		:eAntonimo :abrutalhado;
+		:eAntonimo :arrogante;
+		:eAntonimo :desajeitado;
+		:eAntonimo :desonesto;
+		:eAntonimo :grosseiro;
+		:eAntonimo :indelicado;
+		:eAntonimo :intratavel;
+		:eAntonimo :metido;
+		:eAntonimo :presuncoso;
+		:eAntonimo :rude;
+		:eAntonimo :tosco;
+		:eAntonimo :vaidoso;
+		:eAntonimo :vergonhoso;
+		:eAntonimo :aberto;
+		:eAntonimo :afavel;
+		:eAntonimo :amavel;
+		:eAntonimo :atencioso;
+		:eAntonimo :candido;
+		:eAntonimo :carinhoso;
+		:eAntonimo :cortes;
+		:eAntonimo :credulo;
+		:eAntonimo :delicado;
+		:eAntonimo :desafetado;
+		:eAntonimo :despretensioso;
+		:eAntonimo :discreto;
+		:eAntonimo :doce;
+		:eAntonimo :educado;
+		:eAntonimo :espontaneo;
+		:eAntonimo :franco;
+		:eAntonimo :gentil;
+		:eAntonimo :ingenuo;
+		:eAntonimo :lisonjeiro;
+		:eAntonimo :modesto;
+		:eAntonimo :natural;
+		:eAntonimo :polido;
+		:eAntonimo :simpatico;
+		:eAntonimo :simples;
+		:eAntonimo :sincero;
+		:eAntonimo :singelo;.
+
+:lia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Referente ao resíduo de uva utilizado para produzir aguapé;' ;
+		:Significado ' Reservatório que acumula nos líquidos com fermentação; sedimento ou borra;' ;
+		:Significado ' Excrementos ou dejetos.' ;
+		:Significado ' (Etm. do gaulês: lia; do francês: lie)' ;
+		:eAntonimo :fezes;
+		:eAntonimo :reservatorio;.
+
+:liame rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Referente ao que une ou fixa algo ou alguém a outra coisa ou pessoa; ' ;
+		:Significado ' (Náutica) Denominação comum atribuída aos pedaços e acessórios que compõem uma embarcação.' ;
+		:Significado ' (Etm. do latim: ligāmen)' ;
+		:eAntonimo :atadura;
+		:eAntonimo :ligadura;.
+
+:liana rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Botânica) Planta trepadeira bastante longa; cipó.' ;
+		:Significado ' (Etm. do francês: liane)' ;.
+
+:libação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação de libar;' ;
+		:Significado ' Ação de verter ou entornar vinho, ou outra substância líquida, em homenagem a determinada divindade;' ;
+		:Significado ' Ação de ingerir vinho somente por regalo, não existindo necessidade.' ;
+		:Significado ' (Etm. do latim: libatiōne)' ;.
+
+:liberação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Referente à extinção, término ou resgate de um compromisso ou de um débito.' ;
+		:Significado ' (Etm. do latim: liberatiōne)' ;
+		:eAntonimo :dever;
+		:eAntonimo :encargo;
+		:eAntonimo :legado;
+		:eAntonimo :obrigacao;
+		:eAntonimo :pensao;
+		:eAntonimo :desempenho;
+		:eAntonimo :dispensa;
+		:eAntonimo :isencao;
+		:eAntonimo :libertacao;
+		:eAntonimo :pagamento;.
+
+:liberal rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que defende a liberdade individual: uma economia liberal' ;
+		:Significado ' generoso, franco: dar com mão liberal' ;
+		:eAntonimo :dadivoso;
+		:eAntonimo :generoso;
+		:eAntonimo :magnanimo;
+		:eAntonimo :munificente;
+		:eAntonimo :munifico;.
+
+:liberalidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica de indivíduo liberal;' ;
+		:Significado ' Do mesmo significado de prodigalidade ou magnanimidade.' ;
+		:Significado ' (Etm. do latim: liberalitāte)' ;
+		:eAntonimo :arbitrariedade;
+		:eAntonimo :avareza;
+		:eAntonimo :despotismo;
+		:eAntonimo :opressao;
+		:eAntonimo :tirania;
+		:eAntonimo :violencia;
+		:eAntonimo :generosidade;
+		:eAntonimo :magnanimidade;
+		:eAntonimo :munificencia;
+		:eAntonimo :nobreza;
+		:eAntonimo :prodigalidade;.
+
+:liberalismo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Postura ou atuação daquele que é magnânimo;' ;
+		:Significado ' Postura ou atuação do indivíduo que respeita da liberdade alheia;' ;
+		:Significado ' (Política) Ideologia que defende que aos cidadãos devem ser atribuídas as mais vantajosas garantias contra a arbitrariedade do governo, garantindo que este não seja o detentor do poder judicial ou poder legislativo.' ;
+		:Significado ' Liberalismo económico = Ideologia que defende que o governo se deve abster da economia do país' ;
+		:Significado ' (Etm. liberal + ismo; do francês: libéralisme)' ;
+		:eAntonimo :autocracia;
+		:eAntonimo :despotismo;
+		:eAntonimo :ditadura;
+		:eAntonimo :tirania;.
+
+:liberalizar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Conceder ou partilhar com liberdade; do mesmo significado de larguear;' ;
+		:Significado ' Fazer com que fique liberal;' ;
+		:Significado ' Permitir; fazer com que seja livre;' ;
+		:Significado ' Atribuir livre circulação.' ;
+		:Significado ' (Etm. liberal + izar)' ;
+		:eAntonimo :amealhar;
+		:eAntonimo :cativar;
+		:eAntonimo :conservar;
+		:eAntonimo :embaracar;
+		:eAntonimo :escravizar;
+		:eAntonimo :forrar;
+		:eAntonimo :guardar;
+		:eAntonimo :impedir;
+		:eAntonimo :moderar;
+		:eAntonimo :poupar;
+		:eAntonimo :preservar;
+		:eAntonimo :regular;
+		:eAntonimo :regularizar;
+		:eAntonimo :resguardar;
+		:eAntonimo :tiranizar;
+		:eAntonimo :despender;
+		:eAntonimo :larguear;
+		:eAntonimo :prodigalizar;
+		:eAntonimo :prodigar;.
+
+:liberar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Fazer com que fique livre - libertar ou permitir;' ;
+		:Significado ' Isentar ou dispensar de determinado encargo ou dever.' ;
+		:Significado ' (Etm. do latim: liberāre)' ;
+		:eAntonimo :coagir;
+		:eAntonimo :coatar;
+		:eAntonimo :compelir;
+		:eAntonimo :compulsar;
+		:eAntonimo :condicionar;
+		:eAntonimo :constranger;
+		:eAntonimo :forcar;
+		:eAntonimo :impelir;
+		:eAntonimo :impor;
+		:eAntonimo :obrigar;
+		:eAntonimo :obstringir;
+		:eAntonimo :onerar;
+		:eAntonimo :oprimir;
+		:eAntonimo :subjugar;
+		:eAntonimo :abrir;
+		:eAntonimo :desbloquear;
+		:eAntonimo :desimpedir;
+		:eAntonimo :desobrigar;
+		:eAntonimo :dispensar;
+		:eAntonimo :disponibilizar;
+		:eAntonimo :isentar;
+		:eAntonimo :libertar;
+		:eAntonimo :livrar;
+		:eAntonimo :permitir;.
+
+:liberdade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' Designação de independência total e legal de uma pessoa, de uma cultura, povoação ou nação;' ;
+		:Significado ' Condição ou característica de quem é livre; peculiaridade do indivíduo que não se sujeita ou submete à vontade de outrem; direito de atuar sem ser forçado, compelido ou impedido de alguma forma por outros;' ;
+		:Significado ' Situação ou condição do ser que não se encontra encarcerado;' ;
+		:Significado ' (Por Ext.) Propriedade daquilo que está solto, livre e sem obstruções ou obstáculos (para se mexer ou movimentar);' ;
+		:Significado ' Ausência de dependência ou subordinação; independência, autonomia ou emancipação;' ;
+		:Significado ' (Por Ext.) Possibilidade atribuída ao ser humano para se manifestar da forma que bem entende, seguindo a sua consciência, vontades, fantasias ou decisões; livre arbítrio;' ;
+		:Significado ' (Por Ext.) Designação de consentimento para; autorização ou anuência para;' ;
+		:Significado ' (Por Ext.) Ação ou postura que revela informalidade ou proximidade; familiaridade ou intimidade; audácia, ousadia ou atrevimento;' ;
+		:Significado ' (Por Ext.) Junção ou aglomerado dos direitos de um indivíduo; autonomia que uma pessoa possui para agir de acordo com a sua vontade, ainda que se deixe restringir pelas normas estabelecidas pela lei;' ;
+		:Significado ' 1(Figurado) Designação de franqueza;' ;
+		:Significado ' 1(Filosofia) Capacidade ou competência particular do ser para optar ou escolher (de forma totalmente autónoma), explicitando ou expondo os distintos aspetos da sua índole ou de sua essência;' ;
+		:Significado ' 1Independência de que usufruem certos grupos sociais; ' ;
+		:Significado ' 1Designação atribuída a imunidades ou privilégios que certos grupos sociais possuem.' ;
+		:Significado ' (Etm. do latim: libertas.atis)' ;
+		:eAntonimo :cativeiro;
+		:eAntonimo :coacao;
+		:eAntonimo :coacao;
+		:eAntonimo :coercao;
+		:eAntonimo :controlo;
+		:eAntonimo :escravidao;
+		:eAntonimo :imposicao;
+		:eAntonimo :interdicao;
+		:eAntonimo :limitacao;
+		:eAntonimo :prisao;
+		:eAntonimo :restricao;
+		:eAntonimo :serventia;
+		:eAntonimo :servidao;
+		:eAntonimo :submissao;
+		:eAntonimo :sujeicao;
+		:eAntonimo :atrevimento;
+		:eAntonimo :autonomia;
+		:eAntonimo :confianca;
+		:eAntonimo :franqueza;
+		:eAntonimo :independencia;
+		:eAntonimo :iniciativa;
+		:eAntonimo :libertacao;
+		:eAntonimo :ousadia;
+		:eAntonimo :soberania;.
+
+:libertação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acto de dar ou ganhar a liberdade: a libertação dos prisioneiros' ;
+		:eAntonimo :emancipacao;.
+
+:libertador rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo ou de quem liberta.' ;
+		:Significado ' (Etm. libertar + dor)' ;
+		:eAntonimo :catartico;.
+
+:libertar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' tornar livre: libertar um animal' ;
+		:eAntonimo :abjugar;
+		:eAntonimo :excarcerar;
+		:eAntonimo :soltar;.
+
+:libertar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' tornar-se livre: libertar-se das amarras' ;.
+
+:libertário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' adj.' ;
+		:Significado ' Diz-se de ou designa a pessoa que não aceita qualquer tipo de limitação ou contenção às liberdades individuais do ser humano;' ;
+		:Significado ' Também designado por anarquista.' ;
+		:Significado ' (Etm. do francês: libertaire)' ;
+		:eAntonimo :anarquista;.
+
+:libertinagem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Estilo de vida libertino; abandono dos bons costumes;' ;
+		:Significado ' Designação de deboche ou desregramento; libidinagem, licenciosidade ou volúpia;' ;
+		:Significado ' Referente aos libertinos.' ;
+		:Significado ' (Etm. do francês: libertinage)' ;
+		:eAntonimo :conceito;
+		:eAntonimo :dignidade;
+		:eAntonimo :pudor;
+		:eAntonimo :respeitabilidade;
+		:eAntonimo :seriedade;
+		:eAntonimo :crapula;
+		:eAntonimo :devassidao;
+		:eAntonimo :meretricio;
+		:eAntonimo :prostituicao;
+		:eAntonimo :tripudio;.
+
+:libertinamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira libertina; de modo lascivo, desregrado ou devasso; de forma depravada ou libidinosa.' ;
+		:Significado ' (Etm. libertina + mente)' ;
+		:eAntonimo :decentemente;
+		:eAntonimo :desregradamente;
+		:eAntonimo :lascivamente;.
+
+:libertino rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se do sujeito que vive uma vida sem regras e/ou sem moral; que é depravado ou libidinoso;' ;
+		:Significado ' Designa indivíduo dissoluto ou lascivo.' ;
+		:Significado ' (Etm. do latim: libertinu)' ;
+		:eAntonimo :comedido;
+		:eAntonimo :direito;
+		:eAntonimo :edificante;
+		:eAntonimo :moderado;
+		:eAntonimo :morigerado;
+		:eAntonimo :regular;
+		:eAntonimo :salutar;
+		:eAntonimo :sensato;
+		:eAntonimo :carnal;
+		:eAntonimo :concupiscente;
+		:eAntonimo :desregrado;
+		:eAntonimo :devasso;
+		:eAntonimo :dissoluto;
+		:eAntonimo :erotico;
+		:eAntonimo :lascivo;
+		:eAntonimo :lubrico;
+		:eAntonimo :salaz;
+		:eAntonimo :sensual;
+		:eAntonimo :voluptuoso;.
+
+:liberto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem é colocado em liberdade; que é solto;' ;
+		:Significado ' Diz-se de quem deixa de estar oprimido; isento ou despreocupado;' ;
+		:Significado ' Livre ou salvo;' ;
+		:Significado ' Característica do escravo que conseguiu a carta de alforria e, consequentemente, a sua liberdade.' ;
+		:Significado ' (Etm. do latim: libertu)' ;
+		:eAntonimo :apreensivel;
+		:eAntonimo :aprisionado;
+		:eAntonimo :detido;
+		:eAntonimo :encarcerado;
+		:eAntonimo :preso;
+		:eAntonimo :prisioneiro;
+		:eAntonimo :tomado;
+		:eAntonimo :desobrigado;
+		:eAntonimo :dispensado;
+		:eAntonimo :isento;
+		:eAntonimo :livre;
+		:eAntonimo :solto;.
+
+:libidinagem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Referente a um estilo de vida libidinoso ou impúdico, imoral ou indecente; concupiscência ou libertinagem.' ;
+		:Significado ' (Etm. do latim: libīdo)' ;
+		:eAntonimo :concupiscencia;
+		:eAntonimo :devassidao;
+		:eAntonimo :lascivia;
+		:eAntonimo :luxuria;.
+
+:lição rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' aula onde se aprende algo: uma lição de piano' ;
+		:Significado ' o que se aprende com um facto passado: tirar lições de uma experiência' ;
+		:eAntonimo :aula;
+		:eAntonimo :castigo;
+		:eAntonimo :pena;
+		:eAntonimo :punicao;.
+
+:licença rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' permissão, autorização: dar licença a alguém para fazer algo' ;
+		:eAntonimo :concessao;.
+
+:licenciado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' aquele que tem licenciatura: licenciado pela Universidade de Lisboa' ;
+		:Significado ' que tem licenciatura' ;.
+
+:licenciar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' obter o grau de licenciado: licenciar-se em História' ;.
+
+:licenciatura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' grau académico: uma licenciatura em Letras' ;.
+
+:liceu rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' estabelecimento de ensino secundário' ;
+		:eAntonimo :academia;
+		:eAntonimo :ateneu;.
+
+:licitar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Ofertar ou oferecer uma licitação ou um valor monetário de forma a adquirir ou comprar (algo) em leilão;' ;
+		:Significado ' Colocar em hasta pública ou leilão.' ;
+		:Significado ' (Etm. do latim: licitāre)' ;.
+
+:lícito rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se do que a lei permite; que consoante ou de acordo com a lei; do mesmo significado de legal;' ;
+		:Significado ' Diz-se do que é legítimo pelos preceitos de justiça ou por outro fundamento superior;' ;
+		:Significado ' Designação do que é legal, justo ou válido ou constitucional.' ;
+		:Significado ' (Etm. do latim: licĭtu)' ;
+		:eAntonimo :ilegitimo;
+		:eAntonimo :inconstitucional;
+		:eAntonimo :invalido;
+		:eAntonimo :nulo;
+		:eAntonimo :legal;
+		:eAntonimo :legitimo;
+		:eAntonimo :litico;.
+
+:licor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' bebida alcoólica doce: licor de ameixa' ;.
+
+:lida rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação de lidar; esforço, faina, trabalho ou lide;' ;
+		:Significado ' Tumulto ou confusão.' ;
+		:Significado ' (Etm. Der. Regress. de: lidar)' ;
+		:eAntonimo :amenidade;
+		:eAntonimo :bonanca;
+		:eAntonimo :calma;
+		:eAntonimo :folga;
+		:eAntonimo :ocio;
+		:eAntonimo :ociosidade;
+		:eAntonimo :paz;
+		:eAntonimo :silencio;
+		:eAntonimo :sota;
+		:eAntonimo :afa;
+		:eAntonimo :esforco;
+		:eAntonimo :faina;
+		:eAntonimo :labor;
+		:eAntonimo :labuta;
+		:eAntonimo :lavor;
+		:eAntonimo :lide;
+		:eAntonimo :lide;
+		:eAntonimo :trabalho;.
+
+:lide rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Jornalismo) Designação de parágrafo introdutório que expõe, de maneira sucinta e direta, o tópico que se vai esmiuçar na reportagem.' ;
+		:Significado ' (Etm. do inglês: lead)' ;.
+
+:líder rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que lidera determinado setor de atividade ou grupo, numa competição: produto líder de mercado' ;
+		:eAntonimo :chefe;
+		:eAntonimo :dirigente;
+		:eAntonimo :guia;
+		:eAntonimo :guru;
+		:eAntonimo :mentor;.
+
+:liderança rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :determinante;
+		:Significado ' Qualidade, função ou posição de quem é líder; chefia' ;
+		:Significado ' Espírito ou apetência para liderar pessoas ou para ocupar a posição de líder; autoridade' ;
+		:Significado ' Pessoa ou conjunto de pessoas que exercem essa função' ;
+		:eAntonimo :autoridade;
+		:eAntonimo :chefia;
+		:eAntonimo :direcao;.
+
+:liderar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' chefiar: liderar um partido' ;.
+
+:lide rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Briga, bulha ou combate;' ;
+		:Significado ' Designação de litígio ou pleito;' ;
+		:Significado ' (Tauromaquia) Denominação atribuída a toureio.' ;
+		:Significado ' (Etm. do latim: lite)' ;.
+
+:liga rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' aliança entre países ou organizações: a Liga das Nações' ;
+		:Significado ' fusão de metais: uma liga de ouro e de outros metais' ;
+		:Significado ' fita elástica para prender as meias: um par de ligas' ;
+		:eAntonimo :amalgama;
+		:eAntonimo :fusao;.
+
+:ligação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' relação entre coisas ou pessoas: uma ligação amorosa' ;
+		:Significado ' comunicação: uma ligação ferroviária; uma ligação telefónica' ;
+		:eAntonimo :conexao;
+		:eAntonimo :juncao;
+		:eAntonimo :nexo;
+		:eAntonimo :relacao;
+		:eAntonimo :uniao;
+		:eAntonimo :vinculo;.
+
+:ligado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que se encontra resguardado ou seguro com ligadura; ' ;
+		:Significado ' Conectado, enleado ou relacionado;' ;
+		:Significado ' Uniforme, unido ou agrupado;' ;
+		:Significado ' Diz-se de quem estabeleceu vínculo afetivo com outra pessoa;' ;
+		:Significado ' Referente à máquina que se encontra a funcionar;' ;
+		:Significado ' (Música) Caracteriza o trecho musical que é tocado sem intervalo ou interrupção.' ;
+		:Significado ' (Etm. Part. Pass. de: ligar)' ;
+		:eAntonimo :afastado;
+		:eAntonimo :desligado;
+		:eAntonimo :despegado;
+		:eAntonimo :dividido;
+		:eAntonimo :partido;
+		:eAntonimo :solto;
+		:eAntonimo :soltura;
+		:eAntonimo :agrupado;
+		:eAntonimo :apenso;
+		:eAntonimo :atado;
+		:eAntonimo :coadunado;
+		:eAntonimo :conectado;
+		:eAntonimo :conjunto;
+		:eAntonimo :contiguo;
+		:eAntonimo :relacionado;
+		:eAntonimo :vinculado;.
+
+:ligadura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' tira de pano que se coloca sobre ferida: cobrir a ferida com uma ligadura' ;
+		:eAntonimo :atadura;
+		:eAntonimo :liame;.
+
+:ligar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' juntar, unir: ligar duas frases' ;
+		:Significado ' pôr em funcionamento: ligar a televisão; ligar algo à tomada' ;
+		:Significado ' telefonar: ligar para o número da amiga' ;
+		:Significado ' dar atenção ou importância: Não ligues ao que ela diz.' ;
+		:eAntonimo :adstringir;
+		:eAntonimo :amarrar;
+		:eAntonimo :anexar;
+		:eAntonimo :atar;
+		:eAntonimo :coadunar;
+		:eAntonimo :enredar;
+		:eAntonimo :juntar;
+		:eAntonimo :prender;
+		:eAntonimo :unir;
+		:eAntonimo :vincular;.
+
+:ligar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' juntar-se, unir-se: ligar-se a um grupo de pessoas' ;.
+
+:ligeireza rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica de ligeiro;' ;
+		:Significado ' Celeridade de movimentos; leveza ou fugacidade;' ;
+		:Significado ' (Figurado) Imprudência ou insensatez.' ;
+		:Significado ' (Etm. ligeiro + eza)' ;
+		:eAntonimo :demora;
+		:eAntonimo :lentidao;
+		:eAntonimo :vagar;
+		:eAntonimo :celeridade;
+		:eAntonimo :presteza;
+		:eAntonimo :rapidez;.
+
+:ligeiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' rápido, ágil: um passo ligeiro' ;
+		:Significado ' pequeno, fraco: uma ligeira diferença; uma refeição ligeira' ;
+		:Significado ' de conteúdo fácil: música ligeira; comédia ligeira' ;
+		:eAntonimo :aligero;
+		:eAntonimo :breve;
+		:eAntonimo :celere;
+		:eAntonimo :fugaz;
+		:eAntonimo :leve;
+		:eAntonimo :precipite;.
+
+:light rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Designação de um alimento que contém uma quantidade de calorias inferior aos restantes alimentos do mesmo tipo;' ;
+		:Significado ' Designação de uma bebida que contém uma quantidade de álcool inferior às restantes bebidas do mesmo tipo;' ;
+		:Significado ' (Figurado; Pejorativo) Diz-se dos indivíduos que aparentam ter um caráter superficial e evitam explorar os pontos mais profundos ou labirínticos de grandes questões;' ;
+		:Significado ' (Figurado; Pejorativo) Referente ao indivíduo que apresenta um quociente de inteligência baixo; que é intelectualmente pobre;' ;
+		:Significado ' (Figurado; Informal) Que foi alvo de uma observação ou de um tratamento superficial ou pouco profundo; que foi abordado de forma ligeira ou frívola.' ;
+		:Significado ' (Etm. do inglês: light)' ;.
+
+:lilás rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' arbusto que dá flores lilases e brancas: Os lilases estão em flor.' ;
+		:Significado ' cor arroxeada: O lilás é uma cor suave.' ;
+		:Significado ' de cor arroxeada' ;.
+
+:liliputiano rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem é muito pequeno; que apresenta um tamanho reduzido;' ;
+		:Significado ' Irrelevante ou irrisório.' ;
+		:Significado ' (Etm. do inglês: Lilliputian)' ;
+		:eAntonimo :biguano;
+		:eAntonimo :crasso;
+		:eAntonimo :crescido;
+		:eAntonimo :criado;
+		:eAntonimo :grande;
+		:eAntonimo :graudo;
+		:eAntonimo :ingente;
+		:eAntonimo :poderoso;
+		:eAntonimo :significante;
+		:eAntonimo :anao;
+		:eAntonimo :homunculo;
+		:eAntonimo :pigmeu;.
+
+:lima rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' instrumento para polir: serrar uma barra de ferro com uma lima; uma lima para as unhas' ;
+		:Significado ' fruto citrino: sumo de lima' ;.
+
+:limão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' citrino de casca amarela: temperar o peixe com sumo de limão' ;.
+
+:limar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' polir: limar o ferro; limar as unhas' ;
+		:Significado '  (fig) aperfeiçoar: limar as arestas de algo' ;.
+
+:limbo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Referente ao que está situado no exterior de algo; beira, borda ou orla;' ;
+		:Significado ' (Religião - Catolicismo) Lugar destinado às crianças que morreram antes de terem sido batizadas, de acordo com os preceitos da religião católica;' ;
+		:Significado ' (Religião - Catolicismo) Sítio onde as almas das pessoas não batizadas se reunem, temporariamente, afastadas de Deus, até as mesmas serem redimidas do pecado original;' ;
+		:Significado ' (Figurado) Condição do que se encontra esquecido, negligenciado ou vago;' ;
+		:Significado ' (Por Ext.) Designação de esquecimento ou falta de memória;' ;
+		:Significado ' (Astronomia) Denominação, num astro, da circunferência (contorno) localizada na sua região exterior;' ;
+		:Significado ' (Física) Borda ou contorno de instrumento que apresenta uma medida circular ou semicircular;' ;
+		:Significado ' (Informal) Lugar onde as coisas sem função ou utilidade são guardadas;' ;
+		:Significado ' (Zoologia) Designação da área laminar da unha do animal.' ;
+		:Significado ' (Etm. do latim: limbum)' ;
+		:eAntonimo :memoria;
+		:eAntonimo :memorial;
+		:eAntonimo :presente;
+		:eAntonimo :recordacao;
+		:eAntonimo :relembranca;
+		:eAntonimo :reminiscencia;
+		:eAntonimo :beira;
+		:eAntonimo :borda;
+		:eAntonimo :orla;
+		:eAntonimo :rebordo;.
+
+:limiar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Figurado) Começo, início ou prelúdio; fase inicial;' ;
+		:Significado ' (Por. Ext.) Momento ou ponto que representa um limite ou uma fronteira, normalmente inicial, de algo: limiar da loucura;' ;
+		:Significado ' Entrada, ombreira ou umbral; soleira, patamar ou coiceira;' ;
+		:Significado ' (Psicologia) Menor veemência ou intensidade possível que um estímulo pode transmitir e, ainda assim, ser sentido provocando uma excitação.' ;
+		:Significado ' (Etm. do latim: limināre)' ;
+		:eAntonimo :comeco;
+		:eAntonimo :entrada;
+		:eAntonimo :fronteira;
+		:eAntonimo :iniciacao;
+		:eAntonimo :inicio;
+		:eAntonimo :limite;
+		:eAntonimo :patamar;.
+
+:liminar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que antecede o assunto central com a finalidade de o introduzir ou explicar; que é preliminar;' ;
+		:Significado ' Respeitante a ou que se encontra no limite (entre duas ocorrências, dois locais, entre outros);' ;
+		:Significado ' (Direito) Denominação atribuída a uma medida judicial temporária, que ocorre no princípio de uma ação, tendo a possibilidade de ser validada ou anulada durante a sentença.' ;
+		:eAntonimo :derradeiro;
+		:eAntonimo :ignorado;
+		:eAntonimo :menosprezado;
+		:eAntonimo :posterior;
+		:eAntonimo :subsequente;
+		:eAntonimo :limiar;
+		:eAntonimo :preliminar;
+		:eAntonimo :previo;.
+
+:limitação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acção de limitar: limitação de velocidade' ;
+		:eAntonimo :excepcao;
+		:eAntonimo :exclusao;
+		:eAntonimo :restricao;.
+
+:limitado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que tem limites, pouco extenso: recursos limitados' ;
+		:Significado ' pouco aberto: um espírito limitado' ;
+		:eAntonimo :curto;
+		:eAntonimo :pequeno;.
+
+:limitar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' reduzir: limitar as despesas' ;
+		:eAntonimo :abalizar;
+		:eAntonimo :balizar;
+		:eAntonimo :delimitar;
+		:eAntonimo :demarcar;
+		:eAntonimo :excluir;
+		:eAntonimo :marcar;
+		:eAntonimo :reservar;
+		:eAntonimo :restringir;.
+
+:limitar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' não ir além de: limitar-se ao estrito necessário' ;.
+
+:limitativo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que constitui ou tem a utilidade de limite; ' ;
+		:Significado ' Que confina, circunscreve ou restringe.' ;
+		:Significado ' (Etm. limitar + tivo)' ;.
+
+:limite rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' linha que separa dois países, terrenos: os limites de um território' ;
+		:Significado ' termo de tempo: É o prazo limite para entrega do trabalho.' ;
+		:Significado '  (fig) ponto que não se deve ultrapassar: A paciência tem limites.' ;
+		:eAntonimo :baliza;
+		:eAntonimo :fronteira;
+		:eAntonimo :marca;
+		:eAntonimo :marco;.
+
+:limítrofe rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' vizinho, que está ao lado: dois países limítrofes' ;
+		:eAntonimo :lindeiro;.
+
+:limo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Botânica) Referente a uma vegetação verde que cobre de verde todas as rochas, pedras, paredes ou troncos onde se encontra; é microscópica e aparece onde há humidade; musgo;' ;
+		:Significado ' (Botânica) Designação de uma vegetação que tapa ou se mistura no lodo do fundo de aquários; essencialmente representada por algas verdes;' ;
+		:Significado ' Lodo ou barro; lama;' ;
+		:Significado ' Denominação de imundice ou sujeira; baixeza.' ;
+		:Significado ' (Etm. do latim: limu)' ;
+		:eAntonimo :asseio;
+		:eAntonimo :higiene;
+		:eAntonimo :limpeza;
+		:eAntonimo :saneamento;
+		:eAntonimo :barro;
+		:eAntonimo :Barro;
+		:eAntonimo :lama;
+		:eAntonimo :lodo;.
+
+:limoeiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' árvore que dá limões' ;.
+
+:limpa-pára-brisas rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' aparelho que limpa os vidros do carro' ;.
+
+:limpa-vidros rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' produto para lavar vidros: comprar produto limpa-vidros' ;.
+
+:limpadela rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de limpar.' ;
+		:Significado ' (Etm. limpar + dela)' ;
+		:eAntonimo :limpeza;.
+
+:limpar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' tornar limpo, tirar a sujidade: limpar a casa; limpar o pó' ;
+		:Significado ' secar: limpar a boca; limpar as mãos' ;
+		:eAntonimo :assear;
+		:eAntonimo :enxugar;
+		:eAntonimo :expurgar;
+		:eAntonimo :lavar;
+		:eAntonimo :mondar;
+		:eAntonimo :purgar;
+		:eAntonimo :purificar;.
+
+:limpar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' secar-se: limpar-se a seguir ao banho' ;.
+
+:limpeza rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acto de limpar: limpeza a seco' ;
+		:Significado ' qualidade do que é limpo: zelar pela limpeza dos hospitais' ;
+		:eAntonimo :asseio;
+		:eAntonimo :higiene;
+		:eAntonimo :higienizacao;
+		:eAntonimo :saneamento;.
+
+:limpidez rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica de límpido;' ;
+		:Significado ' Clareza ou lucidez;' ;
+		:Significado ' (Figurado) Designação de inocência ou pureza.' ;
+		:Significado ' (Etm. límpido + ez)' ;
+		:eAntonimo :brilho;
+		:eAntonimo :clareza;
+		:eAntonimo :esplendor;
+		:eAntonimo :nitidez;
+		:eAntonimo :pureza;
+		:eAntonimo :transparencia;.
+
+:límpido rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' claro, transparente: uma água límpida' ;
+		:eAntonimo :diafano;
+		:eAntonimo :translucido;
+		:eAntonimo :transparente;.
+
+:limpo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' sem sujidade: roupa limpa' ;
+		:Significado ' claro, sem nuvens: céu limpo' ;
+		:Significado ' honesto: um negócio limpo' ;
+		:eAntonimo :asseado;
+		:eAntonimo :terso;.
+
+:linda rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de baliza, limite, linde, marco ou raia.' ;
+		:Significado ' (Etm. Der. Regress. de: lindar)' ;
+		:eAntonimo :baliza;
+		:eAntonimo :estrema;
+		:eAntonimo :limite;
+		:eAntonimo :linde;
+		:eAntonimo :marco;
+		:eAntonimo :padrao;
+		:eAntonimo :raia;.
+
+:lindamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira linda; de modo encantador, gracioso ou primoroso; de forma deleitável, grandiosa, magnífica ou respeitável.' ;
+		:Significado ' (Etm. linda + mente)' ;
+		:eAntonimo :anesteticamente;
+		:eAntonimo :desproporcionadamente;
+		:eAntonimo :hediondamente;
+		:eAntonimo :encantadoramente;
+		:eAntonimo :graciosamente;
+		:eAntonimo :primorosamente;.
+
+:lindeza rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica de lindo; boniteza, graça ou perfeição;' ;
+		:Significado ' Indivíduo ou alguma coisa linda ou bela;' ;
+		:Significado ' Designação de capricho ou primor.' ;
+		:Significado ' (Etm. lindo + eza)' ;
+		:eAntonimo :cicatriz;
+		:eAntonimo :curteza;
+		:eAntonimo :defeito;
+		:eAntonimo :deformidade;
+		:eAntonimo :desonra;
+		:eAntonimo :erro;
+		:eAntonimo :falta;
+		:eAntonimo :fealdade;
+		:eAntonimo :feiura;
+		:eAntonimo :hediondez;
+		:eAntonimo :inconveniente;
+		:eAntonimo :mancha;
+		:eAntonimo :pecha;
+		:eAntonimo :repelencia;
+		:eAntonimo :beleza;
+		:eAntonimo :boniteza;
+		:eAntonimo :capricho;
+		:eAntonimo :formosura;
+		:eAntonimo :graca;
+		:eAntonimo :perfeicao;
+		:eAntonimo :primor;.
+
+:lindo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' muito bonito, belo: uma rapariga linda; uma paisagem linda' ;.
+
+:linear rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que se refere a uma linha;' ;
+		:Significado ' Que pode ser apresentado através de linhas geométricas;' ;
+		:Significado ' Que possui somente uma dimensão;' ;
+		:Significado ' (Figurado) Diz-se do que segue linhas retas, que não apresenta curvas; que é direto e elementar;' ;
+		:Significado ' (Botânica) Descreve uma folha estreita e longa;' ;
+		:Significado ' (Etm. do latim: lineāre)' ;
+		:eAntonimo :partido;
+		:eAntonimo :claro;
+		:eAntonimo :direto;
+		:eAntonimo :simples;.
+
+:linfa rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Linguagem Poétic)  Água nítida, límpida ou pura;' ;
+		:Significado ' (Botânica) Denominação atribuída a seiva;' ;
+		:Significado ' (Histologia) Designação de um líquido que pode ser esbranquiçado, rosado ou amarelado, que é composto principalmente pelo plasma e por glóbulos brancos e é bastante nutritivo; circula geralmente dentro dos vasos linfáticos. ' ;
+		:Significado ' (Etm. do latim: lympha)' ;.
+
+:linfoma rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Medicina) Todos os tumores malignos compostos pela multiplicação do tecido linfoide.' ;
+		:Significado ' (Etm. linfo + oma)' ;.
+
+:língua rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' órgão mole e comprido dentro da boca: molhar os lábios com a língua' ;
+		:Significado ' sistema de comunicação entre as pessoas: a língua materna; a língua portuguesa
+/espanhola' ;.
+
+:linguado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' peixe comestível de corpo achatado: linguado grelhado' ;.
+
+:linguagem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' qq sistema de comunicação: uma linguagem gestual; linguagem musical' ;
+		:eAntonimo :idioma;.
+
+:linguareiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se do indivíduo que é muito falador ou tagarela; que é mexeriqueiro ou bisbilhoteiro;' ;
+		:Significado ' Designa pessoa que fala demais; indivíduo coscuvilheiro.' ;
+		:Significado ' (Etm. língua + r + eiro)' ;
+		:eAntonimo :tagarela;.
+
+:linguarudo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Do mesmo significado de linguareiro.' ;
+		:Significado ' (Etm. língua + r + uso)' ;
+		:eAntonimo :linguareiro;.
+
+:linguete rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de peça ou alavanca que se insere numa roda dentada de modo a que a mesma não decline ou decaia.' ;
+		:Significado ' (Etm. língua + ete)' ;.
+
+:linguiça rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' espécie de chouriço delgado' ;.
+
+:linguística rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' ciência que estuda a linguagem' ;.
+
+:linha rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' fio utilizado para coser: coser a bainha com linha preta' ;
+		:Significado ' fio com que se pesca: pesca à linha' ;
+		:Significado ' traço: traçar uma linha' ;
+		:Significado ' sequência horizontal de palavras: ler algumas linhas de um texto' ;
+		:Significado ' limite entre duas coisas: a linha do horizonte; a linha de chegada' ;
+		:Significado ' boa forma física: cuidar da linha' ;
+		:Significado ' serviço de transporte entre dois lugares: a linha do Norte' ;
+		:Significado ' carris onde circulam eléctricos e comboios: a linha do eléctrico' ;
+		:Significado ' fio de comunicação telefónica: uma linha telefónica' ;
+		:eAntonimo :risca;
+		:eAntonimo :risco;
+		:eAntonimo :traco;.
+
+:linhagem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de um tecido grosso de linho.' ;
+		:Significado ' (Etm. linho + agem)' ;.
+
+:linhagem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Sucessão de gerações numa mesma família; genealogia; espécie, casta ou raça;' ;
+		:Significado ' Designação de classe social.' ;
+		:Significado ' (Etm. do francês: lignage)' ;
+		:eAntonimo :casta;
+		:eAntonimo :especie;
+		:eAntonimo :estirpe;
+		:eAntonimo :familia;
+		:eAntonimo :genealogia;
+		:eAntonimo :qualidade;
+		:eAntonimo :raca;.
+
+:linho rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' tecido feito de planta: um casaco em linho' ;.
+
+:link rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :vazio;
+		:Significado ' n.m.' ;
+		:Significado ' (Informática) Ver: hiperligação.' ;.
+
+:lipomatoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que é da essência do lipoma; que é parecido com o lipoma.' ;
+		:Significado ' (Etm. do grego: lípos + [ógk]oma + atos + oso)' ;.
+
+:lipotimia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação da perda repentina de discernimento ou conhecimento, geralmente total, durante um curto espaço de tempo, acompanhada pela suspensão dos movimentos do corpo, sendo que as funções circulatória e respiratória continuam em funcionamento; do mesmo significado de síncope;' ;
+		:Significado ' Desfalecimento ou desmaio.' ;
+		:Significado ' (Etm. do grego: lipothymía)' ;
+		:eAntonimo :deliquio;
+		:eAntonimo :desmaio;
+		:eAntonimo :sincope;.
+
+:liquefazer rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Ação de fazer com que fique líquido (algo que se encontrava no estado gasoso);' ;
+		:Significado ' Ato de dissolver ou derreter;' ;
+		:Significado ' Ato de passar de um estado (sólido ou gasoso) para o estado líquido;' ;
+		:Significado ' Dissolver ou derreter.' ;
+		:Significado ' (Etm. do latim: liquefacĕre)' ;
+		:eAntonimo :derreter;
+		:eAntonimo :liquidificar;.
+
+:liquidação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pagamento de conta ou dívida: a liquidação de uma dívida' ;
+		:Significado ' venda de produtos a preço reduzido: liquidação total' ;.
+
+:liquidar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' pagar: liquidar uma conta' ;
+		:Significado ' vender a preços reduzidos: liquidar um stock' ;
+		:Significado '  (fig) matar: liquidar um bandido' ;.
+
+:liquidificação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação da passagem de uma substância de um estado (sólido ou gasoso) para o estado líquido; ' ;
+		:Significado ' Ação de liquidificar;' ;
+		:Significado ' (Física) Do mesmo significado de fusão.' ;
+		:Significado ' (Etm. liquidificar + ção)' ;.
+
+:liquidificador rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se do que liquidifica;' ;
+		:Significado ' Referente ao que causa a liquidificação;' ;
+		:Significado ' Máquina elétrica utilizada na cozinha, que tem como função macerar e fundir certos elementos, particularmente frutas.' ;
+		:Significado ' (Etm. liquidificar + dor)' ;.
+
+:liquidificar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Fazer com que fique líquido; converter ao estado líquido (algo sólido); derreter ou liquefazer.' ;
+		:Significado ' (Etm. do latim: liquĭdu + facĕre)' ;
+		:eAntonimo :derreter;
+		:eAntonimo :liquefazer;.
+
+:líquido rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' substância que flui' ;
+		:Significado ' que flui: um creme líquido' ;.
+
+:lírico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' (Literatura; Música) Referente ao género musical ou literário marcado pela expressão da subjetividade do seu criador;' ;
+		:Significado ' Na Antiguidade era referente à poesia que podia ser cantada enquanto era acompanhada pelo som de uma lira;' ;
+		:Significado ' Diz-se da poesia que é possível apresentar a cantar;' ;
+		:Significado ' Que diz respeito ou pertence à ópera;' ;
+		:Significado ' Diz-se daquilo ou daquele que manifesta sentimentalismo;' ;
+		:Significado ' Denominação atribuída a trovador que produz o género lírico referido;' ;
+		:Significado ' (Figurado) Pessoa muito emotiva ou sensível, pouco pragmática e muito utopista.' ;
+		:Significado ' (Etm. do grego: lyrikós; do latim: lyrĭcu)' ;
+		:eAntonimo :apaixonado;
+		:eAntonimo :emotivo;
+		:eAntonimo :lirista;
+		:eAntonimo :poetico;
+		:eAntonimo :romantico;
+		:eAntonimo :trovador;.
+
+:lírio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' planta que dá flor branca: os lírios do vale' ;.
+
+:lirismo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica de lírico;' ;
+		:Significado ' Estilo sublime ou arrebatado;' ;
+		:Significado ' Sentimentalidade exagerada ou de grandes proporções;' ;
+		:Significado ' Euforia ou arrebatamento de espírito;' ;
+		:Significado ' (Pejorativo) Falta de sentido prático.' ;
+		:Significado ' (Etm. do francês: lyrisme)' ;
+		:eAntonimo :ardor;
+		:eAntonimo :entusiasmo;
+		:eAntonimo :paixao;.
+
+:lisboeta rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' relativo a Lisboa: a vida noctura lisboeta' ;
+		:Significado ' natural de Lisboa: Os lisboetas são habitantes de Lisboa.' ;.
+
+:liso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' plano e regular: uma tábua lisa' ;
+		:Significado ' só de uma cor, não estampado: um tecido liso' ;
+		:Significado ' não encaracolado: ter cabelos lisos' ;
+		:eAntonimo :chato;
+		:eAntonimo :macio;
+		:eAntonimo :plano;
+		:eAntonimo :raso;
+		:eAntonimo :rente;.
+
+:lisofórmio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Género de desinfetante, composto por sabão de potassa e aldeído fórmico; popularmente usado em preparações antissépticas. ' ;
+		:Significado ' (Etm. do grego: lysis + fórmio)' ;.
+
+:lisonja rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' cumprimentos e louvores exagerados' ;
+		:eAntonimo :adulacao;
+		:eAntonimo :afago;
+		:eAntonimo :carinho;
+		:eAntonimo :mimo;.
+
+:lisonjear rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' fazer sentir ou sentir orgulho: A homenagem dos colegas lisonjeou-o.' ;
+		:Significado ' adular: Ele não perde a oportunidade de lisonjear os
+superiores.' ;
+		:eAntonimo :adular;
+		:eAntonimo :bajoujar;
+		:eAntonimo :bajular;
+		:eAntonimo :embandeirar;.
+
+:lisonjeiramente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira lisonjeira; de forma educada, agradável, apologética ou encomiástica;' ;
+		:Significado ' De modo satisfatório, adulador ou amável.' ;
+		:Significado ' (Etm. lisonjeira + mente)' ;
+		:eAntonimo :aduladoramente;
+		:eAntonimo :agradavelmente;
+		:eAntonimo :amavelmente;
+		:eAntonimo :educadamente;
+		:eAntonimo :satisfatoriamente;.
+
+:lisonjeiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Que engloba ou contém lisonja ou galanteria;' ;
+		:Significado ' Que é aprazível, adulador ou amável; que é elogioso;' ;
+		:Significado ' Que venera ou enaltece de maneira descomedida;' ;
+		:Significado ' Designação de apologético ou bajulador.' ;
+		:Significado ' (Etm. francês antigo: losengier; do provençal: lauzengier; do castelhano: lisonjero)' ;
+		:eAntonimo :admoestador;
+		:eAntonimo :criticador;
+		:eAntonimo :fiscal;
+		:eAntonimo :improvador;
+		:eAntonimo :reprovador;
+		:eAntonimo :verberador;
+		:eAntonimo :adulador;
+		:eAntonimo :agradavel;
+		:eAntonimo :amavel;
+		:eAntonimo :apologetico;
+		:eAntonimo :encomiastico;
+		:eAntonimo :lisonjeador;.
+
+:lista rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' sequência de palavras, de nomes: uma lista de coisas a comprar; uma lista de convidados' ;
+		:eAntonimo :catalogo;
+		:eAntonimo :inventario;
+		:eAntonimo :relacao;
+		:eAntonimo :rol;.
+
+:listar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Colocar em lista; arrolar ou inscrever;' ;
+		:Significado ' Classificar ou inventariar;' ;
+		:Significado ' Especificar ou listrar; raiar ou relacionar.' ;
+		:Significado ' (Etm. lista + ar)' ;
+		:eAntonimo :desalistar;
+		:eAntonimo :elencar;
+		:eAntonimo :enumerar;
+		:eAntonimo :especificar;
+		:eAntonimo :frisar;
+		:eAntonimo :listrar;
+		:eAntonimo :raiar;
+		:eAntonimo :relacionar;
+		:eAntonimo :riscar;.
+
+:listel rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Caixilho apertado e estreito que geralmente surge juntamente com um outro de maior dimensão, ou divide as caneluras de um pilar; também denominado por listelo.' ;
+		:Significado ' (Etm. do italiano: listello; do francês antigo: listel)' ;.
+
+:lis rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :vazio;
+		:Significado ' n.m.' ;
+		:Significado ' Ver: lírio.' ;.
+
+:literacia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :determinante;
+		:Significado ' Capacidade de ler ou escrever; alfabetismo: testes de literacia, níveis de literacia' ;
+		:Significado ' Competência para interpretar aquilo que está escrito: literacia emocional, literacia financeira' ;
+		:Significado ' Competência específica numa determinada área de conhecimento: literacia digital, literacia matemática' ;
+		:eAntonimo :analfabetismo;
+		:eAntonimo :iliteracia;
+		:eAntonimo :alfabetismo;.
+
+:literalmente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De forma literal; que deve ser interpretado textualmente.' ;
+		:Significado ' (Etm. literal + mente)' ;
+		:eAntonimo :figuradamente;
+		:eAntonimo :metaforicamente;.
+
+:literário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' relativo a literatura: estudos literários' ;.
+
+:literatamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira literata; de modo culto, douto ou erudito; de forma ilustrada, instruída, letrada ou luminar.' ;
+		:Significado ' (Etm. literata + mente)' ;
+		:eAntonimo :analfabetamente;
+		:eAntonimo :ignorantemente;
+		:eAntonimo :iletradamente;
+		:eAntonimo :incultamente;
+		:eAntonimo :indoutamente;
+		:eAntonimo :inexperientemente;
+		:eAntonimo :leigamente;
+		:eAntonimo :cultamente;
+		:eAntonimo :doutamente;
+		:eAntonimo :eruditamente;
+		:eAntonimo :ilustradamente;
+		:eAntonimo :instruidamente;
+		:eAntonimo :luminarmente;.
+
+:literato rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se de ou designa quem tem abrangentes conhecimentos literários; que é letrado ou erudito;' ;
+		:Significado ' Diz-se de ou designa quem escreve literatura.' ;
+		:Significado ' (Etm. do latim: litterātu)' ;
+		:eAntonimo :ignorante;
+		:eAntonimo :inculto;
+		:eAntonimo :culto;
+		:eAntonimo :douto;
+		:eAntonimo :erudito;
+		:eAntonimo :ilustrado;
+		:eAntonimo :letrado;
+		:eAntonimo :luminar;
+		:eAntonimo :sabio;.
+
+:literatura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' estudo das obras literárias: estudar literatura' ;
+		:Significado ' conjunto de obras compostas por escritores: a literatura portuguesa' ;.
+
+:lítico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que é respeitante à pedra;' ;
+		:Significado ' Denominação utilizada antigamente para designar aquele ácido que hoje se conhece como úrico.' ;
+		:Significado ' (Etm. do grego: lithikós)' ;.
+
+:lítico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' (Brasil) Diz-se daquilo que não possui qualquer mistura; que é legítimo, genuíno ou inalterado.' ;
+		:Significado ' (Etm. de origem obscura)' ;
+		:eAntonimo :legitimo;
+		:eAntonimo :puro;.
+
+:lítico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' (Química) Diz-se do que é respeitante ao lítio.' ;
+		:Significado ' (Etm. lítio + ico)' ;.
+
+:lítico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' (Biologia) Diz-se daquilo que se refere ou gera lise.' ;
+		:Significado ' (Etm. do grego: lutikós)' ;.
+
+:litigação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Direito) Do mesmo significado de litigância.' ;
+		:Significado ' (Etm. do latim: litigatiōne)' ;
+		:eAntonimo :litigancia;.
+
+:litigância rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Direito) Circunstância na qual determinada situação se encontra em tribunal para avaliação e deliberação.' ;
+		:Significado ' (Etm. litigar + ância)' ;.
+
+:litigar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' (Direito) Denunciar determinada situação ou questão num tribunal, com a finalidade de obter um esclarecimento ou uma decisão acerca dessa denúncia; litigiar ou pleitear; refutar ou contestar legalmente;' ;
+		:Significado ' Resistir ou opor-se a algo ou alguém; entrar em litígio, pendência ou querela com.' ;
+		:Significado ' (Etm. do latim: litigāre)' ;
+		:eAntonimo :brigar;
+		:eAntonimo :competir;
+		:eAntonimo :contender;
+		:eAntonimo :demandar;
+		:eAntonimo :disputar;
+		:eAntonimo :litigiar;
+		:eAntonimo :pleitear;
+		:eAntonimo :renhir;
+		:eAntonimo :rivalizar;.
+
+:litigar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' (Cabo-Verde) Buscar alguma coisa complicada de achar;' ;
+		:Significado ' (Cabo-Verde) Labutar para poder comer;' ;
+		:Significado ' (Cabo-Verde) Dedicar-se ou aplicar-se em.' ;
+		:Significado ' (Etm. do crioulo cabo-verdiano: litijâr)' ;.
+
+:litigiar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :vazio;
+		:Significado ' v.t. e v.i.' ;
+		:Significado ' Ver: litigar.' ;
+		:Significado ' (Etm. litígio + ar)' ;.
+
+:litígio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de uma ação judicial que se encontra entregue a tribunal para análise e deliberação, acerca de uma situação ou circunstância em relação à qual as partes envolvidas não conseguem chegar a um consenso;' ;
+		:Significado ' Denominação de contenda, altercação, conflito ou discordância.' ;
+		:Significado ' (Etm. do latim: litigĭu)' ;
+		:eAntonimo :altercacao;
+		:eAntonimo :contenda;
+		:eAntonimo :controversia;
+		:eAntonimo :debate;
+		:eAntonimo :discussao;
+		:eAntonimo :polemica;.
+
+:litigioso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que é respeitante a litígio;' ;
+		:Significado ' Referente àquilo que se encontra subordinado ou dependente de decisão judicial; que engloba ou implica litígio;' ;
+		:Significado ' Contencioso, problemático ou conflituoso.' ;
+		:Significado ' (Etm. do latim: litigiōsu)' ;
+		:eAntonimo :reconciliatorio;
+		:eAntonimo :contencioso;
+		:eAntonimo :contestado;.
+
+:litografia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de imagem ou escrito realizado numa pedra, para posteriormente obter cópias em papel;' ;
+		:Significado ' Denominação atribuída a uma oficina de litógrafo;' ;
+		:Significado ' Produtividade ou trabalho conseguido através do processo litográfico.' ;
+		:Significado ' (Etm. do grego: líthos + gráphein + ia)' ;.
+
+:litoral rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que se situa perto do mar: preservar a costa litoral' ;
+		:Significado ' região situada perto do mar' ;
+		:eAntonimo :beira-mar;
+		:eAntonimo :praia;.
+
+:litosfera rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Geologia) Porção exterior e rija do planeta Terra, que engloba a crusta terrestre e um pedaço do manto superior; também conhecida por onosfera.' ;
+		:Significado ' (Etm. lito + esfera)' ;
+		:eAntonimo :onosfera;.
+
+:litro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' medida para líquido: um litro de leite' ;.
+
+:liturgia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Aglomerado de cerimónias eclesiásticas, estipuladas pela respetiva autoridade; ritual.' ;
+		:Significado ' (Etm. do grego: leitourgía; do latim eclesiástico: liturgĭa)' ;
+		:eAntonimo :rito;
+		:eAntonimo :ritual;.
+
+:live rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' n.m.' ;
+		:Significado ' Diz-se de um disco, de um sarau ou de um programa que é gravado ao vivo, perante um determinado público.' ;
+		:Significado ' (Etm. do inglês: live)' ;.
+
+:lividez rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Condição ou característica de lívido;' ;
+		:Significado ' Referente à cor lívida; brancura ou palidez.' ;
+		:Significado ' (Etm. lívido + ez)' ;
+		:eAntonimo :brancura;
+		:eAntonimo :esqualidez;
+		:eAntonimo :livor;
+		:eAntonimo :palidez;.
+
+:lívido rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' muito pálido: ficar lívido de medo' ;
+		:eAntonimo :lurido;
+		:eAntonimo :palido;.
+
+:livrar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' tornar livre, libertar: livrar um prisioneiro' ;
+		:Significado ' salvar de dificuldade ou perigo: livrar alguém de um perigo' ;
+		:eAntonimo :demitir;
+		:eAntonimo :desembaracar;
+		:eAntonimo :destituir;
+		:eAntonimo :dispensar;
+		:eAntonimo :eximir;
+		:eAntonimo :exonerar;
+		:eAntonimo :isentar;
+		:eAntonimo :prescindir;
+		:eAntonimo :safar;.
+
+:livrar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' libertar-se, escapar: livrar-se da polícia' ;.
+
+:livraria rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' loja onde se vendem livros' ;
+		:eAntonimo :biblioteca;.
+
+:livre rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que não está preso: um cidadão livre' ;
+		:Significado ' autónomo, independente: um país livre' ;
+		:Significado ' disponível, não ocupado: um lugar livre' ;
+		:eAntonimo :desocupado;
+		:eAntonimo :devoluto;
+		:eAntonimo :vago;.
+
+:livre-arbítrio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Possibilidade que cada pessoa tem de tomar decisões ou fazer escolhas em função da sua própria vontade, sem estar sujeito a qualquer condicionamento; liberdade de escolha' ;
+		:eAntonimo :livre-alvedrio;.
+
+:livreiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Respeitante a livros;' ;
+		:Significado ' Indivíduo que comercializa vende livros.' ;
+		:Significado ' (Etm. do latim: librārĭu)' ;.
+
+:livrete rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' documentos relativos ao carro' ;
+		:eAntonimo :folheto;
+		:eAntonimo :panfleto;.
+
+:livreto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Livro de pequenas dimensões, que não contém muitas folhas; também é denominado por livrete ou folheto.' ;
+		:Significado ' (Etm. livro + eto)' ;
+		:eAntonimo :folhete;
+		:eAntonimo :livrete;.
+
+:livro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' conjunto de folhas impressas e unidas: livro de bolso' ;
+		:eAntonimo :alfarrabio;
+		:eAntonimo :calhamaco;
+		:eAntonimo :cartapacio;.
+
+:lixeira rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' local onde se acumula o lixo' ;
+		:eAntonimo :monturo;.
+
+:lixívia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' produto de limpeza' ;.
+
+:lixiviação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou procedimento de lixiviar;' ;
+		:Significado ' Designação da apartação dos elementos solúveis que existem em determinadas substâncias, através da lavagem.' ;
+		:Significado ' (Etm. lixiviar + ção)' ;.
+
+:lixiviar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ação de limpar ou assear com lixívia; branquejar; efetuar ou realizar a lixiviação de.' ;
+		:Significado ' (Etm. lixívia + ar)' ;.
+
+:lixo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' aquilo que se deita fora por não prestar: deitar o lixo na lixeira' ;
+		:eAntonimo :despejo;
+		:eAntonimo :detrito;
+		:eAntonimo :residuo;.
+
+:lobacho rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação atribuída a um lobo de pequenas dimensões.' ;
+		:Significado ' (Etm. lobo + cho)' ;.
+
+:lobo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' animal feroz parecido com o cão: ****Os lobos atacaram o rebanho.' ;.
+
+:lôbrego rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem é tenebroso, medonho ou tenebroso;' ;
+		:Significado ' Que é obscuro ou sombrio;' ;
+		:Significado ' Que é soturno, triste ou infeliz.' ;
+		:Significado ' (Etm. do latim: lugŭbre)' ;
+		:eAntonimo :iluminado;
+		:eAntonimo :lugubre;
+		:eAntonimo :medonho;
+		:eAntonimo :sombrio;
+		:eAntonimo :tenebroso;
+		:eAntonimo :tetrico;
+		:eAntonimo :triste;.
+
+:lobreguidão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Condição de lôbrego; trevas ou negrura.' ;
+		:Significado ' (Etm. lôbrego + idão)' ;.
+
+:lobrigar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Enxergar com muito esforço; avistar ou entrever;' ;
+		:Significado ' Percecionar ou entender; notar;' ;
+		:Significado ' Enxergar ou ver por acidente.' ;
+		:Significado ' (Etm. do latim: lucubrāre)' ;
+		:eAntonimo :avistar;
+		:eAntonimo :bispar;
+		:eAntonimo :entrever;
+		:eAntonimo :enxergar;
+		:eAntonimo :perceber;.
+
+:locação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação de locar ou alugar; arrendamento;' ;
+		:Significado ' Referente à demarcação de determinado terreno através da utilização de estacas; delimitação das linhas básicas de uma construção;' ;
+		:Significado ' (Direito) Relativo a um contrato que define que uma das partes se compromete a permitir o usufruto de algo à outra, em troca de uma retribuição;' ;
+		:Significado ' (Brasil) Referente ao sítio onde são gravadas cenas externas, longe do estúdio cinematográfico.' ;
+		:Significado ' (Etm. do latim: locatiōne)' ;
+		:eAntonimo :aluguer;
+		:eAntonimo :arrendamento;
+		:eAntonimo :colocacao;
+		:eAntonimo :localizacao;.
+
+:locador rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Indivíduo que disponibiliza algo para aluguer ou arrendamento; senhorio.' ;
+		:Significado ' (Etm. do latim: locatōre)' ;
+		:eAntonimo :proprietario;
+		:eAntonimo :senhorio;.
+
+:local rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' sítio: local de nascimento; Onde é o local da reunião?' ;
+		:Significado ' relativo a um lugar específico: as autoridades locais; ****hora local' ;
+		:eAntonimo :lugar;
+		:eAntonimo :sitio;.
+
+:localidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de área ou espaço restrito ou circunscrito; local ou sítio;' ;
+		:Significado ' Denominação atribuída a lugarejo, povoação ou povoado.' ;
+		:Significado ' (Etm. do latim: localitāte)' ;
+		:eAntonimo :aldeia;
+		:eAntonimo :local;
+		:eAntonimo :lugar;
+		:eAntonimo :lugarejo;
+		:eAntonimo :povoacao;
+		:eAntonimo :povoado;
+		:eAntonimo :sitio;.
+
+:localização rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' local onde algo ou alguém se encontra: procurar a localização de uma rua' ;.
+
+:localizar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' determinar o lugar em que se encontra: ****localizar uma cidade num mapa' ;.
+
+:localizar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' situar-se: A loja localiza-se no centro.' ;.
+
+:locanda rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Do mesmo significado de taberna ou baiuca;' ;
+		:Significado ' Designação atribuída a uma mercearia de pequenas dimensões, também denominada tenda.' ;
+		:Significado ' (Etm. do latim: locanda)' ;
+		:eAntonimo :baiuca;
+		:eAntonimo :bodega;
+		:eAntonimo :taberna;
+		:eAntonimo :tasca;
+		:eAntonimo :taverna;
+		:eAntonimo :tenda;.
+
+:loção rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' líquido utilizado para cuidados de beleza: ****loção de beleza' ;.
+
+:locar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Entregar ou disponibilizar em locução; ato de alugar ou arrendar;' ;
+		:Significado ' Colocar ou inserir na loca.' ;
+		:Significado ' (Etm. do latim: locāre)' ;
+		:eAntonimo :alugar;
+		:eAntonimo :arrendar;.
+
+:locatário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa que arrenda uma casa' ;.
+
+:loco rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Denominação atribuída, no antigo Império Grego, ao corpo de exército.' ;
+		:Significado ' (Etm. do grego: lókhos)' ;.
+
+:locomoção rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação de se transmover ou transportar de um sítio para o outro; movimentação, deslocamento ou viagem;' ;
+		:Significado ' Designação de função animal que permite o movimento que o seu próprio corpo efetua para se mover.' ;
+		:Significado ' (Etm. do latim: locu + motiōne)' ;
+		:eAntonimo :deslocacao;
+		:eAntonimo :deslocamento;
+		:eAntonimo :movimentacao;
+		:eAntonimo :movimento;
+		:eAntonimo :transporte;
+		:eAntonimo :viagem;.
+
+:locomotiva rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' máquina que puxa as carruagens do comboio' ;.
+
+:loco rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de lugar, sítio ou local;' ;
+		:Significado ' (Botânica) Denominação de planta existente no Brasil, arbustiva, que pertence à família das Plumbagináceas.' ;
+		:Significado ' (Etm. do latim: locu)' ;.
+
+:locupletar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ficar-se ou tornar rico; O mesmo que enriquecer;' ;
+		:Significado ' Ficar-se ou tornar cheio;' ;
+		:Significado ' (Etm. do latim: locupletāre)' ;
+		:eAntonimo :encher;
+		:eAntonimo :enriquecer;
+		:eAntonimo :saciar;.
+
+:locusta rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Zoologia) Denominação científica de gafanhoto, inseto ortóptero, saltão, que prejudica a agricultura.' ;
+		:Significado ' (Etm. do latim: locusta)' ;
+		:eAntonimo :gafanhoto;.
+
+:locutor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa que apresenta programas na rádio ou na
+televisão: ****um locutor de televisão' ;.
+
+:locutório rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Local que é delimitado por grades, onde as freiras ou pessoas abrigadas em conventos  (ou que s\ao mantidas em presidiários) conversam com quem as procura; do mesmo significado de parlatório.' ;
+		:Significado ' (Etm. do latim: locutorĭu)' ;
+		:eAntonimo :palratorio;
+		:eAntonimo :parlapatorio;.
+
+:lodoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Em que existe lodo; do mesmo significado de lamacento ou enlameado;' ;
+		:Significado ' Que é ou está imundo ou porco.' ;
+		:Significado ' (Etm. do latim: lutōsu)' ;
+		:eAntonimo :decente;
+		:eAntonimo :desencardido;
+		:eAntonimo :higienico;
+		:eAntonimo :imaculado;
+		:eAntonimo :limpo;
+		:eAntonimo :nitido;
+		:eAntonimo :encardido;
+		:eAntonimo :imundo;
+		:eAntonimo :lamacento;
+		:eAntonimo :lamoso;
+		:eAntonimo :pantanoso;
+		:eAntonimo :sujo;.
+
+:lógica rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' nexo entre factos ou ideias, coerência: Esse raciocínio não tem lógica nenhuma.' ;.
+
+:logicamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira lógica; de modo claro, coerente ou evidente; de forma insofismável, razoável ou racional.' ;
+		:Significado ' (Etm. lógica + mente)' ;
+		:eAntonimo :confusamente;
+		:eAntonimo :desarticuladamente;
+		:eAntonimo :desordenadamente;
+		:eAntonimo :desorganizadamente;
+		:eAntonimo :ilogicamente;
+		:eAntonimo :claramente;
+		:eAntonimo :coerentemente;
+		:eAntonimo :evidentemente;
+		:eAntonimo :racionalmente;
+		:eAntonimo :razoavelmente;.
+
+:lógico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que tem coerência: uma conclusão lógica' ;.
+
+:logo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:temTipo :conjuncao;
+		:Significado ' imediatamente: Não te demores! Volta logo!' ;
+		:Significado ' mais tarde: Até logo!; Logo à noite vamos ao cinema.' ;
+		:Significado ' portanto, por conseguinte: Ele bebeu, logo não pode conduzir.' ;
+		:eAntonimo :entao;
+		:eAntonimo :portanto;.
+
+:logomarca rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Agrupamento de algumas informações importantes como o nome de uma marca, com o intuito de destacá-la através de letras específicas ou outros atrativos gráficos, de forma a transformar a mesma num símbolo visual capaz de caracterizar e representar um produto, uma empresa, uma instituição, entre outras.' ;
+		:Significado ' (Etm.logo + marca)' ;.
+
+:logotipo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :vazio;
+		:Significado ' n.m.' ;
+		:Significado ' Ver: logótipo.' ;.
+
+:logótipo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Tipografia) Conjunto composto por duas ou mais letras, que se fundem de forma a constituir somente uma, para adiantar a formação tipográfica ou com a finalidade a criar uma sigla;' ;
+		:Significado ' Grupo composto por letras e/ou figuras, possuidor de um design próprio que o identifica, que designa ou representa determinada marca, mercadoria, fundação, empresa, serviço, entre outros.' ;
+		:Significado ' (Etm. do grego: lógos + týpos)' ;
+		:eAntonimo :abreviacao;
+		:eAntonimo :marca;.
+
+:logradouro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Que tem a possibilidade de ser logrado; de ser utilizado;' ;
+		:Significado ' Terreno adjacente a uma casa e que serve de serventia da mesma;' ;
+		:Significado ' Terreno público utilizado para o gado pastar;' ;
+		:Significado ' Terreno que não está cultivado;' ;
+		:Significado ' Área localizada ao ar livre que é de utilização pública.' ;
+		:Significado ' (Etm. lograr + douro)' ;
+		:eAntonimo :jardim;
+		:eAntonimo :parque;
+		:eAntonimo :parque;
+		:eAntonimo :parque;
+		:eAntonimo :passeio;
+		:eAntonimo :rua;.
+
+:lograr rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Desfrutar do que foi alcançado; usufruir;' ;
+		:Significado ' Adquirir aquilo que lhe pertence por direito; obter o que se almeja; alcançar;' ;
+		:Significado ' Enganar ou trapacear alguém valendo-se de armadilhas; ludibriar;' ;
+		:Significado ' Retirar o melhor de; satisfazer-se ou aproveitar;' ;
+		:Significado ' Forçar o funcionamento; obter o produto desejado;' ;
+		:Significado ' (Pouco usual) Provocar o crescimento; aumenta ou desenvolver.' ;
+		:Significado ' (Etm. do latim: lucrãre)' ;
+		:eAntonimo :declinar;
+		:eAntonimo :desenganar;
+		:eAntonimo :prodigar;
+		:eAntonimo :renegar;
+		:eAntonimo :alcancar;
+		:eAntonimo :aproveitar;
+		:eAntonimo :conquistar;
+		:eAntonimo :conseguir;
+		:eAntonimo :desfrutar;
+		:eAntonimo :enganar;
+		:eAntonimo :engazupar;
+		:eAntonimo :iludir;
+		:eAntonimo :ludibriar;
+		:eAntonimo :mentir;.
+
+:logro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de lograr; ilusão, ludíbrio ou trapaça.' ;
+		:Significado ' (Etm. do latim: lucru)' ;
+		:eAntonimo :decencia;
+		:eAntonimo :dignidade;
+		:eAntonimo :honestidade;
+		:eAntonimo :veracidade;
+		:eAntonimo :verdade;
+		:eAntonimo :burla;
+		:eAntonimo :dolo;
+		:eAntonimo :engano;
+		:eAntonimo :fraude;
+		:eAntonimo :intrujice;
+		:eAntonimo :ludibrio;
+		:eAntonimo :recusa;
+		:eAntonimo :taboca;
+		:eAntonimo :trampolinice;
+		:eAntonimo :trapaca;
+		:eAntonimo :tratantada;
+		:eAntonimo :tratantice;.
+
+:loja rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' espaço onde se vendem produtos: uma loja de roupa' ;
+		:eAntonimo :bazar;
+		:eAntonimo :estabelecimento;.
+
+:lombo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' parte do animal utilizada para comer: lombo de porco assado no forno' ;.
+
+:lombriga rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' verme intestinal' ;
+		:eAntonimo :sanguessuga;.
+
+:lona rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' tecido resistente: ****uma tenda em lona' ;.
+
+:longa-metragem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' filme de longa duração' ;.
+
+:longada rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação de se dirigir para local afastado, para longe; separação ou egresso.' ;
+		:Significado ' (Etm. longo + ada)' ;
+		:eAntonimo :afastamento;
+		:eAntonimo :separacao;.
+
+:longânimo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem é magnífico ou pródigo;' ;
+		:Significado ' Diz-se de generoso;' ;
+		:Significado ' Conformado, paciente ou submisso;' ;
+		:Significado ' Valente.' ;
+		:Significado ' (Etm. do latim: longanĭme)' ;
+		:eAntonimo :agitado;
+		:eAntonimo :impaciente;
+		:eAntonimo :inconformado;
+		:eAntonimo :medroso;
+		:eAntonimo :nervoso;
+		:eAntonimo :conformado;
+		:eAntonimo :corajoso;
+		:eAntonimo :paciente;
+		:eAntonimo :resignado;
+		:eAntonimo :valente;.
+
+:longe rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' a grande distância: Isso é muito longe!; morar longe do centro' ;
+		:Significado ' muito: Ele é de longe o mais inteligente.' ;.
+
+:longevidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica do que é longevo; designação de vida prolongada, longa ou duradoura.' ;
+		:Significado ' (Etm. do latim: longaevitāte)' ;
+		:eAntonimo :ancianidade;
+		:eAntonimo :antiguidade;
+		:eAntonimo :conservacao;
+		:eAntonimo :durabilidade;
+		:eAntonimo :duracao;
+		:eAntonimo :macrobia;
+		:eAntonimo :prolongacao;
+		:eAntonimo :resistencia;
+		:eAntonimo :velhice;.
+
+:longinquidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de ampla ou extensa distância;' ;
+		:Significado ' Longitude, egresso ou afastamento.' ;
+		:Significado ' (Etm. do latim: longinquitāte)' ;
+		:eAntonimo :adjacencia;
+		:eAntonimo :contiguidade;
+		:eAntonimo :imediacao;
+		:eAntonimo :propinquidade;
+		:eAntonimo :vicinalidade;
+		:eAntonimo :vizindade;
+		:eAntonimo :vizinhanca;
+		:eAntonimo :afastamento;
+		:eAntonimo :distancia;
+		:eAntonimo :longitude;.
+
+:longínquo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' distante no espaço ou no tempo: um país longínquo' ;
+		:eAntonimo :distante;
+		:eAntonimo :remoto;
+		:eAntonimo :semoto;.
+
+:longitude rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Geografia) Designação da vastidão do arco do equador ou do paralelo de um certo local situado entre o semimeridiano superior usado como ponto de referência e o semimeridiano desse mesmo local; o valor deste pode oscilar entre 0º a 180º, tanto para oeste como para leste; distância percorrida entre um ponto do globo terrestre até ao meridiano central;' ;
+		:Significado ' (Figurado) Denominação de distância, extensão ou longinquidade.' ;
+		:Significado ' (Etm. do latim: longitudĭne)' ;
+		:eAntonimo :comprimento;
+		:eAntonimo :distancia;
+		:eAntonimo :extensao;
+		:eAntonimo :longinquidade;
+		:eAntonimo :lonjura;.
+
+:longo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' comprido: um texto longo' ;
+		:Significado ' que dura muito: um filme longo' ;
+		:eAntonimo :comprido;
+		:eAntonimo :extenso;.
+
+:longueza rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Do mesmo significado de comprimento.' ;
+		:Significado ' (Etm. longo + eza)' ;
+		:eAntonimo :compridao;
+		:eAntonimo :compridez;
+		:eAntonimo :dimensao;
+		:eAntonimo :distancia;
+		:eAntonimo :duracao;
+		:eAntonimo :estatura;
+		:eAntonimo :extensao;
+		:eAntonimo :longitude;
+		:eAntonimo :longuidao;
+		:eAntonimo :longura;
+		:eAntonimo :lonjura;
+		:eAntonimo :tempo;.
+
+:longuidão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Do mesmo significado de longura ou comprimento;' ;
+		:Significado ' (Figurado) Morosidade, demora ou retardamento.' ;
+		:Significado ' (Etm. longo + idão)' ;
+		:eAntonimo :comprimento;.
+
+:longura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Do mesmo significado de longuidão.' ;
+		:Significado ' (Etm. longo + ura)' ;
+		:eAntonimo :compridao;
+		:eAntonimo :compridez;
+		:eAntonimo :comprimento;
+		:eAntonimo :dimensao;
+		:eAntonimo :distancia;
+		:eAntonimo :duracao;
+		:eAntonimo :estatura;
+		:eAntonimo :extensao;
+		:eAntonimo :longitude;
+		:eAntonimo :longueza;
+		:eAntonimo :longuidao;
+		:eAntonimo :lonjura;
+		:eAntonimo :tempo;.
+
+:lonjura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de imensa distância ou longitude percorrida;' ;
+		:Significado ' Denominação atribuída à extensão existente entre dois locais.' ;
+		:Significado ' (Etm. longe + ura)' ;
+		:eAntonimo :compridao;
+		:eAntonimo :compridez;
+		:eAntonimo :comprimento;
+		:eAntonimo :dimensao;
+		:eAntonimo :distancia;
+		:eAntonimo :duracao;
+		:eAntonimo :estatura;
+		:eAntonimo :extensao;
+		:eAntonimo :longitude;
+		:eAntonimo :longueza;
+		:eAntonimo :longuidao;
+		:eAntonimo :longura;
+		:eAntonimo :tempo;.
+
+:loquacidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica de loquaz; eloquência;' ;
+		:Significado ' Costume de falar em grande quantidade; tagarelice.' ;
+		:Significado ' (Etm. do latim: loquacitāte)' ;
+		:eAntonimo :conversa;
+		:eAntonimo :eloquencia;
+		:eAntonimo :entalhe;
+		:eAntonimo :facundia;
+		:eAntonimo :garrulice;
+		:eAntonimo :palratorio;
+		:eAntonimo :parolagem;
+		:eAntonimo :tagarelice;
+		:eAntonimo :tarelice;
+		:eAntonimo :verbosidade;.
+
+:loquaz rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Indivíduo que fala muito; falador ou gralha;' ;
+		:Significado ' Pessoa eloquente - que fala de modo articulado, claro e sem dificuldades;' ;
+		:Significado ' (Figurado) Diz-se do que ou de quem provoca ruído, barulho, gritaria.' ;
+		:Significado ' (Etm. do latim: loquāce)' ;
+		:eAntonimo :ineloquente;
+		:eAntonimo :infacundo;
+		:eAntonimo :facundo;
+		:eAntonimo :falador;
+		:eAntonimo :garrulo;
+		:eAntonimo :palavroso;
+		:eAntonimo :prolixo;
+		:eAntonimo :verboso;.
+
+:loquete rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Do mesmo significado de aloquete.' ;
+		:Significado ' (Etm. do inglês: loc; do francês: loquet)' ;
+		:eAntonimo :cadeado;
+		:eAntonimo :ferrolho;
+		:eAntonimo :trinco;.
+
+:lordaço rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se de ou designa aquele que é rico ou opulento.' ;
+		:Significado ' (Etm. de: lorde)' ;
+		:eAntonimo :abastado;
+		:eAntonimo :opulento;
+		:eAntonimo :rico;.
+
+:lorpa rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' n.m. e n.f.' ;
+		:Significado ' Pessoa pateta ou sujeito pacóvio; que é otário;' ;
+		:Significado ' Diz-se de quem é rude ou tosco.' ;
+		:Significado ' (Etm. de origem obscura)' ;
+		:eAntonimo :cretino;
+		:eAntonimo :otario;
+		:eAntonimo :pacovio;
+		:eAntonimo :papalvo;
+		:eAntonimo :parvo;
+		:eAntonimo :pascacio;
+		:eAntonimo :pato;
+		:eAntonimo :tanso;
+		:eAntonimo :toleirao;
+		:eAntonimo :tolo;
+		:eAntonimo :tonto;.
+
+:lorpamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira lorpa; de forma cretina ou otária;' ;
+		:Significado ' De modo pacóvio, pascácio, tolo ou boçal; de maneira estúpida ou grosseira.' ;
+		:Significado ' (Etm. lorpa + mente)' ;
+		:eAntonimo :ponderadamente;
+		:eAntonimo :refletidamente;
+		:eAntonimo :sabiamente;
+		:eAntonimo :sensatamente;
+		:eAntonimo :bocalmente;
+		:eAntonimo :grosseiramente;
+		:eAntonimo :otariamente;
+		:eAntonimo :pacoviamente;.
+
+:losango rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' figura geométrica de quatro lados' ;.
+
+:lota rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' local onde se vende o peixe: ****vender peixe na lota' ;.
+
+:lotação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' capacidade que um espaço pode conter: ****a lotação de um auditório' ;.
+
+:lotaria rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' jogo de azar com números: um bilhete de lotaria' ;.
+
+:lote rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' grupo de mercadorias que se vendem em
+conjunto: um lote de café' ;
+		:Significado ' parcela de terreno ou edifício: ****um lote de terreno' ;.
+
+:loto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' jogo de azar com cartões e números: ****jogar ao loto' ;.
+
+:loucamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira louca; de forma alucinada, insana, desatinada ou insensata; de modo maluco, tolo ou maníaco;' ;
+		:Significado ' De forma apaixonada, doente ou fanática.' ;
+		:Significado ' (Etm. louca + mente)' ;
+		:eAntonimo :precavidamente;
+		:eAntonimo :prudentemente;
+		:eAntonimo :racionalmente;
+		:eAntonimo :alucinadamente;
+		:eAntonimo :apaixonadamente;
+		:eAntonimo :desatinadamente;
+		:eAntonimo :fanaticamente;
+		:eAntonimo :insanamente;
+		:eAntonimo :insensatamente;.
+
+:louça rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' cerâmica: uma jarra de louça' ;
+		:Significado ' qq produto de cerâmica: ****lavar a louça do almoço' ;.
+
+:louco rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que perdeu a razão, doido: um homem louco' ;
+		:Significado ' pessoa que perdeu a razão, doido: É uma louca!' ;
+		:eAntonimo :alienado;
+		:eAntonimo :demente;
+		:eAntonimo :doido;
+		:eAntonimo :insano;
+		:eAntonimo :insensato;
+		:eAntonimo :maluco;.
+
+:loucura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' perturbação mental: ****A loucura é uma doença.' ;
+		:Significado ' disparate, extravagância: Isso é uma loucura!' ;
+		:eAntonimo :alienacao;
+		:eAntonimo :alucinacao;
+		:eAntonimo :delirio;
+		:eAntonimo :demencia;
+		:eAntonimo :desvario;
+		:eAntonimo :doidice;
+		:eAntonimo :insania;.
+
+:lounge rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' Pátio, sala de estar ou área própria para aguardar ou relaxar, normalmente possuidora de agradáveis assentos;' ;
+		:Significado ' (Música) Género musical suave e melódico, adaptado geralmente para música ambiente;' ;
+		:Significado ' Respeitante a essa área ou género musical.' ;
+		:Significado ' (Etm. do inglês: lounge)' ;.
+
+:louro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' de cor entre o dourado e o castanho claro: Ela tem cabelos louros.' ;
+		:Significado ' pessoa com cabelos claros: Os homens preferem as louras.' ;
+		:Significado ' folha que serve de condimento' ;
+		:eAntonimo :flavo;
+		:eAntonimo :fulvo;.
+
+:louros rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Triunfos ou glória alcançados em alguma atividade: colher os louros da vitória' ;
+		:Significado ' Honras concedidas a alguém como sinal de reconhecimento de mérito em determinada área:  à chegada, recebeu uma coroa de louros' ;.
+
+:louvar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' fazer elogios: louvar os esforços de alguém' ;
+		:eAntonimo :abencoar;
+		:eAntonimo :bendizer;
+		:eAntonimo :elevar;
+		:eAntonimo :elogiar;
+		:eAntonimo :enaltecer;
+		:eAntonimo :encomiar;
+		:eAntonimo :engrandecer;
+		:eAntonimo :exaltar;
+		:eAntonimo :gabar;
+		:eAntonimo :gloriar;
+		:eAntonimo :glorificar;
+		:eAntonimo :preconizar;
+		:eAntonimo :ufanar;
+		:eAntonimo :vangloriar;.
+
+:louvável rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que merece respeito: uma acção louvável' ;.
+
+:louvavelmente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira louvável; de modo apreciável, laudável ou meritório; de forma boa, notável ou saudável.' ;
+		:Significado ' (Etm. louvável + mente)' ;
+		:eAntonimo :apreciavelmente;
+		:eAntonimo :laudavelmente;
+		:eAntonimo :notavelmente;.
+
+:louvor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação de louvar, enaltecer ou exaltar;' ;
+		:Significado ' Glória, homenagem ou panegírico; enaltecimento;' ;
+		:Significado ' Aplauso, aprovação ou bênção.' ;
+		:Significado ' (Etm. do latim: laudōre)' ;
+		:eAntonimo :elogio;
+		:eAntonimo :encomio;
+		:eAntonimo :hosana;.
+
+:lua rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' astro da noite: lua cheia' ;.
+
+:lua-de-mel rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' primeiros tempos a seguir ao casamento' ;.
+
+:luar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' luz da lua' ;.
+
+:lúbrico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que é resvaladiço, oleoso ou escorregadio;' ;
+		:Significado ' Que é erótico, impudico, libidinoso ou luxurioso.' ;
+		:Significado ' (Etm. do latim: lubrĭcu)' ;
+		:eAntonimo :direito;
+		:eAntonimo :etereo;
+		:eAntonimo :grandioso;
+		:eAntonimo :honesto;
+		:eAntonimo :honrado;
+		:eAntonimo :imaculado;
+		:eAntonimo :imponente;
+		:eAntonimo :pudibundo;
+		:eAntonimo :pudico;
+		:eAntonimo :recatado;
+		:eAntonimo :uniforme;
+		:eAntonimo :carnal;
+		:eAntonimo :concupiscente;
+		:eAntonimo :devasso;
+		:eAntonimo :erotico;
+		:eAntonimo :escorregadio;
+		:eAntonimo :lascivo;
+		:eAntonimo :libertino;
+		:eAntonimo :oleoso;
+		:eAntonimo :salaz;
+		:eAntonimo :sensual;
+		:eAntonimo :voluptuoso;.
+
+:lubrificar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' pôr óleo para poder funcionar: ****lubrificar o motor' ;
+		:eAntonimo :azeitar;
+		:eAntonimo :olear;
+		:eAntonimo :ungir;
+		:eAntonimo :untar;.
+
+:lucidez rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' qualidade de quem é lúcido' ;
+		:eAntonimo :inteligencia;
+		:eAntonimo :perceptibilidade;.
+
+:lúcido rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que tem uma visão clara da realidade: ****um pensamento lúcido' ;.
+
+:Lúcifer rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Denominação do senhor das trevas; diabo ou belzebu;' ;
+		:Significado ' (Roma Antiga) Referente ao planeta Vénus;' ;
+		:Significado ' Que transporta luz consigo;' ;
+		:Significado ' (Figurado) Sujeito problemático.' ;
+		:Significado ' (Etm. do latim: Lucĭfer)' ;
+		:eAntonimo :Belzebu;
+		:eAntonimo :demo;
+		:eAntonimo :Demo;
+		:eAntonimo :demonio;
+		:eAntonimo :diabo;
+		:eAntonimo :sata;
+		:eAntonimo :satanas;.
+
+:lucilar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Cintilar ou luzir com intensidade reduzida; resplandecer, cintilar ou rutilar.' ;
+		:Significado ' (Etm. luci + l + ar)' ;
+		:eAntonimo :brilhar;
+		:eAntonimo :cintilar;
+		:eAntonimo :esplender;
+		:eAntonimo :luciluzir;
+		:eAntonimo :luzir;
+		:eAntonimo :resplandecer;
+		:eAntonimo :rutilar;
+		:eAntonimo :tremeluzir;.
+
+:luciluzir rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Do mesmo significado de lucilar.' ;
+		:Significado ' (Etm. luci + luzir)' ;
+		:eAntonimo :brilhar;
+		:eAntonimo :cintilar;
+		:eAntonimo :esplender;
+		:eAntonimo :lucilar;
+		:eAntonimo :luzir;
+		:eAntonimo :resplandecer;
+		:eAntonimo :rutilar;
+		:eAntonimo :tremeluzir;.
+
+:lucrar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Obter ou retirar lucro ou benefícios; auferir ou ganhar; desfrutar ou gozar;' ;
+		:Significado ' Alcançar o que se almejava; conseguir ou lograr.' ;
+		:Significado ' (Etm. do latim: lucrāre)' ;
+		:eAntonimo :desaproveitar;
+		:eAntonimo :desperdicar;
+		:eAntonimo :perder;
+		:eAntonimo :alcancar;
+		:eAntonimo :auferir;
+		:eAntonimo :conseguir;
+		:eAntonimo :desfrutar;
+		:eAntonimo :ganhar;
+		:eAntonimo :gozar;
+		:eAntonimo :lograr;
+		:eAntonimo :usufruir;.
+
+:lucrativo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que dá lucro, benefício: um negócio lucrativo' ;
+		:eAntonimo :benefico;
+		:eAntonimo :proficuo;
+		:eAntonimo :proveitoso;
+		:eAntonimo :vantajoso;.
+
+:lucro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' ganho, benefício: ter muitos lucros' ;
+		:eAntonimo :agio;
+		:eAntonimo :ganho;
+		:eAntonimo :juro;
+		:eAntonimo :proveito;
+		:eAntonimo :renda;
+		:eAntonimo :rendimento;.
+
+:lucubração rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de ocupação intelectual no horário que é, geralmente, reservado para o descanso; serão, elucubração ou noitada;' ;
+		:Significado ' Reflexão ou cogitação complexa e profunda.' ;
+		:Significado ' (Etm. do latim: lucubratiōne)' ;
+		:eAntonimo :elucubracao;
+		:eAntonimo :meditacao;
+		:eAntonimo :noitada;
+		:eAntonimo :reflexao;
+		:eAntonimo :serao;
+		:eAntonimo :vigilia;.
+
+:lucubrar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Laborar ou aprender (concluindo estudos) no período noturno;' ;
+		:Significado ' Refletir ou cogitar de modo profundo.' ;
+		:Significado ' (Etm. do latim: lucubrāre)' ;
+		:eAntonimo :cogitar;
+		:eAntonimo :meditar;
+		:eAntonimo :refletir;.
+
+:ludibriar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Enganar ou lograr; atraiçoar ou burlar;' ;
+		:Significado ' Ridicularizar ou troçar; achincalhar.' ;
+		:Significado ' (Etm. ludíbrio + ar)' ;
+		:eAntonimo :desengodar;
+		:eAntonimo :estimar;
+		:eAntonimo :respeitar;
+		:eAntonimo :atraicoar;
+		:eAntonimo :embair;
+		:eAntonimo :enganar;
+		:eAntonimo :engazupar;
+		:eAntonimo :equivocar;
+		:eAntonimo :iludir;
+		:eAntonimo :lograr;
+		:eAntonimo :mentir;
+		:eAntonimo :trair;.
+
+:ludíbrio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de troça ou gozação;' ;
+		:Significado ' Denominação de menosprezo;' ;
+		:Significado ' Referente a logro ou fraude.' ;
+		:Significado ' (Etm. do latim: ludibrĭu)' ;
+		:eAntonimo :decencia;
+		:eAntonimo :dignidade;
+		:eAntonimo :honestidade;
+		:eAntonimo :veracidade;
+		:eAntonimo :verdade;
+		:eAntonimo :burla;
+		:eAntonimo :chacota;
+		:eAntonimo :dolo;
+		:eAntonimo :fraude;
+		:eAntonimo :intrujice;
+		:eAntonimo :trampolinice;
+		:eAntonimo :tratantada;
+		:eAntonimo :tratantice;
+		:eAntonimo :troca;.
+
+:lúdico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que diz respeito ou é referente a jogos ou a brinquedos: atividades lúdicas;' ;
+		:Significado ' Que possui o divertimento como objetivo principal, muito acima de qualquer outra finalidade; que é usado para divertir ou brincar; recreativo, divertido ou jocoso.' ;
+		:Significado ' (Etm. lud + ico)' ;
+		:eAntonimo :alegre;
+		:eAntonimo :brincalhao;
+		:eAntonimo :divertido;
+		:eAntonimo :jocoso;
+		:eAntonimo :recreativo;.
+
+:ludro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Caracteriza lã que se encontra suja, quando ainda não foi preparada;' ;
+		:Significado ' Referente a um líquido turvo e imundo, como por exemplo a água das torrentes formadas pela chuva.' ;
+		:Significado ' (Etm. do latim: lurĭdu)' ;
+		:eAntonimo :limpo;
+		:eAntonimo :nitido;
+		:eAntonimo :sujo;.
+
+:lugar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' sítio, local: Ela vive num lugar bonito.' ;
+		:Significado ' pequena povoação: ****um lugar com 50 habitantes' ;
+		:Significado ' posição: Ele ficou em primeiro lugar no concurso.' ;
+		:Significado ' cargo, emprego: Ela arranjou um lugar de vendedora.' ;
+		:eAntonimo :local;
+		:eAntonimo :sitio;.
+
+:lugar-comum rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Frase ou expressão sem originalidade, repetida muitas vezes; banalidade; trivialidade' ;
+		:Significado ' Aquilo que é conhecido de todos, que não é novidade' ;
+		:Significado ' (Retórica) princípio geral utilizado numa argumentação ou num discurso' ;
+		:eAntonimo :banalidade;
+		:eAntonimo :chavao;
+		:eAntonimo :estereotipo;
+		:eAntonimo :trivialidade;.
+
+:lugente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Em que existe lamúria ou pranto; que é choroso ou plangente.' ;
+		:Significado ' Que manifesta desalento ou amargura; que tem tendência a ser lúgubre ou soturno.' ;
+		:Significado ' (Etm. do latim: lugente)' ;.
+
+:lúgubre rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' fúnebre, soturno: ****um ar lúgubre' ;
+		:eAntonimo :funebre;
+		:eAntonimo :funerario;
+		:eAntonimo :funereo;
+		:eAntonimo :lobrego;
+		:eAntonimo :lutuoso;
+		:eAntonimo :sepulcral;
+		:eAntonimo :tetrico;
+		:eAntonimo :triste;.
+
+:lula rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' molusco comestível: lulas grelhadas' ;.
+
+:lume rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' fogo: acender o lume; dar lume' ;
+		:eAntonimo :fogo;.
+
+:lúmia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Antigo) Do mesmo significado de meretriz ou prostituta.' ;
+		:Significado ' (Etm. do castelhano: lumia)' ;.
+
+:lumiar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' (Regionalismo - Minho) Retirar ou extrair (de um terreno) a água do inverno. ' ;
+		:Significado ' Ver: alumiar.' ;
+		:Significado ' (Etm. do latim: lumināre)' ;.
+
+:lumiar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Antigo) Do mesmo significado de limiar.' ;
+		:Significado ' (Etm. do latim: limināre)' ;.
+
+:luminária rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' Algo que alumia; designação de candeia, lâmpada, lanterna, lamparina, entre outras;' ;
+		:Significado ' (Figurado) Indivíduo muito versado, instruído;' ;
+		:Significado ' (Brasil) Todo e qualquer poste de luz que funcione através de energia elétrica; lampião;' ;
+		:Significado ' Denominação de iluminação pública festiva.' ;
+		:Significado ' (Etm. do latim: luminarĭa)' ;
+		:eAntonimo :lampada;
+		:eAntonimo :lamparina;
+		:eAntonimo :luz;.
+
+:luminarmente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira luminar; de modo culto, douto ou erudito; de forma ilustrada, instruída ou letrada.' ;
+		:Significado ' (Etm. luminar + mente)' ;
+		:eAntonimo :analfabetamente;
+		:eAntonimo :ignorantemente;
+		:eAntonimo :iletradamente;
+		:eAntonimo :incultamente;
+		:eAntonimo :indoutamente;
+		:eAntonimo :inexperientemente;
+		:eAntonimo :leigamente;
+		:eAntonimo :educadamente;
+		:eAntonimo :eruditamente;
+		:eAntonimo :formadamente;
+		:eAntonimo :instruidamente;
+		:eAntonimo :letradamente;
+		:eAntonimo :literatamente;
+		:eAntonimo :pontificadamente;
+		:eAntonimo :sabiamente;.
+
+:luminosidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica de luminoso;' ;
+		:Significado ' Designação da vivacidade ou proporção da luz que é emitida.' ;
+		:Significado ' (Etm. luminoso + i + dade)' ;
+		:eAntonimo :ambiguidade;
+		:eAntonimo :anfibologia;
+		:eAntonimo :bruma;
+		:eAntonimo :escuridade;
+		:eAntonimo :escuridao;
+		:eAntonimo :lobreguidao;
+		:eAntonimo :luto;
+		:eAntonimo :negridao;
+		:eAntonimo :negror;
+		:eAntonimo :negrura;
+		:eAntonimo :obscuridade;
+		:eAntonimo :penumbra;
+		:eAntonimo :pretidao;
+		:eAntonimo :treva;
+		:eAntonimo :brilho;
+		:eAntonimo :claridade;
+		:eAntonimo :esplendor;
+		:eAntonimo :fluorescencia;
+		:eAntonimo :lucidez;
+		:eAntonimo :luz;.
+
+:luminoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' onde entra a luz do dia: uma sala luminosa' ;
+		:Significado ' qui emite luz: ****fonte luminosa' ;
+		:Significado ' claro, brilhante: uma tez luminosa' ;
+		:Significado '  (fig) inteligente, brilhante: uma ideia luminosa' ;
+		:eAntonimo :brilhante;
+		:eAntonimo :cintilante;
+		:eAntonimo :claro;
+		:eAntonimo :lustroso;
+		:eAntonimo :luzente;
+		:eAntonimo :luzidio;
+		:eAntonimo :reluzente;
+		:eAntonimo :rutilo;.
+
+:lunar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' relativo à Lua: uma paisagem lunar; calendário lunar' ;.
+
+:lunático rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Louco, maluco, alucinado ou doido;' ;
+		:Significado ' Estranho, exótico, extravagante ou excêntrico;' ;
+		:Significado ' Utopista, sonhador ou devaneador;' ;
+		:Significado ' Que sofre a influência da Lua;' ;
+		:Significado ' Indivíduo que tem bizarrices ou excentricidades.' ;
+		:Significado ' (Etm. do latim: lunatĭcu)' ;
+		:eAntonimo :louco;
+		:eAntonimo :maluco;
+		:eAntonimo :maniaco;
+		:eAntonimo :telhudo;.
+
+:lundu rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :vazio;
+		:Significado ' n.m.' ;
+		:Significado ' Ver: [lundum].' ;.
+
+:luneta rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Instrumento constituído por uma ou duas lentes, usado geralmente para corrigir, auxiliar e/ou aumentar a acuidade visual;' ;
+		:Significado ' Também designada por monóculo;' ;
+		:Significado ' Óculos que se prendem ou agarram na ponta do nariz;' ;
+		:Significado ' Área da guilhotina onde se coloca o pescoço da pessoa condenada;' ;
+		:Significado ' Porção da custódia na qual se coloca a hóstia;' ;
+		:Significado ' Fenda ou frincha oval ou circular localizada numa parede;' ;
+		:Significado ' Aparelho utilizado para estimar ou avaliar o calibre das balas.' ;
+		:Significado ' (Etm. do francês: lunette)' ;.
+
+:lupa rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' lente que amplia: ****ler com uma lupa' ;.
+
+:lupanar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Denominação de casa ou estabelecimento de prostituição; do mesmo significado de bordel ou alcoice.' ;
+		:Significado ' (Etm. do latim: lupanāre)' ;
+		:eAntonimo :alcoice;
+		:eAntonimo :alcouce;
+		:eAntonimo :bordel;
+		:eAntonimo :prostibulo;.
+
+:lupanário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo que é referente ou respeitante a lupanar; que é relativo a bordel ou bordelesco.' ;
+		:Significado ' (Etm. do latim: lupanarĭu)' ;
+		:eAntonimo :bordelesco;.
+
+:lupo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :vazio;
+		:Significado ' n.m.' ;
+		:Significado ' Ver: lúpus.' ;.
+
+:lúpus rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Medicina) Denominação atribuída alguns géneros de doenças dermatológicas crónicas.' ;
+		:Significado ' lúpus eritematoso = referente a uma infeção crónica do tecido conjuntivo, que afeta a pele assim como alguns órgãos internos' ;
+		:Significado ' (Etm. do latim: lupus)' ;.
+
+:lúrido rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem é lívido, pálido, extremamente branco;' ;
+		:Significado ' (Poético) Que é escuro, sombrio ou tenebroso.' ;
+		:Significado ' (Etm. do latim: lurĭdu)' ;
+		:eAntonimo :livido;
+		:eAntonimo :palido;.
+
+:lusíada rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' adj.m. e adj.f.' ;
+		:Significado ' Diz-se do que descende de Luso, o alegado criador da família lusitana;' ;
+		:Significado ' Designação atribuída ao indivíduo português; luso ou lusitano.' ;
+		:Significado ' (Etm. do latim: Luso, antropónimo + íada)' ;
+		:eAntonimo :lusitano;
+		:eAntonimo :luso;
+		:eAntonimo :portugues;.
+
+:lusitano rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' natural da Lusitânia, português: ****o cavalo lusitano' ;
+		:Significado ' pessoa natural da Lusitânia, português: ****Os lusitanos eram os habitantes de Portugal.' ;
+		:eAntonimo :luso;
+		:eAntonimo :portugues;.
+
+:luso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' lusitano, português: ****relações luso-africanas' ;
+		:eAntonimo :lusitano;
+		:eAntonimo :portugues;.
+
+:luso-brasileiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :adjetivo;
+		:Significado ' Referente a Portugal e ao Brasil em simultâneo;' ;
+		:Significado ' n.m.' ;
+		:Significado ' Diz-se daquilo ou daquele que tem a sua origem ou possui nacionalidade portuguesa e brasileira.' ;
+		:Significado ' (Etm. luso + brasileiro)' ;.
+
+:lusófono rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' país ou povo de língua oficial portuguesa: os países lusófonos' ;.
+
+:lustrar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Atribuir lustre ou brilho a; do mesmo significado de polir;' ;
+		:Significado ' Ato de envernizar ou vidrar;' ;
+		:Significado ' Colocar graxa - engraxar;' ;
+		:Significado ' Ação de depurar ou purificar.' ;
+		:Significado ' Luzir.' ;
+		:Significado ' (Etm. do latim: lustrāre)' ;
+		:eAntonimo :desenvernizar;
+		:eAntonimo :deslustrar;
+		:eAntonimo :desvidrar;
+		:eAntonimo :amaciar;
+		:eAntonimo :brilhar;
+		:eAntonimo :brunir;
+		:eAntonimo :depurar;
+		:eAntonimo :envernizar;
+		:eAntonimo :limpar;
+		:eAntonimo :luzir;
+		:eAntonimo :polir;
+		:eAntonimo :purificar;
+		:eAntonimo :reluzir;.
+
+:lustro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' brilho' ;.
+
+:lustroso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que possui lustre; que apresenta brilho; que é brilhante ou luzidio;' ;
+		:Significado ' (Figurado) Diz-se do que ficou brilhante por ter sido muito esfregado (devido a uso prolongado);' ;
+		:Significado ' (Figurado) Diz-se de quem é importante por suas façanhas e/ou erudição; que é  ilustre ou conceituado;' ;
+		:Significado ' (Figurado) De personalidade agradável à vista; que é encantador ou atraente;' ;
+		:Significado ' (Etm. lustro + oso)' ;
+		:eAntonimo :brilhante;
+		:eAntonimo :cintilante;
+		:eAntonimo :claro;
+		:eAntonimo :luminoso;
+		:eAntonimo :luzente;
+		:eAntonimo :luzidio;
+		:eAntonimo :reluzente;
+		:eAntonimo :rutilo;.
+
+:luta rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' combate, batalha: ***a luta armada' ;
+		:Significado ' acção em favor ou contra algo: a luta contra a guerra; a luta pela igualdade' ;
+		:Significado ' desporto de combate: luta livre' ;
+		:eAntonimo :briga;
+		:eAntonimo :combate;
+		:eAntonimo :desavenca;
+		:eAntonimo :disputa;
+		:eAntonimo :pendencia;
+		:eAntonimo :recontro;
+		:eAntonimo :zanga;.
+
+:lutar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' combater: ****lutar com armas' ;
+		:Significado ' travar acção a favor ou contra algo: lutar pela paz' ;
+		:eAntonimo :atacar;
+		:eAntonimo :brigar;
+		:eAntonimo :combater;
+		:eAntonimo :estrebuchar;
+		:eAntonimo :guerrear;
+		:eAntonimo :hostilizar;
+		:eAntonimo :testilhar;.
+
+:luterano rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Que diz respeito ou se refere a luterano;' ;
+		:Significado ' Adepto ou devoto de Lutero ou do luteranismo.' ;
+		:Significado ' (Etm. antropónimo: Lutero + ano)' ;.
+
+:luto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' dor causada pela morte de alguém: fazer o luto de alguém' ;.
+
+:luva rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' peça de vestuário para a mão: usar luvas no Inverno; luvas de borracha' ;.
+
+:lux rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de uma unidade de medição de intensidade de iluminação; equivale à iluminação de um espaço que recebe, de forma uniforme, um fluxo de um lúmen por cada metro quadrado.' ;
+		:Significado ' (Etm. do latim: lux)' ;.
+
+:luxação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' deslocação de um osso' ;.
+
+:luxar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' (Medicina) Ação de deslocar, torcer, desunir ou desarticular.' ;
+		:Significado ' (Etm. do latim: luxāre)' ;
+		:eAntonimo :desarticular;
+		:eAntonimo :desconjuntar;
+		:eAntonimo :deslocar;
+		:eAntonimo :torcer;.
+
+:luxar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Pavonear, estadear ou ostentar luxo;' ;
+		:Significado ' Adornar, vestir ou entrajar de modo luxuoso.' ;
+		:Significado ' (Etm. luxo + ar)' ;
+		:eAntonimo :garrir;
+		:eAntonimo :ostentar;
+		:eAntonimo :pompear;.
+
+:luxo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Exibição ou pavoneio de riqueza ou opulência; ' ;
+		:Significado ' Pompa, ostentação ou sumptuosidade; aparato ou esplendor;' ;
+		:Significado ' Todo e qualquer recurso, atividade, objeto ou posse de preço elevado que não é fundamental ou que é dispensável, proporcionando apenas conforto ou deleite; algo  prescindível, redundante ou supérfluo.' ;
+		:Significado ' (Etm. do latim: luxu)' ;
+		:eAntonimo :despojamento;
+		:eAntonimo :simplicidade;
+		:eAntonimo :sobriedade;
+		:eAntonimo :esplendor;
+		:eAntonimo :magnificencia;
+		:eAntonimo :ostentacao;
+		:eAntonimo :pompa;
+		:eAntonimo :prescindivel;
+		:eAntonimo :superfluo;.
+
+:luxoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Forma popular de luxuoso.' ;
+		:Significado ' (Etm. luxo + oso)' ;
+		:eAntonimo :modesto;
+		:eAntonimo :simples;
+		:eAntonimo :singelo;
+		:eAntonimo :luxuoso;.
+
+:luxuosamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira luxuosa; de forma aparatosa, esplêndida ou ostensiva; de modo faustoso, luxuriante ou magnífico.' ;
+		:Significado ' (Etm. luxuosa + mente)' ;
+		:eAntonimo :aparatosamente;
+		:eAntonimo :esplendidamente;
+		:eAntonimo :ostensivamente;.
+
+:luxuoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que possui fausto, luxo ou pompa;' ;
+		:Significado ' Diz-se de quem aprecia o luxo ou o fausto;' ;
+		:Significado ' Ostensivo ou aparatoso.' ;
+		:Significado ' (Etm. luxo + oso)' ;
+		:eAntonimo :modesto;
+		:eAntonimo :simples;
+		:eAntonimo :singelo;
+		:eAntonimo :faustoso;
+		:eAntonimo :luxento;
+		:eAntonimo :ostentoso;.
+
+:luxúria rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Atração pelos prazeres sensuais e carnais; atuação desmedida no que diz respeito aos prazeres sexuais; lascívia;' ;
+		:Significado ' Situação ou característica do que é luxuriante; viçoso ou abundante;' ;
+		:Significado ' (Religião Católica) Denominação de um dos sete pecados capitais;' ;
+		:Significado ' (Brasil; Informal) Designação comum de cio ou esperma;' ;
+		:Significado ' No âmbito vegetativo refere-se ao viço dos mesmos.' ;
+		:Significado ' (Etm. do latim: luxurĭa)' ;
+		:eAntonimo :candura;
+		:eAntonimo :inocencia;
+		:eAntonimo :pureza;
+		:eAntonimo :virgindade;
+		:eAntonimo :concupiscencia;
+		:eAntonimo :lascivia;.
+
+:luxuriante rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' exuberante, viçoso: uma floresta luxuriante' ;.
+
+:luz rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' claridade produzida por fonte luminosa: a luz do sol; ler à luz do candeeiro' ;
+		:eAntonimo :brilho;
+		:eAntonimo :cintilacao;
+		:eAntonimo :clarao;
+		:eAntonimo :fulgor;.
+
+:luzência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ato ou ação de luzir;' ;
+		:Significado ' Designação de claridade, fluorescência ou luminosidade;' ;
+		:Significado ' Denominação atribuída a esplendor.' ;
+		:Significado ' (Etm. do latim: lucentĭa)' ;
+		:eAntonimo :claridade;
+		:eAntonimo :esplendor;.
+
+:luzidio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que brilha: uma pele luzidia' ;
+		:eAntonimo :brilhante;
+		:eAntonimo :cintilante;
+		:eAntonimo :claro;
+		:eAntonimo :luminoso;
+		:eAntonimo :lustroso;
+		:eAntonimo :luzente;
+		:eAntonimo :nedio;
+		:eAntonimo :reluzente;
+		:eAntonimo :rutilo;.
+
+:luzir rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' brilhar: ****As estrelas luzem.' ;
+		:eAntonimo :brilhar;
+		:eAntonimo :cintilar;
+		:eAntonimo :esplender;
+		:eAntonimo :lucilar;
+		:eAntonimo :luciluzir;
+		:eAntonimo :resplandecer;
+		:eAntonimo :rutilar;
+		:eAntonimo :tremeluzir;.

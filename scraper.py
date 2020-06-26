@@ -6,7 +6,7 @@ import re
 from difflib import get_close_matches
 import codecs
 import unidecode
-
+import string
 
 '''
 First get URL and make a request to that URL,
@@ -29,6 +29,7 @@ def getSoup(url):
 ###     Getting the main word we are looking for.
 
 def getMainWord (soup):
+
     word = ''
     mainword = soup.find_all('h1', class_='title')
     for thing in mainword:
@@ -37,57 +38,8 @@ def getMainWord (soup):
     return word
 
 ###     Getting meaning(s) of word and treating strings...
-
-def getMeaningsDEBUG(soup):
-    text = ''
-    meanings = []
-    # For each element div with class main-content found, find an element with id='significado' and add it to text
-    for element in soup.find_all('div', class_='main-content'):
-        text+= str(element.find(id='significado'))
-    # split the text to get a list well divided
-    text=text.split('<br/> <br/>')
-    #for each line in text append the split result to meanings
-    for line in text:
-        meanings.append(line.split('<br/>'))
-    #for each meaning get the correct text
-    for index,meaning in enumerate(meanings):
-        for jndex,indexes in enumerate(meaning):
-            meanings[index][jndex] = BeautifulSoup(meanings[index][jndex],"html.parser").text
-            #If it finds etymology, ignore the rest
-            #if 'Do latim:' in meanings[index][jndex]:
-            #    del meanings[index][jndex]
-            
-    #erase etymology garbage
-    etymology = 0 
-    for i in range(len(meanings)):
-        for j in range(len(meanings[i])):
-            if 'Etimologia' in meanings[i][j]:
-                etymology = 1
-            if etymology == 1:
-                break
-        if etymology == 1:
-            break
-            
-    if etymology == 1:
-        meanings = meanings[0:i]
-    
-    #copy the arrays 
-    wordType = meanings.copy()
-    #for each meaning check if string has number and place it on wordType.
-    # also remove the number and delete empty meanings
-    hadNumbers = 0
-    for i in range(len(meanings)):
-        for j in range(len(meanings[i])):
-            if hasNumber(meanings[i][j]):
-                wordType[i] = meanings[i][0]
-                print(wordType[i])
-                hadNumbers=1
-            meanings[i][j] = re.sub(r'([0-9])\.\s','',meanings[i][j])
-
-    print(wordType)
-    return meanings,wordType
-
 def getMeanings(soup):
+
     text = ''
     meanings = []
     # For each element div with class main-content found, find an element with id='significado' and add it to text
@@ -105,19 +57,20 @@ def getMeanings(soup):
             #if 'Do latim:' in meanings[index][jndex]:
             #    del meanings[index][jndex]
     
+    if 'Forma do ver' in meanings[0][0]:
+        meanings.pop([0][0])
+
     #erase etymology garbage
     etymology = 0 
     for i in range(len(meanings)):
         for j in range(len(meanings[i])):
-            if 'Etimologia' in meanings[i][j]:
+            if 'Etimologia'  in meanings[i][j] or 'Etm.' in meanings[i][j]:
                 etymology = 1
             if etymology == 1:
                 break
-        if etymology == 1:
-            break
             
     if etymology == 1:
-        meanings = meanings[0:i]
+        meanings = meanings[0:i+1]
     
     #copy the arrays 
     wordType = meanings.copy()
@@ -130,21 +83,22 @@ def getMeanings(soup):
                 hadNumbers=1
                 wordType[i] = meanings[i][0]
             meanings[i][j] = re.sub(r'([0-9])\.\s','',meanings[i][j])
+            meanings[i][j] = meanings[i][j].replace('\'','`')
             if not meanings[i][j]:
                 del meanings[i][j]
 
-   #print(wordType)
     #delete meanings copied to wordType
-    
     try:
         if(hadNumbers):
             for i in range(len(wordType)):
                 del meanings[i][0]
     except Exception as e:
+        print('Error in getting meaning')
         print(e)
 
     meanings = [ele for ele in meanings if ele != []] 
     wordType = [ele for ele in wordType if ele != []]
+
 
     for i,word in enumerate(wordType):
         if 'v.' in word:
@@ -157,7 +111,12 @@ def getMeanings(soup):
             wordType[i] = 'adverbio'
         if 'art.' in word:
             wordType[i] = 'artigo'
+        if 'det.' in word:
+            wordType[i] = 'determinante'
+        if not word:
+            wordType[i] = 'vazio'
 
+    
 
     return meanings,wordType
 
@@ -200,12 +159,17 @@ def getWords(wordlist):
                 allSoup = allSoup.find_all('div',class_='next')
                 for elements in allSoup:
                     wordFound=elements.a['href'][1:-1]
+                if wordFound[0] != wordList[0][0]:
+                    print (wordFound[0] + 'tem outra letra inicial que ' + wordList[0][0])
+                    return
                 print('Got Word: '+ wordFound + '. From word: ' + wordlist[iterations]+ '. In '+str(iterations+1) + ' iterations')
                 wordlist.append(wordFound)
                 saveWord(wordFound)
             iterations += 1
         except Exception as e: 
             print(e)
+            print('Error getting words')
+            print('On word ' + wordlist[iterations+1])
             print('Finished looking for words with ' + str(len(wordList)) + ' words')
             print('From '+wordList[0]+' to '+wordList[len(wordList)-1])
             exit = 1
@@ -213,19 +177,23 @@ def getWords(wordlist):
     
 
 def replaceWordTypes(wordTypes,word):
-    types =['adjetivo','adverbio','artigo','conjuncao','interjeicao','preposicao','pronome','substantivo','verbo','nome' ]
+    types =['adjetivo','adverbio','artigo','conjuncao','determinante','interjeicao','preposicao','pronome','substantivo','verbo','nome','vazio' ]
     matches = []
 
     found = False
     cutoff = 0.4
             
     while found==False:
-        for type in wordTypes:
-            try: 
+        try:
+            for type in wordTypes:
                 matches.append(get_close_matches(type,types,1,cutoff)[0])
-                found = True
-            except :
-                cutoff=cutoff - 0.1
+                found = True          
+        except Exception as e:
+            cutoff=cutoff-0.1
+            if cutoff < 0.1:
+                    found = True
+                    matches.append('vazio')
+                    print('Cutoff')
 
     for index,match in enumerate(matches):
         if 'nome' in match:
@@ -270,6 +238,7 @@ def setupClasses(file):
                                         :adverbio
                                         :artigo
                                         :conjucao
+                                        :determinante
                                         :interjeicao
                                         :preposicao
                                         :pronome
@@ -316,9 +285,7 @@ def setupObjectProperties(file):
          rdfs:domain :Word ;
          rdfs:range :Type .'''
         
-    file.write(hasType)
-
-    
+    file.write(hasType)  
 
 def setupStandardIndividuals(file):
     seperator = '''\n\n#################################################################
@@ -330,6 +297,7 @@ def setupStandardIndividuals(file):
                        :Type .\n:adverbio rdf:type owl:NamedIndividual ,
                        :Type .\n:artigo rdf:type owl:NamedIndividual ,
                      :Type .\n:conjucao rdf:type owl:NamedIndividual ,
+                     :Type .\n:determinante rdf:type owl:NamedIndividual ,
                        :Type .\n:interjeicao rdf:type owl:NamedIndividual ,
                           :Type .\n:preposicao rdf:type owl:NamedIndividual ,
                          :Type .\n:pronome rdf:type owl:NamedIndividual ,
@@ -391,33 +359,46 @@ def saveWord(word):
     createIndividual(mainWord,wordType,meanings,synonyms,antonyms,'Dicionario')
 
 ### main
-##queryWord = 'ufa'
-url = SearchWordUrl('mais')
+#
 
+url = SearchWordUrl('abaixo')
 soup = getSoup(url)
+
 
 allSoup= getSoup(url)
 allSoup = allSoup.find(id='ligacoes')
 
-wordList = ['mais']
-#getWords(wordList)
-
-
-
-
 mainword = getMainWord(soup)
 
 meanings,wordType = getMeanings(soup)
-#meanings,wordType = getMeanings(soup)
 
 wordType = replaceWordTypes(wordType,mainword)
 
 synonyms,antonyms = getRelations(soup)
 
 #createIndividual(mainword,wordType,meanings,synonyms,antonyms,'Dicionario')
+### where the magic happens
 ontologyName = 'Dicionario'
 
 #handleOntology(ontologyName)
+
+#wordList = ['buzinar']
+#getWords(wordList)
+#a,b,c,f,o,r
+#'w','y','x','z'
+#'s','t','u','v',
+#'m','n','p','q',
+#'a','b','c','d'
+#alphabet= ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','y','x','z']
+alphabet= ['pacatamente','q']
+
+
+#alphabet = list(string.ascii_lowercase)
+
+for letter in alphabet:
+    wordList = [letter]
+    getWords(wordList)
+
 #for word in wordList:
 #    url = SearchWordUrl(word)
 #    soup = getSoup(url)
