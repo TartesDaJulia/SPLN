@@ -359,68 +359,14 @@ def saveWord(word):
     createIndividual(mainWord,wordType,meanings,synonyms,antonyms,'Dicionario')
 
 ### main
-#
 
-url = SearchWordUrl('abaixo')
-soup = getSoup(url)
-
-
-allSoup= getSoup(url)
-allSoup = allSoup.find(id='ligacoes')
-
-mainword = getMainWord(soup)
-
-meanings,wordType = getMeanings(soup)
-
-wordType = replaceWordTypes(wordType,mainword)
-
-synonyms,antonyms = getRelations(soup)
-
-#createIndividual(mainword,wordType,meanings,synonyms,antonyms,'Dicionario')
-### where the magic happens
 ontologyName = 'Dicionario'
 
-#handleOntology(ontologyName)
+handleOntology(ontologyName)
 
-#wordList = ['buzinar']
-#getWords(wordList)
-#a,b,c,f,o,r
-#'w','y','x','z'
-#'s','t','u','v',
-#'m','n','p','q',
-#'a','b','c','d'
-#alphabet= ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','y','x','z']
-alphabet= ['pacatamente','q']
-
-
-#alphabet = list(string.ascii_lowercase)
+alphabet = list(string.ascii_lowercase)
 
 for letter in alphabet:
     wordList = [letter]
     getWords(wordList)
 
-#for word in wordList:
-#    url = SearchWordUrl(word)
-#    soup = getSoup(url)
-#    mainWord = getMainWord(soup)
-#    meanings,wordType = getMeanings(soup)
-#    wordType = replaceWordTypes(wordType,mainWord)
-#    synonyms,antonyms = getRelations(soup)
-#    createIndividual(mainWord,wordType,meanings,synonyms,antonyms,ontologyName)
-
-
-
-#stop these variables from showing on AREPL
-#repl_filter = ['element',
-#                'BeautifulSoup',
-#                'index',
-#                'indexes',
-#                'jndex',
-#                'meaning',
-#                'page',
-#                'relation',
-#                'text',
-#                'thing',
-#                'soup',
-#                'line',
-#                'allSoup',                ]
