@@ -1,0 +1,4729 @@
+
+
+:vaca rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' animal que dá leite: uma vaca leiteira' ;:Significado ' carne desse animal: um bife de vaca' ;.
+
+:vacação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de vagar; do mesmo significado de vacatura ou vacância;' ;:Significado ' Interrupção ou descontinuação do trabalho; folga, repouso ou férias.' ;:Significado ' (Etm. do latim: vacatiōne)' ;
+		:eSinonimo :vacancia;
+		:eSinonimo :vacatura;
+		:eSinonimo :vaga;
+		:eSinonimo :vagatura;.
+
+:vacância rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Referente ao período temporal durante o qual determinada posição ou cargo se encontra vago;' ;:Significado ' (Direito) Período temporal compreendido entre o momento em que determinada lei é promolgada e o momento em que a mesma entra em vigor.' ;:Significado ' (Etm. do latim: vacantĭa)' ;
+		:eSinonimo :vacacao;
+		:eSinonimo :vacatura;
+		:eSinonimo :vaga;
+		:eSinonimo :vagatura;.
+
+:vacatura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :vazio;
+		:Significado ' n.f.' ;:Significado ' Ver: vacância.' ;
+		:eSinonimo :vacacao;
+		:eSinonimo :vacancia;
+		:eSinonimo :vaga;
+		:eSinonimo :vagatura;.
+
+:vacilação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de vacilar;' ;:Significado ' Balanço do que vacila; designação de oscilação ou movimentação;' ;:Significado ' (Figurado) Denominação atribuída a indecisão, indeterminação, dúvida ou irresolução.' ;:Significado ' (Etm. vacilar + ção)' ;
+		:eAntonimo :certeza;
+		:eAntonimo :compenetracao;
+		:eAntonimo :estabilidade;
+		:eAntonimo :fixidez;
+		:eAntonimo :imobilidade;
+		:eAntonimo :persuadimento;
+		:eSinonimo :balanco;
+		:eSinonimo :hesitacao;
+		:eSinonimo :indecisao;
+		:eSinonimo :irresolucao;
+		:eSinonimo :movimento;
+		:eSinonimo :oscilacao;
+		:eSinonimo :titubeacao;.
+
+:vacilante rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que vacila, que treme: um andar vacilante' ;:Significado '  (fig) hesitante: espírito vacilante' ;
+		:eSinonimo :abaladico;
+		:eSinonimo :bambo;
+		:eSinonimo :flacido;
+		:eSinonimo :frouxo;
+		:eSinonimo :inseguro;
+		:eSinonimo :instavel;.
+
+:vacilar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Estremecer, balançar ou oscilar por não possuir firmeza ou equilíbrio: o vacilar dos andaimes da obra era assustador;' ;:Significado ' (Figurado) Demonstrar incerteza; hesitar, duvidar ou desconfiar: à última hora vacilou e não apareceu na festa;' ;:Significado ' Caminhar aos tropeções; cambalear ou cambetear: vacilou ao andar e por isso caiu ao chão;' ;:Significado ' Enfraquecer ou ficar frouxo ou sem forças: ela sentiu as pernas a vacilar;' ;:Significado ' Fazer com que balance ou oscile.' ;:Significado ' (Etm. do latim: vacillāre)' ;
+		:eSinonimo :balancar;
+		:eSinonimo :desconfiar;
+		:eSinonimo :duvidar;
+		:eSinonimo :hesitar;
+		:eSinonimo :oscilar;
+		:eSinonimo :tremer;.
+
+:vacilo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Brasil) Ação ou efeito de vacilar;' ;:Significado ' (Brasil) Indecisão ou hesitação;' ;:Significado ' (Brasil) Lapso ou desleixo; deslize ou negligência.' ;:Significado ' (Etm. Der. Regress. de: vacilar)' ;.
+
+:vacina rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' produto que protege contra uma doença: uma vacina contra o tétano' ;.
+
+:vacinar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' dar uma vacina: vacinar os idosos contra a gripe' ;.
+
+:vacinar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' tomar uma vacina: vacinar-se contra o tifo' ;.
+
+:vácuo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' vazio: um espaço vácuo' ;:Significado ' fútil: pensamentos vácuos' ;:Significado ' espaço vazio: embalado no vácuo' ;
+		:eSinonimo :lacuna;
+		:eSinonimo :vazio;.
+
+:vadiagem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação do género de vida que leva um vadio;' ;:Significado ' Aglomerado de vadios;' ;:Significado ' Referente a uma vida desocupada ou ociosa;' ;:Significado ' Designação de vida nómada e errante.' ;:Significado ' (Etm. vadiar + agem)' ;
+		:eAntonimo :acao;
+		:eAntonimo :afa;
+		:eAntonimo :emprego;
+		:eAntonimo :labuta;
+		:eAntonimo :lavor;
+		:eAntonimo :lida;
+		:eAntonimo :ocupacao;
+		:eAntonimo :oficio;
+		:eAntonimo :presteza;
+		:eAntonimo :servico;
+		:eAntonimo :tarefa;
+		:eAntonimo :vida;
+		:eAntonimo :vivacidade;
+		:eSinonimo :gandaia;
+		:eSinonimo :leu;
+		:eSinonimo :vadiacao;
+		:eSinonimo :vagabundagem;.
+
+:vadiar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Caminhar ou andar de um local para o outro, sem se firmar ou alicerçar; zanzar ou perambular;' ;:Significado ' Viver no ócio ou na malandragem, sem possuir funções ou trabalho; ter uma vida de mandrião ou preguiçoso.' ;:Significado ' (Etm. vadio + ar)' ;
+		:eAntonimo :laborar;
+		:eAntonimo :labutar;
+		:eAntonimo :mourejar;
+		:eAntonimo :operar;
+		:eAntonimo :trabalhar;
+		:eAntonimo :trabucar;
+		:eSinonimo :errar;
+		:eSinonimo :madracear;
+		:eSinonimo :mandriar;
+		:eSinonimo :perambular;
+		:eSinonimo :vagabundar;
+		:eSinonimo :vagabundear;.
+
+:vadio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que não quer trabalhar: homem vadio' ;:Significado ' que não tem lugar fixo: um cão vadio' ;
+		:eSinonimo :gauderio;
+		:eSinonimo :larapio;
+		:eSinonimo :ocioso;
+		:eSinonimo :vagabundo;.
+
+:vaga rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' onda grande: as vagas do mar' ;:Significado ' grande quantidade de algo: uma vaga de calor' ;:Significado ' lugar livre: Não há vagas nos hotéis.' ;
+		:eSinonimo :onda;
+		:eSinonimo :vacacao;
+		:eSinonimo :vacancia;
+		:eSinonimo :vacatura;
+		:eSinonimo :vagatura;.
+
+:vagabundagem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de vivência ou vida de pessoa vagabunda;' ;:Significado ' Denominação de vida indolente ou malandra;' ;:Significado ' Designação de vivência itinerante ou nómada;' ;:Significado ' Denominação atribuída aos vagabundos.' ;:Significado ' (Etm. vagabundar + agem)' ;
+		:eAntonimo :afa;
+		:eAntonimo :emprego;
+		:eAntonimo :labuta;
+		:eAntonimo :lavor;
+		:eAntonimo :lida;
+		:eAntonimo :ocupacao;
+		:eAntonimo :oficio;
+		:eAntonimo :presteza;
+		:eAntonimo :servico;
+		:eAntonimo :tarefa;
+		:eAntonimo :vida;
+		:eAntonimo :vivacidade;
+		:eSinonimo :leu;
+		:eSinonimo :vadiacao;
+		:eSinonimo :vadiagem;.
+
+:vagabundar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Do mesmo significado de vagabundear.' ;:Significado ' (Etm. vagabundo + ar)' ;
+		:eSinonimo :madracear;
+		:eSinonimo :mandriar;
+		:eSinonimo :vadiar;.
+
+:vagabundear rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Vagar ou deambular de um sítio para o outro; flanar ou passear;' ;:Significado ' Ter uma vida ociosa, sem obrigações ou compromissos; mandriar ou vadiar.' ;:Significado ' (Etm. vagabundo + ear)' ;
+		:eAntonimo :laborar;
+		:eAntonimo :labutar;
+		:eAntonimo :lidar;
+		:eAntonimo :morar;
+		:eAntonimo :mourejar;
+		:eAntonimo :operar;
+		:eAntonimo :trabalhar;
+		:eAntonimo :trabucar;
+		:eSinonimo :deambular;
+		:eSinonimo :divagar;
+		:eSinonimo :flanar;
+		:eSinonimo :passear;
+		:eSinonimo :perambular;
+		:eSinonimo :vaguear;.
+
+:vagabundo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que não tem trabalho nem domicílio fixo' ;:Significado ' pessoa não tem trabalho nem domicílio fixo' ;
+		:eSinonimo :erradio;
+		:eSinonimo :errante;
+		:eSinonimo :gauderio;
+		:eSinonimo :larapio;
+		:eSinonimo :nomada;
+		:eSinonimo :nomade;
+		:eSinonimo :ocioso;
+		:eSinonimo :profugo;
+		:eSinonimo :vadio;
+		:eSinonimo :vagamundo;.
+
+:vagamundo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se de ou designa aquele que viaja o mundo sem possuir um objetivo específico; do mesmo significado de vagabundo.' ;:Significado ' (Etm. vagabundo × mundo)' ;
+		:eSinonimo :erradio;
+		:eSinonimo :errante;
+		:eSinonimo :nomada;
+		:eSinonimo :nomade;
+		:eSinonimo :profugo;
+		:eSinonimo :vagabundo;.
+
+:vagão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' veículo de caminho de ferro para o transporte de mercadorias' ;.
+
+:vagar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' ficar livre: Vagou um lugar na garagem.' ;
+		:eSinonimo :demora;
+		:eSinonimo :desocupar;
+		:eSinonimo :lentidao;
+		:eSinonimo :vazar;.
+
+:vagareza rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Popular) Designação de vagar ou lentidão.' ;:Significado ' (Etm. vagar + eza)' ;
+		:eAntonimo :celeridade;
+		:eSinonimo :lentidao;
+		:eSinonimo :vagar;.
+
+:vagarosamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira vagarosa; lentamente ou sem pressa; de modo moroso ou pausamente; calmamente.' ;:Significado ' (Etm. veloz + mente)' ;
+		:eAntonimo :acelerado;
+		:eAntonimo :apressurado;
+		:eAntonimo :rapidamente;
+		:eAntonimo :rapido;
+		:eAntonimo :veloz;
+		:eAntonimo :velozmente;
+		:eAntonimo :vertiginoso;
+		:eSinonimo :calmamente;
+		:eSinonimo :devagar;
+		:eSinonimo :lentamente;
+		:eSinonimo :morosamente;
+		:eSinonimo :tardio;.
+
+:vagarosidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica ou circunstância daquilo ou daquele que é vagaroso; lerdeza ou morosidade.' ;:Significado ' (Etm. vagaroso + i + dade)' ;
+		:eAntonimo :apice;
+		:eSinonimo :demora;
+		:eSinonimo :lerdeza;
+		:eSinonimo :morosidade;
+		:eSinonimo :vagar;
+		:eSinonimo :vagareza;.
+
+:vagaroso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que anda devagar, lento' ;
+		:eSinonimo :brando;
+		:eSinonimo :frouxo;
+		:eSinonimo :lento;.
+
+:vagatura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Do mesmo significado de vacância.' ;:Significado ' (Etm. vagar + tura)' ;
+		:eSinonimo :vacacao;
+		:eSinonimo :vacancia;
+		:eSinonimo :vacatura;
+		:eSinonimo :vaga;.
+
+:vagem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' fruto de alguns feijões' ;.
+
+:vagina rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' orgão genital feminino' ;.
+
+:vago rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' desocupado, livre: lugar vago' ;:Significado ' indefinido, incerto: ter uma ideia vaga de algo' ;
+		:eSinonimo :desocupado;
+		:eSinonimo :devoluto;
+		:eSinonimo :livre;.
+
+:vaguear rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' andar sem rumo certo: vaguear sem rumo' ;:Significado '  (fig) divagar (em pensamento): vaguear em pensamento' ;
+		:eSinonimo :deambular;
+		:eSinonimo :divagar;
+		:eSinonimo :flanar;
+		:eSinonimo :passear;
+		:eSinonimo :perambular;
+		:eSinonimo :vagabundear;.
+
+:vaguidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica ou particularidade do que é vago; que se apresenta de modo incerto ou impreciso; vacuidade.' ;:Significado ' (Etm. vago + i + dade)' ;.
+
+:vaiar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Direcionar vaias a; do mesmo significado de apupar;' ;:Significado ' Troçar ou ridicularizar.' ;:Significado ' (Etm. vaia + ar)' ;
+		:eSinonimo :apupar;.
+
+:vaidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Atributo ou particularidade daquilo ou daquele que é vão; que não possui conteúdo ou densidade; que é inútil, fútil ou frívolo; algo sem significado; futilidade;' ;:Significado ' Valorização, por vezes excessiva, atribuída à própria aparência ou às características físicas ou intelectuais; pode estar associada a uma expectativa de validação e/ou admiração social;' ;:Significado ' Opinião ou perspetiva ufana ou envaidecida que alguém possui acerca de si próprio;' ;:Significado ' Conceito demasiado positiva que alguém tem acerca de si mesmo; presunção, altivez ou gabo.' ;:Significado ' (Etm. do latim: vanitāte)' ;
+		:eSinonimo :alarde;
+		:eSinonimo :frivolidade;
+		:eSinonimo :orgulho;
+		:eSinonimo :ostentacao;
+		:eSinonimo :presuncao;
+		:eSinonimo :soberbia;
+		:eSinonimo :ufania;
+		:eSinonimo :vangloria;.
+
+:vaidoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se da pessoa que tem vaidade;' ;:Significado ' Arrogante, pedante ou presumido;' ;:Significado ' Que é imodesto ou orgulhoso.' ;:Significado ' (Etm. vaidade + oso)' ;
+		:eAntonimo :apagado;
+		:eAntonimo :comedido;
+		:eAntonimo :desempoado;
+		:eAntonimo :despresumido;
+		:eAntonimo :sensato;
+		:eSinonimo :altivo;
+		:eSinonimo :arrogante;
+		:eSinonimo :fatuo;
+		:eSinonimo :imodesto;
+		:eSinonimo :orgulhoso;
+		:eSinonimo :pedante;
+		:eSinonimo :presuncoso;
+		:eSinonimo :pretensioso;
+		:eSinonimo :soberbo;.
+
+:vaivém rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' movimento de um lado para o outro: o vaivém das ondas' ;.
+
+:vala rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' cova, fosso: cavar uma vala' ;
+		:eSinonimo :fosso;.
+
+:vale rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' planície entre duas montanhas' ;
+		:eSinonimo :campo;
+		:eSinonimo :cha;
+		:eSinonimo :planicie;
+		:eSinonimo :planura;
+		:eSinonimo :prado;
+		:eSinonimo :vargem;.
+
+:valência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Química) Possibilidade de ligação ou combinação de um ião, átomo ou radical; esta pode ser verificada na quantidade de uniões químicas, independentemente da sua natureza, que podem ser originadas nesse ião, átomo ou radical; ' ;:Significado ' (Biologia) Atuação ou desempenho do grupo cromossomático existente no núcleo de uma célula, na perspetiva numérica;' ;:Significado ' (Biologia) Importância ou virtude conferida a cada gene no que diz respeito ao fenótipo que lhe corresponde;' ;:Significado ' Designação de mérito, prestígio ou consideração.' ;:Significado ' (Etm. do latim: valentĭa)' ;.
+
+:valente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' corajoso' ;
+		:eSinonimo :animoso;
+		:eSinonimo :audacioso;
+		:eSinonimo :audaz;
+		:eSinonimo :corajoso;
+		:eSinonimo :destemido;
+		:eSinonimo :ousado;.
+
+:valentia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica de valente;' ;:Significado ' Denominação de força ou vigor;' ;:Significado ' Designação de firmeza, perseverança ou resistência;' ;:Significado ' Coragem, audácia ou ousadia;' ;:Significado ' (Figurado) Referente a proeza ou feito.' ;:Significado ' (Etm. valente + ia)' ;
+		:eAntonimo :acanhamento;
+		:eAntonimo :acobardamento;
+		:eAntonimo :covardia;
+		:eAntonimo :desvalor;
+		:eAntonimo :embaraco;
+		:eAntonimo :espantalho;
+		:eAntonimo :espanto;
+		:eAntonimo :fraqueza;
+		:eAntonimo :horror;
+		:eAntonimo :panico;
+		:eAntonimo :pavor;
+		:eAntonimo :poltroneria;
+		:eAntonimo :susto;
+		:eAntonimo :temor;
+		:eAntonimo :terror;
+		:eAntonimo :timidez;
+		:eAntonimo :veneracao;
+		:eSinonimo :ansiedade;
+		:eSinonimo :arrojo;
+		:eSinonimo :atrevimento;
+		:eSinonimo :audacia;
+		:eSinonimo :bravura;
+		:eSinonimo :coragem;
+		:eSinonimo :denodo;
+		:eSinonimo :desembaraco;
+		:eSinonimo :impavidez;
+		:eSinonimo :intrepidez;
+		:eSinonimo :ousadia;
+		:eSinonimo :precipitacao;
+		:eSinonimo :pressa;
+		:eSinonimo :temeridade;.
+
+:valer rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' ter como preço ou valor: Este quadro vale muito.' ;:Significado ' ser válido para: Isto vale para todos' ;:Significado ' ter o valor de: Esse quadro vale uma fortuna.' ;
+		:eSinonimo :significar;.
+
+:valer-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' servir-se: valer-se dos seus conhecimentos' ;.
+
+:valeta rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' canal para escoamento das águas nas ruas' ;.
+
+:valia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação do valor estimado ou inerente de algo;' ;:Significado ' Mérito ou vantagem;' ;:Significado ' Denominação atribuída a influência;' ;:Significado ' Resguardo ou defesa;' ;:Significado ' Dedicação ou diligência.' ;:Significado ' (Etm. valer + ia)' ;
+		:eSinonimo :importancia;
+		:eSinonimo :merito;
+		:eSinonimo :preco;
+		:eSinonimo :valor;.
+
+:validação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de validar; corroboração ou aprovação da validade; ratificação ou roboração.' ;:Significado ' (Etm. validar + ção)' ;
+		:eAntonimo :abolicao;
+		:eAntonimo :cassacao;
+		:eAntonimo :cessacao;
+		:eAntonimo :derrogacao;
+		:eAntonimo :exterminio;
+		:eAntonimo :extincao;
+		:eAntonimo :oclusao;
+		:eAntonimo :teoria;
+		:eSinonimo :aceitacao;
+		:eSinonimo :aprovacao;
+		:eSinonimo :confirmacao;
+		:eSinonimo :corroboracao;
+		:eSinonimo :legalizacao;
+		:eSinonimo :ratificacao;
+		:eSinonimo :roboracao;.
+
+:validade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' qualidade do que pode produzir efeito: o prazo de validade de um remédio' ;:Significado ' utilidade: a validade de um método' ;
+		:eSinonimo :legalidade;
+		:eSinonimo :legitimidade;.
+
+:validar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' tornar válido, legitimar: validar um bilhete de metro' ;
+		:eSinonimo :aprovar;
+		:eSinonimo :autenticar;
+		:eSinonimo :confirmar;
+		:eSinonimo :legalizar;
+		:eSinonimo :ratificar;
+		:eSinonimo :sancionar;.
+
+:válido rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que está dentro da lei ou do prazo: um passaporte válido até 2010' ;:Significado ' que tem saúde: uma pessoa válida' ;.
+
+:valimento rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de valer;' ;:Significado ' Característica daquilo que se encontra em conformidade com os preceitos ou regras vigentes; vigência;' ;:Significado ' Consideração, valia ou valor;' ;:Significado ' Designação de mérito ou préstimo;' ;:Significado ' Prestígio, poder ou influência;' ;:Significado ' Intervenção, patrocínio ou favor;' ;:Significado ' Convívio ou intimidade com alguma pessoa que concede proteção ou favores.' ;:Significado ' (Etm. valer + mento)' ;
+		:eAntonimo :depreciacao;
+		:eAntonimo :desabono;
+		:eAntonimo :desanimo;
+		:eAntonimo :desconsideracao;
+		:eAntonimo :descredito;
+		:eAntonimo :desdoiro;
+		:eAntonimo :desfavor;
+		:eAntonimo :desvalor;
+		:eAntonimo :ilegalidade;
+		:eAntonimo :inanidade;
+		:eAntonimo :menoscabo;
+		:eAntonimo :zero;
+		:eSinonimo :consideracao;
+		:eSinonimo :importancia;
+		:eSinonimo :influencia;
+		:eSinonimo :merecimento;
+		:eSinonimo :merito;
+		:eSinonimo :poder;
+		:eSinonimo :prestigio;
+		:eSinonimo :prestimo;
+		:eSinonimo :recurso;
+		:eSinonimo :valia;
+		:eSinonimo :valor;.
+
+:valioso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que tem muito valor: um colar valioso' ;
+		:eSinonimo :precioso;
+		:eSinonimo :valedoiro;
+		:eSinonimo :valedouro;.
+
+:valor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' Montante, custo, relevância ou importância atribuída a algo: O valor daquele colar; essa bugiganga tem pouco valor;' ;:Significado ' Característica da pessoa que realiza ações custosas, incríveis ou arriscadas; coragem, mérito, préstimo ou virtude: Uma pessoa de inigualável valor;' ;:Significado ' Significância ou importância que se reconhece a alguma pessoa ou a algo;' ;:Significado ' Designação ou sentido específico de determinado vocábulo;' ;:Significado ' Característica fundamental de um serviço ou bem que faz com que o mesmo seja adequado para aqueles que o usam ou o adquiram; serventia ou utilidade;' ;:Significado ' Princípio ou fundamento moral ou ético capaz de conduzir ou direcionar a ação ou forma de agir de um ser humano;' ;:Significado ' Indicação numérica que corresponde ao nível de aproveitamento escolar de um aluno ou de uma prova realizada pelo mesmo;' ;:Significado ' (Música) Designação da duração de uma nota ou de uma pausa musical;' ;:Significado ' Denominação atribuída aos títulos de renda, letras e ações que, sendo públicos ou privados, representam quantias monetárias;' ;:Significado ' 1O que se detém ou possui; bens, haveres ou riquezas;' ;:Significado ' 1Princípios ou fundamentos morais ou éticos que orientam a ação do ser humano.' ;:Significado ' (Etm. do latim: valōre)' ;
+		:eAntonimo :bagatela;
+		:eAntonimo :bagatela;
+		:eAntonimo :fraqueza;
+		:eAntonimo :insignificancia;
+		:eAntonimo :nada;
+		:eAntonimo :ninharia;
+		:eAntonimo :pavor;
+		:eAntonimo :pequenez;
+		:eAntonimo :pouquidade;
+		:eAntonimo :susto;
+		:eAntonimo :temor;
+		:eSinonimo :custo;
+		:eSinonimo :importancia;
+		:eSinonimo :merito;
+		:eSinonimo :montante;
+		:eSinonimo :preco;
+		:eSinonimo :prestimo;
+		:eSinonimo :valia;.
+
+:valorativo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Respeitante a valoração;' ;:Significado ' Que engloba valoração, parecer ou avaliação crítica;' ;:Significado ' Designação de apreciativo.' ;:Significado ' (Etm. valorar + tivo)' ;
+		:eAntonimo :depreciativo;
+		:eSinonimo :apreciativo;.
+
+:valorizar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' dar valor a: valorizar a amizade' ;:Significado ' aumentar o valor de: As obras valorizaram o apartamento.' ;.
+
+:valorizar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' ganhar mais valor: valorizar-se pelo estudo; O euro valorizou-se em relação ao dólar.' ;.
+
+:valsa rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' dança de salão: dansar a valsa' ;.
+
+:válvula rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' placa ou membrana que permite a passagem de algo: válvula mitral' ;.
+
+:vandalismo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acto de destruição' ;.
+
+:vândalo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa que destrói por prazer' ;.
+
+:vanessa rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de um género de borboleta que possui cores brilhantes e é diurna.' ;:Significado ' (Etm. de origem desconhecida)' ;.
+
+:vangloriar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Elogiar, enaltecer ou incitar vanglória a;' ;:Significado ' Encher-se de vanglória ou gabar-se.' ;:Significado ' (Etm. vangloria + ar)' ;
+		:eSinonimo :elevar;
+		:eSinonimo :elogiar;
+		:eSinonimo :enaltecer;
+		:eSinonimo :encomiar;
+		:eSinonimo :engrandecer;
+		:eSinonimo :exaltar;
+		:eSinonimo :gabar;
+		:eSinonimo :louvar;
+		:eSinonimo :preconizar;.
+
+:vangloriar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' orgulhar-se, gabar-se: vangloriar-se de ter obtido uma vitória' ;.
+
+:vanguarda rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' movimento artístico de inovação: as vanguardas literárias' ;
+		:eSinonimo :dianteira;
+		:eSinonimo :frente;.
+
+:vanguardista rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Que se refere, diz respeito ou pertence a vanguarda;' ;:Significado ' Que é apoiante ou adepto do vanguardismo (como movimento);' ;:Significado ' Diz-se da pessoa empreendedora, pioneira e criativa; que afronta ou desafia as convenções ou os paradigmas sociais; que é agitador, revolucionário, arrojado ou moderno;' ;:Significado ' Indivíduo que representa um papel dianteiro ou pioneiro na sociedade em que está inserido, precisamente por ter ideias diferentes, inovadoras e modernas;' ;:Significado ' Denominação atribuída a indivíduo que é apoiante ou adepto do vanguardismo (como movimento);' ;:Significado ' Designação de arrojado, agitador ou revolucionário;' ;:Significado ' Indivíduo que segue à frente - vanguardeiro.' ;
+		:eAntonimo :conservador;
+		:eAntonimo :reacionario;
+		:eAntonimo :retrogrado;
+		:eAntonimo :saudosista;
+		:eAntonimo :tradicionalista;
+		:eSinonimo :moderno;
+		:eSinonimo :pioneiro;
+		:eSinonimo :precursor;.
+
+:vantagem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica daquilo que se encontra acima; supremacia ou superioridade;' ;:Significado ' Enfoque ou prisma positivo de uma circunstância;' ;:Significado ' Designação de préstimo, proveito ou serventia;' ;:Significado ' Triunfo ou vitória;' ;:Significado ' (Desporto) Designação atribuída à diferença de pontos da equipa que está à frente, num jogo.' ;
+		:eAntonimo :brecha;
+		:eAntonimo :danificacao;
+		:eAntonimo :dano;
+		:eAntonimo :desvantagem;
+		:eAntonimo :inferioridade;
+		:eAntonimo :prejuizo;
+		:eSinonimo :excelencia;
+		:eSinonimo :prestimo;
+		:eSinonimo :primazia;
+		:eSinonimo :serventia;
+		:eSinonimo :superioridade;
+		:eSinonimo :utilidade;.
+
+:vantajoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que tem vantagens: uma solução vantajosa' ;
+		:eSinonimo :benefico;
+		:eSinonimo :lucrativo;
+		:eSinonimo :proficuo;
+		:eSinonimo :proveitoso;.
+
+:vão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' sem valor: ideias vãs' ;
+		:eSinonimo :invalido;
+		:eSinonimo :nulo;.
+
+:vapor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pequenas gotas de água no ar: vapor que sobe' ;
+		:eSinonimo :exalacao;
+		:eSinonimo :fumo;.
+
+:vaporoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que se encontra repleto ou saturado de vapores;' ;:Significado ' Que emite vapores;' ;:Significado ' (Figurado) Que é fino ou subtil; delicado ou suave;' ;:Significado ' (Figurado) Que é incrível, fantástico ou inacreditável;' ;:Significado ' (Figurado) Que é límpido ou translúcido; transparente;' ;:Significado ' (Figurado) Que apresenta pouco volume; que é esguio ou magro.' ;:Significado ' (Etm. do latim: vaporōsu)' ;
+		:eSinonimo :fantastico;
+		:eSinonimo :fino;
+		:eSinonimo :limpido;
+		:eSinonimo :subtil;
+		:eSinonimo :transparente;.
+
+:vaqueiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Referente a gado bovino;' ;:Significado ' Designação de pastor ou do indivíduo que tem como função guardar as vacas; aquele que conduz o gado;' ;:Significado ' (Antigo) Denominação da vestimenta do pastor;' ;:Significado ' (Antigo) Relativo ao fardamento utilizado nos tambores do regime.' ;:Significado ' (Etm. vaca + eiro)' ;.
+
+:vaquejada rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Brasil) Ajuntamento do gado que pertence a determinada quinta ou herdade, após o inverno.' ;:Significado ' (Etm Part. Pass. Fem. Substantivado de: vaquejar)' ;.
+
+:vaquinha rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Vaca de pequenas dimensões;' ;:Significado ' (Informal) Arrecadação de dinheiro proveniente de diferentes indivíduos, com a finalidade de pagar determinada despesa em conjunto.' ;:Significado ' (Etm. vaca + inha)' ;.
+
+:vara rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pau comprido: bater com uma vara' ;:Significado ' conjunto de porcos: uma vara de porcos' ;
+		:eSinonimo :bastao;
+		:eSinonimo :bordao;
+		:eSinonimo :cajado;
+		:eSinonimo :haste;
+		:eSinonimo :mastro;
+		:eSinonimo :pau;
+		:eSinonimo :viga;.
+
+:varanda rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' espaço para onde se sai da janela, terraço: sentar-se na varanda' ;
+		:eSinonimo :palanque;
+		:eSinonimo :tribuna;.
+
+:varandim rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Denominação atribuída a varanda apertada ou afilada;' ;:Significado ' Abrigo ou anteparo rodeado de grades, que se encontra alicerçado em cima dos parapeitos de algumas janelas.' ;:Significado ' (varanda + im)' ;.
+
+:varão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Pessoa do sexo masculino; homem;' ;:Significado ' (Figurado) Rapaz valente, intrépido ou distinto.' ;:Significado ' (Etm. do latim: barōne)' ;
+		:eSinonimo :homem;.
+
+:varão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Vara ou mastro de grandes dimensões, normalmente de ferro ou de outro material semelhante;' ;:Significado ' Barra ou vara horizontal usada para pendurar cortinados.' ;:Significado ' (Etm. vara + ão)' ;.
+
+:varar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Agredir ou açoitar com vara; fustigar;' ;:Significado ' Atravessar ou furar; ação de trespassar (de lado a lado);' ;:Significado ' Galgar ou transpor;' ;:Significado ' Transitar, percorrer ou seguir (referente a grandes distâncias);' ;:Significado ' Expelir ou eliminar;' ;:Significado ' Sobressaltar, estarrecer ou alarmar; fulminar ou espavorir;' ;:Significado ' Perpassar (uma temporada ou uma quantidade de tempo) a realizar ou executar algo;' ;:Significado ' Fazer com que uma embarcação encalhe em terra firme, de modo a que seja possível arranjar ou conservar a mesma; encalhar.' ;:Significado ' (Etm. do latim: varāre)' ;
+		:eSinonimo :acoitar;
+		:eSinonimo :atravessar;
+		:eSinonimo :bater;
+		:eSinonimo :eliminar;
+		:eSinonimo :expelir;
+		:eSinonimo :expulsar;
+		:eSinonimo :furar;
+		:eSinonimo :fustigar;
+		:eSinonimo :galgar;
+		:eSinonimo :trespassar;.
+
+:vardasca rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Vareta, haste ou vara pequena que possui grande flexibilidade;' ;:Significado ' Chibata, vara ou verdasca.' ;:Significado ' (Etm. de: vergasta)' ;
+		:eSinonimo :verdasca;
+		:eSinonimo :vergasta;.
+
+:varear rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Mensurar ou verificar o comprimento com uma vara;' ;:Significado ' Conduzir (uma embarcação) com uma vara.' ;:Significado ' (Etm. vara + ear)' ;.
+
+:varejista rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Respeitante a negócio ou mercancia a retalho;' ;:Significado ' Diz-se do indivíduo que comercializa ou faz negócio a retalho;' ;:Significado ' Designa o indivíduo que é retalhista.' ;:Significado ' (Etm. varejo + ista)' ;
+		:eSinonimo :retalheiro;
+		:eSinonimo :retalhista;.
+
+:varejo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' Ação de varejar; refere-se à ação de sacudir, com um pau, os ramos das árvores, de forma a provocar a queda dos seus frutos; o mesmo que varejadura;' ;:Significado ' Relativo à verificação efetuada pela autoridade local a um estabelecimento comercial ou industrial com o intuito de averiguar se existem irregularidades;' ;:Significado ' Denominação das descargas de metralhadoras ou de artilharias;' ;:Significado ' (Figurado) Censura ríspida ou severa;' ;:Significado ' (Brasil) Referente à venda a retalho ou venda de pequenas porções.' ;:Significado ' (Etm. de origem obscura)' ;:Significado ' Denominação atribuída ao conjunto de varas que aguentam as cubatas.' ;:Significado ' (Etm. vara + ejo)' ;
+		:eSinonimo :admoestacao;
+		:eSinonimo :censura;
+		:eSinonimo :inspecao;
+		:eSinonimo :investigacao;
+		:eSinonimo :repreensao;
+		:eSinonimo :reprimenda;
+		:eSinonimo :revista;.
+
+:variabilidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica do que é variável;' ;:Significado ' Tendência ou inclinação para variar;' ;:Significado ' Variedade, oscilação ou diversidade;' ;:Significado ' Designação de instabilidade ou de ausência de constância.' ;:Significado ' (Etm. do latim: variabĭle + i + dade)' ;
+		:eAntonimo :fixidez;
+		:eAntonimo :imutabilidade;
+		:eAntonimo :inalterabilidade;
+		:eAntonimo :invariabilidade;
+		:eAntonimo :permanencia;
+		:eSinonimo :alteracao;
+		:eSinonimo :oscilacao;
+		:eSinonimo :variacao;
+		:eSinonimo :versatilidade;.
+
+:variação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' alteração, mudança: variação de humor; variação de preços' ;
+		:eSinonimo :diversidade;
+		:eSinonimo :flutuacao;
+		:eSinonimo :inconstancia;
+		:eSinonimo :variedade;.
+
+:variado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que tem elementos diferentes: uma alimentação variada' ;
+		:eSinonimo :copioso;
+		:eSinonimo :diverso;
+		:eSinonimo :vario;.
+
+:variante rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' desvio em relação a uma norma: uma variante da língua' ;
+		:eSinonimo :inconstante;
+		:eSinonimo :instavel;
+		:eSinonimo :mutavel;
+		:eSinonimo :variavel;
+		:eSinonimo :versao;
+		:eSinonimo :versatil;
+		:eSinonimo :voluvel;.
+
+:variar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' mudar, tornar diferente: variar a roupa' ;:Significado ' apresentar diferenças: As temperaturas variam muito.' ;
+		:eSinonimo :diversificar;.
+
+:variável rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que varia, muda: humor variável' ;
+		:eSinonimo :inconstante;
+		:eSinonimo :instavel;
+		:eSinonimo :mutavel;
+		:eSinonimo :variante;
+		:eSinonimo :versatil;
+		:eSinonimo :voluvel;.
+
+:varicela rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' doença caracterizada por manchas vermelhas na pele' ;.
+
+:variedade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' conjunto de coisas diferentes: uma grande variedade de cores' ;:Significado ' espécie, tipo: uma variedade de uvas' ;
+		:eSinonimo :diversidade;
+		:eSinonimo :flutuacao;
+		:eSinonimo :inconstancia;
+		:eSinonimo :variacao;.
+
+:vário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que é de diferentes e variadas cores; colorido;' ;:Significado ' Cujas particularidades manifestam variedade e diversidade;' ;:Significado ' Que possui diversos formatos; que é múltiplo;' ;:Significado ' Duvidoso, vacilante ou hesitante;' ;:Significado ' Instável, mutável ou volátil;' ;:Significado ' Alucinado, exaltado ou tresloucado.' ;:Significado ' (Etm. do latim: varĭu)' ;
+		:eSinonimo :copioso;
+		:eSinonimo :diverso;
+		:eSinonimo :matizado;
+		:eSinonimo :variado;.
+
+:vários rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Abundantes, copiosos, diversos ou múltiplos.' ;:Significado ' (Etm. de: vário)' ;
+		:eSinonimo :diversos;
+		:eSinonimo :muitos;.
+
+:varonil rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Referente a varão;' ;:Significado ' Que é característico de varão;' ;:Significado ' Diz-se de quem ou do que é vigoroso ou viril; másculo ou forte;' ;:Significado ' (Figurado) Que é empenhado; que é audacioso ou heróico.' ;:Significado ' (Etm. do latim: varōne)' ;
+		:eAntonimo :efeminado;
+		:eAntonimo :mulheril;
+		:eSinonimo :destemido;
+		:eSinonimo :forte;
+		:eSinonimo :herculeo;
+		:eSinonimo :masculino;
+		:eSinonimo :masculo;
+		:eSinonimo :rijo;
+		:eSinonimo :robusto;
+		:eSinonimo :seivoso;
+		:eSinonimo :valente;
+		:eSinonimo :vigoroso;
+		:eSinonimo :viril;
+		:eSinonimo :viripotente;.
+
+:varrer rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' limpar com a vassoura: varrer o pó' ;:Significado '  (fig) fazer esquecer, apagar: varrer os maus pensamentos' ;
+		:eSinonimo :afugentar;
+		:eSinonimo :expulsar;
+		:eSinonimo :repelir;.
+
+:varrer-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' desvanecer-se, dissipar-se: Varreu-se-me da memória.' ;.
+
+:vaselina rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' espécie de creme' ;.
+
+:vasilha rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' recipiente para líquidos: uma vasilha em barro' ;
+		:eSinonimo :receptaculo;
+		:eSinonimo :recipiente;
+		:eSinonimo :reservatorio;.
+
+:vaso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' recipiente para plantas: um vaso com flores' ;
+		:eSinonimo :alcatruz;
+		:eSinonimo :frasco;
+		:eSinonimo :jarra;
+		:eSinonimo :jarro;.
+
+:vasqueiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que origina ou causa vascas ou náuseas;' ;:Significado ' Que é parco ou pouco comum; insuficiente ou diminuto;' ;:Significado ' (Brasil) Que é de difícil compreensão; dificilmente atingível.' ;:Significado ' (Etm. vasca + eiro)' ;
+		:eAntonimo :abundante;
+		:eAntonimo :comum;
+		:eAntonimo :suficiente;
+		:eSinonimo :diminuto;
+		:eSinonimo :escasso;
+		:eSinonimo :inaudito;
+		:eSinonimo :insuficiente;
+		:eSinonimo :parco;
+		:eSinonimo :raro;.
+
+:vasqueiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se do que é atravessado ou enviesado; que é sinuoso ou tortuoso;' ;:Significado ' (Coloquial) Barafunda, confusão ou pandemónio; escândalo ou espalhafato.' ;:Significado ' (Etm. vesgo + eiro)' ;
+		:eAntonimo :paz;
+		:eAntonimo :sigilo;
+		:eAntonimo :sopor;
+		:eSinonimo :barafunda;
+		:eSinonimo :confusao;
+		:eSinonimo :enviesado;
+		:eSinonimo :torto;.
+
+:vassalagem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Situação ou condição do indivíduo que é vassalo;' ;:Significado ' Honra ou deferência que um vassalo deve ter relativamente ao seu senhor;' ;:Significado ' Subordinação, servidão, subjugação ou sujeição;' ;:Significado ' Obediência ou dependência que alguém tem em relação a outrem;' ;:Significado ' Aglomerado ou copiosa quantidade de vassalos;' ;:Significado ' (prestar vassalagem) Assumir-se ou reconhecer-se como vassalo.' ;:Significado ' (Etm. do provençal: vassalatge)' ;
+		:eSinonimo :homenagem;
+		:eSinonimo :honra;
+		:eSinonimo :obediencia;
+		:eSinonimo :preito;
+		:eSinonimo :submissao;
+		:eSinonimo :sujeicao;
+		:eSinonimo :tributo;.
+
+:vassalo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' Indivíduo subordinado ou submetido a um senhor feudal; dependente ou súbdito;' ;:Significado ' Diz-se da pessoa que paga tributo; ' ;:Significado ' Que é súbdito, dependente ou tributário;' ;:Significado ' Que é sujeito, serviçal ou submisso.' ;:Significado ' (Etm. do céltico: vassallos)' ;.
+
+:vassoura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' instrumento com que se varre' ;.
+
+:vasta rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Antigo) Designação que era atribuída a um género de rede de pesca.' ;:Significado ' (Etm. de origem obscura)' ;.
+
+:vasteza rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Do mesmo significado de vastidão.' ;:Significado ' (Etm. vasto + eza)' ;
+		:eSinonimo :vastidao;.
+
+:vastidão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' grande dimensão: a vastidão do oceano' ;
+		:eSinonimo :amplidao;
+		:eSinonimo :amplitude;
+		:eSinonimo :extensao;
+		:eSinonimo :grandeza;.
+
+:vasto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que possui ou apresenta grande dimensão ou extensão: um vasto terreno;' ;:Significado ' Que é ampliado, vultuoso ou estendido; que é muito grande, amplo ou espaçoso: uma varanda vasta;' ;:Significado ' (Figurado) Que é significativo, importante ou respeitável: possui um vasto conhecimento;' ;:Significado ' (Figurado) Diz-se do que é envolvente, abrangente, sortido ou diversificado: uma vasta coleção de vídeos sobre o tema em questão;' ;:Significado ' (Figurado) Que é complexo, penetrante ou profundo: tinha um intelecto vasto e inquisidor.' ;:Significado ' (Etm. do latim: vastu)' ;
+		:eAntonimo :breve;
+		:eAntonimo :estreito;
+		:eAntonimo :insignificante;
+		:eAntonimo :limitado;
+		:eAntonimo :minusculo;
+		:eAntonimo :pequeno;
+		:eAntonimo :superficial;
+		:eSinonimo :abrangente;
+		:eSinonimo :amplo;
+		:eSinonimo :consideravel;
+		:eSinonimo :espacoso;
+		:eSinonimo :extenso;
+		:eSinonimo :grande;
+		:eSinonimo :largo;.
+
+:vatapá rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Brasil - Culinária) Comida baiana típica, constituída por peixe ou galinha, camarões, pão, amendoim, pimenta, azeite de dendê, castanha de caju e leite.' ;:Significado ' (Etm. do ioruba: vatápa)' ;.
+
+:vatel rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Figurado) Designação de cozinheiro ou mestre-cuca.' ;:Significado ' (Etm. de: Vatel, antropónimo)' ;.
+
+:vaticinador rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se de ou designa quem vaticina, adivinha ou profetiza; que é profeta ou vidente.' ;:Significado ' (Etm. do latim: vaticinatōre)' ;
+		:eSinonimo :iluminado;
+		:eSinonimo :profeta;
+		:eSinonimo :vate;
+		:eSinonimo :vidente;
+		:eSinonimo :visionario;.
+
+:vaticinar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ação de prever ou auspiciar; profetizar ou visionar.' ;:Significado ' (Etm. do latim: vaticināre)' ;
+		:eSinonimo :augurar;
+		:eSinonimo :auspiciar;
+		:eSinonimo :fadar;
+		:eSinonimo :predizer;
+		:eSinonimo :pressagiar;
+		:eSinonimo :pressentir;
+		:eSinonimo :profetizar;
+		:eSinonimo :prognosticar;
+		:eSinonimo :visionar;.
+
+:vaticínio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Prenúncio, presságio ou profecia;' ;:Significado ' Vislumbre do que vai ocorrer no futuro; previsão.' ;:Significado ' (Etm. do latim: vaticinĭu)' ;
+		:eSinonimo :augurio;
+		:eSinonimo :horoscopio;
+		:eSinonimo :horoscopo;
+		:eSinonimo :prenuncio;
+		:eSinonimo :pressagio;
+		:eSinonimo :previsao;
+		:eSinonimo :profecia;
+		:eSinonimo :prognostico;.
+
+:vazamento rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de vazar; ' ;:Significado ' Vazão do metal existente no forno em direção às formas;' ;:Significado ' Sítio por onde determinado líquido verte ou derrama.' ;:Significado ' (Etm. vazar + mento)' ;
+		:eSinonimo :fluxo;
+		:eSinonimo :vazao;.
+
+:vazão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de vazar uma substância líquida de uma vasilha; derramamento;' ;:Significado ' Tamanho ou volume de um líquido que atravessa determinada repartição durante um período temporal em específico; corrente ou caudal;' ;:Significado '  Escorrimento ou ato de defluir; escoamento ou saída;' ;:Significado ' (Figurado) Retirada ou saída;' ;:Significado ' (Figurado) Busca ou demanda.' ;
+		:eAntonimo :dadiva;
+		:eAntonimo :doacao;
+		:eAntonimo :donativo;
+		:eAntonimo :esmola;
+		:eAntonimo :oferta;
+		:eSinonimo :consumo;
+		:eSinonimo :demanda;
+		:eSinonimo :resposta;
+		:eSinonimo :saida;
+		:eSinonimo :solucao;
+		:eSinonimo :vazamento;
+		:eSinonimo :venda;.
+
+:vazar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' despejar, entornar: vazar o vinho para o copo' ;:Significado ' baixar: A maré está a vazar.' ;
+		:eSinonimo :desocupar;
+		:eSinonimo :vagar;.
+
+:vazio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que não tem nada dentro: um copo vazio' ;:Significado ' espaço sem nada dentro' ;
+		:eSinonimo :lacuna;
+		:eSinonimo :oco;
+		:eSinonimo :vacuo;.
+
+:vedado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se daquilo que possui vedação;' ;:Significado ' Que se encontra fechado, cerrado ou tapado;' ;:Significado ' Diz-se de algum local onde não é possível entrar;' ;:Significado ' Impedido, interdito, proibido ou vetado;' ;:Significado ' Estanque, detido ou estancado;' ;:Significado ' (Antigo) Campo ou solo com vedação; também designado por couto.' ;:Significado ' (Etm. do latim: vetātu)' ;
+		:eSinonimo :estanque;
+		:eSinonimo :fechado;
+		:eSinonimo :interdito;
+		:eSinonimo :proibido;
+		:eSinonimo :tapado;.
+
+:vedar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' tapar: vedar uma garrafa' ;:Significado ' fechar: vedar um campo' ;:Significado ' não deixar passar: vedar a passagem' ;
+		:eSinonimo :cobrir;
+		:eSinonimo :deter;
+		:eSinonimo :entupir;
+		:eSinonimo :estancar;
+		:eSinonimo :tapar;
+		:eSinonimo :tapulhar;.
+
+:vedeta rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' estrela de cinema, teatro, música' ;.
+
+:veemência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica daquilo ou daquele que é veemente;' ;:Significado ' Diz-se de quem possui vigor ou impetuosidade;' ;:Significado ' Designação de quem apresenta uma energia ardorosa;' ;:Significado ' Denominação de furor ou violência;' ;:Significado ' Que demonstra uma eloquência delirante;' ;:Significado ' (Figurado) Persistência ou teimosia; dedicação ou empenho;' ;:Significado ' (Etm. do latim: vehementĭa)' ;
+		:eAntonimo :fraqueza;
+		:eAntonimo :frouxidao;
+		:eAntonimo :moleza;
+		:eAntonimo :tepor;
+		:eSinonimo :ardor;
+		:eSinonimo :empenho;
+		:eSinonimo :energia;
+		:eSinonimo :entusiasmo;
+		:eSinonimo :fervor;
+		:eSinonimo :fogo;
+		:eSinonimo :intensao;
+		:eSinonimo :intensidade;
+		:eSinonimo :vigor;
+		:eSinonimo :violencia;.
+
+:veemente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se de quem é impetuoso; intenso; arrojado; arrebatado o orador fez um discurso veemente' ;:Significado ' Que é animado; que revela muita energia ou emoção; caloroso: os protestos foram veementes' ;:Significado ' Que revela muito empenho; aplicado; persistente; empenhado: sentia um desejo veemente de vencer' ;
+		:eAntonimo :abaladico;
+		:eAntonimo :apatico;
+		:eAntonimo :bambo;
+		:eAntonimo :brando;
+		:eAntonimo :desajeitado;
+		:eAntonimo :desanimado;
+		:eAntonimo :desinteressado;
+		:eAntonimo :esmorecido;
+		:eAntonimo :flacido;
+		:eAntonimo :fraco;
+		:eAntonimo :fragil;
+		:eAntonimo :frouxo;
+		:eAntonimo :indolente;
+		:eAntonimo :irresoluto;
+		:eAntonimo :languido;
+		:eAntonimo :lasso;
+		:eAntonimo :lento;
+		:eAntonimo :mole;
+		:eAntonimo :oscilante;
+		:eAntonimo :quebranto;
+		:eAntonimo :tenro;
+		:eAntonimo :vagaroso;
+		:eSinonimo :animado;
+		:eSinonimo :ardoroso;
+		:eSinonimo :arrojado;
+		:eSinonimo :caloroso;
+		:eSinonimo :energico;
+		:eSinonimo :entusiastico;
+		:eSinonimo :fervoroso;
+		:eSinonimo :forte;
+		:eSinonimo :impetuoso;
+		:eSinonimo :intenso;
+		:eSinonimo :vigoroso;
+		:eSinonimo :violento;
+		:eSinonimo :vivido;
+		:eSinonimo :vivo;.
+
+:vegetação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' facto de vegetar: período de vegetação' ;:Significado ' conjunto de plantas que crescem numa região: uma vegetação luxuriante' ;.
+
+:vegetal rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' planta: os animais e os vegetais' ;:Significado ' relativo a planta: o reino vegetal; óleo vegetal' ;
+		:eSinonimo :planta;.
+
+:vegetar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' viver sem actividade mental' ;.
+
+:vegetariano rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que se alimenta de vegetais: alimentação vegetariana' ;:Significado ' pessoa que se alimenta de vegetais: Ele não come carne. É vegetariano.' ;
+		:eSinonimo :herbivoro;.
+
+:veia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' vaso que transporta o sangue para o coração: injecção na veia' ;.
+
+:veicular rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Referente a veículo;' ;:Significado ' Característico ou particular de veículo.' ;:Significado ' (Etm. do latim: vehiculāre)' ;.
+
+:veicular rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Movimentar ou transpor em veículo;' ;:Significado ' Referente à ação de transportar ou transpor;' ;:Significado ' Apregoar ou difundir; divulgar ou tornar conhecido.' ;:Significado ' (Etm. veículo + ar)' ;
+		:eAntonimo :cobrir;
+		:eAntonimo :esquecer;
+		:eAntonimo :resguardar;
+		:eAntonimo :revestir;
+		:eAntonimo :silenciar;
+		:eSinonimo :conduzir;
+		:eSinonimo :divulgar;
+		:eSinonimo :importar;
+		:eSinonimo :introduzir;
+		:eSinonimo :levar;.
+
+:veículo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' qq meio de transporte' ;
+		:eSinonimo :automovel;
+		:eSinonimo :carro;
+		:eSinonimo :viatura;.
+
+:veio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de uma faixa alongada e relativamente estreita que, na terra, nas rochas ou na madeira, se diferencia pela tonalidade distinta ou pela essência da respetiva substância;' ;:Significado ' Denominação de fio de água manante ou fluída; regato, nascente ou riacho;' ;:Significado ' Do mesmo significado de filete;' ;:Significado ' (Figurado) Base, firmamento, fundação ou sustentáculo de algo; aquilo que é fulcral;' ;:Significado ' (Mineralogia) Região existente numa mina onde se pode achar o metal; também designada por filão;' ;:Significado ' (Geologia) Designação da massa rochosa que é constituída por um minúsculo filão vulcânico repleto de ramificações;' ;:Significado ' (Mecânica) Acessório ou objetivo que é usado para transmitir a movimentação das máquinas.' ;:Significado ' (Etm. de: veia)' ;
+		:eSinonimo :corrego;
+		:eSinonimo :eixo;
+		:eSinonimo :filao;
+		:eSinonimo :jazida;
+		:eSinonimo :laivo;
+		:eSinonimo :nascente;
+		:eSinonimo :regato;
+		:eSinonimo :riacho;
+		:eSinonimo :vieiro;.
+
+:vela rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' grande peça de pano num barco: içar as velas; barco à vela' ;:Significado ' desporto náutico: praticar vela' ;:Significado ' rolo de cera que dá luz: acender as velas' ;
+		:eSinonimo :cirio;.
+
+:veladura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação de velar;' ;:Significado ' Designação daquilo que vela ou encobre;' ;:Significado ' Faixa, banda ou venda;' ;:Significado ' Denominação atribuída a uma suave camada de tinta numa pintura, que permite visualizar a mão de tinta que se encontra por baixo.' ;:Significado ' (Etm. do latim: velatūra)' ;
+		:eSinonimo :venda;.
+
+:veladura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação atribuída ao período de tempo durante o qual se vela; do mesmo significado de vigília.' ;:Significado ' (Etm. velar + dura)' ;
+		:eSinonimo :vigilia;.
+
+:velar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Cobrir ou tapar algo com um véu;' ;:Significado ' Encobrir, esconder ou ocultar alguma coisa;' ;:Significado ' Não permitir a visualização de; intercetar ou reter;' ;:Significado ' (Pintura) Pintar ou revestir com uma tonalidade ligeira de modo a permitir a visualização da camada de tinta anterior ou para permitir transparecer a superfície;' ;:Significado ' Tapar-se com um véu;' ;:Significado ' Esconder-se ou encobrir-se;' ;:Significado ' Turvar-se, anuviar-se ou toldar-se;' ;:Significado ' Precaver-se ou prevenir-se. ' ;:Significado ' (Etm. do latim: velāre)' ;
+		:eSinonimo :cobrir;
+		:eSinonimo :encobrir;
+		:eSinonimo :esconder;
+		:eSinonimo :ocultar;.
+
+:velar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Guardar, vigilar ou vigiar; ficar de guarda a;' ;:Significado ' Ficar acordado durante a noite junto a alguém enfermo, que dorme ou cadáver;' ;:Significado ' Cuidar, zelar ou proteger algo ou alguém;' ;:Significado ' Encontrar-se de vigia a algo ou alguém; ' ;:Significado ' Manter-se acordado durante o período noturno;' ;:Significado ' Deixar-se ligado ou aceso (luz, lamparina, lanterna, fogo, entre outros).' ;:Significado ' (Etm. do latim: vigilāre)' ;
+		:eSinonimo :proteger;
+		:eSinonimo :vigiar;
+		:eSinonimo :vigilar;
+		:eSinonimo :zelar;.
+
+:velar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Referente ou respeitante a véu palatino;' ;:Significado ' adj.m. e adj.f.' ;:Significado ' (Linguística) Diz-se de ou designa o fonema produzido pela elevação do lombo da língua direcionada ao véu palatino.' ;:Significado ' (Etm. do latim: velum + ar)' ;.
+
+:velatura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Do mesmo significado de veladura.' ;:Significado ' (Etm. do italiano: velatura)' ;
+		:eSinonimo :veladura;.
+
+:veleidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Vontade que nunca se chega a concretizar;' ;:Significado ' Aspiração ou anseio de difícil, ou impossível, obtenção;' ;:Significado ' Capricho excêntrico e exagerado, desprovido de sensatez; ' ;:Significado ' Devaneio;' ;:Significado ' Oscilação ou instabilidade.' ;:Significado ' (Etm. do latim: velleitāte)' ;
+		:eSinonimo :audacia;
+		:eSinonimo :capricho;
+		:eSinonimo :excentricidade;
+		:eSinonimo :frivolidade;
+		:eSinonimo :futilidade;
+		:eSinonimo :inconstancia;
+		:eSinonimo :leviandade;.
+
+:veleiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' barco à vela' ;.
+
+:velha rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de mulher com bastante idade;' ;:Significado ' (Coloquial) Denominação informal de mãe;' ;:Significado ' (Regionalismo) Abertura ou brecha detetada na cortiça, geralmente fruto de desatenção na tiragem.' ;:Significado ' (Etm. do latim: vetŭla)' ;.
+
+:velhacagem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Brasil) Do mesmo significado de velhacaria.' ;:Significado ' (Etm. velhaco + agem)' ;
+		:eSinonimo :velhacada;
+		:eSinonimo :velhacaria;.
+
+:velhacaria rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou conduta mal-intencionada ou desleal; patifaria ou perfídia;' ;:Significado ' Característica de indivíduo ruim ou infame; vil ou velhaco.' ;:Significado ' (Etm. velhaco + aria)' ;
+		:eSinonimo :desfalque;
+		:eSinonimo :desvio;
+		:eSinonimo :falcatrua;
+		:eSinonimo :negociata;
+		:eSinonimo :patifaria;
+		:eSinonimo :sacanagem;
+		:eSinonimo :safadeza;
+		:eSinonimo :traficancia;
+		:eSinonimo :velhacada;.
+
+:velhaco rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se do que usa artimanhas ou artifícios para ludibriar; sacana ou safado;' ;:Significado ' Licencioso ou devasso;' ;:Significado ' (Regionalismo) Designação atribuída a uma variedade de feijoeiro que é plantado essencialmente no norte de Portugal;' ;:Significado ' Indivíduo que utiliza a manha ou artifícios para ludibriar; sacana ou desonesto;' ;:Significado ' Sujeito licencioso ou libertino.' ;:Significado ' (Etm. do castelhano: bellaco)' ;
+		:eAntonimo :ingenuo;
+		:eAntonimo :integro;
+		:eAntonimo :serio;
+		:eSinonimo :fraudulento;
+		:eSinonimo :ladrao;
+		:eSinonimo :malandro;
+		:eSinonimo :sacana;
+		:eSinonimo :safado;
+		:eSinonimo :traicoeiro;.
+
+:velhice rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' estado de quem é velho' ;
+		:eSinonimo :vetustez;.
+
+:velho rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que tem muita ou mais idade: um homem velho; Ela é mais velha do que ele.' ;:Significado ' usado: roupas velhas' ;:Significado ' antigo: uma velha família' ;:Significado ' que é antigo num estado ou função: um velho empregado' ;:Significado ' pessoa com muita idade' ;
+		:eSinonimo :antigo;
+		:eSinonimo :idoso;
+		:eSinonimo :macrobio;
+		:eSinonimo :vetusto;.
+
+:velocidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' distância percorrida em certo tempo: conduzir à velocidade de 100km por hora' ;:Significado ' rapidez: correr a toda a velocidade' ;
+		:eSinonimo :rapidez;.
+
+:velocímetro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Instrumento que é utilizado com o intuito de determinar a velocidade de veículos;' ;:Significado ' Instrumento que mede a velocidade angular do movimento de rotação de máquinas.' ;:Significado ' (Etm. veloci + metro)' ;.
+
+:veloz rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' muito rápido: um cavalo veloz' ;
+		:eSinonimo :apressado;
+		:eSinonimo :depressa;
+		:eSinonimo :precipite;
+		:eSinonimo :rapido;
+		:eSinonimo :vertiginoso;.
+
+:velozmente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira veloz; com rapidez; rapidamente ou vertiginosamente; de forma acelerada.' ;:Significado ' (Etm. veloz + mente)' ;
+		:eAntonimo :calmamente;
+		:eAntonimo :devagar;
+		:eAntonimo :lentamente;
+		:eAntonimo :tardio;
+		:eAntonimo :vagarosamente;
+		:eSinonimo :acelerado;
+		:eSinonimo :apressurado;
+		:eSinonimo :depressa;
+		:eSinonimo :rapidamente;
+		:eSinonimo :rapido;
+		:eSinonimo :veloz;
+		:eSinonimo :vertiginoso;.
+
+:veludo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' tecido sedoso e macio: cortinas de veludo' ;.
+
+:venal rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Que se relaciona ou tem a ver com venda;' ;:Significado ' Que é possível vender; que pode ser vendido ou comercializado;' ;:Significado ' (Figurado) Diz-se da pessoa é vulnerável a subornos; que é corruptível com facilidade;' ;:Significado ' (Figurado) Indivíduo que se corrompe facilmente; pessoa corrupta, vulnerável a subornos.' ;:Significado ' (Etm. do latim:venāle)' ;
+		:eAntonimo :direito;
+		:eAntonimo :honrado;
+		:eAntonimo :impassivel;
+		:eAntonimo :inalteravel;
+		:eAntonimo :incorruptivel;
+		:eAntonimo :incorrupto;
+		:eAntonimo :insubornavel;
+		:eAntonimo :integro;
+		:eAntonimo :invulneravel;
+		:eAntonimo :probo;
+		:eAntonimo :sao;
+		:eSinonimo :corruptivel;
+		:eSinonimo :desonesto;
+		:eSinonimo :mercenario;.
+
+:venal rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que está relacionado com veia; que é venoso.' ;:Significado ' (Etm. do latim: vena + al)' ;
+		:eSinonimo :venoso;.
+
+:vencedor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que vence algo: o piloto vencedor da corrida' ;:Significado ' pessoa que vence algo: o vencedor do concurso' ;
+		:eSinonimo :campeao;
+		:eSinonimo :triunfante;
+		:eSinonimo :vitorioso;.
+
+:vencer rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' alcançar uma vitória: vencer uma batalha' ;:Significado ' ultrapassar, dominar: vencer um obstáculo; vencer o medo' ;:Significado ' sair vitorioso' ;
+		:eSinonimo :abafar;
+		:eSinonimo :abater;
+		:eSinonimo :bater;
+		:eSinonimo :derrotar;
+		:eSinonimo :dominar;
+		:eSinonimo :profligar;
+		:eSinonimo :subjugar;.
+
+:vencido rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' derrotado: os vencedores e os vencidos' ;
+		:eSinonimo :batido;.
+
+:vencimento rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' remuneração da função pública: receber o vencimento ao fim do mês' ;:Significado ' termo de prazo de pagamento: o vencimento da dívida' ;
+		:eSinonimo :jornal;
+		:eSinonimo :ordenado;
+		:eSinonimo :remuneracao;
+		:eSinonimo :salario;.
+
+:vencível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem se consegue vencer; que pode ser derrotado;' ;:Significado ' Diz-se do pagamento que deverá ser realizado em data determinada.' ;:Significado ' (Etm. do latim: vincibĭle)' ;
+		:eAntonimo :inabalavel;
+		:eAntonimo :inconquistavel;
+		:eAntonimo :indestrutivel;
+		:eAntonimo :indomavel;
+		:eAntonimo :inexpugnavel;
+		:eAntonimo :invencivel;
+		:eSinonimo :dominavel;
+		:eSinonimo :superavel;
+		:eSinonimo :transponivel;.
+
+:venda rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' facto de trocar algo por dinheiro: a venda de um apartamento; pôr à venda' ;:Significado ' tira de pano com que se tapa os olhos: tapar os olhos com uma venda' ;:Significado ' pequena mercearia' ;.
+
+:vendaval rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' vento muito forte' ;
+		:eSinonimo :borrasca;
+		:eSinonimo :tempestade;
+		:eSinonimo :temporal;.
+
+:vendável rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Referente àquilo que é possível vender; que é comerciável ou vendível;' ;:Significado ' Diz-se daquilo que se comercializa com extrema facilidade.' ;:Significado ' (Etm. do francês: vendable)' ;
+		:eAntonimo :invendavel;
+		:eSinonimo :vendivel;.
+
+:vendável rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo ou daquele que é possível vendar.' ;:Significado ' (Etm. vendar + vel)' ;.
+
+:vendedor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa que vende: um vendedor de automóveis' ;.
+
+:vender rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' dar algo a alguém em troca de dinheiro: vender sapatos na feira; vender um apartamento' ;:Significado ' trair, denunciar: vender os seus cúmplices' ;.
+
+:vendilhão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de indivíduo que comercializa produtos na rua sem possuir um local fixo; também denominado vendedor ambulante; do mesmo significado de bufarinheiro.' ;:Significado ' (Etm. vender + ilho + ão)' ;
+		:eSinonimo :bufarinheiro;.
+
+:vendível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo que é possível vender;' ;:Significado ' Referente àquilo que se venda com extrema facilidade ou que tem grande demanda.' ;:Significado ' (Etm. do latim: vendibĭle)' ;
+		:eAntonimo :inegociavel;
+		:eAntonimo :invendavel;
+		:eSinonimo :comerciavel;
+		:eSinonimo :negociavel;.
+
+:veneno rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' substância que pode destruir um organismo' ;.
+
+:venenoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que contem veneno: uma planta venenosa' ;.
+
+:veneração rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de venerar;' ;:Significado ' Intenso respeito por alguma pessoa ou por algo; devoção ou reverência;' ;:Significado ' Culto, homenagem, louvor ou adoração.' ;:Significado ' (Etm. do latim: veneratiōne)' ;
+		:eAntonimo :aversao;
+		:eAntonimo :blasfemia;
+		:eAntonimo :impiedade;
+		:eAntonimo :impio;
+		:eAntonimo :irreligiao;
+		:eAntonimo :profanacao;
+		:eAntonimo :profanidade;
+		:eAntonimo :sacrilegio;
+		:eSinonimo :acatamento;
+		:eSinonimo :adoracao;
+		:eSinonimo :culto;
+		:eSinonimo :devocao;
+		:eSinonimo :homenagem;
+		:eSinonimo :respeito;
+		:eSinonimo :reverencia;.
+
+:venerar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Dedicar veneração a;' ;:Significado ' Honrar ou glorificar; tratar com admiração e reconhecimento; ' ;:Significado ' Aceitar ou ser submisso;' ;:Significado ' Adorar ou gostar muito.' ;:Significado ' (Etm. do latim: venerāre)' ;
+		:eAntonimo :acalcanhar;
+		:eAntonimo :conspurcar;
+		:eAntonimo :desrespeitar;
+		:eAntonimo :espezinhar;
+		:eAntonimo :menosprezar;
+		:eSinonimo :acatar;
+		:eSinonimo :adorar;
+		:eSinonimo :cultuar;
+		:eSinonimo :idolatrar;
+		:eSinonimo :respeitar;
+		:eSinonimo :reverenciar;.
+
+:venerável rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se do que ou de quem merece veneração;' ;:Significado ' Referente ao que ou a quem é extremamente respeitável;' ;:Significado ' Denominação atribuída ao chefe ou líder de uma loja maçónica;' ;:Significado ' Designação da primeira fase nos procedimentos para realizar uma canonização.' ;
+		:eAntonimo :desdenhavel;
+		:eAntonimo :desprezavel;
+		:eSinonimo :bem-aventurado;
+		:eSinonimo :respeitavel;
+		:eSinonimo :sacro;
+		:eSinonimo :sacrossanto;
+		:eSinonimo :sagrado;
+		:eSinonimo :santo;.
+
+:veneta rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ira ou cólera súbita;' ;:Significado ' Designação de um acesso de loucura ou de um ataque psicótico;' ;:Significado ' Capricho ou mania.' ;
+		:eSinonimo :ataque;
+		:eSinonimo :impeto;
+		:eSinonimo :impulso;
+		:eSinonimo :mania;.
+
+:vénia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' saudação respeitosa: fazer uma vénia' ;.
+
+:venial rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que é digno de perdão ou vénia;' ;:Significado ' (Religião) Referente a um pecado leve (o contrário de pecado mortal).' ;:Significado ' (Etm. do latim: veniāle)' ;
+		:eSinonimo :perdoavel;.
+
+:venoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que possui veias;' ;:Significado ' Referente ou que pertence às veias; que é venal;' ;:Significado ' Diz-se daquilo que circula dentro das veias;' ;:Significado ' (Medicina) Referente ao sangue carregado de anidrido carbónico que circula nas veias (na pequena circulação) e nas artérias (na grande circulação).' ;:Significado ' (Etm. do latim: venōsu)' ;
+		:eSinonimo :venal;
+		:eSinonimo :venal;.
+
+:ventania rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' vento forte e prolongado' ;
+		:eSinonimo :vento;.
+
+:ventilação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' facto de renovar o ar' ;
+		:eSinonimo :aeracao;.
+
+:ventilador rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' aparelho que renova o ar: refrescar o quarto com um ventilador' ;.
+
+:vento rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' deslocação do ar: vento do norte' ;
+		:eSinonimo :ventania;.
+
+:ventoinha rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' roda que gira e provoca corrente de ar: ventoinha de tecto' ;.
+
+:ventosa rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' peça de borracha que se fixa em superfícies lisas' ;.
+
+:ventre rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' parte do corpo situada abaixo do peito' ;
+		:eSinonimo :barriga;
+		:eSinonimo :bojo;.
+
+:ventrículo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' cavidade do coração' ;.
+
+:ventríloquo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Designação do sujeito que é capaz de falar ou produzir sons sem mexer os lábios;' ;:Significado ' Pessoa que tem essa capacidade; ventriloquista.' ;:Significado ' (Etm. do latim: ventrilŏquu)' ;.
+
+:ventura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de felicidade, bem ou boa fortuna;' ;:Significado ' Denominação de ameaça ou perigo;' ;:Significado ' Sina, fado ou sorte.' ;
+		:eAntonimo :calamidade;
+		:eAntonimo :contrariedade;
+		:eAntonimo :desastre;
+		:eAntonimo :desfortunio;
+		:eAntonimo :desventura;
+		:eAntonimo :fatalidade;
+		:eAntonimo :impedimento;
+		:eAntonimo :mal;
+		:eAntonimo :tribulacao;
+		:eSinonimo :boa;
+		:eSinonimo :destino;
+		:eSinonimo :felicidade;
+		:eSinonimo :fortuna;
+		:eSinonimo :perigo;
+		:eSinonimo :risco;
+		:eSinonimo :sina;
+		:eSinonimo :sorte;.
+
+:venturosamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira venturosa; de modo afortunado, feliz ou felizardo;' ;:Significado ' De forma arriscada, aventurosa ou ousada;' ;:Significado ' De modo abençoado, bendito ou ditoso.' ;:Significado ' (Etm. venturosa + mente)' ;
+		:eSinonimo :abencoadamente;
+		:eSinonimo :afortunadamente;
+		:eSinonimo :arriscadamente;
+		:eSinonimo :ditosamente;
+		:eSinonimo :felizmente;
+		:eSinonimo :ousadamente;.
+
+:vénus rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' (Astronomia) Denominação do segundo planeta do sistema solar, cuja órbita se localiza entre a de Mercúrio e a da Terra; O seu movimento de rotação tem a mesma duração do seu movimento de translação (225 dias), não possui qualquer satélite e é o astro mais cintilante do céu, com a exceção do Sol e da Lua (com inicial maiúscula);' ;:Significado ' (Mitologia) Denominação da deusa romana do amor e da beleza (com inicial maiúscula); ' ;:Significado ' (Por Ext.) Designação atribuída a mulher considerada extremamente bonita;' ;:Significado ' (Antigo) Designação de cobre.' ;:Significado ' (Etm. do latim: Venus)' ;.
+
+:venustidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação de grande beldade ou boniteza;' ;:Significado ' Denominação de graça ou elegância;' ;:Significado ' Formosura, encanto ou magnetismo.' ;:Significado ' (Etm. venusto + i + dade)' ;
+		:eSinonimo :beleza;
+		:eSinonimo :formosura;.
+
+:venusto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem é muito garboso, bonito ou esbelto;' ;:Significado ' Que é apessoado, refinado ou elegante;' ;:Significado ' Que é fascinante ou deslumbrante.' ;:Significado ' (Etm. do latim: venustu)' ;
+		:eSinonimo :airoso;
+		:eSinonimo :belo;
+		:eSinonimo :bonito;
+		:eSinonimo :esbelto;
+		:eSinonimo :formoso;
+		:eSinonimo :galante;
+		:eSinonimo :garboso;
+		:eSinonimo :guapo;
+		:eSinonimo :jeitoso;.
+
+:ver rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' usar o sentido da vista: Vi-o ao longe.' ;:Significado ' assistir a algo: ver um espectáculo' ;:Significado ' encontrar-se com alguém: Ele vê a namorada todos os dias.' ;:Significado ' visitar profissionalmente: O médico vê os doentes no hospital.' ;:Significado ' entender, dar-se conta de: Finalmente vi a importância do assunto; Não estou a ver o que queres dizer.' ;:Significado ' ter o sentido da vista: ver bem/mal' ;
+		:eSinonimo :assistir;
+		:eSinonimo :fitar;
+		:eSinonimo :mirar;
+		:eSinonimo :observar;
+		:eSinonimo :olhar;
+		:eSinonimo :presenciar;
+		:eSinonimo :testemunhar;.
+
+:ver-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' ver a sua imagem: ver-se ao espelho' ;:Significado ' ser visível: A nódoa vê-se muito.' ;:Significado ' encontrar-se: Eles vêem-se pouco.' ;.
+
+:veracidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :determinante;
+		:Significado ' Característica do que é verdadeiro, que corresponde à verdade' ;:Significado ' Capacidade de ser verdadeiro ou de falar verdade; lealdade' ;
+		:eAntonimo :desonestidade;
+		:eAntonimo :falsidade;
+		:eAntonimo :impreciso;
+		:eAntonimo :incerteza;
+		:eAntonimo :mentira;
+		:eSinonimo :efetividade;
+		:eSinonimo :efetivo;
+		:eSinonimo :exatidao;
+		:eSinonimo :verdade;.
+
+:veraneante rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa que passa férias' ;.
+
+:veranear rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' passar o Verão ou as férias: veranear na praia' ;.
+
+:verão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Denominação da estação do ano que surge depois da primavera e antes do inverno, correspondente à altura mais quente do ano; durante esta estação a duração dos dias vai diminuindo, sendo sempre maior que a duração das noites; do mesmo significado de estio; no hemisfério norte começa entre o dia 20 e 21 de junho, e no hemisfério sul inicia entre o dia 21 e 22 de dezembro);' ;:Significado ' (Etm. do latim: veranu)' ;
+		:eSinonimo :estio;.
+
+:verão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Denominação da estação do ano que surge depois da primavera e antes do inverno, correspondente à altura mais quente do ano; durante esta estação a duração dos dias vai diminuindo, sendo sempre maior que a duração das noites; do mesmo significado de estio; no hemisfério norte começa entre o dia 20 e 21 de junho, e no hemisfério sul inicia entre o dia 21 e 22 de dezembro);' ;:Significado ' (Etm. do latim: veranu)' ;
+		:eSinonimo :estio;.
+
+:veraz rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que comunica a verdade; diz-se do que ou de quem é verdadeiro; autêntico ou verídico.' ;:Significado ' (Etm. do latim: verāce)' ;
+		:eSinonimo :verdadeiro;
+		:eSinonimo :veridico;.
+
+:verba rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' quantia em dinheiro: gastar uma verba elevada' ;
+		:eSinonimo :dinheiro;
+		:eSinonimo :numerario;
+		:eSinonimo :quantia;.
+
+:verbal rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' oral, que se faz de viva voz: uma declaração verbal' ;:Significado ' relativo a verbo: conjugação verbal' ;
+		:eSinonimo :oral;
+		:eSinonimo :vocal;.
+
+:verbalizar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Comunicar ou expressar através de palavras ou vocábulos;' ;:Significado ' (Gramática) Transformar ou converter em verbo.' ;:Significado ' (Etm. verbal + izar)' ;.
+
+:verbalmente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' por palavras, oralmente: responder verbalmente' ;.
+
+:verberar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Ação de açoitar, chicotear ou fustigar;' ;:Significado ' (Figurado) Criticar de maneira severa;  censurar, objurgar, repreender ou reprochar;' ;:Significado ' Cintilar, luzir ou possuir reflexos.' ;:Significado ' (Etm. do latim: verberāre)' ;
+		:eSinonimo :censurar;
+		:eSinonimo :criticar;
+		:eSinonimo :exprobar;
+		:eSinonimo :objurgar;
+		:eSinonimo :repreender;
+		:eSinonimo :reprochar;
+		:eSinonimo :vituperar;.
+
+:verbo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' palavra, discurso: ter o verbo fácil' ;:Significado ' palavra que exprime um estado ou uma acção: um verbo transitivo' ;.
+
+:verborreia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Pejorativo) Verbosidade, tagarelice ou eloquência prolixa e vazia; característica das pessoas que apresentam discursos com grande variedade lexical e considerável fluência, vazios ou com escassas ideias concretas;' ;:Significado ' (Psicopatologia) Grande necessidade interna e compulsiva para falar muito; atributo da pessoa que fala muito, de modo descomedida e compulsiva, na sequência de determinadas neuroses e psicoses; logomania.' ;:Significado ' (Etm. latim: verbu (palavra); do grego: rhoía (fluxo))' ;
+		:eSinonimo :verborragia;.
+
+:verbosidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação da utilização de muitas palavras, com pouco significado ou que revelam muito pouco;' ;:Significado ' Denominação de loquacidade ou tagarelice.' ;:Significado ' (Etm. do latim: verbositāte)' ;
+		:eSinonimo :loquacidade;
+		:eSinonimo :tagarelice;
+		:eSinonimo :tarelice;.
+
+:verboso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se de quem fala muito;' ;:Significado ' Que possui ou usa grande quantidade de palavras; que é prolixo;' ;:Significado ' Que é eloquente ou loquaz.' ;:Significado ' (Etm. do latim: verbōsu)' ;
+		:eSinonimo :facundo;
+		:eSinonimo :loquaz;
+		:eSinonimo :palavroso;
+		:eSinonimo :prolixo;.
+
+:verdade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica do que se encontra em conformidade com os factos e com a realidade; concordância entre o que uma pessoa pensa e aquilo que manifesta: disse a verdade;' ;:Significado ' Exatidão, precisão, veracidade ou genuinidade;' ;:Significado ' Situação, evento ou objeto real; coisa certa e autêntica;' ;:Significado ' (Por Ext.) Pensamento, teoria, doutrina, perspetiva, entre outras, que pode ser vista como verídica; crença, dogma ou máxima;' ;:Significado ' (Por Ext.) Em que se constata a existência ou a manifestação de honestidade; transparência de sentimentos: agiu com verdade;' ;:Significado ' Diz-se do que é idêntico ao original; referente à cópia que é exatamente igual ao seu modelo original; fidedignidade ou fidelidade.' ;
+		:eAntonimo :engano;
+		:eAntonimo :ficcao;
+		:eAntonimo :hipotese;
+		:eAntonimo :irrealidade;
+		:eAntonimo :quimera;
+		:eAntonimo :sonho;
+		:eAntonimo :utopia;
+		:eAntonimo :vigarice;
+		:eSinonimo :autenticidade;
+		:eSinonimo :axioma;
+		:eSinonimo :dogma;
+		:eSinonimo :efetividade;
+		:eSinonimo :exatidao;
+		:eSinonimo :facto;
+		:eSinonimo :fidedignidade;
+		:eSinonimo :franqueza;
+		:eSinonimo :honestidade;
+		:eSinonimo :lisura;
+		:eSinonimo :maxima;
+		:eSinonimo :realidade;
+		:eSinonimo :retidao;
+		:eSinonimo :sinceridade;
+		:eSinonimo :transparencia;.
+
+:verdadeiramente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira verdadeira; com veracidade ou realmente; efetivamente ou deveras; num grau muito grande.' ;:Significado ' (Etm. verdadeiro + mente)' ;
+		:eAntonimo :falsamente;
+		:eSinonimo :deveras;
+		:eSinonimo :efetivamente;.
+
+:verdadeiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' real: uma história verdadeira' ;:Significado ' que corresponde à verdade: uma afirmação verdadeira' ;:Significado ' sincero: uma amizade verdadeira' ;:Significado ' que não é imitado: um Picasso verdadeiro' ;
+		:eSinonimo :autentico;
+		:eSinonimo :fidedigno;
+		:eSinonimo :genuino;
+		:eSinonimo :real;
+		:eSinonimo :veridico;.
+
+:verdasca rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Haste, pau ou vara de tamanho reduzido e dobrável; ' ;:Significado ' Vergasta, chibata ou chicote.' ;:Significado ' (Etm. de: vergasta)' ;
+		:eSinonimo :vardasca;
+		:eSinonimo :vergasta;.
+
+:verdascar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Bater, vergastar ou chicotear em alguém com verdasca; chibatar, surrar, açoitar ou fustigar.' ;:Significado ' (Etm. verdasca + ar)' ;.
+
+:verde rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que é da cor da relva: olhos verdes' ;:Significado ' que não está maduro: um fruto verde' ;:Significado ' cor verde' ;
+		:eSinonimo :virente;.
+
+:verdugo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Executor, carrasco ou carnífice;' ;:Significado ' (Figurado) Indivíduo desumano que aplica castigos ou maus tratos a outrem;' ;:Significado ' Designação de espada desprovida de gume, que apenas era capaz de magoar na extremidade;' ;:Significado ' Navalha de pequenas dimensões, muito fina e pontiaguda;' ;:Significado ' Prega ou vinco numa peça de roupa ou numa vestimenta;' ;:Significado ' Borda que existe no aro das rodas que serve para conduzir as mesmas em cima dos carris, evitando possíveis descarrilamentos;' ;:Significado ' Denominação de friso proeminente existente em toda a extensão dos navios ou embarcações;' ;:Significado ' (Regionalismo) Designação de qualquer utensílio ou peça grande;' ;:Significado ' (Brasil) Enorme cobra ou serpente.' ;:Significado ' (Etm. do latim: virdūcu)' ;
+		:eSinonimo :algoz;
+		:eSinonimo :carrasco;
+		:eSinonimo :executor;.
+
+:verduras rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' vegetais, hortaliça: comer verduras' ;.
+
+:vereador rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa eleita para a câmara municipal' ;
+		:eSinonimo :edil;.
+
+:vereda rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' caminho estreito: uma vereda de montanha' ;
+		:eSinonimo :atalho;
+		:eSinonimo :caminho;
+		:eSinonimo :estrada;
+		:eSinonimo :senda;
+		:eSinonimo :trilho;
+		:eSinonimo :via;
+		:eSinonimo :viela;.
+
+:veredicto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' sentença do tribunal: o verdicto do jury' ;.
+
+:verga rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' material com que se fazem cestos, cadeiras, etc: cadeiras de verga' ;.
+
+:vergado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que se dobrou, dobrado;' ;:Significado ' Que se inclinou, inclinado ou curvado;' ;:Significado ' (Figurado) Assoberbado, atarefado ou sobrecarregado;' ;:Significado ' (Figurado) Diz-se do que ou de quem se sujeitou aos desejos ou ambições de outra pessoa; que foi derrotado ou vencido.' ;:Significado ' (Etm. Part. Pass. de: vergar)' ;
+		:eSinonimo :agachado;
+		:eSinonimo :alapado;
+		:eSinonimo :dobrado;
+		:eSinonimo :encolhido;
+		:eSinonimo :fletido;
+		:eSinonimo :inflectido;.
+
+:vergar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' dobrar, curvar: vergar uma barra de ferro' ;:Significado '  (fig) subjugar: vergar a vontade de alguém' ;:Significado ' ceder: A ponte vergou com o peso.' ;
+		:eSinonimo :dobrar;.
+
+:vergasta rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Vara de pequena dimensão; ' ;:Significado ' Vareta dobrável e delgada usada para flagelar ou surrar;' ;:Significado ' Designação atribuída a qualquer chicote, chibata ou vergalho.' ;:Significado ' (Etm. verga + asta)' ;
+		:eSinonimo :chibata;
+		:eSinonimo :chicote;
+		:eSinonimo :vara;
+		:eSinonimo :verdasca;.
+
+:vergonha rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' timidez: ter vergonha de falar em público' ;:Significado ' desonra, humilhação: Apagar a vergonha de um crime.' ;:Significado ' coisa mal feita: Isso é uma vergonha!' ;
+		:eSinonimo :desonra;
+		:eSinonimo :labeu;
+		:eSinonimo :queda;.
+
+:vergonhoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' indigno: um acto vergonhoso' ;
+		:eSinonimo :desonesto;
+		:eSinonimo :indecente;
+		:eSinonimo :indigno;.
+
+:verídico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' verdadeiro: uma história verídica' ;
+		:eSinonimo :autentico;
+		:eSinonimo :fidedigno;
+		:eSinonimo :genuino;
+		:eSinonimo :real;
+		:eSinonimo :verdadeiro;.
+
+:verificação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acto de examinar: a verificação das provas' ;:Significado ' prova, demonstração: a verificação de uma experiência' ;
+		:eSinonimo :comparacao;
+		:eSinonimo :conferencia;
+		:eSinonimo :confrontacao;.
+
+:verificar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' examinar, constatar: verificar os passaportes' ;
+		:eSinonimo :certificar;
+		:eSinonimo :conferir;
+		:eSinonimo :confirmar;
+		:eSinonimo :reconhecer;.
+
+:verificar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' realizar-se: Os meus prognósticos verificaram-se.' ;:Significado ' acontecer: Verificou-se um aumento da natalidade.' ;.
+
+:verme rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pequeno animal de corpo comprido e mole: esmagar um verme' ;
+		:eSinonimo :parasita;.
+
+:vermelhar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :verbo;
+		:Significado ' Colorir(-se), pintar(-se) ou pintalgar(-se) de vermelho; do mesmo significado de avermelhar(-se);' ;:Significado ' Carminar, purpurear ou ruborizar;' ;:Significado ' Que possui ou expõe a tonalidade vermelha.' ;:Significado ' (Etm. vermelho + ar)' ;
+		:eSinonimo :carminar;
+		:eSinonimo :corar;
+		:eSinonimo :enrubescer;
+		:eSinonimo :purpurear;
+		:eSinonimo :ruborizar;.
+
+:vermelho rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Que tem a mesma tonalidade do sangue; que é encarnado;' ;:Significado ' (Figurado) Que está corado ou ruborizado;' ;:Significado ' (Figurado) Que está constrangido ou envergonhado;' ;:Significado ' (Figurado; Pejorativo) Que defende ideias de ou participa em partidos de esquerda;' ;:Significado ' Designação da tonalidade do sangue;' ;:Significado ' Referente ao enrubescimento ou afogueamento;' ;:Significado ' Denominação de um verniz elaborado a partir de resina, álcool e sangue-de-drago;' ;:Significado ' (Figurado; Pejorativo) Indivíduo que defende ideias de ou participa em partidos de esquerda.' ;
+		:eSinonimo :carmesim;
+		:eSinonimo :encarnado;
+		:eSinonimo :escarlate;
+		:eSinonimo :purpureo;
+		:eSinonimo :rubente;
+		:eSinonimo :rubido;
+		:eSinonimo :rubro;.
+
+:vernáculo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Característico do país ou região a que pertence;' ;:Significado ' (Figurado) Que conserva a genuinidade ou pureza;' ;:Significado ' (Linguístico) Que fala e escreve sem estrangeirismos, conservando a forma genuína e original;' ;:Significado ' Idioma próprio de uma região ou de um país.' ;
+		:eAntonimo :artificial;
+		:eAntonimo :bilingue;
+		:eAntonimo :burlesco;
+		:eAntonimo :falso;
+		:eAntonimo :farsante;
+		:eSinonimo :correto;
+		:eSinonimo :nacional;
+		:eSinonimo :patrio;
+		:eSinonimo :puro;.
+
+:verniz rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' substância para polir: pôr verniz num móvel' ;:Significado ' substância que dá brilho ou cor: pôr verniz nas unhas' ;.
+
+:verónica rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Religião) Designação do pano onde se encontra a imagem, pintada ou estampada, da face de Jesus Cristo;' ;:Significado ' (Religião) Referente à mulher que dirige o Santo Sudário durante as procissões que se realizam na Semana Santa;' ;:Significado ' (Popular) Face ou rosto;' ;:Significado ' (Tauromaquia) Referente à sorte que o capinha produz com a própria capa;' ;:Significado ' (Botânica) Espécie de plantas pertencentes à família das Escrofulariáceas.' ;:Significado ' (Etm. do antropónimo: Verónica)' ;.
+
+:verosímil rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo que aparenta ser autêntico ou verdadeiro; que é possível ou provável' ;:Significado ' Referente àquilo que é fácil de acreditar; que é razoável; plausível; admissível' ;
+		:eAntonimo :inverosimil;
+		:eSinonimo :admissivel;
+		:eSinonimo :crivel;
+		:eSinonimo :plausivel;
+		:eSinonimo :possivel;
+		:eSinonimo :provavel;.
+
+:verosimilhança rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :determinante;
+		:Significado ' Qualidade do que é verosímil; possibilidade; probabilidade' ;
+		:eAntonimo :inverosimilhanca;
+		:eSinonimo :plausibilidade;
+		:eSinonimo :possibilidade;
+		:eSinonimo :probabilidade;
+		:eSinonimo :verossimilhanca;.
+
+:verosimilidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica daquilo que é verosímil.' ;:Significado ' (Etm. verosímil + i + dade)' ;.
+
+:verosimilmente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira verosímil; de modo provável ou possível.' ;:Significado ' (Etm. verosímil + mente)' ;
+		:eSinonimo :possivelmente;
+		:eSinonimo :provavelmente;.
+
+:verossímil rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que é ou parece ser verdadeiro; diz-se daquilo em que é fácil acreditar' ;:Significado ' Que parece ser possível ou provável' ;
+		:eAntonimo :inverossimil;
+		:eSinonimo :possivel;
+		:eSinonimo :provavel;
+		:eSinonimo :verosimil;.
+
+:verossimilhança rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :determinante;
+		:Significado ' Qualidade do que é verossímil; possibilidade; probabilidade' ;
+		:eAntonimo :inverossimilhanca;
+		:eSinonimo :possibilidade;
+		:eSinonimo :probabilidade;
+		:eSinonimo :verosimilhanca;.
+
+:verossimilidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :vazio;
+		:Significado ' n.f.' ;:Significado ' Grafia utilizada no Brasil para designar o vocábulo: verosimilidade.' ;:Significado ' (Etm. verosímil + i + dade)' ;
+		:eSinonimo :verosimilidade;.
+
+:verruga rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pequena saliência da pele' ;
+		:eSinonimo :condiloma;.
+
+:versadamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira versada; de modo entendido, experiente ou inteligente; de forma perita, prática ou sabedora; sabiamente ou instruidamente.' ;:Significado ' (Etm. versada + mente)' ;
+		:eAntonimo :ignorantemente;
+		:eSinonimo :entendidamente;
+		:eSinonimo :experientemente;
+		:eSinonimo :praticamente;
+		:eSinonimo :sabedoramente;
+		:eSinonimo :sabiamente;.
+
+:versado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se da pessoa que conhece ou sabe muito de um assunto ou tema; que é perito, entendido, douto ou sabedor;' ;:Significado ' Diz-se daquilo que foi analisado, estudado ou tratado;' ;:Significado ' Referente ao que foi colocado em verso; metrificado ou versificado.' ;:Significado ' (Etm. do latim: versātu)' ;
+		:eAntonimo :catecumeno;
+		:eAntonimo :consagrado;
+		:eAntonimo :desconhecedor;
+		:eAntonimo :iniciado;
+		:eAntonimo :iniciante;
+		:eAntonimo :neofito;
+		:eAntonimo :novato;
+		:eAntonimo :novico;
+		:eAntonimo :principiante;
+		:eAntonimo :verde;
+		:eSinonimo :conhecedor;
+		:eSinonimo :conhecido;
+		:eSinonimo :douto;
+		:eSinonimo :entendido;
+		:eSinonimo :experiente;
+		:eSinonimo :experimentado;
+		:eSinonimo :inteligente;
+		:eSinonimo :matraqueado;
+		:eSinonimo :perito;
+		:eSinonimo :pratico;
+		:eSinonimo :sabedor;.
+
+:versão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' modo de contar ou apresentar algo: A polícia tem uma versão diferente dos factos.' ;
+		:eSinonimo :interpretacao;
+		:eSinonimo :traducao;
+		:eSinonimo :variante;.
+
+:versar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Analisar ou observar minuciosamente;' ;:Significado ' Ato de aludir, falar ou abordar;' ;:Significado ' Ação de manear, manobrar ou manusear;' ;:Significado ' Consistir em; tratar de; ser referente a.' ;:Significado ' (Etm. do latim: versāre)' ;
+		:eSinonimo :abordar;
+		:eSinonimo :aludir;
+		:eSinonimo :analisar;
+		:eSinonimo :avaliar;
+		:eSinonimo :considerar;
+		:eSinonimo :debater;
+		:eSinonimo :discutir;
+		:eSinonimo :estudar;
+		:eSinonimo :falar;
+		:eSinonimo :manejar;
+		:eSinonimo :manobrar;
+		:eSinonimo :manusear;.
+
+:versar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Ação de colocar em verso (o que se encontra em prosa);' ;:Significado ' Compor ou criar versos.' ;:Significado ' (Etm. verso + ejar)' ;
+		:eSinonimo :metrificar;
+		:eSinonimo :poetar;
+		:eSinonimo :poetizar;
+		:eSinonimo :rimar;
+		:eSinonimo :trovar;
+		:eSinonimo :versificar;.
+
+:versátil rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem tem facilidade em se acomodar ou ajustar perante novas circunstâncias;' ;:Significado ' Que tem tendência a mudar; eclético; instável;' ;:Significado ' Que é polivalente;' ;:Significado ' (Botânica) Diz-se da parte terminal do estame que balança na extremidade do filete que o apoia;' ;:Significado ' (Ornitologia) Referente ao dedo que algumas aves possuem, que tanto se pode virar para a frente como se pode virar para trás.' ;:Significado ' (Etm. do latim: versatĭle)' ;
+		:eAntonimo :constante;
+		:eAntonimo :continuo;
+		:eAntonimo :estavel;
+		:eAntonimo :metodico;
+		:eAntonimo :ordenado;
+		:eAntonimo :permanente;
+		:eAntonimo :regular;
+		:eAntonimo :uniforme;
+		:eSinonimo :ecletico;
+		:eSinonimo :inconstante;
+		:eSinonimo :instavel;
+		:eSinonimo :manejavel;
+		:eSinonimo :mutavel;
+		:eSinonimo :portatil;
+		:eSinonimo :variante;
+		:eSinonimo :variavel;
+		:eSinonimo :voluvel;.
+
+:versatilidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica do que ou de quem é versátil, eclético ou flexível.' ;:Significado ' (Etm. versátil + i +dade)' ;
+		:eAntonimo :constancia;
+		:eAntonimo :duracao;
+		:eAntonimo :estabilidade;
+		:eAntonimo :estada;
+		:eAntonimo :estagio;
+		:eAntonimo :permanencia;
+		:eAntonimo :perseveranca;
+		:eAntonimo :persistencia;
+		:eAntonimo :tenacidade;
+		:eSinonimo :flexibilidade;
+		:eSinonimo :variabilidade;.
+
+:versejar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Colocar (escrito em prosa) em verso;' ;:Significado ' Criar ou construir versos; poetizar ou versar;' ;:Significado ' (Pejorativo) Elaborar versos desprovidos de qualidade.' ;:Significado ' (Etm. verso + ejar)' ;
+		:eAntonimo :prosar;
+		:eSinonimo :poetar;
+		:eSinonimo :poetizar;
+		:eSinonimo :rimar;
+		:eSinonimo :versar;
+		:eSinonimo :versar;.
+
+:versificar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Colocar em verso (enunciados em prosa);' ;:Significado ' Compor versos; metrificar ou poetar.' ;:Significado ' (Etm. do latim: versificāre)' ;
+		:eAntonimo :prosar;
+		:eSinonimo :metrificar;
+		:eSinonimo :poetar;.
+
+:verso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' linha de poema: um poema com dez versos' ;:Significado ' poema: escrever versos' ;:Significado ' parte oposta de uma folha de papel: recto e verso' ;
+		:eSinonimo :poesia;
+		:eSinonimo :trova;.
+
+:vértebra rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' osso da coluna vertebral' ;.
+
+:vertente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se daquilo que verte ou derrama;' ;:Significado ' Referente ao que escorre, cai ou desce (pela ladeira ou declive do monte);' ;:Significado ' Designação atribuída a qualquer uma das margens pertencentes a uma elevação ou subida por onde escorre ou flui água; ribanceira, talude, escarpa ou encosta;' ;:Significado ' Denominação atribuída a cada um dos lados que constituem um telhado;' ;:Significado ' (Figurado) Aspecto, panorama, sentido ou perspetiva; dimensão de algo que apresenta duas facetas ou lados normalmente contrários (podendo simplesmente diferir entre si).' ;:Significado ' (Etm. do latim: vertente)' ;
+		:eSinonimo :clivo;
+		:eSinonimo :colina;
+		:eSinonimo :declive;
+		:eSinonimo :descida;
+		:eSinonimo :encosta;
+		:eSinonimo :falda;
+		:eSinonimo :sope;
+		:eSinonimo :trilho;.
+
+:verter rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' entornar: verter água no copo' ;
+		:eSinonimo :derramar;
+		:eSinonimo :entornar;
+		:eSinonimo :espargir;
+		:eSinonimo :esparzir;.
+
+:vertical rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que está direito, de pé: um traço vertical' ;:Significado ' linha direita, perpendicular ao horizonte' ;.
+
+:verticalizar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Fazer com que fique vertical;' ;:Significado ' Endireitar ou empertigar.' ;:Significado ' (Etm. vertical + izar)' ;
+		:eSinonimo :aprumar;.
+
+:vértice rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' ponto onde duas linhas se encontram: o vértice do triângulo' ;
+		:eSinonimo :apice;.
+
+:vertigem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' sensação de falta de equilíbrio: ter vertigens' ;
+		:eSinonimo :tontura;.
+
+:vertiginoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem possui ou provoca vertigens;' ;:Significado ' (Figurado) Diz-se daquilo que é muito rápido ou acelerado; intenso ou arrebatado;' ;:Significado ' (Figurado) Diz-se do que conduz à realização de ações precipitadas.' ;:Significado ' (Etm. do latim: vertiginōsu)' ;
+		:eAntonimo :ajuizado;
+		:eAntonimo :atilado;
+		:eAntonimo :conciliador;
+		:eAntonimo :moderado;
+		:eAntonimo :ordeiro;
+		:eAntonimo :pensado;
+		:eAntonimo :ponderado;
+		:eAntonimo :razoavel;
+		:eAntonimo :refletido;
+		:eAntonimo :reflexo;
+		:eAntonimo :reproduzido;
+		:eAntonimo :sensato;
+		:eSinonimo :acelerado;
+		:eSinonimo :apressurado;
+		:eSinonimo :depressa;
+		:eSinonimo :estonteante;
+		:eSinonimo :rapido;
+		:eSinonimo :veloz;.
+
+:vesânia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Denominação de todo e qualquer tipo de patologia de cariz psicológica - doenças mentais;' ;:Significado ' Designação de mania, fixação ou obsessão.' ;:Significado ' (Etm. do latim: vesanĭa)' ;.
+
+:vesgo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que tem os olhos tortos' ;
+		:eSinonimo :estrabico;
+		:eSinonimo :zambaio;
+		:eSinonimo :zarolho;.
+
+:vespa rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' espécie de abelha que pica: ser picado por uma vespa' ;:Significado ' motociclo: deslocar-se na vespa' ;.
+
+:vespão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Zoologia) Denominação atribuída a uma vespa de grandes dimensões.' ;:Significado ' (Etm. vespa + ão)' ;
+		:eSinonimo :abelhao;.
+
+:véspera rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' dia anterior a outro: telefonar na véspera de uma partida' ;.
+
+:vespertino rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Referente à tarde; do mesmo significado de vesperal;' ;:Significado ' Diz-se do jornal que é publicado durante a tarde ao à noite;' ;:Significado ' Diz-se daquilo que ocorre ou se concretiza à tarde;' ;:Significado ' Jornal ou publicação que é editada à tarde ou à noite.' ;:Significado ' (Etm. do latim: vespertīnu)' ;
+		:eSinonimo :vesperal;.
+
+:vestiário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' lugar onde as pessoas mudam de roupa: o vestiário da piscina' ;:Significado ' lugar onde se guardam os casacos: o vestiário do teatro' ;.
+
+:vestibular rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :adjetivo;
+		:Significado ' Referente a vestíbulo;' ;:Significado ' (Anatomia) Referente a vestíbulo anatómico, sendo os mais comuns os do ouvido, da vulva e da boca.' ;:Significado ' n.m.' ;:Significado ' (Brasil) Relativo ao exame que antecede a entrada no Ensino Superior Brasileiro.' ;:Significado ' (Etm. vestíbulo + ar)' ;.
+
+:vestíbulo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' espaço na entrada da casa: o vestíbulo do apartamento' ;.
+
+:vestido rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' peça de vestuário feminino: vestido comprido' ;:Significado ' coberto com roupa: estar vestido' ;
+		:eSinonimo :coberto;.
+
+:vestígio rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' o que resta de algo que desapareceu: o vestígio de uma antiga civilização' ;
+		:eSinonimo :indicio;
+		:eSinonimo :sinal;.
+
+:vestir rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' cobrir com roupa: vestir o bebé; vestir um casaco' ;
+		:eSinonimo :enroupar;
+		:eSinonimo :entrajar;
+		:eSinonimo :trajar;.
+
+:vestir-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' cobrir-se com roupa: vestir-se para sair' ;.
+
+:vestuário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' roupa de vestir' ;
+		:eSinonimo :fato;
+		:eSinonimo :indumentaria;
+		:eSinonimo :roupa;
+		:eSinonimo :traje;
+		:eSinonimo :vestimenta;.
+
+:vetar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ação de opor o veto a algo (lei ou ação) ou alguém; interditar, impedir ou impossibilitar através do uso do veto.' ;:Significado ' (Etm. do latim: vetāre)' ;
+		:eAntonimo :admitir;
+		:eAntonimo :assentir;
+		:eAntonimo :consentir;
+		:eAntonimo :outorgar;
+		:eAntonimo :permitir;
+		:eSinonimo :impedir;
+		:eSinonimo :interditar;
+		:eSinonimo :proibir;.
+
+:veterano rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que tem muitos anos de prática: um jogador veterano' ;:Significado ' militar com muitos anos de serviço: os veteranos da guerra colonial' ;:Significado ' pessoa com muitos anos de experiência em algo: uma partida entre veteranos' ;
+		:eSinonimo :ladino;
+		:eSinonimo :maduro;.
+
+:veterinário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' médico que trata animais' ;.
+
+:veteritestamentário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :vazio;
+		:Significado ' O mesmo que veterotestamentário' ;
+		:eSinonimo :veterotestamentario;.
+
+:veterotestamentário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Relativo ou pertencente ao Antigo Testamento; veteritestamentário: ensino veterotestamentário, textos veterotestamentários ' ;
+		:eSinonimo :veteritestamentario;.
+
+:veto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' direito de se opor a algo: opor o seu veto a uma lei' ;
+		:eSinonimo :inibicao;
+		:eSinonimo :interdicao;
+		:eSinonimo :proibicao;.
+
+:vetor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Física; Matemática) Designação de um segmento de reta orientado, no qual se pode distinguir uma origem e uma extremidade, e que é utilizado para exibir uma grandeza vetorial;' ;:Significado ' (Matemática) Referente a um elemento existente no espaço vetorial;' ;:Significado ' (Medicina) Denominação de um ser vivo, normalmente um inseto, que é portador de doenças e agentes infeciosos que podem ser transmitidos ao ser humano;' ;:Significado ' (Militar) Referente a um veículo que transporta carga explosiva ou mais especificamente nuclear;' ;:Significado ' (Física; ~aplicado) Referente a um segmento de reta orientado;' ;:Significado ' (Física; ~deslizante) Relativo à classe de equivalência dos vetores aplicados que adotam como ponto inicial de aplicação qualquer um de uma reta atribuída, já que todos são equipolentes;' ;:Significado ' (Física; ~equipolente a outro) Diz-se de qualquer vetor que tenha a direção, o comprimento e o sentido em comum com o outro;' ;:Significado ' (Física; ~livre) Todos os vetores aplicados e equipolentes entre si;' ;:Significado ' (Astronomia; raio ~de um planeta) Segmento de reta que se dirige do centro do Sol para o centro do planeta em questão;' ;:Significado ' 1(Geometria; raio ~de um ponto de uma cónica) Qualquer vetor aplicado que é definido por um foco que tenha qualquer ponto de curva e que se dirige para esse ponto de curva a partir do foco referido.' ;:Significado ' (Etm. do latim: vectōre)' ;.
+
+:vetustez rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica daquilo ou daquele que é vetusto; que é velho ou antigo.' ;:Significado ' (Etm. vetusto + ez)' ;
+		:eSinonimo :velhice;.
+
+:vetusto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que é antiquíssimo ou velho;' ;:Significado ' Que é venerável ou honrado por causa da sua longevidade ou antiguidade;' ;:Significado ' Gasto ou danificado pelo passar do tempo.' ;:Significado ' (Etm. do latim: vetustu)' ;
+		:eSinonimo :antigo;
+		:eSinonimo :idoso;
+		:eSinonimo :macrobio;
+		:eSinonimo :velho;.
+
+:véu rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' tecido transparente com que se tapa o rosto: usar véu' ;:Significado ' tecido fino que se usa na cabeça: véu de noiva' ;:Significado '  (fig) aquilo que serve para cobrir qq coisa: O véu da noite cobriu a cidade.' ;
+		:eSinonimo :manto;.
+
+:vexame rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' humilhação: sofrer um vexame' ;
+		:eSinonimo :opressao;
+		:eSinonimo :vexacao;.
+
+:vexar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :verbo;
+		:Significado ' Provocar ou experienciar sentimento de vergonha, rebaixamento ou humilhação;' ;:Significado ' Tiranizar, afligir, reprimir ou atormentar;' ;:Significado ' Fazer com que alguém passe por uma situação constrangedora ou uma vergonha.' ;:Significado ' (Etm. do latim: vexāre)' ;
+		:eSinonimo :acabrunhar;
+		:eSinonimo :acanhar;
+		:eSinonimo :afligir;
+		:eSinonimo :atormentar;
+		:eSinonimo :envergonhar;
+		:eSinonimo :humilhar;
+		:eSinonimo :inibir;
+		:eSinonimo :molestar;
+		:eSinonimo :oprimir;.
+
+:vez rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' momento, ocasião: É a primeira vez que a vejo; Erraste duas vezes; Desta vez vou-me embora.' ;:Significado ' turno: É a tua vez de jogar.' ;
+		:eSinonimo :turno;.
+
+:vezeiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' *Diz-se de quem ou do que possui vezo ou rotina; ' ;:Significado ' Que é relapso ou reincidente.' ;:Significado ' (Etm. vezo + eiro)' ;
+		:eSinonimo :reincidente;
+		:eSinonimo :relapso;.
+
+:vezeiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Regionalismo) Denominação atribuída ao patrão ou proprietário de vezeira.' ;:Significado ' (Etm. vez + eiro)' ;.
+
+:via rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :preposicao;
+		:Significado ' caminho, estrada' ;:Significado ' rails para a circulação dos comboios: O comboio está parado na via.' ;:Significado ' tipo de transporte: por via terrestre' ;:Significado ' lugar de passagem no corpo humano: por via nasal; as vias respiratórias' ;:Significado ' meio utilizado: a via hierárquica' ;:Significado ' através de, por: voo via Lisboa; transmissão por via de satélite' ;
+		:eSinonimo :atalho;
+		:eSinonimo :caminho;
+		:eSinonimo :canal;
+		:eSinonimo :conduto;
+		:eSinonimo :estrada;
+		:eSinonimo :meato;
+		:eSinonimo :meio;
+		:eSinonimo :senda;
+		:eSinonimo :trilho;
+		:eSinonimo :vereda;
+		:eSinonimo :viela;.
+
+:via-férrea rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' caminho-de-ferro' ;.
+
+:viado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Denominação atribuída a antigo pano com padrão listrado.' ;:Significado ' (Etm. de origem questionável)' ;.
+
+:viaduto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' ponte sobre uma via' ;.
+
+:viagem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' facto de se deslocar para longe: fazer uma viagem; viagem de turismo' ;:Significado ' ida e volta para transportar algo: fazer várias viagens' ;
+		:eSinonimo :peregrinacao;
+		:eSinonimo :romagem;
+		:eSinonimo :romaria;.
+
+:viajante rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa que viaja' ;
+		:eSinonimo :transeunte;
+		:eSinonimo :viajor;.
+
+:viajar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' partir em viagem' ;
+		:eSinonimo :jornadear;
+		:eSinonimo :peregrinar;.
+
+:viático rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Quantia monetária ou provimentos que se entregam a alguma pessoa que se vai iniciar numa jornada;' ;:Significado ' (Religião) Designação do sacramento da Eucaristia quando aplicado fora da igreja àquele que se encontra numa situação de morte iminente ou provável (com inicial maiúscula).' ;:Significado ' (Etm. do latim: viatĭcu)' ;.
+
+:viatura rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' veículo: a viatura da polícia' ;
+		:eSinonimo :automovel;
+		:eSinonimo :carro;
+		:eSinonimo :veiculo;.
+
+:viável rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' onde se pode passar: uma estrada viável' ;:Significado ' que se pode realizar: um projecto viável' ;.
+
+:víbora rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' cobra venenosa: uma víbora de África' ;:Significado '  (fig) pessoa muito má: má como uma víbora' ;.
+
+:vibração rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' movimento rápido com som: a vibração das cordas da guitarra' ;.
+
+:vibrar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' tremer: Os vidros vibram.' ;:Significado ' sentir uma grande emoção: vibrar de entusiasmo' ;
+		:eSinonimo :abanar;
+		:eSinonimo :agitar;
+		:eSinonimo :sacudir;.
+
+:viçar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Fazer com que se torne ou ser viçoso; proporcionar ou possuir viço;' ;:Significado ' (Figurado) Crescer e desenvolver-se com vigor e energia; espalhar-se ou alastrar-se;' ;:Significado ' (Brasil) Estar no cio.' ;:Significado ' (Etm. viço+-ar; do latim: vitiāre)' ;
+		:eAntonimo :agrupar;
+		:eAntonimo :centrar;
+		:eAntonimo :concentrar;
+		:eAntonimo :juntar;
+		:eAntonimo :reunir;
+		:eAntonimo :unificar;
+		:eSinonimo :crescer;
+		:eSinonimo :florescer;
+		:eSinonimo :luxuriar;
+		:eSinonimo :medrar;
+		:eSinonimo :vicejar;.
+
+:vicariante rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se de quem substitui outro;' ;:Significado ' (Medicina) Diz-se do órgão que possui uma capacidade suficientemente elevada para compensar a debilidade de outro.' ;:Significado ' (Etm. do francês: vicariant)' ;.
+
+:vicário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Que subsitui ou que faz as vezes de outra coisa ou outra pessoa; substituto' ;:Significado ' Que é autorizado ou concedido por outra pessoa; delegado: poder vicário' ;:Significado ' (Gramática) diz-se da palavra que se usa em vez de outra' ;:Significado ' (Gramática) diz-se do verbo que se usa em vez de outro, para evitar repeti-lo - o verbo fazer na frase: não gosto de falar em público, faço-o por obrigação' ;:Significado ' Aquele que substitui outro; substituto' ;:Significado ' Padre que substitui ou auxilia o pároco de uma paróquia; vigário' ;
+		:eSinonimo :substituto;
+		:eSinonimo :vigario;.
+
+:vice-versa rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De modo mútuo ou recíproco;' ;:Significado ' Ao contrário;' ;:Significado ' Ao revés.' ;:Significado ' (Etm. do latim: vice versa)' ;
+		:eSinonimo :mutuamente;
+		:eSinonimo :reciprocamente;.
+
+:vicejar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Conceder ou possuir viço; ficar ou encontrar-se viçoso; fazer com que vegete com potência ou vigor; fazer com que germine com força;' ;:Significado ' (Figurado) Demonstrar-se ou expor-se de forma vivaz e transbordante.' ;:Significado ' (Etm. viço + ejar)' ;
+		:eSinonimo :brotar;
+		:eSinonimo :germinar;
+		:eSinonimo :lancar;
+		:eSinonimo :produzir;
+		:eSinonimo :vicar;
+		:eSinonimo :vingar;
+		:eSinonimo :viver;.
+
+:viciado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que tem um vício: viciado em heroína' ;
+		:eSinonimo :adulterado;
+		:eSinonimo :arrumado;
+		:eSinonimo :impuro;.
+
+:viciar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' tornar alguém dependente de algo: viciar alguém em heroína' ;
+		:eSinonimo :adulterar;
+		:eSinonimo :corromper;
+		:eSinonimo :depravar;.
+
+:viciar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado '  (fig) ficar dependente de algo: viciar-se na leitura' ;.
+
+:vicinalidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica daquilo que é vicinal; redondezas ou vizinhança.' ;:Significado ' (Etm. vicinal + i + dade)' ;
+		:eAntonimo :distancia;
+		:eAntonimo :distanciamento;
+		:eAntonimo :espaco;
+		:eAntonimo :isolamento;
+		:eAntonimo :longinquidade;
+		:eAntonimo :retiro;
+		:eAntonimo :retraimento;
+		:eAntonimo :solidao;
+		:eSinonimo :esfericidade;
+		:eSinonimo :imediacao;
+		:eSinonimo :propinquidade;
+		:eSinonimo :proximidade;
+		:eSinonimo :vizinhanca;.
+
+:vício rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' dependência em relação ao consumo de algo: o vício do tabaco' ;:Significado ' mau hábito: ter o vício do jogo' ;
+		:eSinonimo :pecado;
+		:eSinonimo :perversao;.
+
+:vicissitude rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação da continuidade das coisas que se seguem; alternativa;' ;:Significado ' Denominação atribuída à sequência de alterações ou mudanças;' ;:Significado ' Situação esporádica e imprevisível; acaso ou imprevisto;' ;:Significado ' Do mesmo significado de revés; circunstâncias vistas como antagónicas e desfavoráveis; azar, contrariedade ou contratempo;' ;:Significado ' Inconstância das coisas; designação de instabilidade.' ;:Significado ' (Etm. do latim: vicissitudine)' ;
+		:eAntonimo :sucesso;
+		:eSinonimo :acaso;
+		:eSinonimo :contingencia;
+		:eSinonimo :contrariedade;
+		:eSinonimo :contratempo;
+		:eSinonimo :problema;.
+
+:vicissitudes rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :determinante;
+		:Significado ' Circunstâncias casuais ou inesperadas, consideradas desfavoráveis ou difíceis de resolver; contrariedades; contratempos: as vicissitudes da vida' ;
+		:eSinonimo :contrariedades;
+		:eSinonimo :contratempos;
+		:eSinonimo :reveses;.
+
+:viçoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' com aspecto fresco e verde' ;
+		:eSinonimo :verdor;.
+
+:vida rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' facto de existir, de viver: proteger a vida no planeta' ;:Significado ' tempo que vai do nascimento à morte: ter uma vida longa' ;:Significado ' energia: uma criança cheia de vida' ;.
+
+:vidar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Plantar ou semear vides, videiras ou vinhas em.' ;:Significado ' (Etm. vide + ar)' ;.
+
+:vide rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :determinante;
+		:Significado ' Vara feita de videira; bacelo' ;:Significado ' `Arbusto cujo fruto é a uva; videira' ;:Significado ' (Popular) parte do cordão umbilical que fica presa à placenta; envide' ;
+		:eSinonimo :bacelo;
+		:eSinonimo :envide;
+		:eSinonimo :videira;.
+
+:videar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' (Antigo) Semear ou lavrar vides ou vinheiras; comummente denominado vidar.' ;:Significado ' (Etm. vide + ar)' ;
+		:eSinonimo :vidar;.
+
+:videira rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' planta que dá uvas' ;.
+
+:vidente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa que adivinha o futuro' ;
+		:eSinonimo :profeta;
+		:eSinonimo :vate;.
+
+:vídeo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' aparelho que grava imagens e sons: aparelho de vídeo' ;:Significado ' filme gravado numa videocassete: o vídeo do jogo de futebol' ;.
+
+:videocassete rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' fita que contém imagens e sons' ;.
+
+:vide rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :conjuncao;
+		:Significado ' Fórmula com que se indica ao leitor que encontrará informação num outro texto ou num outro lugar; veja ou veja-se em (abreviatura: v. ou vd.): sobre esta questão, vide capítulo 2' ;:Significado ' A exemplo de; (tal) como' ;
+		:eSinonimo :veja;.
+
+:vido rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :vazio;
+		:Significado ' n.m.' ;:Significado ' Ver vidoeiro.' ;.
+
+:vidraça rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' vidro de janela: abrir a vidraça' ;.
+
+:vidrão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' recipiente onde se coloca o vidro para reciclagem' ;.
+
+:vidro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' material sólido, transparente e frágil: um tampo em vidro' ;:Significado ' placa desse material que guarnece as janelas: Ele quebrou o vidro da janela.' ;.
+
+:viela rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' rua estreita: uma viela escura' ;
+		:eSinonimo :atalho;
+		:eSinonimo :caminho;
+		:eSinonimo :estrada;
+		:eSinonimo :senda;
+		:eSinonimo :trilho;
+		:eSinonimo :vereda;
+		:eSinonimo :via;.
+
+:viés rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Direção oblíqua ou diagonal; soslaio; esguelha' ;:Significado ' Pedaço ou porção de um pano retirada da peça completa, na posição diagonal' ;
+		:eSinonimo :diagonal;
+		:eSinonimo :esguelha;
+		:eSinonimo :obliqua;
+		:eSinonimo :obliquidade;
+		:eSinonimo :soslaio;
+		:eSinonimo :traves;.
+
+:viga rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' trave que sustenta uma construção' ;
+		:eSinonimo :bastao;
+		:eSinonimo :bordao;
+		:eSinonimo :cajado;
+		:eSinonimo :haste;
+		:eSinonimo :mastro;
+		:eSinonimo :pau;
+		:eSinonimo :vara;.
+
+:vigairada rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Denominação atribuída a visita apressada ou acelerada;' ;:Significado ' Correria de um sítio para outro;' ;:Significado ' Grupo de mandriões ou preguiçosos;' ;:Significado ' Designação de leviandade ou boémia.' ;:Significado ' (Etm. vigairo + ada)' ;.
+
+:vigar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Colocar ou pôr as vigas em;' ;:Significado ' Colocar por cima das vigas.' ;:Significado ' (Etm. viga + ar)' ;.
+
+:vigarice rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' engano, burla' ;.
+
+:vigarista rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa que engana outros' ;
+		:eSinonimo :gatuno;
+		:eSinonimo :ladrao;
+		:eSinonimo :larapio;
+		:eSinonimo :rapace;
+		:eSinonimo :ratoneiro;.
+
+:vigência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Particularidade ou condição daquilo que é vigente; que está em vigor e apresenta resultados;' ;:Significado ' Situação ou resultado terminado que se encontra em vigor por não ter sido revogado:;' ;:Significado ' Período de tempo durante o qual algo vigora ou perdura.' ;:Significado ' (Etm. do latim: vigentia.ae)' ;
+		:eSinonimo :vigor;.
+
+:vigente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que está em vigor: a lei vigente' ;.
+
+:viger rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Possuir vigor ou encontrar-se em vigor; vigorar.' ;:Significado ' (Etm. do latim: vigēre)' ;.
+
+:vigésimo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que tem o número vinte: o vigésimo concorrente' ;:Significado ' pessoa ou coisa que tem o número vinte' ;.
+
+:vigiar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' observar com atenção: vigiar as crianças; O porteiro vigia as entradas no prédio.' ;:Significado ' cuidar, velar: vigiar o doente' ;:Significado ' fiscalizar, controlar: vigiar o trânsito' ;:Significado ' estar atento, alerta: vigiar a sua saúde' ;
+		:eSinonimo :guardar;
+		:eSinonimo :patrulhar;
+		:eSinonimo :rondar;
+		:eSinonimo :velar;
+		:eSinonimo :vigilar;
+		:eSinonimo :zelar;.
+
+:vigilância rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' facto de observar com atenção: a vigilância das fronteiras' ;.
+
+:vigilante rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que vigia, cuidadoso: uma atitude vigilante' ;:Significado ' profissional que protege e guarda algo: os vigilantes do banco' ;
+		:eSinonimo :atento;
+		:eSinonimo :cauteloso;
+		:eSinonimo :discreto;
+		:eSinonimo :prudente;
+		:eSinonimo :sisudo;.
+
+:vigília rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' estado de quem está acordado: estar esgotado das vigílias' ;.
+
+:vigor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' força física: o vigor da juventude' ;:Significado ' manifestação de firmeza: defender as suas ideias com vigor' ;
+		:eSinonimo :energia;
+		:eSinonimo :virilidade;.
+
+:vigorar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Conceder vigor a; robustecer ou fortalecer;' ;:Significado ' Fazer com que fique com mais energia, mais enérgico (um fármaco);' ;:Significado ' Obter vigor;' ;:Significado ' Estar em vigor ou estar válido; utilizar-se ou constar.' ;:Significado ' (Etm. do latim: vigorāre)' ;
+		:eAntonimo :cansar;
+		:eAntonimo :desvigorar;
+		:eAntonimo :desvigorizar;
+		:eAntonimo :esfalfar;
+		:eAntonimo :esgotar;
+		:eAntonimo :estafar;
+		:eAntonimo :fatigar;
+		:eSinonimo :fortificar;
+		:eSinonimo :robustecer;.
+
+:vigorizar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ação de conceder ou obter vigor; fortificar(-se), avigorar(-se) ou roborar(-se).' ;:Significado ' (Etm. vigor + izar)' ;
+		:eAntonimo :afadigar;
+		:eAntonimo :alquebrar;
+		:eAntonimo :ananicar;
+		:eAntonimo :atenuar;
+		:eAntonimo :desvigorar;
+		:eAntonimo :enfraquentar;
+		:eAntonimo :enfrouxecer;
+		:eAntonimo :esfalfar;
+		:eAntonimo :estafar;
+		:eAntonimo :extenuar;
+		:eAntonimo :fatigar;
+		:eAntonimo :fragilizar;
+		:eAntonimo :inanir;
+		:eSinonimo :fortalecer;.
+
+:vigoroso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' robusto, forte: uma natureza vigorosa' ;:Significado ' firme: um não vigoroso' ;
+		:eSinonimo :herculeo;
+		:eSinonimo :seivoso;
+		:eSinonimo :varonil;
+		:eSinonimo :viripotente;.
+
+:vil rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Diz-se do que possui um valor reduzido; que é insignificante; medíocre, reles ou ordinário;' ;:Significado ' Diz-se do que possui um valor monetário baixo, podendo ser comprado a baixo preço; barato;' ;:Significado ' Inexistência de consideração ou respeito; que incita ou merece desdém; desprezível ou menosprezável; indigno, abjeto ou abominável;' ;:Significado ' Que é miserável, modesto ou humilde; que não tem grande valor ou que tem pouca importância ou relevância;' ;:Significado ' Designação da pessoa que possui as características e particularidades acima citadas; pessoa desprezível, velhaca ou patife.' ;:Significado ' (Etm. do latim: vile)' ;
+		:eAntonimo :casto;
+		:eAntonimo :extraordinario;
+		:eAntonimo :honesto;
+		:eAntonimo :ilustre;
+		:eAntonimo :insigne;
+		:eAntonimo :maravilhoso;
+		:eAntonimo :precioso;
+		:eAntonimo :significante;
+		:eSinonimo :abjeto;
+		:eSinonimo :abominavel;
+		:eSinonimo :baixo;
+		:eSinonimo :barato;
+		:eSinonimo :canalha;
+		:eSinonimo :desdenhavel;
+		:eSinonimo :desprezivel;
+		:eSinonimo :humilde;
+		:eSinonimo :imundo;
+		:eSinonimo :indigno;
+		:eSinonimo :infame;
+		:eSinonimo :mediocre;
+		:eSinonimo :miseravel;
+		:eSinonimo :modesto;
+		:eSinonimo :moleque;
+		:eSinonimo :simples;.
+
+:vila rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pequena cidade: uma vila de cinco mil habitantes' ;.
+
+:vilão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa má' ;
+		:eSinonimo :aldeao;
+		:eSinonimo :campones;
+		:eSinonimo :camponio;
+		:eSinonimo :maloio;
+		:eSinonimo :ruricola;.
+
+:vileza rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica de quem é vil;' ;:Significado ' Ato ruim, vil; infâmia ou opróbrio; vergonha ou sordidez.' ;:Significado ' (Etm. vil + eza)' ;
+		:eAntonimo :altivez;
+		:eAntonimo :dignidade;
+		:eAntonimo :honra;
+		:eAntonimo :honradez;
+		:eAntonimo :integridade;
+		:eAntonimo :retidao;
+		:eSinonimo :abjecao;
+		:eSinonimo :baixeza;
+		:eSinonimo :vituperio;.
+
+:vilificar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Fazer com que seja vil; envilecer, aviltar, macular ou vilipendiar.' ;:Significado ' (Etm. do latim: vilificāre)' ;
+		:eSinonimo :envilecer;
+		:eSinonimo :vilipendiar;.
+
+:vilipendiar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Provocar, em alguém, a sensação ou sentimento de que foi desprezado ou desdenhado; tratar com desdém ou descaso; rebaixar;' ;:Significado ' Supor que algo ou alguém é baixo, vil, miserável, entre outras coisas; menosprezar ou desconsiderar;' ;:Significado ' Ofender através de palavras, gestos ou comportamentos.' ;:Significado ' (Etm. vilipêndio + ar)' ;
+		:eAntonimo :elogiar;
+		:eAntonimo :enaltecer;
+		:eAntonimo :respeitar;
+		:eAntonimo :valorizar;
+		:eSinonimo :desacreditar;
+		:eSinonimo :descasar;
+		:eSinonimo :desdenhar;
+		:eSinonimo :desprezar;
+		:eSinonimo :envilecer;
+		:eSinonimo :menoscabar;
+		:eSinonimo :rebaixar;.
+
+:vilipendioso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Em que existe vilipêndio;' ;:Significado ' Que é aviltante ou infame; humilhante ou degradante.' ;:Significado ' (Etm. vilipêndio + oso)' ;
+		:eSinonimo :pejorativo;.
+
+:vime rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' ramo flexível que serve para atar, fazer cestos: um cesto em vime' ;.
+
+:vinagre rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' líquido ácido que serve para temperar: temperar a salada com azeite e vinagre' ;.
+
+:vinagrete rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' molho feito com azeite e vinagre: molho de vinagrete' ;.
+
+:vincar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' fazer vincos, pregas: vincar as calças' ;:Significado '  (fig) sublinhar, destacar: vincar bem uma frase' ;.
+
+:vinco rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' prega' ;
+		:eSinonimo :dobra;
+		:eSinonimo :prega;.
+
+:vinculadamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira vinculada; de forma relacionada ou conectada; de modo conjunto, ligado ou unido; anexadamente.' ;:Significado ' (Etm. vinculad + amente)' ;
+		:eAntonimo :apartadamente;
+		:eAntonimo :separadamente;
+		:eSinonimo :anexadamente;
+		:eSinonimo :conectadamente;
+		:eSinonimo :conjuntamente;
+		:eSinonimo :relacionadamente;.
+
+:vinculado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Relacionado, conectado ou estabelecido por existência de vínculo;' ;:Significado ' Que se encontra dependente de vínculo;' ;:Significado ' Profundamente ligado ou cingido a; forçado ou obrigado.' ;:Significado ' (Etm. Part. Pass. de: vincular)' ;
+		:eSinonimo :acorrentado;
+		:eSinonimo :amarrado;
+		:eSinonimo :conectado;
+		:eSinonimo :forcado;
+		:eSinonimo :ligado;
+		:eSinonimo :obrigado;
+		:eSinonimo :relacionado;
+		:eSinonimo :unido;.
+
+:vincular rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Conectar(-se) a alguma coisa ou alguma pessoa através de vínculo;' ;:Significado ' Aproximar(-se) ou unir(-ser) moral ou sentimentalmente;' ;:Significado ' Ligar(-se) ou atar(-se) por ou com laços; amarrar(-se) ou apertar(-se);' ;:Significado ' (Figurado) Submeter(-se) ou forçar(-se);' ;:Significado ' Subordinar ou sujeitar (materiais) a vínculos;' ;:Significado ' Eternizar-se ou imortalizar-se.' ;:Significado ' (Etm. vínculo+-ar - sufixo verbal)' ;
+		:eAntonimo :desagregar;
+		:eAntonimo :desligar;
+		:eAntonimo :desunir;
+		:eAntonimo :desvincular;
+		:eAntonimo :dissolver;
+		:eSinonimo :aliar;
+		:eSinonimo :amarrar;
+		:eSinonimo :apertar;
+		:eSinonimo :aproximar;
+		:eSinonimo :associar;
+		:eSinonimo :atar;
+		:eSinonimo :conectar;
+		:eSinonimo :filiar;
+		:eSinonimo :incorporar;
+		:eSinonimo :ligar;
+		:eSinonimo :prender;
+		:eSinonimo :relacionar;
+		:eSinonimo :unir;.
+
+:vincular rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que é relacionado ou relativo a vínculo ou união;' ;:Significado ' Que é determinado, submetido ou conectado por vínculo.' ;:Significado ' (Etm. vínculo + ar - sufixo nominal)' ;.
+
+:vinculativo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que estabelece um vínculo; que vincula' ;
+		:eSinonimo :vinculador;
+		:eSinonimo :vinculante;
+		:eSinonimo :vinculatorio;.
+
+:vinculatório rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que vincula; que serve para vincular' ;
+		:eSinonimo :vinculador;
+		:eSinonimo :vinculativo;.
+
+:vínculo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' ligação, relação: vínculos familiares' ;
+		:eSinonimo :conexao;
+		:eSinonimo :ligacao;
+		:eSinonimo :nexo;.
+
+:vinda rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' chegada: Desejar a vinda dos filhos.' ;:Significado ' regresso: idas e vindas' ;
+		:eSinonimo :advento;
+		:eSinonimo :chegada;.
+
+:vindima rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' colheita das uvas' ;.
+
+:vingança rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acto para castigar alguém em retorno' ;
+		:eSinonimo :desforco;
+		:eSinonimo :desforra;
+		:eSinonimo :represalia;
+		:eSinonimo :retaliacao;.
+
+:vingar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' castigar alguém por algo: Ele vingou a morte dos pais.' ;:Significado ' crescer, ter êxito: A árvore vingou; Os negócios vingaram.' ;.
+
+:vingar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' castigar quem nos fez mal: vingar-se de alguém' ;.
+
+:vingativo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' em que há vingança: um acto vingativo; uma pessoa vingativa' ;.
+
+:vinha rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' terreno com videiras' ;.
+
+:vinheta rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Género de selo postal, geralmente usado para finalidades de beneficência, que não possui real valor ou obrigatoriedade; selo ou autocolante de dimensões reduzidas que é utilizado para vários e distintos fins;' ;:Significado ' Designação atribuída a cada um dos rectângulos que compõem uma banda desenhada;' ;:Significado ' Imagem de pequenas dimensões usada para a decoração de livros que, inicialmente, era representativa dos sarmentos de videira.' ;:Significado ' (Etm. do francês: vignette)' ;
+		:eSinonimo :autocolante;
+		:eSinonimo :selo;.
+
+:vinho rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' bebida alcoólica feita a partir de uvas: vinho branco' ;.
+
+:vintage rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' (Enologia) Referente ao ano de colheita de determinado vinho;' ;:Significado ' (Enologia) Indicativo de ótima e singular colheita de vinho, de produto de qualidade sublime;' ;:Significado ' Diz-se do que é arcaico ou antigo mas se encontra num estado de notável e esmerada qualidade.' ;:Significado ' (Etm. do inglês: vintage)' ;.
+
+:vinte rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' indica uma quantidade: esperar vinte minutos' ;:Significado ' que tem o número vinte: o século vinte' ;:Significado ' o número vinte: vinte contra um' ;.
+
+:vintena rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' cerca de vinte: convidar uma vintena de pessoas' ;.
+
+:viola rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' instrumento musical de cordas' ;.
+
+:violação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' agressão sexual: ser acusado de violação' ;:Significado ' facto de transgredir leis, regras: a violação da lei' ;:Significado ' acto violento contra algo de sagrado: a violação de um templo' ;:Significado ' qq ofensa a um direito ou liberdade: uma violação dos direitos humanos' ;
+		:eSinonimo :crime;
+		:eSinonimo :delito;
+		:eSinonimo :transgressao;.
+
+:violar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' agredir sexualmente alguém: violar um menor' ;:Significado ' tratar um lugar ou coisa com desrespeito: violar uma campa' ;:Significado ' transgredir: violar a constituição' ;:Significado ' desrespeitar um direito, liberdade ou privacidade: violar um direito' ;
+		:eSinonimo :constranger;
+		:eSinonimo :desobedecer;
+		:eSinonimo :estuprar;
+		:eSinonimo :infringir;
+		:eSinonimo :postergar;
+		:eSinonimo :profanar;
+		:eSinonimo :transgredir;
+		:eSinonimo :violentar;.
+
+:violência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acção brutal: tratar alguém com violência' ;:Significado ' força, intensidade: fechar a porta com violência' ;
+		:eSinonimo :frenesi;
+		:eSinonimo :furia;
+		:eSinonimo :furor;.
+
+:violentamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira violenta; de forma agressiva, colérica ou tumultuosa; de modo impetuoso, intenso ou forte;' ;:Significado ' De maneira atroz, feroz ou cruel.' ;:Significado ' (Etm. violenta + mente)' ;
+		:eAntonimo :amigavelmente;
+		:eAntonimo :amistosamente;
+		:eAntonimo :pacificadoramente;
+		:eSinonimo :agressivamente;
+		:eSinonimo :colericamente;
+		:eSinonimo :cruelmente;
+		:eSinonimo :ferozmente;
+		:eSinonimo :impetuosamente;
+		:eSinonimo :intensamente;
+		:eSinonimo :tumultuosamente;.
+
+:violentar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :substantivo;
+		:Significado ' Praticar violência sobre algo ou alguém;' ;:Significado ' Ato de estuprar ou violar;' ;:Significado ' Ação de arrebentar ou romper;' ;:Significado ' Obrigar ou forçar;' ;:Significado ' (Figurado) Distorcer a essência ou o significado de;' ;:Significado ' Obrigar a vontade do próprio;' ;:Significado ' Compelir-se ou coagir-se.' ;:Significado ' (Etm. violento + ar)' ;
+		:eAntonimo :aguentar;
+		:eAntonimo :conservar;
+		:eAntonimo :demitir;
+		:eAntonimo :desobrigar;
+		:eAntonimo :desonerar;
+		:eAntonimo :destituir;
+		:eAntonimo :eximir;
+		:eAntonimo :exonerar;
+		:eAntonimo :liberar;
+		:eAntonimo :manter;
+		:eAntonimo :poupar;
+		:eAntonimo :prescindir;
+		:eAntonimo :preservar;
+		:eAntonimo :sustentar;
+		:eAntonimo :ter;
+		:eSinonimo :alterar;
+		:eSinonimo :arrebentar;
+		:eSinonimo :arrombar;
+		:eSinonimo :constranger;
+		:eSinonimo :distorcer;
+		:eSinonimo :estuprar;
+		:eSinonimo :forcar;
+		:eSinonimo :inverter;
+		:eSinonimo :romper;
+		:eSinonimo :violar;.
+
+:violento rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que usa força brutal: um homem violento' ;:Significado ' intenso, forte: chuva violenta; dor violenta' ;
+		:eSinonimo :atroz;
+		:eSinonimo :barbaro;
+		:eSinonimo :bravio;
+		:eSinonimo :brutal;
+		:eSinonimo :bruto;
+		:eSinonimo :cruel;
+		:eSinonimo :feroz;
+		:eSinonimo :rispido;
+		:eSinonimo :selvagem;
+		:eSinonimo :severo;
+		:eSinonimo :truculento;.
+
+:violeta rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' planta com flores roxas: um ramo de violetas' ;:Significado ' da cor da violeta: uma blusa violeta' ;
+		:eSinonimo :violaceo;.
+
+:violinista rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa que toca violino' ;.
+
+:violino rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' instrumento de cordas que se toca com arco: concerto para violino e orquestra' ;.
+
+:violoncelo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' instrumento de cordas maior do que o violino' ;.
+
+:vir rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' caminhar para o lugar onde nós estamos: Vem cá!; ir e vir; Venho amanhã.' ;:Significado ' chegar: Ele veio à tarde; Ele veio tarde.' ;:Significado ' surgir: O carro veio não sei de onde.' ;.
+
+:vir-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' atingir o orgasmo' ;.
+
+:virar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' dirigir para outra direcção: virar o volante para a direita' ;:Significado ' mudar de posição ou direcção: virar à direita; virar ao contrário' ;
+		:eSinonimo :volver;.
+
+:virar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' voltar-se: virar-se para trás' ;.
+
+:Virgem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' mãe de Jesus' ;:Significado ' signo do zodíaco: Ela é Virgem.' ;.
+
+:virgem rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que nunca teve relações sexuais: uma rapariga virgem' ;:Significado ' que nunca foi utilizado: uma cassete virgem' ;:Significado ' que nunca foi explorado: floresta virgem' ;
+		:eSinonimo :intacto;
+		:eSinonimo :inviolado;.
+
+:virginal rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que diz respeito ou se refere a virgem; que é característico de virgem;' ;:Significado ' Que é casto ou puro;' ;:Significado ' (Figurado) Que é ingénuo, inocente ou bucólico.' ;:Significado ' (Etm. do latim: virgināle)' ;
+		:eAntonimo :impuro;
+		:eSinonimo :casto;
+		:eSinonimo :puro;
+		:eSinonimo :virgem;.
+
+:virgindade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' estado do que é virgem: perder a virgindade' ;
+		:eSinonimo :candura;
+		:eSinonimo :inocencia;
+		:eSinonimo :pureza;.
+
+:virgíneo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Do mesmo significado de virginal.' ;:Significado ' (Etm. do latim: virginĕu)' ;
+		:eSinonimo :virginal;.
+
+:vírgula rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' sinal de pontuação (,) que divide uma frase: um ponto e uma vírgula' ;.
+
+:viril rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Respeitante ou que se refere ao homem, ao ser do sexo masculino ou ao varão; particular ou característico de homem; másculo ou varonil;' ;:Significado ' (Figurado) Diz-se de algo ou alguém audacioso, bravo, enérgico ou determinado.' ;:Significado ' (Etm. do latim: virīle)' ;
+		:eSinonimo :macho;
+		:eSinonimo :masculino;
+		:eSinonimo :masculo;.
+
+:virilha rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' zona superior interna da coxa' ;.
+
+:virilidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica, atributo ou condição de viril;' ;:Significado ' Aspeto ou aparência máscula, varonil ou masculina; masculinidade;' ;:Significado ' Designação atribuída à idade do ser humano do sexo masculino entre a adolescência e a velhice;' ;:Significado ' (Figurado) Energia, força, vigor ou potência.' ;:Significado ' (Etm. do latim: virilitāte)' ;
+		:eSinonimo :energia;
+		:eSinonimo :masculinidade;
+		:eSinonimo :vigor;.
+
+:viril rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Campânula ou redoma de vidro dentro da qual são preservados relíquias importantes, artigos ou peças inestimáveis.' ;:Significado ' (Etm. de: vidril)' ;.
+
+:virtual rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo que é possível realizar; que poderá vir a acontecer; que é praticável ou exequível;' ;:Significado ' Diz-se do que não é real ou concreto mas existe em potência; potencial ou latente;' ;:Significado ' (Informática) Que é realizado, imitado ou simulado através de programas informáticos ou meios tecnológicos; cibernético;' ;:Significado ' Diz-se daquilo que é semelhante a outra coisa; parecido ou analógico;' ;:Significado ' (Física) Referente às imagens refletidas ou obtidas por refração, que são compostas pelos seus prolongamentos e não pelos raios refletidos ou refratados, não podendo, por esse motivo, ter uma projeção direta.' ;:Significado ' (Etm. do latim: virtuāle)' ;
+		:eAntonimo :concreto;
+		:eAntonimo :existente;
+		:eAntonimo :impossivel;
+		:eAntonimo :improvavel;
+		:eAntonimo :incontestavel;
+		:eAntonimo :real;
+		:eAntonimo :verdadeiro;
+		:eSinonimo :analogico;
+		:eSinonimo :assemelhado;
+		:eSinonimo :cibernetico;
+		:eSinonimo :executavel;
+		:eSinonimo :exequivel;
+		:eSinonimo :factivel;
+		:eSinonimo :latente;
+		:eSinonimo :parecido;
+		:eSinonimo :possivel;
+		:eSinonimo :potencial;
+		:eSinonimo :provavel;.
+
+:virtude rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Inclinação natural para a execução do bem; grandeza ou dignidade;' ;:Significado ' Designação de característica ou de aglomerado de características positivas moralmente; sublimidade ou superioridade moral;' ;:Significado ' Ato virtuoso;' ;:Significado ' Vigor ou firmeza moral; bravura, coragem ou intrepidez; ' ;:Significado ' Atributo, dote ou característica inata;' ;:Significado ' Rigor ou dureza na forma de viver;' ;:Significado ' Robustez, força ou potência;' ;:Significado ' Legalidade, autenticidade ou legitimidade;' ;:Significado ' (Antigo) Abstinência, castidade ou pureza.' ;
+		:eAntonimo :defeito;
+		:eAntonimo :desonra;
+		:eAntonimo :fraqueza;
+		:eAntonimo :ignominia;
+		:eAntonimo :indignidade;
+		:eAntonimo :infamia;
+		:eAntonimo :intemperanca;
+		:eAntonimo :mania;
+		:eSinonimo :abstinencia;
+		:eSinonimo :candura;
+		:eSinonimo :castidade;
+		:eSinonimo :condao;
+		:eSinonimo :dignidade;
+		:eSinonimo :dom;
+		:eSinonimo :equidade;
+		:eSinonimo :faculdade;
+		:eSinonimo :grandeza;
+		:eSinonimo :honestidade;.
+
+:virtuose rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' músico com muito talento: um virtuose do piano' ;.
+
+:virtuoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que tem virtudes' ;
+		:eSinonimo :valoroso;.
+
+:virulência rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica ou condição do que é virulento;' ;:Significado ' (Medicina) Designação da intensidade da patogenicidade apresentada pelos micróbios;' ;:Significado ' (Medicina) Profusão ou fluxo de vírus;' ;:Significado ' (Figurado) Índole do que ou de quem se apresenta ou expõe com agressividade ou brutalidade.' ;:Significado ' (Etm. do latim: virulentĭa)' ;
+		:eSinonimo :malignidade;.
+
+:vírus rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' agente de infecção e doença: o vírus da SIDA' ;:Significado ' programa que danifica o computador: ter um vírus no computador' ;.
+
+:visão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' faculdade de ver: ter boa visão' ;:Significado ' ilusão visual: ter visões nocturnas' ;:Significado ' ponto de vista: ter uma visão diferente dos acontecimentos' ;
+		:eSinonimo :devaneio;
+		:eSinonimo :fantasia;
+		:eSinonimo :ficcao;
+		:eSinonimo :ilusao;
+		:eSinonimo :imaginacao;
+		:eSinonimo :quimera;
+		:eSinonimo :sonho;.
+
+:visar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ação de ter (algo) em vista; ter como finalidade ou objetivo;' ;:Significado ' Colocar o visto num documento; legitimar, ratificar ou validar;' ;:Significado ' Mirar ou direcionar uma arma contra; apontar;' ;:Significado ' Aludir, fazer menção a ou referir-se.' ;:Significado ' (Etm. do francês: viser)' ;
+		:eSinonimo :aludir;
+		:eSinonimo :apontar;
+		:eSinonimo :assestar;
+		:eSinonimo :autenticar;
+		:eSinonimo :tender;
+		:eSinonimo :validar;.
+
+:víscera rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' orgão do corpo: as vísceras do animal' ;.
+
+:viscoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' pegajoso, colante: um líquido viscoso' ;
+		:eSinonimo :glutinoso;
+		:eSinonimo :gomoso;.
+
+:visibilidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' possibilidade de ver: ter boa visibilidade' ;.
+
+:visionar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Constituir uma representação mental de algo ou alguém; prever ou pressentir como numa visão;' ;:Significado ' Enxergar custosamente; avistar;' ;:Significado ' Analisar ou observar (em formato audiovisual);' ;:Significado ' Vivenciar ou experimentar visões.' ;:Significado ' (Etm. do latim: visiōne + ar)' ;
+		:eSinonimo :augurar;
+		:eSinonimo :auspiciar;
+		:eSinonimo :fadar;
+		:eSinonimo :predizer;
+		:eSinonimo :pressagiar;
+		:eSinonimo :pressentir;
+		:eSinonimo :profetizar;
+		:eSinonimo :prognosticar;
+		:eSinonimo :vaticinar;.
+
+:visionário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Que diz respeito ou se refere a visões;' ;:Significado ' Pessoa que acredita enxergar coisas incríveis, fantasiosas ou fantásticas;' ;:Significado ' Indivíduo inovador, criativo e inventivo, que possui pensamentos e ideias empreendedoras e arrojadas;' ;:Significado ' (Figurado) Pessoa idealista, sonhadora ou fantasista.' ;:Significado ' (Etm. do latim: visiōne + ário; do francês: visionnaire)' ;
+		:eAntonimo :realista;
+		:eSinonimo :fantasista;
+		:eSinonimo :idealista;
+		:eSinonimo :sonhador;
+		:eSinonimo :utopico;
+		:eSinonimo :utopista;.
+
+:visita rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' facto de ir ver alguém a sua casa: fazer uma visita aos amigos' ;:Significado ' pessoa que vai ver outra a sua casa: As visitas ainda não chegaram.' ;:Significado ' facto de ir ver algo: a visita de um museu' ;.
+
+:visitar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' ir a casa de alguém: visitar uma amiga' ;:Significado ' ir ver um lugar: visitar um país' ;.
+
+:visível rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que se pode ver: estrelas visíveis a olho nu' ;:Significado ' claro, evidente: A tristeza dela era visível.' ;
+		:eSinonimo :certo;
+		:eSinonimo :claro;
+		:eSinonimo :evidente;
+		:eSinonimo :manifesto;
+		:eSinonimo :notorio;
+		:eSinonimo :patente;
+		:eSinonimo :perceptivel;.
+
+:visivelmente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira visível; de modo percetível, aparente, concreto ou manifesto; ostensivamente ou patentemente;' ;:Significado ' De forma clara, compreensível, evidente ou explícita.' ;:Significado ' (Etm. visível + mente)' ;
+		:eAntonimo :invisivelmente;
+		:eSinonimo :aparentemente;
+		:eSinonimo :claramente;
+		:eSinonimo :concretamente;
+		:eSinonimo :evidentemente;
+		:eSinonimo :ostensivamente;
+		:eSinonimo :patentemente;
+		:eSinonimo :percetivelmente;.
+
+:vislumbrar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Ver ou enxergar nebulosamente; avistar;' ;:Significado ' Percecionar, saber ou entender de maneira incompleta ou imprecisa;' ;:Significado ' Expor-se ou manifestar-se vagamente ou imprecisamente;' ;:Significado ' Surgir ou iniciar um aparecimento; entrever ou despontar.' ;:Significado ' (Etm. do castelhano: vislumbrar)' ;
+		:eSinonimo :aparecer;
+		:eSinonimo :assemelhar;
+		:eSinonimo :brotar;
+		:eSinonimo :despontar;
+		:eSinonimo :distinguir;
+		:eSinonimo :entrever;
+		:eSinonimo :parecer;
+		:eSinonimo :perceber;
+		:eSinonimo :sugerir;.
+
+:vista rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' olhos: ser operado a uma vista' ;:Significado ' sentido da visão: ter a vista cansada' ;:Significado ' aquilo que se vê: ter uma boa vista do terraço' ;
+		:eSinonimo :aspecto;
+		:eSinonimo :paisagem;.
+
+:visto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:temTipo :preposicao;
+		:Significado ' carimbo num passaporte: pedir um visto' ;:Significado ' sinal de confirmação: Este pedido precisa do visto do director.' ;:Significado ' que se viu' ;:Significado ' por causa de, dado que: Visto isso não quero saber de nada.' ;.
+
+:vistoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que chama a atenção: cores vistosas' ;
+		:eSinonimo :elegante;
+		:eSinonimo :garrido;.
+
+:visual rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' relativo à visão: campo visual' ;:Significado ' aparência de uma pessoa ou de uma coisa: ter um visual moderno' ;.
+
+:vital rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Relativo à vida ou à existência: necessidades vitais' ;:Significado ' Que não se pode dispensar ou é imprescindível para viver: o coração é um órgão vital' ;:Significado ' (Sentido figurado) que é muito importante; essencial; fundamental: a tua contribuição é vital para este projeto' ;:Significado ' Diz-se do que proporciona vigor ou força; restaurador, revigorante: suplemento vital' ;
+		:eAntonimo :acessorio;
+		:eAntonimo :auxiliar;
+		:eAntonimo :secundario;
+		:eSinonimo :basico;
+		:eSinonimo :capital;
+		:eSinonimo :essencial;
+		:eSinonimo :fundamental;
+		:eSinonimo :imprescindivel;
+		:eSinonimo :indispensavel;
+		:eSinonimo :obrigatorio;
+		:eSinonimo :substancial;.
+
+:vitalício rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que perdura ou deve persistir durante toda a vida; perpétuo: cartão de cidadão vitalício' ;:Significado ' Referente àquilo de que se faz usufruto durante toda a vida: um cargo vitalício' ;
+		:eAntonimo :imperpetuo;
+		:eSinonimo :eterno;
+		:eSinonimo :perpetuo;.
+
+:vitalidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :determinante;
+		:Significado ' Qualidade daquilo que é vivo ou vital' ;:Significado ' Atividade ou eficácia das funções vitais; energia' ;:Significado ' Vigor físico ou mental; robustez; resistência' ;:Significado ' Grande capacidade de ação; entusiasmo; iniciativa' ;
+		:eSinonimo :energia;
+		:eSinonimo :forca;
+		:eSinonimo :robustez;
+		:eSinonimo :vigor;.
+
+:vitalmente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira vital; fundamentalmente ou de modo essencial; de forma indispensável ou obrigatória;' ;:Significado ' De forma fortificante ou estimulante.' ;:Significado ' (Etm. vital + mente)' ;
+		:eAntonimo :acessoriamente;
+		:eAntonimo :auxiliarmente;
+		:eAntonimo :secundariamente;
+		:eSinonimo :essencialmente;
+		:eSinonimo :estimulantemente;
+		:eSinonimo :fortificantemente;
+		:eSinonimo :fundamentalmente;
+		:eSinonimo :indispensavelmente;
+		:eSinonimo :obrigatoriamente;.
+
+:vitamina rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' substância essencial para a saúde: A vitamina C é boa para a constipação.' ;.
+
+:vitela rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :determinante;
+		:Significado ' Novilha com menos de um ano; bezerra' ;:Significado ' Carne dessa novilha ou de vitelo, usada na alimentação' ;:Significado ' Refeição preparada com essa carne' ;:Significado ' Pele de novilha, curtida e usada no fabrico de calçado e em encadernação' ;
+		:eSinonimo :bezerra;
+		:eSinonimo :novilha;.
+
+:vitelo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :determinante;
+		:Significado ' Cria da vaca, novilho com menos de um ano; bezerro' ;:Significado ' Material nutritivo existente no óvulo dos animais, composto por proteínas, lecitina e colesterol' ;
+		:eSinonimo :almallho;
+		:eSinonimo :bezerro;
+		:eSinonimo :novilho;.
+
+:viticultor rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' produtor de vinho' ;.
+
+:vítima rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Referente ao indivíduo ou animal que, antigamente, era usado como sacrifício oferecido aos deuses;' ;:Significado ' Designação de indivíduo que é assassinado ou destratado por outro sujeito;' ;:Significado ' Ser que é utilizado para ser sacrificado pelos interesses ou obsessões de outros;' ;:Significado ' Denominação de indivíduo que foi enganado ou iludido;' ;:Significado ' Referente a todos os seres que sofrem qualquer tipo de prejuízo ou estrago.' ;:Significado ' (Etm. do latim: victĭma)' ;
+		:eAntonimo :acusado;
+		:eAntonimo :assassino;
+		:eAntonimo :bandido;
+		:eAntonimo :criminoso;
+		:eAntonimo :culpado;
+		:eAntonimo :culposo;
+		:eAntonimo :delituoso;
+		:eAntonimo :denunciado;
+		:eAntonimo :facinora;
+		:eAntonimo :homicida;
+		:eAntonimo :indiciado;
+		:eAntonimo :malfeitor;
+		:eAntonimo :malvado;
+		:eAntonimo :matador;
+		:eAntonimo :reu;
+		:eAntonimo :sicario;
+		:eSinonimo :escravo;
+		:eSinonimo :martir;
+		:eSinonimo :presa;
+		:eSinonimo :servo;.
+
+:vitória rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' facto de ganhar uma competição ou guerra: obter a vitória no campeonato' ;
+		:eSinonimo :exito;
+		:eSinonimo :triunfo;.
+
+:vitoriar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Declarar vitorioso;' ;:Significado ' Ação de aplaudir, louvar ou apoiar muito; saudar;' ;:Significado ' Festejar uma vitória.' ;:Significado ' (Etm. victória + ar)' ;
+		:eSinonimo :aplaudir;.
+
+:vitorioso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que obteve uma vitória: a equipa vitoriosa' ;
+		:eSinonimo :triunfante;
+		:eSinonimo :vencedor;.
+
+:vitral rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' vidraça com vidros coloridos: os vitrais de igreja' ;.
+
+:vitrina rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' montra de loja: a vitrina da joalharia' ;:Significado ' móvel onde se expõem objectos: as vitrinas do museu' ;
+		:eSinonimo :escaparate;
+		:eSinonimo :mostruario;.
+
+:vituperar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Direcionar vitupérios a; maldizer, ofender ou ultrajar;' ;:Significado ' Menosprezar ou condenar; desprezar;' ;:Significado ' Repreender, censurar ou criticar duramente;' ;:Significado ' Julgar como infame ou vergonhoso.' ;:Significado ' (Etm. do latim: vituperāre)' ;
+		:eAntonimo :adular;
+		:eAntonimo :apajear;
+		:eAntonimo :candongar;
+		:eAntonimo :desagravar;
+		:eAntonimo :desultrajar;
+		:eAntonimo :engomar;
+		:eAntonimo :engraxar;
+		:eAntonimo :ensaboar;
+		:eAntonimo :escovar;
+		:eAntonimo :incensar;
+		:eAntonimo :lisonjear;
+		:eAntonimo :louvaminhar;
+		:eAntonimo :sabujar;
+		:eAntonimo :sorrabar;
+		:eAntonimo :turibular;
+		:eSinonimo :caluniar;
+		:eSinonimo :censurar;
+		:eSinonimo :criticar;
+		:eSinonimo :desacreditar;
+		:eSinonimo :descompor;
+		:eSinonimo :desfeitear;
+		:eSinonimo :desonrar;
+		:eSinonimo :difamar;
+		:eSinonimo :doestar;
+		:eSinonimo :exprobar;
+		:eSinonimo :ignominiar;
+		:eSinonimo :infamar;
+		:eSinonimo :injuriar;
+		:eSinonimo :insultar;
+		:eSinonimo :maldizer;
+		:eSinonimo :objurgar;
+		:eSinonimo :ofender;
+		:eSinonimo :provocar;
+		:eSinonimo :repreender;
+		:eSinonimo :reprochar;
+		:eSinonimo :ultrajar;
+		:eSinonimo :verberar;.
+
+:viúvo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' a quem morreu o marido ou a mulher: mulher viúva' ;:Significado ' pessoa a quem morreu o marido ou a mulher: casar com um viúvo' ;.
+
+:vivacidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' rapidez e entusiasmo: exprimir-se com vivacidade' ;
+		:eSinonimo :viveza;.
+
+:vivaz rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem vive durante muito tempo; que tem uma vida duradoura, longa; ' ;:Significado ' (Botânica) Característica da planta que possui órgãos subterrâneos muito duradouros; a parte aérea da planta é, geralmente, restaurada todos os anos;' ;:Significado ' (Figurado) Vigoroso ou persistente; duradouro ou de difícil aniquilação;' ;:Significado ' (Figurado) Animado, enérgico ou ardente.' ;:Significado ' (Etm. do latim: vivāce)' ;
+		:eAntonimo :cansado;
+		:eAntonimo :fraco;
+		:eAntonimo :fragil;
+		:eAntonimo :temporario;
+		:eAntonimo :transitivo;
+		:eSinonimo :animado;
+		:eSinonimo :ativo;
+		:eSinonimo :duradouro;
+		:eSinonimo :energico;
+		:eSinonimo :forte;
+		:eSinonimo :vivedouro;
+		:eSinonimo :vivo;.
+
+:vivedouro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem vive por muito tempo;' ;:Significado ' Que possui características ou condições naturais de conservação e durabilidade.' ;:Significado ' (Etm. viver + douro)' ;
+		:eSinonimo :vivaz;.
+
+:viveiro rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' local para a criação de plantas: cultivar plantas num viveiro' ;:Significado ' local para a criação de animais: um viveiro de trutas' ;.
+
+:vivenda rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' casa individual' ;
+		:eSinonimo :casa;
+		:eSinonimo :lar;
+		:eSinonimo :mansao;
+		:eSinonimo :morada;
+		:eSinonimo :moradia;.
+
+:viver rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' existir: ter alegria de viver' ;:Significado ' morar: viver no campo; viver com os pais' ;:Significado ' continuar vivo: Aquele escritor vive na memória das pessoas.' ;:Significado ' experimentar: viver uma experiência interessante' ;
+		:eSinonimo :existir;
+		:eSinonimo :subsistir;.
+
+:vivo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que tem vida: Quando eles chegaram, ela já não estava viva; um ser vivo' ;:Significado ' activo, enérgico: um menino muito vivo' ;:Significado ' muito animado: um bairro vivo' ;:Significado ' expressivo: uma narrativa viva' ;:Significado ' que tem vida: os vivos e os mortos' ;
+		:eSinonimo :ardiloso;
+		:eSinonimo :arteiro;
+		:eSinonimo :astucioso;
+		:eSinonimo :astuto;
+		:eSinonimo :bulicoso;
+		:eSinonimo :espertalhao;
+		:eSinonimo :esperto;
+		:eSinonimo :picaro;
+		:eSinonimo :sagaz;.
+
+:vizindade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica daquilo ou daquele que é vizinho;' ;:Significado ' Arredores ou proximidade.' ;:Significado ' (Etm. do latim: vicinitāte)' ;
+		:eAntonimo :distancia;
+		:eAntonimo :isolamento;
+		:eAntonimo :retiro;
+		:eAntonimo :retraimento;
+		:eAntonimo :solidao;
+		:eSinonimo :imediacao;
+		:eSinonimo :propinquidade;
+		:eSinonimo :proximidade;
+		:eSinonimo :redondeza;
+		:eSinonimo :vizinhanca;.
+
+:vizinhança rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' proximidade: Ele mora na vizinhança.' ;:Significado ' conjunto de pessoas que moram perto: uma vizinhança mista' ;
+		:eSinonimo :esfericidade;
+		:eSinonimo :imediacao;
+		:eSinonimo :propinquidade;
+		:eSinonimo :proximidade;
+		:eSinonimo :redondeza;.
+
+:vizinho rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' pessoa que mora perto de alguém: Os meus vizinhos são simpáticos.' ;:Significado ' que fica ao lado, próximo: o prédio vizinho' ;
+		:eSinonimo :adjacente;
+		:eSinonimo :chegado;
+		:eSinonimo :imediato;
+		:eSinonimo :propinquo;
+		:eSinonimo :proximo;.
+
+:voador rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' que voa: um peixe voador' ;
+		:eSinonimo :volatil;.
+
+:voar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' deslocar-se no ar: voar a grande altitude' ;:Significado '  (fig) passar muito depressa: O tempo voa.' ;
+		:eSinonimo :adejar;
+		:eSinonimo :drapejar;
+		:eSinonimo :esvoacar;
+		:eSinonimo :pairar;
+		:eSinonimo :planar;
+		:eSinonimo :voejar;
+		:eSinonimo :volitar;.
+
+:vocabulário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Aglomerado ou grupo de palavras de determinado idioma; do mesmo significado de léxico;' ;:Significado '  Conjunto de vocábulos e ditos familiares ou usadas por um indivíduo ou por um grupo de indivíduos;' ;:Significado ' Grupo de palavras ou expressões próprios e particulares de determinada área científica ou artística; nomenclatura;' ;:Significado ' Denominação de dicionário ou glossário.' ;:Significado ' (Etm. vocábulo + ário)' ;
+		:eSinonimo :dicionario;
+		:eSinonimo :elucidario;
+		:eSinonimo :glossario;
+		:eSinonimo :lexico;
+		:eSinonimo :nomenclatura;
+		:eSinonimo :terminologia;.
+
+:vocábulo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' palavra: um vocábulo técnico' ;
+		:eSinonimo :diccao;
+		:eSinonimo :expressao;
+		:eSinonimo :palavra;
+		:eSinonimo :termo;.
+
+:vocação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Religião) Ação de ser convocado, chamado ou fadado para certa finalidade ou propósito; tendência ou queda para a vida religiosa;' ;:Significado ' Tendência, inclinação e habilidade para determinado modo de vida, carreira profissional, aprendizagem, ofício ou arte; propensão, predisposição ou aptidão;' ;:Significado ' Designação de dom, veia, jeito ou condão; disposição ou pendor natural.' ;:Significado ' (Etm. do latim: vocatiōne)' ;
+		:eSinonimo :aptidao;
+		:eSinonimo :capacidade;
+		:eSinonimo :habilidade;
+		:eSinonimo :inclinacao;
+		:eSinonimo :jeito;
+		:eSinonimo :jeito;
+		:eSinonimo :orientacao;
+		:eSinonimo :propensao;
+		:eSinonimo :qualidade;
+		:eSinonimo :tendencia;.
+
+:vocalista rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' pessoa que canta num conjunto: o vocalista do grupo' ;.
+
+:vocativo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Gramática) Atribuição sintática desempenhada pelo vocábulo ou expressão que, numa sentença e quando utilizada no discurso direto, serve para invocar ou abordar o interlocutor; não afeta a flexão verbal;' ;:Significado ' (Gramática) Expressa, nos idiomas que possuem declinação, invocação ou abordagem.' ;:Significado ' (Etm. do latim: vocatīvu)' ;.
+
+:você rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Pronome de tratamento utilizado para designar o sujeito com quem se dialoga ou a quem se escreve; quando assume a função de sujeito, é acompanhado por um verbo conjugado na terceira pessoa do singular.' ;:Significado ' (Etm. contração de: vossemecê)' ;.
+
+:vociferar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Proferir em voz alta e irritada; gritar, vozear ou bradar;' ;:Significado ' Censurar severamente com tom hostil.' ;:Significado ' (Etm. do latim: vociferāri)' ;
+		:eAntonimo :murmurar;
+		:eAntonimo :resmungar;
+		:eAntonimo :segredar;
+		:eAntonimo :suspirar;
+		:eAntonimo :tinir;
+		:eAntonimo :zoar;
+		:eAntonimo :zunir;
+		:eSinonimo :berrar;
+		:eSinonimo :bradar;
+		:eSinonimo :clamar;
+		:eSinonimo :conclamar;
+		:eSinonimo :gritar;
+		:eSinonimo :ulular;
+		:eSinonimo :vozear;.
+
+:voejar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Ato de bater as asas de modo a se permanecer no ar; do mesmo significado de  planar, aplainar ou esvoaçar.' ;:Significado ' (Etm. voo + ejar)' ;
+		:eSinonimo :adejar;
+		:eSinonimo :drapejar;
+		:eSinonimo :esvoacar;
+		:eSinonimo :pairar;
+		:eSinonimo :planar;
+		:eSinonimo :voar;
+		:eSinonimo :volitar;.
+
+:voga rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de vogar;' ;:Significado ' Popularidade ou tendência passageira; mania ou moda;' ;:Significado ' (Por Ext.) O ritmo apresentado ou incluído em qualquer ação;' ;:Significado ' (Marinha) Movimentação ritmado proveniente das remadas.' ;:Significado ' (Marinha) Pessoa que, enquanto está sentada na parte de trás dos navios, assinala o ritmo da remada dos que o acompanham.' ;:Significado ' (Etm. Forma Regre. de vogar)' ;
+		:eAntonimo :anonimato;
+		:eAntonimo :desconhecimento;
+		:eAntonimo :desuso;
+		:eAntonimo :impopularidade;
+		:eSinonimo :moda;
+		:eSinonimo :onda;
+		:eSinonimo :popularidade;
+		:eSinonimo :tendencia;
+		:eSinonimo :uso;.
+
+:vogal rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' (Linguística) Fonema produzido ou emitido sem que se verifique oclusão da passagem do ar na cavidade bucal ou na cavidade nasal;' ;:Significado ' (Gramática) Representação gráfica dos fonemas vocálicos de um idioma; em português são as letras do alfabeto: a,e,i,o,u;' ;:Significado ' (Linguística) Diz-se do fonema produzido ou emitido sem que se verifique oclusão da passagem do ar na cavidade bucal ou na cavidade nasal;' ;:Significado ' Indivíduo que possui poder de voto numa direção, assembleia, junta, congresso, entre outros.' ;:Significado ' (Etm. do latim: vocāle)' ;.
+
+:vogar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' flutuar, navegar: vogar ao sabor das ondas' ;
+		:eSinonimo :boiar;
+		:eSinonimo :flutuar;
+		:eSinonimo :remar;.
+
+:volante rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' aquilo com que se dirige um veículo: estar ao volante' ;:Significado ' objecto leve que se lança com uma raquete: partida de volante' ;.
+
+:volátil rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Aquilo que facilmente se evapora;' ;:Significado ' Designação comum do que voa, daquilo que é voador;' ;:Significado ' Que se refere a aves;' ;:Significado ' Aquilo que é passível de se volatizar;' ;:Significado ' (Figurado) Que é instável, incerto, insconstante, volúvel;' ;:Significado ' (Etm. do latim: volatilis)' ;
+		:eAntonimo :estavel;
+		:eAntonimo :imutavel;
+		:eAntonimo :inalteravel;
+		:eAntonimo :invariavel;
+		:eAntonimo :previsivel;
+		:eSinonimo :voador;
+		:eSinonimo :voluvel;.
+
+:voleibol rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' desporto em que se atira uma bola por cima de uma rede' ;.
+
+:volta rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' regresso: Até à minha volta!; estar de volta' ;:Significado ' mudança, alteração: A vida dela deu muitas voltas.' ;:Significado ' passeio: ir dar uma volta com alguém' ;:Significado ' acto de rodar em torno de si: dar três voltas à chave' ;:Significado ' percurso circular: dar voltas à praça' ;
+		:eSinonimo :circuito;
+		:eSinonimo :giro;
+		:eSinonimo :redor;
+		:eSinonimo :regresso;
+		:eSinonimo :retorno;
+		:eSinonimo :revinda;
+		:eSinonimo :rotacao;.
+
+:voltar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :substantivo;
+		:Significado ' Ir de um ponto ou de um local para o ponto ou local de partida; regressar: voltou a casa depois da viagem' ;:Significado ' Retornar a um estado anterior: depois da operação, voltou ao normal' ;:Significado ' Fazer de novo: voltou a ler o livro' ;:Significado ' Reviver através da memória; recordar: voltar à infância' ;:Significado ' Mudar a orientação, o sentido ou a inclinação de; virar: voltou a cabeça para a esquerda' ;:Significado ' Apontar; dirigir; orientar: voltou a atenção para o público' ;
+		:eAntonimo :ir;
+		:eAntonimo :partir;
+		:eSinonimo :regressar;
+		:eSinonimo :retornar;
+		:eSinonimo :tornar;.
+
+:voltar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' virar-se: voltar-se para trás' ;.
+
+:voltear rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' Andar à volta ou em roda de algo; ' ;:Significado ' Ação de dar voltas a algo; fazer com que algo ou alguém gire ou rode;' ;:Significado ' Ação de girar ou dar voltas; virar, rodopiar ou piruetar;' ;:Significado ' Ato de voar realizando movimentos relativamente circulares;' ;:Significado ' Caminhar ou andar sem rota ou desprovido de rumo; zanzar ou perambular.' ;:Significado ' (Etm. volta + ear)' ;
+		:eSinonimo :adejar;
+		:eSinonimo :contornar;
+		:eSinonimo :desviar;
+		:eSinonimo :esvoacar;
+		:eSinonimo :girar;
+		:eSinonimo :rodear;
+		:eSinonimo :rodopiar;
+		:eSinonimo :virar;
+		:eSinonimo :voejar;.
+
+:voltejar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Do mesmo significado de voltear.' ;:Significado ' (Etm. volta + ejar)' ;
+		:eSinonimo :voltear;.
+
+:volubilidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica de volúvel;' ;:Significado ' Inclinação para alterar ou modificar;' ;:Significado ' Desembaraço ou agilidade de movimentação;' ;:Significado ' (Figurado) Designação de instabilidade, variação ou falta de constância.' ;:Significado ' (Etm. do latim: volubilitāte)' ;
+		:eAntonimo :fixidez;
+		:eAntonimo :imutabilidade;
+		:eAntonimo :uniformidade;
+		:eSinonimo :desigualdade;
+		:eSinonimo :diversidade;
+		:eSinonimo :flutuacao;
+		:eSinonimo :inconstancia;
+		:eSinonimo :instabilidade;
+		:eSinonimo :oscilacao;
+		:eSinonimo :variacao;
+		:eSinonimo :variedade;.
+
+:volume rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' espaço ocupado por um corpo: calcular um volume' ;:Significado ' quantidade global de algo: o volume dos negócios baixou' ;:Significado ' livro: O segundo volume já saiu.' ;
+		:eSinonimo :massa;
+		:eSinonimo :tamanho;.
+
+:volumosamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira volumosa; abundantemente ou de forma avultada.' ;:Significado ' (Etm. volumosa + mente)' ;
+		:eSinonimo :avultadamente;
+		:eSinonimo :imensamente;.
+
+:volumoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que possui grande volume;' ;:Significado ' Que abrange uma enorme quantidade de espaço;' ;:Significado ' (Som) Que é vigoroso ou forte.' ;:Significado ' (Etm. volume + oso)' ;
+		:eAntonimo :debilitado;
+		:eAntonimo :delicado;
+		:eAntonimo :enfezado;
+		:eAntonimo :esguio;
+		:eAntonimo :fraco;
+		:eAntonimo :franzino;
+		:eAntonimo :insignificante;
+		:eAntonimo :minusculo;
+		:eAntonimo :miudo;
+		:eAntonimo :tenue;
+		:eSinonimo :abundante;
+		:eSinonimo :copioso;
+		:eSinonimo :numeroso;
+		:eSinonimo :profuso;
+		:eSinonimo :rico;.
+
+:voluntariado rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica ou condição de voluntário;' ;:Significado ' Designação do trabalho realizado por voluntários;' ;:Significado ' Referente à classe constituída por voluntários.' ;:Significado ' (Etm. voluntário + ado)' ;.
+
+:voluntariamente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira voluntária; de modo espontâneo ou opcionalmente; de modo arbitrário ou altruisticamente.' ;:Significado ' (Etm. voluntária + mente)' ;
+		:eAntonimo :forcosamente;
+		:eSinonimo :arbitrariamente;
+		:eSinonimo :espontaneamente;
+		:eSinonimo :opcionalmente;.
+
+:voluntariedade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica ou particularidade de voluntário ou de voluntarioso;' ;:Significado ' Designação de vontade, arbítrio ou alvedrio; espontaneidade ou naturalidade; qualidade da pessoa que atua de acordo com os seus quereres ou os seus impulsos;' ;:Significado ' Teimosia, birra ou capricho; característica de quem age por impertinência ou teima; do mesmo significado de veleidade.' ;:Significado ' (Etm. voluntário + edade)' ;
+		:eSinonimo :capricho;
+		:eSinonimo :espontaneidade;
+		:eSinonimo :excentricidade;
+		:eSinonimo :fantasia;
+		:eSinonimo :teima;
+		:eSinonimo :veleidade;.
+
+:voluntário rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' que se faz de livre vontade: trabalho voluntário' ;:Significado ' pessoa que se oferece para fazer algo: oferecer-se como voluntário' ;.
+
+:volúpia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Deleite ou prazer sensitivo; deleitação ou aprazimento alcançado pelos sentidos;' ;:Significado ' Prazer excessivo ou descomedido;' ;:Significado ' Prazer sexual imoderado ou exagerado; sensualidade, luxúria ou languidez.' ;:Significado ' (Etm. do latim: volupia)' ;
+		:eAntonimo :luto;
+		:eAntonimo :tristeza;
+		:eSinonimo :gozo;
+		:eSinonimo :luxuria;
+		:eSinonimo :prazer;
+		:eSinonimo :sensualidade;
+		:eSinonimo :voluptuosidade;.
+
+:voluptuoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' em que há ou que dá prazer: carícia voluptuosa' ;
+		:eSinonimo :carnal;
+		:eSinonimo :concupiscente;
+		:eSinonimo :devasso;
+		:eSinonimo :erotico;
+		:eSinonimo :lascivo;
+		:eSinonimo :libertino;
+		:eSinonimo :lubrico;
+		:eSinonimo :salaz;
+		:eSinonimo :sensual;.
+
+:volúvel rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' inconstante: uma pessoa volúvel' ;
+		:eSinonimo :inconstante;
+		:eSinonimo :instavel;
+		:eSinonimo :mutavel;
+		:eSinonimo :variante;
+		:eSinonimo :variavel;
+		:eSinonimo :versatil;.
+
+:voluvelmente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira volúvel; de modo alterável, frívolo, incerto ou inconstante; de forma instável, irregular, leviana ou mutável.' ;:Significado ' (Etm. volúvel + mente)' ;
+		:eSinonimo :alteravelmente;
+		:eSinonimo :frivolamente;
+		:eSinonimo :incertamente;.
+
+:vomitar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' deitar pela boca a comida ingerida: vomitar o almoço' ;.
+
+:vómito rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Ação ou resultado de vomitar; ' ;:Significado ' Ato de expulsão ou eliminação realizada pela boca de substâncias que se encontravam no estômago;' ;:Significado ' Designação das substâncias que foram vomitadas; do mesmo significado de vomitado.' ;:Significado ' (Etm. do latim: vomĭtu)' ;
+		:eSinonimo :gomito;.
+
+:vontade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Intenção, propósito ou determinação; sentimento que faz com que alguém busque os seus objetivos ou procure alcançar as suas ambições: vontade de subir na vida;' ;:Significado ' Ânsia, desejo ou querer; aspiração física ou emocional: vontade de comer um gelado;' ;:Significado ' Possibilidade que cada indivíduo tem de escolher ou optar por algo; capacidade de realizar ou não determinada coisa; arbítrio, mercê, opinião ou escolha: realizou a sua vontade;' ;:Significado ' Impulso, extravagância ou capricho; ânsia ou desejo súbito: a menina tem muitas vontades;' ;:Significado ' Dedicação, emprenho ou firmeza; manifestação de interesse e de zelo: guardou a sua vontade para o exame;' ;:Significado ' Deleitação, gozo, regalo ou satisfação; manifestação de prazer: comia com vontade.' ;
+		:eAntonimo :desalento;
+		:eAntonimo :desanimo;
+		:eAntonimo :desinteresse;
+		:eAntonimo :esmorecimento;
+		:eAntonimo :indecisao;
+		:eSinonimo :ansia;
+		:eSinonimo :arbitrio;
+		:eSinonimo :contentamento;
+		:eSinonimo :decisao;
+		:eSinonimo :dedicacao;
+		:eSinonimo :deleitacao;
+		:eSinonimo :deliberacao;
+		:eSinonimo :desejo;
+		:eSinonimo :designio;
+		:eSinonimo :desvelo;
+		:eSinonimo :determinacao;
+		:eSinonimo :empenho;
+		:eSinonimo :energia;
+		:eSinonimo :forca;
+		:eSinonimo :prazer;
+		:eSinonimo :pujanca;
+		:eSinonimo :querer;
+		:eSinonimo :robustez;.
+
+:voo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' deslocação de aves e insectos no ar: o voo das andorinhas' ;:Significado ' deslocação de avião: voo doméstico/internacional; voo directo/com escala' ;:Significado ' trajecto percorrido por via aérea: voo Paris-Lisboa' ;.
+
+:voracidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica ou atributo de voraz;' ;:Significado ' Fome ou apetite comilão ou voraz;' ;:Significado ' Desespero, pressa ou sofreguidão na maneira de tragar ou comer; esganação;' ;:Significado ' (Figurado) Impulso ou arrebatamento destrutivo ou vândalo;' ;:Significado ' (Figurado) Cobiça ou ganância descomedida ou imoderada;' ;:Significado ' (Figurado) Sovinice, mesquinhez ou avareza.' ;:Significado ' (Etm. do latim: voracitāte)' ;
+		:eSinonimo :ambicao;
+		:eSinonimo :apetite;
+		:eSinonimo :avidez;
+		:eSinonimo :esganacao;
+		:eSinonimo :ganancia;
+		:eSinonimo :glutonaria;
+		:eSinonimo :impaciencia;
+		:eSinonimo :impetuosidade;.
+
+:voraz rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo ou daquele que é come apressadamente e quase sem mastigar, de modo a consumir a maior quantidade possível de comida; que não se sacia facilmente; sôfrego ou devorador: ele tem um apetite voraz, ninguém tem tempo de comer nada quando ele está à mesa;' ;:Significado ' (Por Ext.) Diz-se de quem come de modo excessivo ou descontrolado; glutão, esfaimado, esfomeado ou comilão;' ;:Significado ' (Figurado) Diz-se daquilo que aniquila, arruina ou devasta algo; destruidor: tempestade voraz;' ;:Significado ' (Figurado) Que revela grande ambição; ganancioso, ambicioso ou ávido: a sua atitude voraz denunciou as suas verdadeiras intenções.' ;:Significado ' (Etm. do latim: vorāce)' ;
+		:eAntonimo :comedido;
+		:eAntonimo :contido;
+		:eAntonimo :controlado;
+		:eAntonimo :desambicioso;
+		:eAntonimo :desapegado;
+		:eAntonimo :desinteressado;
+		:eAntonimo :desprendido;
+		:eAntonimo :moderado;
+		:eSinonimo :ambicioso;
+		:eSinonimo :avido;
+		:eSinonimo :cobicoso;
+		:eSinonimo :comedor;
+		:eSinonimo :comilao;
+		:eSinonimo :desejoso;
+		:eSinonimo :devorador;
+		:eSinonimo :edaz;
+		:eSinonimo :sofrego;.
+
+:vos rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' designa as pessoas a quem se dirige: Ele disse-vos que não vinha.' ;.
+
+:vosso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' de vocês: Onde fica a vossa casa?' ;:Significado ' de vocês: Estas chaves são as vossas ou as minhas?' ;.
+
+:vós rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' designa a pessoa a quem se dirige' ;.
+
+:votação rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acto de votar: votação eleitoral' ;:Significado ' resultado do voto: a segunda volta da votação' ;
+		:eSinonimo :sufragio;.
+
+:votar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:temTipo :verbo;
+		:Significado ' aprovar algo por meio de voto: votar uma lei' ;:Significado ' escolher ou eleger alguém por meio de voto: votar num candidato de esquerda' ;.
+
+:votar-se rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' dedicar-se a: votar-se à defesa do ambiente' ;.
+
+:voto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' acto de escolher por meio de voto: uma secção de voto; voto secreto' ;:Significado ' opinião expressa: voto nulo; contagem manual dos votos' ;:Significado ' promessa: cumprir um voto' ;
+		:eSinonimo :jura;
+		:eSinonimo :promessa;.
+
+:voz rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' possibilidade de falar: perder a voz' ;:Significado ' som emitido pelo ser humano: ter uma voz grave; falar em voz baixa/alta' ;
+		:eSinonimo :berro;
+		:eSinonimo :brado;
+		:eSinonimo :clamor;
+		:eSinonimo :grito;.
+
+:vulcânico rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' relativo a vulcão: uma ilha vulcânica' ;
+		:eSinonimo :abrasador;
+		:eSinonimo :ardente;
+		:eSinonimo :calido;
+		:eSinonimo :fogoso;
+		:eSinonimo :incandescente;.
+
+:vulcanismo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Geologia) Aglomerado de eventos vulcânicos;' ;:Significado ' (Geologia) Tese ou hipótese que tem como intenção explicar a origem de manifestações vulcânicas;' ;:Significado ' (Geologia) Cenário que responsabiliza o fogo pela formação da primeira crosta terrestre;' ;:Significado ' (Geologia) Evacuação de lava fundida, de gases e de pedaços de lava, das  áreas profundas do planeta Terra;' ;:Significado ' (Figurado) Referente a uma erupção catastrófica.' ;:Significado ' (Etm. vulcão + ismo)' ;.
+
+:vulcanologia rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Geologia) Ciência que se dedica ao estudo dos fenómenos vulcânicos, à sua forma de funcionamento e às suas origens.' ;:Significado ' (Etm. vulcão + logia; do francês: vulcanologie)' ;.
+
+:vulcão rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' fenda na terra da qual pode sair matéria ardente: a cratera de um vulcão' ;.
+
+:vulgar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:temTipo :substantivo;
+		:Significado ' Respeitante a vulgo ou popular;' ;:Significado ' Que é corriqueiro ou usual;' ;:Significado ' Que é constante; ' ;:Significado ' Ordinário ou medíocre;' ;:Significado ' Cógnito ou público;' ;:Significado ' Desprezível ou tosco; reles ou vil;' ;:Significado ' Referente àquilo que todos conhecem;' ;:Significado ' O que é habitual.' ;:Significado ' (Etm. do latim: vulgāre)' ;
+		:eSinonimo :banal;
+		:eSinonimo :comum;
+		:eSinonimo :corriqueiro;
+		:eSinonimo :ordinario;
+		:eSinonimo :trivial;.
+
+:vulgaridade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica daquilo que é vulgar; vulgarismo;' ;:Significado ' Trivialidade ou frivolidade.' ;:Significado ' (Etm. do latim: vulgaritāte)' ;
+		:eAntonimo :excentricidade;
+		:eAntonimo :singularidade;
+		:eAntonimo :sublimidade;
+		:eSinonimo :banalidade;
+		:eSinonimo :frivolidade;
+		:eSinonimo :futilidade;.
+
+:vulgarismo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Peculiaridade, condição ou postura do que ou de quem é vulgar; que demonstra vulgaridade;' ;:Significado ' Característica daquilo que é vulgar; do mesmo significado de vulgaridade;' ;:Significado ' Vocábulo ou expressão rude ou impolida;' ;:Significado ' Palavra indecorosa ou sórdida; palavrão ou asneira;' ;:Significado ' (Linguística) Uso de uma linguagem que se opõe às regras formais de uso da língua.' ;:Significado ' (Etm. vulgar + ismo)' ;
+		:eSinonimo :banalidade;
+		:eSinonimo :vulgaridade;.
+
+:vulgarmente rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adverbio;
+		:Significado ' De maneira vulgar; de modo comum, corrente, corriqueiro ou habitual;' ;:Significado ' De forma bronca, chula, desprezível ou grosseira.' ;:Significado ' (Etm. vulgar + mente)' ;
+		:eAntonimo :excecionalmente;
+		:eAntonimo :invulgarmente;
+		:eSinonimo :broncamente;
+		:eSinonimo :comummente;
+		:eSinonimo :correntemente;
+		:eSinonimo :corriqueiramente;
+		:eSinonimo :desprezivelmente;
+		:eSinonimo :grosseiramente;.
+
+:vulgar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Fazer com que fique conhecido ou popular; difundir ou propagar.' ;:Significado ' (Etm. do latim: vulgāre)' ;.
+
+:vulgo rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adverbio;
+		:Significado ' Designação da classe social correspondente ao povo; plebe ou populacho;' ;:Significado ' Denominação da totalidade da população, da maioria das pessoas;' ;:Significado ' Corriqueiramente ou na linguagem vulgar ou habitual; ordinariamente.' ;:Significado ' (Etm. do latim: vulgu)' ;
+		:eSinonimo :plebe;
+		:eSinonimo :populacho;
+		:eSinonimo :povo;.
+
+:vulnerabilidade rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Característica ou caráter de vulnerável.' ;:Significado ' (Etm. do latim: vulnerabĭle)' ;
+		:eSinonimo :delicadeza;
+		:eSinonimo :destrutibilidade;
+		:eSinonimo :fragilidade;
+		:eSinonimo :fraqueza;
+		:eSinonimo :indefensabilidade;
+		:eSinonimo :inseguranca;
+		:eSinonimo :instabilidade;.
+
+:vulnerar rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :verbo;
+		:Significado ' Provocar ferida ou machucado a; ação de ferir ou lesionar;' ;:Significado ' Injuriar ou afrontar;' ;:Significado ' Originar ou provocar danos a.' ;:Significado ' (Etm. do latim: vulnerāre)' ;
+		:eSinonimo :abscindir;
+		:eSinonimo :cortar;
+		:eSinonimo :fender;
+		:eSinonimo :ferir;
+		:eSinonimo :golpear;
+		:eSinonimo :rasgar;.
+
+:vulnerável rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se do que ou de quem apresenta tendência a ser magoado, ferido ou derrotado; que é frágil, indefeso ou suscetível;' ;:Significado ' Que apresenta escassas defesas; que é fraco ou desprotegido; ' ;:Significado ' Diz-se do que pode ser aniquilado ou destruído por;' ;:Significado ' (Figurado) Referente ao ponto fraco de um indivíduo, de um obejto, de um tema ou de um assunto.' ;:Significado ' (Etm. do latim: vulnerabilis)' ;
+		:eAntonimo :impenetravel;
+		:eAntonimo :inatacavel;
+		:eAntonimo :insensivel;
+		:eAntonimo :invulneravel;
+		:eAntonimo :protegido;
+		:eAntonimo :seguro;
+		:eSinonimo :acometivel;
+		:eSinonimo :atacavel;
+		:eSinonimo :debilitavel;
+		:eSinonimo :derrotavel;
+		:eSinonimo :desabrigado;
+		:eSinonimo :desemparado;
+		:eSinonimo :desprotegido;
+		:eSinonimo :destruivel;
+		:eSinonimo :destrutivel;
+		:eSinonimo :fragil;
+		:eSinonimo :indefeso;
+		:eSinonimo :magoavel;
+		:eSinonimo :prejudicavel;
+		:eSinonimo :suscetivel;.
+
+:vulpino rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Referente à raposa ou característico dela;' ;:Significado ' (Figurado) Perspicaz ou ardiloso; traidor.' ;:Significado ' (Etm. do latim: vulpīnu)' ;
+		:eAntonimo :nitido;
+		:eSinonimo :aleivoso;
+		:eSinonimo :astuto;
+		:eSinonimo :desleal;
+		:eSinonimo :esperto;
+		:eSinonimo :falso;
+		:eSinonimo :farsante;
+		:eSinonimo :hipocrita;
+		:eSinonimo :infiel;
+		:eSinonimo :perfido;.
+
+:vulto rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' figura indistinta: ver um vulto ao longe' ;
+		:eSinonimo :efigie;
+		:eSinonimo :personalidade;.
+
+:vultoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Que forma ou produz vulto; que é volumoso; que é avantajado;' ;:Significado ' Que é imponente, portentoso, considerável ou relevante.' ;:Significado ' (Etm. vulto + oso)' ;
+		:eAntonimo :infinitesimal;
+		:eAntonimo :insignificante;
+		:eAntonimo :irrisorio;
+		:eAntonimo :minimo;
+		:eAntonimo :miudo;
+		:eAntonimo :pequenissimo;
+		:eAntonimo :residual;
+		:eAntonimo :ridiculo;
+		:eSinonimo :alentado;
+		:eSinonimo :apreciavel;
+		:eSinonimo :avantajado;
+		:eSinonimo :avultado;
+		:eSinonimo :avultante;
+		:eSinonimo :consideravel;
+		:eSinonimo :enorme;
+		:eSinonimo :excessivo;
+		:eSinonimo :formidavel;
+		:eSinonimo :grande;
+		:eSinonimo :grave;
+		:eSinonimo :importante;
+		:eSinonimo :volumoso;.
+
+:vultuoso rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :adjetivo;
+		:Significado ' Diz-se daquilo ou daquele que ocupa um grande espaço; que é volumoso;' ;:Significado ' Aquilo ou aquele que é avultado, grande ou considerável;' ;:Significado ' (Medicina) Rosto muito vermelho e excessivamente inchado.' ;:Significado ' (Etm. do latim: vultuōsu)' ;
+		:eSinonimo :debil;
+		:eSinonimo :doentio;
+		:eSinonimo :enfermico;
+		:eSinonimo :inchado;
+		:eSinonimo :insalubre;
+		:eSinonimo :intumescente;
+		:eSinonimo :morbido;.
+
+:wc rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação do compartimento que, geralmente, corresponde à casa de banho; dependência que possui sanita.' ;:Significado ' (Etm. do inglês: abreviatura de water closet)' ;
+		:eSinonimo :banheiro;
+		:eSinonimo :casa de banho;
+		:eSinonimo :lavabo;
+		:eSinonimo :sanitario;
+		:eSinonimo :toalete;.
+
+:web rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Designação comum da rede mundial de computadores na internet (redução de world wide web), que permite a interligação de documentos e recursos e também a obtenção de informação sob a forma de hipertexto, integrando vários serviços.' ;:Significado ' (Etm. do inglês: web)' ;
+		:eSinonimo :rede;.
+
+:wi-fi rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:temTipo :adjetivo;
+		:Significado ' (Informática) Designação de uma forma de comunicação tecnológica que não recorre à utilização de cabos, podendo ser realizada por frequência de rádio, através de infravermelhos, entre outras;' ;:Significado ' (Informática) Diz-se do que trabalha com essa tecnologia, sem ligações a cabos elétricos.' ;:Significado ' (Etm. do inglês (redução de): wireless fidelity)' ;.
+
+:windsurf rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' desporto com prancha à vela' ;.
+
+:workshop rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Sessão, aula, seminário prático ou formação acerca de determinado ofício, arte, ou tema específico, que possui uma duração muito curta; também denominado oficina ou atelier.' ;:Significado ' (Etm. do inglês: workshop)' ;
+		:eSinonimo :atelier;
+		:eSinonimo :oficina;.
+
+:yen rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Do mesmo significado de iene - unidade monetária existente no Japão.' ;:Significado ' (Etm. do japonês: yen)' ;.
+
+:yield rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' (Finanças) Referente à cota ou proporção da rentabilidade de um investimento; geralmente aplicado no caso de títulos de dívidas.' ;:Significado ' (Etm. do inglês: yield)' ;.
+
+:yin rdf:type owl:NamedIndividual ,
+			:Word ;
+		:temTipo :substantivo;
+		:Significado ' Elemento feminino que retrata a passividade, a frigidez e a tenebrosidade; é visto, de acordo com a filosofia chinesa, como uma das matrizes primordiais da natureza, em conjunto com o yang.' ;:Significado ' (Etm. de origem obscura)' ;.

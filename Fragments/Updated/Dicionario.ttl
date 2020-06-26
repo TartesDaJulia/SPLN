@@ -1,0 +1,77 @@
+@prefix : <http://www.tartesdajulia.com/ontologies/2020/Dicionario#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+    @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+    @prefix xml: <http://www.w3.org/XML/1998/namespace> .
+    @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+    @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+    @base <http://www.tartesdajulia.com/ontologies/2020/Dicionario> .
+                
+<http://www.tartesdajulia.com/ontologies/2020/Dicionario> rdf:type owl:Ontology .
+
+#################################################################
+    #    Classes
+    #################################################################
+
+    :Type rdf:type owl:Class ;
+      owl:equivalentClass [ rdf:type owl:Class ;
+                            owl:oneOf ( :adjetivo
+                                        :adverbio
+                                        :artigo
+                                        :conjucao
+                                        :determinante
+                                        :interjeicao
+                                        :preposicao
+                                        :pronome
+                                        :substantivo
+                                        :verbo
+                                      )
+                          ] .
+
+:Word rdf:type owl:Class .
+
+#################################################################
+    #    Data properties
+    #################################################################
+    
+:Significado rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Word .
+
+#################################################################
+    #    Object Properties
+    #################################################################
+
+###  http://www.tartesdajulia.com/ontologies/2020/5/untitled-ontology-58#eSinonimo
+    :eSinonimo rdf:type owl:ObjectProperty ,
+                    owl:SymmetricProperty .
+
+###  http://www.tartesdajulia.com/ontologies/2020/5/untitled-ontology-58#eAntonimo
+    :eAntonimo rdf:type owl:ObjectProperty ,
+                    owl:SymmetricProperty .
+
+:temTipo rdf:type owl:ObjectProperty ;
+         rdfs:domain :Word ;
+         rdfs:range :Type .
+
+#################################################################
+    #    Individuals
+    #################################################################
+:adjetivo rdf:type owl:NamedIndividual ,
+                       :Type .
+:adverbio rdf:type owl:NamedIndividual ,
+                       :Type .
+:artigo rdf:type owl:NamedIndividual ,
+                     :Type .
+:conjucao rdf:type owl:NamedIndividual ,
+                     :Type .
+:determinante rdf:type owl:NamedIndividual ,
+                       :Type .
+:interjeicao rdf:type owl:NamedIndividual ,
+                          :Type .
+:preposicao rdf:type owl:NamedIndividual ,
+                         :Type .
+:pronome rdf:type owl:NamedIndividual ,
+                      :Type .
+:substantivo rdf:type owl:NamedIndividual ,
+                          :Type .
+:verbo rdf:type owl:NamedIndividual ,
+                :Type .

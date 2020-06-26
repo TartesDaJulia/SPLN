@@ -116,7 +116,6 @@ def getMeanings(soup):
         if not word:
             wordType[i] = 'vazio'
 
-    
 
     return meanings,wordType
 
@@ -307,7 +306,7 @@ def setupStandardIndividuals(file):
     file.write(standardIndividuals)
 
 def handleOntology(name):
-    file = open('Dicionario.ttl','w+')
+    file = open('DicionarioOntologia.ttl','w+')
 
     setupPrefixes(file,name)
     setupClasses(file)
@@ -320,9 +319,9 @@ def handleOntology(name):
     file.close()
 
 def createIndividual(mainWord,types,meanings,synonyms,antonyms,ontologyName):
-    file = codecs.open('Dicionario.ttl','a+','utf-8')
+    file = codecs.open('DicionarioOntologia.ttl','a+','utf-8')
 
-    header = '\n\n:' + mainWord +' rdf:type owl:NamedIndividual ,\n\t\t\t:Word ;'
+    header = '\n\n:' + mainWord.replace(' ','-') +' rdf:type owl:NamedIndividual ,\n\t\t\t:Word ;'
 
     type = ''
     for i in range(len(types)):
@@ -331,19 +330,20 @@ def createIndividual(mainWord,types,meanings,synonyms,antonyms,ontologyName):
     meaning = ''
     for i in range(len(types)):
         for j in range(len(meanings[i])):
-            meaning +='\n\t\t:Significado \''+meanings[i][j]+'\' ;'
-
+            meaning +=':Significado \''+meanings[i][j]+'\' ;'
+    raw_s = r'{}'.format(meaning)
     antonym = ''
     for ant in antonyms :
         antonym += '\n\t\t:eAntonimo :' + ant +';'
 
     synonym = ''
     for syn in synonyms :
-        antonym += '\n\t\t:eAntonimo :' + syn +';'
+        synonym += '\n\t\t:eSinonimo :' + syn +';'
 
     file.write(header)
     file.write(type)
-    file.write(meaning)
+    meaning =repr(meaning)[1:-1]
+    file.write('\n\t\t'+meaning)
     file.write(antonym)
     file.write(synonym)
     file.write('.')
@@ -359,68 +359,13 @@ def saveWord(word):
     createIndividual(mainWord,wordType,meanings,synonyms,antonyms,'Dicionario')
 
 ### main
-#
 
-url = SearchWordUrl('abaixo')
-soup = getSoup(url)
+ontologyName = 'DicionarioOntologia'
 
+handleOntology(ontologyName)
 
-allSoup= getSoup(url)
-allSoup = allSoup.find(id='ligacoes')
-
-mainword = getMainWord(soup)
-
-meanings,wordType = getMeanings(soup)
-
-wordType = replaceWordTypes(wordType,mainword)
-
-synonyms,antonyms = getRelations(soup)
-
-#createIndividual(mainword,wordType,meanings,synonyms,antonyms,'Dicionario')
-### where the magic happens
-ontologyName = 'Dicionario'
-
-#handleOntology(ontologyName)
-
-#wordList = ['buzinar']
-#getWords(wordList)
-#a,b,c,f,o,r
-#'w','y','x','z'
-#'s','t','u','v',
-#'m','n','p','q',
-#'a','b','c','d'
-#alphabet= ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','y','x','z']
-alphabet= ['pacatamente','q']
-
-
-#alphabet = list(string.ascii_lowercase)
+alphabet = list(string.ascii_lowercase)
 
 for letter in alphabet:
     wordList = [letter]
     getWords(wordList)
-
-#for word in wordList:
-#    url = SearchWordUrl(word)
-#    soup = getSoup(url)
-#    mainWord = getMainWord(soup)
-#    meanings,wordType = getMeanings(soup)
-#    wordType = replaceWordTypes(wordType,mainWord)
-#    synonyms,antonyms = getRelations(soup)
-#    createIndividual(mainWord,wordType,meanings,synonyms,antonyms,ontologyName)
-
-
-
-#stop these variables from showing on AREPL
-#repl_filter = ['element',
-#                'BeautifulSoup',
-#                'index',
-#                'indexes',
-#                'jndex',
-#                'meaning',
-#                'page',
-#                'relation',
-#                'text',
-#                'thing',
-#                'soup',
-#                'line',
-#                'allSoup',                ]
